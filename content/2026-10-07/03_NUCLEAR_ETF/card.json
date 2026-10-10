@@ -1,0 +1,86 @@
+{
+  "tag": "테마 ETF",
+  "ticker": "NLR",
+  "company": "원자력 ETF 비교",
+  "brand": "#00695C",
+  "direction": "up",
+  "chartSymbol": "NLR",
+  "chartRange": "3mo",
+  "chartCaption": "NLR 최근 3개월 종가",
+  "change": "auto",
+  "changeNote": "구글-CEG 원전 계약일 (10/6)",
+  "headline": "같은 원자력 ETF,\n**담은 게** 달라요",
+  "subhead": "전력·원전 운영사 중심 NLR vs\n우라늄 채굴 중심 URA",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "원전 계약에 ETF도 들썩",
+      "body": "10/6 구글-컨스텔레이션 계약 소식에\n원자력주와 ETF가 **함께 올랐어요.**",
+      "bullets": [
+        "CEG 종가 **+12.2%**",
+        "SMR주(오클로·뉴스케일)도 급등",
+        "원자력 ETF **5% 안팎** 상승"
+      ]
+    },
+    {
+      "phase": "현재",
+      "title": "무엇을 담았나",
+      "table": {
+        "head": ["항목", "NLR", "URA"],
+        "rows": [
+          ["운용사", "VanEck", "Global X"],
+          ["총보수", "**0.52%**", "0.69%"],
+          ["큰 종목", "CEG 약 8%", "카메코 약 22%"],
+          ["중심", "원전 운영·전력", "우라늄 채굴"]
+        ]
+      }
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "9월 조정 뒤 반등",
+      "timeline": [
+        {"date": "9월", "text": "원자력주 조정, **과매도** 분석"},
+        {"date": "9월 말", "text": "우라늄 현물 **약 89달러**"},
+        {"date": "10/1", "text": "아마존-CEG 20년 계약"},
+        {"date": "10/6", "text": "구글-CEG 계약, **동반 상승**", "now": true}
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (한국 시간)",
+      "timeline": [
+        {"date": "10/14", "text": "미국 9월 **CPI**"},
+        {"date": "10/29", "text": "**FOMC** 결과 (새벽)"},
+        {"date": "10월 말", "text": "빅테크 실적, 전력 투자"},
+        {"date": "11월 초", "text": "CEG 실적 (미확정)"}
+      ]
+    },
+    {
+      "title": "나에게 맞는 구조는?",
+      "bullets": [
+        "전력 수요·원전 운영 → **NLR**",
+        "우라늄 가격에 더 민감 → **URA**",
+        "보수 차이 연 **0.17%p**",
+        "URA는 카메코 쏠림 확인"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "NLR 총보수", "value": "0.52%"},
+    {"label": "URA 총보수", "value": "0.69%"},
+    {"label": "URA 카메코 비중", "value": "약 22%"},
+    {"label": "NLR CEG 비중", "value": "약 8%"}
+  ],
+  "summary": "전력 수요를 보면 **NLR**,\n우라늄 가격을 보면\n**URA** 쪽 구조예요.\n이름보다 구성을 보세요.",
+  "caption": "원자력 ETF, 이름은 비슷해도 속은 달라요 ⚛️\n\n10/6 구글-컨스텔레이션 20년 원전 계약에 원자력주와 ETF가 함께 뛰었어요.\n\nNLR(VanEck)은 컨스텔레이션 같은 원전 운영·전력사 비중이 크고 총보수 0.52%. URA(Global X)는 우라늄 채굴사 카메코가 약 22%로 우라늄 가격에 더 민감하고 총보수 0.69%예요.\n\n여러분은 '전력 수요'와 '우라늄 가격' 중 어디에 더 끌리시나요? 👇",
+  "hashtags": ["원자력ETF", "NLR", "URA", "우라늄", "원전주", "컨스텔레이션에너지", "카메코", "미국ETF", "ETF비교", "카드뉴스"],
+  "sources": [
+    {"name": "24/7 Wall St. (2026-10-01)", "url": "https://247wallst.com/investing/etf/2026/10/01/forget-uras-concentration-this-nuclear-fund-spreads-the-bet-across-utilities-miners-and-reactor-builders/"},
+    {"name": "Global X URA 상품 페이지", "url": "https://www.globalxetfs.com/funds/ura"},
+    {"name": "VanEck NLR 상품 페이지", "url": "https://www.vaneck.com/us/en/investments/uranium-nuclear-energy-etf-nlr/"},
+    {"name": "Motley Fool 원자력 ETF 가이드", "url": "https://www.fool.com/investing/stock-market/market-sectors/energy/nuclear/nuclear-etfs/"},
+    {"name": "Yahoo Finance (2026-10-06)", "url": "https://finance.yahoo.com/energy/articles/constellation-energy-stock-surges-landmark-144101746.html"},
+    {"name": "24/7 Wall St. (2026-10-06)", "url": "https://247wallst.com/investing/2026/10/06/nuclear-stocks-rally-as-googles-reactor-deal-lifts-the-sector-nano-nuclear-energy-jumps-8-oklo-climbs-8-nuscale-power-gains-7/"},
+    {"name": "Investing.com", "url": "https://www.investing.com/news/stock-market-news/nuclear-stock-etfs-nlr-and-ura-buy-amid-oversold-conditions-93CH-4931844"}
+  ]
+}

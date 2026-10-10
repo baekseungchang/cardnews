@@ -1,0 +1,295 @@
+{
+ "entries": [
+  {
+   "made": "2026-10-07T08:24:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1330,
+    1360
+   ],
+   "due": "2026-10-14",
+   "result": null
+  },
+  {
+   "made": "2026-10-07T08:24:00+09:00",
+   "code": "JPYKRW",
+   "view": "down",
+   "range": [
+    838,
+    862
+   ],
+   "due": "2026-10-14",
+   "result": null
+  },
+  {
+   "made": "2026-10-07T08:24:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1490,
+    1525
+   ],
+   "due": "2026-10-14",
+   "result": null
+  },
+  {
+   "made": "2026-10-07T13:22:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1355
+   ],
+   "due": "2026-10-14",
+   "result": null
+  },
+  {
+   "made": "2026-10-07T13:22:00+09:00",
+   "code": "JPYKRW",
+   "view": "down",
+   "range": [
+    832,
+    858
+   ],
+   "due": "2026-10-14",
+   "result": null
+  },
+  {
+   "made": "2026-10-07T13:22:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1488,
+    1524
+   ],
+   "due": "2026-10-14",
+   "result": null
+  },
+  {
+   "made": "2026-10-07T20:30:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1355
+   ],
+   "due": "2026-10-14",
+   "result": null
+  },
+  {
+   "made": "2026-10-07T20:30:00+09:00",
+   "code": "JPYKRW",
+   "view": "down",
+   "range": [
+    832,
+    858
+   ],
+   "due": "2026-10-14",
+   "result": null
+  },
+  {
+   "made": "2026-10-07T20:30:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1486,
+    1522
+   ],
+   "due": "2026-10-14",
+   "result": null
+  },
+  {
+   "made": "2026-10-08T13:22:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1355
+   ],
+   "due": "2026-10-15",
+   "result": null
+  },
+  {
+   "made": "2026-10-08T13:22:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    834,
+    862
+   ],
+   "due": "2026-10-15",
+   "result": null
+  },
+  {
+   "made": "2026-10-08T13:22:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1482,
+    1518
+   ],
+   "due": "2026-10-15",
+   "result": null
+  },
+  {
+   "made": "2026-10-08T20:23:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1355
+   ],
+   "due": "2026-10-15",
+   "result": null
+  },
+  {
+   "made": "2026-10-08T20:23:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    832,
+    860
+   ],
+   "due": "2026-10-15",
+   "result": null
+  },
+  {
+   "made": "2026-10-08T20:23:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1482,
+    1518
+   ],
+   "due": "2026-10-15",
+   "result": null
+  },
+  {
+   "made": "2026-10-09T08:30:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1355
+   ],
+   "due": "2026-10-16",
+   "result": null
+  },
+  {
+   "made": "2026-10-09T08:30:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    832,
+    860
+   ],
+   "due": "2026-10-16",
+   "result": null
+  },
+  {
+   "made": "2026-10-09T08:30:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1482,
+    1518
+   ],
+   "due": "2026-10-16",
+   "result": null
+  },
+  {
+   "made": "2026-10-09T13:40:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1355
+   ],
+   "due": "2026-10-16",
+   "result": null
+  },
+  {
+   "made": "2026-10-09T13:40:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    832,
+    860
+   ],
+   "due": "2026-10-16",
+   "result": null
+  },
+  {
+   "made": "2026-10-09T13:40:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1482,
+    1518
+   ],
+   "due": "2026-10-16",
+   "result": null
+  },
+  {
+   "made": "2026-10-09T20:40:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1355
+   ],
+   "due": "2026-10-16",
+   "result": null
+  },
+  {
+   "made": "2026-10-09T20:40:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    832,
+    860
+   ],
+   "due": "2026-10-16",
+   "result": null
+  },
+  {
+   "made": "2026-10-09T20:40:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1482,
+    1518
+   ],
+   "due": "2026-10-16",
+   "result": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "n": 0,
+   "range": 0,
+   "dir": 0
+  },
+  "byCode": {
+   "USDKRW": {
+    "n": 0,
+    "range": 0,
+    "dir": 0
+   },
+   "JPYKRW": {
+    "n": 0,
+    "range": 0,
+    "dir": 0
+   },
+   "EURKRW": {
+    "n": 0,
+    "range": 0,
+    "dir": 0
+   }
+  },
+  "nextDue": "2026-10-14",
+  "updated": "2026-10-10T21:43:24.725Z"
+ },
+ "recentMisses": []
+}

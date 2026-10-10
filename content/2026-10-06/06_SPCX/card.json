@@ -1,0 +1,61 @@
+{
+  "tag": "급등 분석",
+  "ticker": "SPCX",
+  "company": "스페이스X",
+  "brand": "#101820",
+  "direction": "up",
+  "chartSymbol": "SPCX",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 종가",
+  "change": "+7%",
+  "changeNote": "10/5(월) 미국 정규장 기준",
+  "headline": "스페이스X\n**하루 7%** 급등",
+  "subhead": "발사 3번 · 가스 파이프라인 보도\n여기에 월가 목표가까지",
+  "slides": [
+    {
+      "title": "무슨 일이 있었나",
+      "body": "10월 5일 미국 정규장에서\n스페이스X 주가가 **7% 넘게** 올랐어요.\n나스닥 종합은 같은 날 +1.05%였어요.",
+      "bullets": [
+        "나스닥 종가 **27,477** 사상 최고",
+        "엔비디아·테슬라도 각 **+2%**"
+      ]
+    },
+    {
+      "title": "왜 올랐을까",
+      "bullets": [
+        "**13시간 동안 발사 3건**을 소화",
+        "구글 **궤도 AI 실험**이 포함된 발사",
+        "플로리다에 **천연가스 파이프라인** 제안 보도",
+        "스타십 발사 지원용이라는 내용이에요"
+      ]
+    },
+    {
+      "title": "월가의 시선",
+      "big": "$300",
+      "bigSub": "모건스탠리 애덤 조나스\n목표가 유지, 투자의견 **아웃퍼폼**"
+    },
+    {
+      "title": "체크 포인트",
+      "body": "하루 급등 뒤에는 변동폭도 커져요.\n뉴스가 실제 실적으로 이어지는지가 관건이에요.",
+      "bullets": [
+        "다음 **스타십 발사 일정**",
+        "파이프라인 계획의 **공식 확인**",
+        "**금리 상승**이 성장주에 주는 부담"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "10/5 등락률", "value": "+7%"},
+    {"label": "13시간 발사", "value": "3건"},
+    {"label": "MS 목표가", "value": "$300"},
+    {"label": "나스닥 등락", "value": "+1.05%"}
+  ],
+  "summary": "발사 소식과 목표가가\n한꺼번에 겹친 하루였어요.\n**급등 뒤 변동성**은 따로 챙겨요.",
+  "caption": "스페이스X가 하루 만에 7% 넘게 올랐어요 🚀\n\n13시간 동안 발사 3건, 플로리다 가스 파이프라인 제안 보도, 모건스탠리의 목표가 $300 유지가 겹쳤어요.\n다만 급등한 날엔 변동폭도 커져요. 소식이 실적으로 이어지는지 지켜봐야 해요.\n\n여러분은 스페이스X, 어떻게 보세요? 👇",
+  "hashtags": ["스페이스X","SPCX","미국주식","급등주","나스닥","스타십","우주산업","모건스탠리","미국증시","카드뉴스"],
+  "sources": [
+    {"name": "CNBC", "url": "https://www.cnbc.com/2026/10/05/stock-market-today-live-updates.html"},
+    {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-jumps-7-3-210011551.html"},
+    {"name": "Seeking Alpha", "url": "https://seekingalpha.com/news/4649990-spacex-climbs-7-amid-launch-milestones"}
+  ]
+}

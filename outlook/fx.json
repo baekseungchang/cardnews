@@ -1,0 +1,257 @@
+{
+  "updated": "2026-10-09T20:40:00+09:00",
+  "headline": "휴장 중 달러 소폭 약세, 중립 유지",
+  "summary": "10/9 한글날 휴장으로 기준값은 10/8 종가 1,338.5원이고, 밤사이 30년물 입찰 호조로 미 10년물 금리가 5.23% 안팎으로 내려 달러인덱스가 102.0~102.2로 소폭 약해졌어요. 엔·달러 158엔 안팎, 유로/달러 1.12달러 안팎으로 낮 전망 이후 큰 변화가 없어 3개 모두 중립과 범위를 유지하고, 오늘 밤 미시간대 소비자심리와 10/14 CPI를 지켜봐요.",
+  "pairs": [
+    {
+      "code": "USDKRW",
+      "name": "원/달러",
+      "label": "1달러",
+      "view": "neutral",
+      "viewText": "박스권 (중립)",
+      "confidence": "보통",
+      "base": 1338.5,
+      "baseNote": "10/8 서울 종가 (-1.9원, 장중 저점 1,336.3원)",
+      "range": [
+        1325,
+        1355
+      ],
+      "rangeNote": "앞으로 1주 예상 범위",
+      "summary": "10/8 1,338.5원에 마감해 5거래일째 내렸고(장중 저점 1,336.3원), 10/9는 휴장이에요. 밤사이 미 금리 하락·달러 소폭 약세와 수출 네고(하락 요인)가 강달러 기조·연준 매파 발언(상승 요인)과 맞서고 10/14 CPI가 남아 중립으로 봐요.",
+      "drivers": [
+        {
+          "effect": "down",
+          "text": "반도체 수출 호조 속 기업 달러 매도 지속",
+          "src": "SBS Biz·베타뉴스 (10/8)",
+          "url": "https://betanews.net/article/view/beta202610080163"
+        },
+        {
+          "effect": "down",
+          "text": "30년물 입찰 호조 뒤 미 10년물 5.23% 안팎, 달러인덱스 102.17로 소폭 하락",
+          "src": "뉴스핌 (10/9)·FXStreet (10/9)",
+          "url": "https://www.newspim.com/news/view/20261009000028"
+        },
+        {
+          "effect": "up",
+          "text": "달러인덱스 10/9 아시아장 102.0 안팎, 18개월 고점(102.5) 근처 유지",
+          "src": "FXStreet (10/9)·뉴스핌 (10/9)",
+          "url": "https://fxstreet.com/news/united-states-dollar-index-weakens-further-amid-correction-in-us-bond-yields-202610090318"
+        },
+        {
+          "effect": "up",
+          "text": "월러 이사 추가 인상 필요 발언(10/8), 의사록도 매파",
+          "src": "뉴스핌 (10/9)·Bloomberg (10/8)",
+          "url": "https://www.newspim.com/news/view/20261009000028"
+        },
+        {
+          "effect": "up",
+          "text": "10/8 코스피 -2.62%, 외국인·기관 동반 매도",
+          "src": "머니투데이·이투데이·Businesskorea (10/8)",
+          "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278527"
+        },
+        {
+          "effect": "up",
+          "text": "10/8 밤 나스닥 -1.25%·브렌트유 104.28달러(+4%), 위험회피",
+          "src": "CNBC·Yahoo Finance·investingLive (10/8)",
+          "url": "https://www.cnbc.com/2026/10/07/dollar-holds-losses-as-markets-await-fed-minutes-speakers.html"
+        }
+      ],
+      "scenarios": [
+        {
+          "dir": "down",
+          "name": "환율 하락 (원화 강세)",
+          "cond": "네고 지속 + 달러 약세 전환, 1,336원(한 달 저점) 아래 안착",
+          "range": "1,320원대 후반"
+        },
+        {
+          "dir": "neutral",
+          "name": "기본",
+          "cond": "강달러와 수출 네고가 맞서는 흐름",
+          "range": "1,332~1,350원"
+        },
+        {
+          "dir": "up",
+          "name": "환율 상승 (원화 약세)",
+          "cond": "10/12 개장 때 밤사이 위험회피 반영, 10/14 CPI 예상 상회·외국인 매도 확대",
+          "range": "1,350원대"
+        }
+      ]
+    },
+    {
+      "code": "JPYKRW",
+      "name": "원/100엔",
+      "label": "100엔",
+      "view": "neutral",
+      "viewText": "방향 엇갈림 (중립)",
+      "confidence": "낮음",
+      "base": 846.35,
+      "baseNote": "10/8 15:30 기준가 (연합뉴스 외국환시세). 10/9 엔·달러 158.2엔 기준 교차환율도 약 846원",
+      "range": [
+        832,
+        860
+      ],
+      "rangeNote": "앞으로 1주 예상 범위",
+      "summary": "10/8 15:30 기준 846.35원이고, 엔·달러는 10/8 뉴욕장 157.88엔 뒤 10/9 158.2엔 안팎이라 교차환율도 846원 근처예요. BOJ 추가 인상 기대·개입 경계와 일본 가계지출 부진·재정 우려에 따른 엔화 약세가 엇갈려 중립을 유지해요.",
+      "drivers": [
+        {
+          "effect": "up",
+          "text": "우에다 총재·사토 위원 발언에 BOJ 추가 인상 기대",
+          "src": "FXStreet (10/7~8) · 가능성",
+          "url": "https://www.fxstreet.com/news/japanese-yen-strengthens-amid-boj-hike-bets-intervention-risks-bullish-usd-cap-gains-202610080148"
+        },
+        {
+          "effect": "up",
+          "text": "8월 미·일 공동개입 전례, 추가 개입 경계",
+          "src": "CNBC (8/3)·FXStreet (10/8)",
+          "url": "https://www.cnbc.com/2026/08/03/yen-intervention-us-japan-trump-bessent-katayama.html"
+        },
+        {
+          "effect": "down",
+          "text": "엔·달러 10/9 158.2엔 안팎, 가계지출 9개월째 감소에 엔화 소폭 약세",
+          "src": "FXStreet (10/9)·뉴스핌 (10/9)",
+          "url": "https://www.fxstreet.com/news/usd-jpy-price-forecast-wavering-around-15800-with-200-day-sma-holding-bulls-202610090716"
+        },
+        {
+          "effect": "down",
+          "text": "원화 강세가 이어지면 원/100엔 상승 제한",
+          "src": "아주경제 (10/8)·철강금속신문 (10/7)",
+          "url": "https://www.snmnews.com/news/articleView.html?idxno=575607"
+        },
+        {
+          "effect": "down",
+          "text": "일본 8월 가계지출 9개월째 감소, 엔화 소폭 약세",
+          "src": "FXStreet·EBC (10/9)",
+          "url": "https://www.ebc.com/forex/usd-jpy-158-japan-household-spending-real-wages"
+        }
+      ],
+      "scenarios": [
+        {
+          "dir": "down",
+          "name": "엔화 약세 재개",
+          "cond": "BOJ 인상 기대 약화 + 원화 강세 지속",
+          "range": "830원대 중후반"
+        },
+        {
+          "dir": "neutral",
+          "name": "기본",
+          "cond": "엔·달러 157~159엔 등락",
+          "range": "838~854원"
+        },
+        {
+          "dir": "up",
+          "name": "엔화 반등",
+          "cond": "10월 BOJ 인상 기대 확대 또는 개입",
+          "range": "855~860원"
+        }
+      ]
+    },
+    {
+      "code": "EURKRW",
+      "name": "원/유로",
+      "label": "1유로",
+      "view": "neutral",
+      "viewText": "약보합 (중립)",
+      "confidence": "보통",
+      "base": 1498.4,
+      "baseNote": "10/8 15:30 기준가 1,498원대 (연합뉴스 외국환시세). 10/9 유로/달러 1.121달러 기준 교차환율 약 1,500원",
+      "range": [
+        1482,
+        1518
+      ],
+      "rangeNote": "앞으로 1주 예상 범위",
+      "summary": "유로/달러는 10/8 뉴욕장 1.1204달러로 반등한 뒤 10/9 아시아장 1.12달러 위(약 1.121)를 지키고, 원/유로는 10/8 기준가 1,498원대·교차환율 약 1,500원이에요. 프랑스 재정 우려가 남았지만 ECB 10월 인상 기대가 줄어 방향이 엇갈려 중립을 유지해요.",
+      "drivers": [
+        {
+          "effect": "down",
+          "text": "프랑스 재정 우려로 유로/달러 1.12달러 아래 (10/7 저점 1.1164)",
+          "src": "FXStreet·UOB (10/8)",
+          "url": "https://fxstreet.com/news/euro-downside-risks-persist-toward-11140-against-us-dollar-uob-202610080621"
+        },
+        {
+          "effect": "up",
+          "text": "10/8 저점 1.1171 뒤 1.12달러 회복, 10/9 아시아장 1.12달러 위 유지",
+          "src": "FXStreet (10/9)·뉴스핌 (10/9)",
+          "url": "https://www.newspim.com/news/view/20261009000028"
+        },
+        {
+          "effect": "down",
+          "text": "스페인 11/29 조기총선, 남유럽 정치 불확실성",
+          "src": "Euronews·Axios (10/5)",
+          "url": "https://www.euronews.com/2026/10/05/euro-hits-17-month-low-as-french-debt-fears-mount-and-spain-heads-for-snap-election"
+        },
+        {
+          "effect": "down",
+          "text": "원화 강세로 원/유로 10/7 1,504원대→10/8 1,498원대",
+          "src": "철강금속신문 (10/7)·연합뉴스 외국환시세 (10/8)",
+          "url": "https://snmnews.com/news/articleView.html?idxno=575607"
+        },
+        {
+          "effect": "down",
+          "text": "ECB 10월 인상 기대 9월 말 약 60%→약 14%로 후퇴",
+          "src": "FXStreet·Mitrade (10/8~9) · 가능성",
+          "url": "https://www.mitrade.com/insights/forex-analysis/eur/euro-17-month-low-france-budget-crisis-20261008J1413"
+        }
+      ],
+      "scenarios": [
+        {
+          "dir": "down",
+          "name": "유로 추가 약세",
+          "cond": "프랑스 금리 재급등, 유로/달러 17개월 저점(1.116) 하회",
+          "range": "1,480원대"
+        },
+        {
+          "dir": "neutral",
+          "name": "기본",
+          "cond": "유로/달러 1.115~1.125달러 등락",
+          "range": "1,490~1,510원"
+        },
+        {
+          "dir": "up",
+          "name": "유로 반등",
+          "cond": "재정 우려 진정 + ECB 매파 발언",
+          "range": "1,515원 이상"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "10/9 (금)",
+      "text": "한글날, 서울 외환시장 휴장 (10/12 월 재개)"
+    },
+    {
+      "date": "10/9 (금) 23:00",
+      "text": "미국 10월 미시간대 소비자심리(예비)"
+    },
+    {
+      "date": "10/14 (수) 21:30",
+      "text": "미국 9월 소비자물가(CPI)"
+    },
+    {
+      "date": "10/22 (목)",
+      "text": "한국은행 금통위 기준금리 결정"
+    },
+    {
+      "date": "10/29 (목) 03:00",
+      "text": "미국 FOMC 금리 결정"
+    },
+    {
+      "date": "10/29 (목)",
+      "text": "유럽중앙은행(ECB) 금리 결정"
+    },
+    {
+      "date": "10/30 (금)",
+      "text": "일본은행(BOJ) 금리 결정 (10/29~30 회의)"
+    }
+  ],
+  "method": "시세 서버와 해외 사이트 직접 접속이 막혀(fetch 실패) 국내외 시황 기사 2곳 이상(뉴스핌·FXStreet 등)을 교차검증하고, 원/100엔·원/유로는 교차환율(1,338.5원÷158.2엔≈846원, ×1.121달러≈1,500원)로 다시 확인했어요. 복기: 첫 채점이 10/14라 아직 채점 결과와 빗나간 기록(recentMisses)이 없어, 휴장으로 새 서울 시세가 없고 CPI가 1주 안에 있는 만큼 범위를 1개월 고저보다 조금 넓게 유지했어요. 확률이 아닌 참고용 전망이에요.",
+  "excluded": [
+    "시세 서버(야후 파이낸스)·Trading Economics·FXStreet 직접 접속 실패: 검색으로 확인한 기사 2곳 이상 일치 숫자만 사용",
+    "10/9(현지시간) 역외 NDF 1개월물: 아직 기사로 확인이 안 돼 쓰지 않음",
+    "10/9 미시간대 소비자심리 결과: 발표 전(한국 시간 23:00)이라 일정만 표기, 예상치는 출처마다 47.5~47.6으로 달라 생략",
+    "BOJ 10월 인상 확률(약 25%) 보도: 출처 1곳뿐이고 직접 확인이 안 돼 제외",
+    "‘원/100엔 18년 만에 최저’ 보도: 출처 1곳뿐이라 제외",
+    "연말 환율 1,400원 전후 전망: 출처 1곳·기사 원문 확인이 안 돼 제외",
+    "미국 9월 고용보고서 일정: 출처 2곳 확인이 안 돼 일정에서 뺌"
+  ]
+}

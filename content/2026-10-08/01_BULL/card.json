@@ -1,0 +1,86 @@
+{
+  "tag": "급락 분석",
+  "ticker": "BULL",
+  "company": "웨불",
+  "brand": "#1C64F2",
+  "direction": "down",
+  "chartSymbol": "BULL",
+  "chartRange": "3mo",
+  "chartCaption": "BULL 최근 3개월 종가",
+  "change": "-19.1%",
+  "changeNote": "미 하원 보고서 나온 날 (10/7)",
+  "headline": "웨불 하루 -19%,\n**중국 연계** 논란",
+  "subhead": "미 하원 중국특위 \"구조적으로 연결\"\n회사는 \"부정확한 내용\" 반박",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "하루 만에 -19%",
+      "body": "10/7 웨불(BULL)은 **5.89달러**로 마감했어요.\n전날 7.28달러에서 **19.1%** 빠졌어요.",
+      "bullets": [
+        "**2025년 4월 이후** 최악의 하루",
+        "거래량 약 **7,720만 주**",
+        "평소(3개월 평균)의 **약 5.6배**"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9월 초", "text": "**10달러** 근처 고점"},
+        {"date": "9/14", "text": "CFO 5.5만 주 매도"},
+        {"date": "9/16", "text": "8.66달러, 1주 **-9.5%**"},
+        {"date": "10/6", "text": "7.28달러 마감"},
+        {"date": "10/7", "text": "하원 보고서, **5.89달러**", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "보고서가 문제 삼은 것",
+      "body": "미 하원 중국특위는 웨불이 중국과\n**구조적으로 연결**돼 있다고 결론냈어요.",
+      "bullets": [
+        "중국 자회사 인력 **863명(62%)**",
+        "처음엔 \"중국 직원 없다\" 답변",
+        "웨불: \"**부정확한 내용**\" 반박",
+        "자동 제재는 **아직 없음**"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "앞으로 볼 것",
+      "timeline": [
+        {"date": "수시", "text": "의회·규제 당국 **후속 조치**"},
+        {"date": "10/30", "text": "웨불 **주주총회** (예정)"},
+        {"date": "11월 중순", "text": "**3분기 실적** (예상)"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "어디로 갈까",
+      "bullets": [
+        "반등: **추가 조치 없음** 확인",
+        "기본: 6달러 안팎 **눈치보기**",
+        "추가 하락: **규제 조사** 구체화",
+        "체크: 의회 후속 발표·고객 이탈"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "10/7 종가", "value": "$5.89"},
+    {"label": "10/7 하루 등락", "value": "-19.1%"},
+    {"label": "9월 초 고점(약 $10) 대비", "value": "약 -41%"},
+    {"label": "중국 자회사 인력 비중", "value": "62%"}
+  ],
+  "summary": "미 하원이 웨불의\n**중국 연계**를 지적했어요.\n주가는 하루 19% 급락,\n**후속 조치**가 관건이에요.",
+  "caption": "미국 증권 앱 웨불(BULL)이 하루 만에 19% 빠졌어요 📉\n\n10/7 미 하원 중국특위가 \"웨불은 중국과 구조적으로 연결돼 있다\"는 보고서를 냈어요. 중국 자회사 인력이 전체의 62%(863명)인데, 처음엔 중국 직원이 없다고 답했다는 지적이에요. 웨불은 \"부정확한 내용\"이라며 반박했어요.\n\n종가 5.89달러, 9월 초 10달러 근처에서 약 41% 내려온 자리예요. 아직 자동으로 따르는 제재는 없어서, 의회·당국의 후속 조치가 다음 방향을 가를 것으로 보여요.\n\n증권 앱 고를 때 회사 지배구조까지 보시나요? 👇",
+  "hashtags": ["웨불", "Webull", "BULL", "미국주식", "급락", "중국리스크", "증권앱", "해외주식", "재테크", "카드뉴스"],
+  "sources": [
+    {"name": "Yahoo Finance (2026-10-07)", "url": "https://finance.yahoo.com/markets/stocks/article/webull-stock-suffers-worst-day-in-a-year-after-lawmakers-flag-ties-to-china-161140963.html"},
+    {"name": "The Motley Fool (2026-10-07)", "url": "https://www.fool.com/coverage/stock-market-today/2026/10/07/stock-market-today-oct-7-webull-plunges-19-on-house-china-security-report/"},
+    {"name": "Benzinga via TradingView (2026-10-07)", "url": "https://www.tradingview.com/news/benzinga:56abc79b2094b:0-webull-stock-falls-after-house-panel-calls-its-china-ties-a-national-security-risk/"},
+    {"name": "AskTraders (2026-10-07)", "url": "https://www.asktraders.com/analysis/webull-shares-slide-19-as-house-committee-links-broker-to-china/"},
+    {"name": "Yahoo News (2026-10-07)", "url": "https://www.yahoo.com/news/politics/articles/house-panel-says-webull-china-160817114.html"},
+    {"name": "MarketBeat (2026-10-02)", "url": "https://www.marketbeat.com/instant-alerts/price-webull-nasdaq-bull-stock-price-up-75-time-to-buy-2026-10-02/"},
+    {"name": "24/7 Wall St. (2026-09-16)", "url": "https://247wallst.com/investing/2026/09/16/the-next-phase-of-webull-could-be-the-one-that-matters-most/"},
+    {"name": "StocksToTrade (2026-09-16)", "url": "https://stockstotrade.com/news/webull-corporation-bull-news-2026_09_16/"}
+  ]
+}

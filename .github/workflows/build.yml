@@ -1,0 +1,74 @@
+# 클라우드 Claude가 claude/... 브랜치에 올린 결과(카드·환율 전망·종목 분석)를 main에 반영하고 앱 배포를 실행
+name: 카드뉴스 빌드
+
+on:
+  push:
+    branches: ['claude/**']
+    paths: ['content/**', 'outlook/**', 'analysis/**', 'knowledge/**', 'news/**']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+  issues: write
+
+concurrency:
+  group: cardnews-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      # 아직 반영 안 된 claude/* 브랜치를 '모두' 합친다 (빌드가 취소돼도 다음 빌드가 이어받음)
+      - name: 새 결과 가져오기
+        run: node _system/merge_branches.js
+
+      - name: 한글·이모지 폰트 설치
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk fonts-noto-color-emoji > /dev/null
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: 이미지 변환 도구 설치
+        run: python3 -m pip install --quiet pillow
+
+      - name: 카드 렌더링·목록 갱신
+        run: node _system/build.js || echo "BUILD_FAILED=1" >> "$GITHUB_ENV"
+
+      # 저장소 용량을 작게 유지하려고 항상 최신 커밋 1개만 남김
+      - name: main에 반영
+        run: |
+          git config user.name "cardnews-bot"
+          git config user.email "cardnews-bot@users.noreply.github.com"
+          git checkout --orphan publish-tmp
+          git add -A
+          git commit -q -m "카드뉴스 업데이트 $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+          git push -f origin HEAD:main
+
+      - name: 처리한 브랜치 정리
+        run: |
+          for b in $(cat .merged-branches 2>/dev/null); do git push origin --delete "$b" || true; done
+
+      - name: 앱 배포 실행
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main
+
+      - name: 끝난 분석 요청 닫기
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node _system/close_requests.js || true
+
+      - name: 렌더링 실패 확인
+        if: env.BUILD_FAILED == '1'
+        run: |
+          echo "일부 카드 렌더링에 실패했습니다. 위 '카드 렌더링' 단계 로그를 확인하세요."
+          exit 1
