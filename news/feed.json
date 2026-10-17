@@ -1,0 +1,2737 @@
+{
+  "updated": "2026-10-18T06:40:00+09:00",
+  "items": [
+    {
+      "id": "20261018-0640-1",
+      "time": "2026-10-16T15:30:00+09:00",
+      "category": "국내",
+      "title": "코스피 7.57% 폭락 뒤 2% 반등, 5,668",
+      "lines": [
+        "10/15 코스피 7.57%↓ 5,554.22, 코스피·코스닥 서킷브레이커",
+        "외국인 하루 약 3.6조원 순매도, 美 물가·AI 투자 우려 겹쳐",
+        "10/16엔 8거래일 만에 2.05% 반등해 5,668.05 마감",
+        "10/14 종가 6,008 대비로는 여전히 약 5.7% 낮은 수준",
+        "다음 주 美 AI·반도체 실적과 환율이 반등 지속 여부 가늠자"
+      ],
+      "summary": "10월 15일 코스피가 7.57% 폭락해 5,554.22에 마감했고 양 시장에 서킷브레이커가 발동됐다. 16일에는 외국인 매수 전환에 2.05% 반등해 5,668.05로 마감했다.",
+      "why": "한국 증시 변동성이 극단적으로 커져 반도체 대형주 비중이 큰 투자자에게 영향이 크다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "반등했지만 변동성 매우 큼"
+      },
+      "tickers": [
+        "^KS11",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "강원도민일보 (10/15)",
+          "url": "https://www.kado.net/news/articleView.html?idxno=2078344"
+        },
+        {
+          "name": "파이낸셜뉴스 (10/15)",
+          "url": "https://www.fnnews.com/news/202610151818169515"
+        },
+        {
+          "name": "뉴스핌 (10/16)",
+          "url": "https://www.newspim.com/news/view/20261016001249"
+        },
+        {
+          "name": "코리아리포트 (10/16)",
+          "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53725"
+        }
+      ]
+    },
+    {
+      "id": "20261018-0640-2",
+      "time": "2026-10-16T15:30:00+09:00",
+      "category": "환율",
+      "title": "원·달러 1,331.4원, 2년여 만에 최저",
+      "lines": [
+        "10/16 원·달러 15:30 종가 13.2원 내린 1,331.4원",
+        "2024년 10월 이후 약 2년 만의 최저, 원화 강세",
+        "1,340.0원 출발 뒤 오전 1,348원대까지 올랐다 하락",
+        "글로벌 달러 약세·수출기업 달러 매도가 하락 요인",
+        "美 반도체주 급락은 다음 주 원화 강세를 막을 변수"
+      ],
+      "summary": "10월 16일 원·달러 환율이 13.2원 내린 1,331.4원에 마감해 약 2년 만의 최저를 기록했다. 달러 약세와 수출업체 네고 물량이 원화 강세를 이끌었다.",
+      "why": "환율 하락은 해외주식 환전 비용을 낮추지만 미국 기술주 급락이 다시 달러 수요를 키울 수 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "환율 하락(원화 강세) 흐름"
+      },
+      "tickers": [
+        "KRW=X"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "아시아경제 (10/16 15:33)",
+          "url": "https://view.asiae.co.kr/article/2026101615334506679"
+        },
+        {
+          "name": "베타뉴스 (10/16)",
+          "url": "https://www.betanews.net/article/view/beta202610160138"
+        },
+        {
+          "name": "이데일리 주간외환전망 (10/17~18)",
+          "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01115206645614232"
+        }
+      ]
+    },
+    {
+      "id": "20261018-0640-3",
+      "time": "2026-10-16T08:50:00+09:00",
+      "category": "종목",
+      "title": "앤트로픽 상장 몸값 2조→1.5조달러 논의",
+      "lines": [
+        "로이터: 일부 투자자, 11월 IPO 기업가치 약 1.5조달러 논의",
+        "기존 기대 2조달러보다 25% 낮은 수준, 회사 확정치 아님",
+        "3분기 매출 168억달러, 전 분기 대비 45%↑로 성장 둔화",
+        "AI 투자 수익성 의구심을 키워 기술주 매도 배경으로 거론"
+      ],
+      "summary": "로이터는 10월 15일(현지시간) 일부 앤트로픽 투자자들이 11월 IPO 기업가치를 약 1조5천억달러로 논의하고 있다고 보도했다. 3분기 매출은 168억달러로 전 분기 대비 45% 늘었지만 성장 속도가 둔화됐다.",
+      "why": "초대형 AI 기업의 몸값 재평가는 AI 인프라·반도체주 밸류에이션 심리에 영향을 준다.",
+      "impact": {
+        "dir": "down",
+        "text": "AI 밸류에이션 부담 요인"
+      },
+      "tickers": [],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "아주경제 (10/16 08:50, 로이터 인용)",
+          "url": "https://www.ajunews.com/view/20261016085049874"
+        },
+        {
+          "name": "서울경제 (10/16)",
+          "url": "https://www.sedaily.com/article/20102284"
+        },
+        {
+          "name": "Yahoo Finance (10/15)",
+          "url": "https://finance.yahoo.com/technology/ai/articles/investors-push-anthropic-cut-ipo-213503694.html"
+        }
+      ]
+    },
+    {
+      "id": "20261018-0640-4",
+      "time": "2026-10-16T12:00:00+09:00",
+      "category": "정책",
+      "title": "10/22 한은 금통위, 3.00% 동결 무게",
+      "lines": [
+        "한은 10/22 금통위, 기준금리 연 3.00% 동결 전망 우세",
+        "7·8월 연속 인상 효과를 점검할 시간 벌었다는 분석",
+        "하나증권 만장일치 동결, 매파적 기조 유지 전망",
+        "신한·현대차증권 등은 11월 3.25% 인상 가능성 열어둬"
+      ],
+      "summary": "10월 22일 한국은행 금통위에서 기준금리를 연 3.00%로 동결할 것이라는 전망이 우세하다. 다만 미국 물가 상승으로 11월 추가 인상 가능성이 거론된다.",
+      "why": "한은 결정은 원·달러 환율과 국내 채권·은행주 흐름에 영향을 준다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "동결 유력, 11월 인상 여지"
+      },
+      "tickers": [],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "뉴스핌 (10/16)",
+          "url": "https://www.newspim.com/news/view/20261016001084"
+        },
+        {
+          "name": "파이낸셜뉴스 (10/13)",
+          "url": "https://www.fnnews.com/news/202610130600520544"
+        },
+        {
+          "name": "비즈니스포스트 (하나증권)",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449502"
+        }
+      ]
+    },
+    {
+      "id": "20261018-0340-1",
+      "time": "2026-10-17T05:00:00+09:00",
+      "category": "종목",
+      "title": "나스닥 2.15%↓, AI 부채 우려에 기술주 급락",
+      "lines": [
+        "10/16 나스닥 2.15% 내린 26,140, 7/23 이후 최대 낙폭",
+        "S&P500 -1.09%, 다우 -0.34%. 나스닥 주간 -4.48%",
+        "코어위브 11.9% 폭락, 총부채 510억달러 넘어 상환 우려",
+        "필라델피아 반도체지수 -3.83%, 8거래일 연속 하락",
+        "유가 급등·금리 불확실성도 고평가 기술주에 부담"
+      ],
+      "summary": "10월 16일 뉴욕증시에서 나스닥이 2.15% 내린 26,140.03에 마감했다. AI 인프라 기업의 대규모 차입 부담 우려로 코어위브가 11.9% 폭락했고 반도체지수는 8거래일 연속 하락했다.",
+      "why": "AI 투자 사이클의 자금 조달 부담이 반도체·AI 관련주 전반의 변동성을 키우고 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "반도체·AI주 약세 압력"
+      },
+      "tickers": [
+        "^IXIC",
+        "CRWV",
+        "SOXX"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNN (10/16)",
+          "url": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave"
+        },
+        {
+          "name": "산경투데이 (10/17)",
+          "url": "https://www.sankyungtoday.com/news/articleView.html?idxno=63649"
+        },
+        {
+          "name": "서울경제 (10/17)",
+          "url": "https://m.sedaily.com/article/20102740"
+        }
+      ]
+    },
+    {
+      "id": "20261018-0340-2",
+      "time": "2026-10-17T03:30:00+09:00",
+      "category": "원자재",
+      "title": "브렌트유 109.86달러, 5개월 만에 최고",
+      "lines": [
+        "10/16 브렌트 12월물 3.72% 오른 109.86달러, 장중 110달러↑",
+        "5/19 이후 종가 최고. WTI 11월물 3.51%↑ 101.41달러",
+        "WTI는 7거래일 연속 상승, 9/17 이후 최고",
+        "호르무즈 해협 선박 공격·러-우 에너지 시설 공방 영향",
+        "물가·금리 부담을 키워 증시에 악재로 작용"
+      ],
+      "summary": "10월 16일 브렌트유가 3.72% 오른 109.86달러로 5개월 만의 최고치에 마감했다. 호르무즈 해협 공급 불안과 러시아·우크라이나 에너지 시설 공방이 겹쳤다.",
+      "why": "유가 상승은 인플레이션과 금리 인상 우려를 키워 주식·채권 모두에 부담이다.",
+      "impact": {
+        "dir": "up",
+        "text": "유가·에너지주 상승 요인"
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스 (10/17 08:05)",
+          "url": "https://fnnews.com/news/202610170805301225"
+        },
+        {
+          "name": "SBS (10/17)",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801805"
+        },
+        {
+          "name": "뉴스웨이 (10/17)",
+          "url": "https://newsway.co.kr/news/view?ud=2026101711393094589"
+        }
+      ]
+    },
+    {
+      "id": "20261018-0340-3",
+      "time": "2026-10-17T05:00:00+09:00",
+      "category": "종목",
+      "title": "아이온큐 8.9%↓, 양자컴퓨터주 동반 급락",
+      "lines": [
+        "10/16 아이온큐 8.93% 내린 31.28달러 마감",
+        "인플렉션 9%대, 호라이즌 퀀텀 10%대 하락",
+        "AI 수익성 우려·유가 상승에 기술주 매도 확산",
+        "10/14 주당 40달러 대규모 증자 발표 뒤 약세 이어져"
+      ],
+      "summary": "10월 16일 아이온큐가 8.93% 내린 31.28달러에 마감하는 등 양자컴퓨터주가 일제히 떨어졌다. 기술주 전반의 매도와 앞서 발표한 대규모 증자에 따른 희석 부담이 겹쳤다.",
+      "why": "사용자 관심 종목으로, 증자 가격(40달러)보다 크게 낮은 수준까지 밀렸다.",
+      "impact": {
+        "dir": "down",
+        "text": "양자컴퓨터주 변동성 확대"
+      },
+      "tickers": [
+        "IONQ"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CBC뉴스 (10/17)",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=616688"
+        },
+        {
+          "name": "알파스퀘어 시세 (10/16 종가)",
+          "url": "https://alphasquare.co.kr/home/stock-summary?code=IONQ"
+        },
+        {
+          "name": "TipRanks (10/16)",
+          "url": "https://www.tipranks.com/news/weekend-updates/ionqs-bold-cash-raise-rattles-investors-and-stock"
+        }
+      ]
+    },
+    {
+      "id": "20261018-0340-4",
+      "time": "2026-10-16T12:30:00+09:00",
+      "category": "금리",
+      "title": "워시 의장, 10월 금리 신호 안 줘",
+      "lines": [
+        "워시 연준 의장 10/16 방콕 IMF 대담, 다음 결정 예고 안 해",
+        "\"회의 결과를 미리 판단하지 않는다\"며 물가 안정 강조",
+        "페드워치 10월 인상 확률 CPI 후 50% → 10/15 28%",
+        "골드만삭스: 10월 동결, 12월 마지막 인상 전망",
+        "다음 FOMC는 10/27~28"
+      ],
+      "summary": "워시 연준 의장이 10월 16일 방콕 IMF 연차총회 대담에서 다음 회의 결정에 대한 신호를 주지 않았다. CPI 직후 50%까지 올랐던 10월 인상 확률은 28%로 내려와 있다.",
+      "why": "10/27~28 FOMC 결과가 금리·달러·기술주 방향을 좌우한다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "10월 FOMC 불확실성 지속"
+      },
+      "tickers": [
+        "^TNX",
+        "DX-Y.NYB"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/16)",
+          "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html"
+        },
+        {
+          "name": "PBS (10/16)",
+          "url": "https://www.pbs.org/newshour/economy/fed-chair-warsh-says-price-stability-is-key-but-shies-away-from-signals-about-rates"
+        },
+        {
+          "name": "NBC News (10/16)",
+          "url": "https://www.nbcnews.com/business/economy/will-fed-raise-interest-rates-kevin-warsh-offer-clues-rcna603661"
+        }
+      ]
+    },
+    {
+      "id": "20261015-0045-1",
+      "time": "2026-10-14T23:30:00+09:00",
+      "category": "금리",
+      "title": "CPI 충격, 10월 금리인상 확률 50% 안팎",
+      "lines": [
+        "앞서 올린 9월 CPI(3.7%) 후속: 미 국채금리 급등",
+        "2년물 10~12bp↑ 4.9%대, 10년물 약 8bp↑ 5.29~5.30%",
+        "CME 페드워치 10월 인상 확률 22% → 44~54%(보도별 차이)",
+        "달러인덱스 0.5%↑, 2025년 4월 이후 최고 보도",
+        "10/27~28 FOMC 추가 인상 가능성이 다시 커졌어요"
+      ],
+      "summary": "9월 CPI가 예상을 웃돌자 미 2년물 금리가 10bp 넘게 오르고 10년물은 5.3% 안팎까지 올랐다. CME 페드워치 기준 10월 FOMC 인상 확률이 전날 22%에서 40~50%대로 뛰었다.",
+      "why": "금리 인상 기대가 커지면 달러 강세·성장주 약세 압력이 커지고 원·달러 환율 상승 요인이 된다.",
+      "impact": {
+        "dir": "down",
+        "text": "금리·달러↑, 주식·원화 부담"
+      },
+      "tickers": [
+        "^TNX",
+        "DX-Y.NYB",
+        "KRW=X"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "이데일리 (10/14)",
+          "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=05917126645612920"
+        },
+        {
+          "name": "CNBC (10/14)",
+          "url": "https://www.cnbc.com/2026/10/14/us-treasury-yields-cpi-inflation-report.html"
+        },
+        {
+          "name": "Yahoo Finance (10/14)",
+          "url": "https://finance.yahoo.com/economy/policy/article/hotter-than-expected-inflation-report-puts-prospect-of-october-rate-hike-back-in-play-130540924.html"
+        }
+      ]
+    },
+    {
+      "id": "20261015-0045-2",
+      "time": "2026-10-14T23:00:00+09:00",
+      "category": "종목",
+      "title": "뉴욕증시 CPI 여파로 하락 출발",
+      "lines": [
+        "물가 예상 상회·금리 상승에 S&P500·나스닥 장 초반 약세",
+        "S&P500 -0.4~-0.7%, 나스닥 -0.6~-0.85%(시점별 보도)",
+        "엔비디아·테슬라·SK하이닉스 ADR 약세 보도",
+        "장중 수치라 마감 결과는 달라질 수 있어요"
+      ],
+      "summary": "미국 9월 CPI가 예상보다 높게 나오고 국채금리가 오르자 S&P500과 나스닥이 하락 출발했다. 다우는 보합권에서 엇갈렸다.",
+      "why": "금리 민감한 기술·반도체주 약세가 다음 날 한국 반도체주 흐름에도 영향을 줄 수 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "기술·반도체주 부담"
+      },
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "NVDA"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "TheStreet (10/14)",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-14-2026"
+        },
+        {
+          "name": "Investrade (10/14 오전)",
+          "url": "https://investrade.com/mid-morning-look-october-14-2026/"
+        },
+        {
+          "name": "톱스타뉴스 (10/14)",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16247268"
+        }
+      ]
+    },
+    {
+      "id": "20261015-0045-3",
+      "time": "2026-10-14T21:00:00+09:00",
+      "category": "종목",
+      "title": "아이온큐 20억달러 증자, 주가 5~6%↓",
+      "lines": [
+        "주당 40달러에 보통주 2,050만주·사전 워런트 2,950만주 발행",
+        "주당 행사가 69.46달러 7년 워런트 2개씩 붙음(총 1억주)",
+        "순조달 약 19.9억달러, JP모건 단독 주관",
+        "지분 희석 우려로 개장 전·장 초반 5~6% 하락"
+      ],
+      "summary": "아이온큐가 주당 40달러에 보통주와 사전 워런트를 팔아 약 19.9억달러를 조달한다. 1주당 행사가 69.46달러짜리 7년 만기 워런트 2개가 붙는다.",
+      "why": "대규모 자금으로 사업 확장 여력이 커지지만, 워런트까지 합치면 주식 수가 크게 늘어 희석 부담이 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "희석 우려로 단기 약세"
+      },
+      "tickers": [
+        "IONQ"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "SEC 424B5 (10/14)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001824920/000119312526421074/d165327d424b5.htm"
+        },
+        {
+          "name": "Seeking Alpha (10/14)",
+          "url": "https://seekingalpha.com/news/4652885-ionq-seeks-nearly-2b-in-net-proceeds-from-stock-warrant-offering"
+        },
+        {
+          "name": "StreetInsider (10/14)",
+          "url": "https://www.streetinsider.com/Corporate+News/IonQ+prices+$2+billion+equity+offering+at+$40+per+share/27184480.html"
+        }
+      ]
+    },
+    {
+      "id": "20261015-0045-4",
+      "time": "2026-10-14T20:00:00+09:00",
+      "category": "종목",
+      "title": "바클레이즈, 델·HPE·넷앱 하향",
+      "lines": [
+        "세 종목 투자의견 '비중확대' → '동일비중'으로 낮춤",
+        "델 목표가 603→574달러, HPE 83→77달러, 넷앱 219달러 유지",
+        "이유: 아직 뚜렷한 AI 수요 전환 없고 밸류 부담",
+        "메모리 가격 상승 효과가 정상화되면 성장 둔화 우려"
+      ],
+      "summary": "바클레이즈가 델·HPE·넷앱의 투자의견을 동일비중으로 내렸다. AI 수요 전환이 아직 뚜렷하지 않고 메모리 가격 효과가 줄 수 있다는 이유다.",
+      "why": "AI 서버·스토리지 하드웨어주 기대에 대한 경계 신호로, 메모리 가격 전망과도 연결된다.",
+      "impact": {
+        "dir": "down",
+        "text": "AI 하드웨어주 투자심리 부담"
+      },
+      "tickers": [
+        "DELL",
+        "HPE",
+        "NTAP"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Seeking Alpha (10/14)",
+          "url": "https://seekingalpha.com/news/4652883-dell-hpe-netapp-slide-after-barclays-downgrades-trio-to-equal-weight"
+        },
+        {
+          "name": "Yahoo Finance·Stocktwits (10/14)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-dell-ntap-stocks-downgraded-102255493.html"
+        },
+        {
+          "name": "Invezz (10/14)",
+          "url": "https://invezz.com/news/2026/10/14/why-are-dell-and-hpe-stocks-plunging-today/"
+        }
+      ]
+    },
+    {
+      "id": "20261014-2150-1",
+      "time": "2026-10-14T21:30:00+09:00",
+      "category": "지표",
+      "title": "미국 9월 CPI 3.7%↑, 예상 웃돌아",
+      "lines": [
+        "미국 9월 소비자물가 전년 대비 3.7% 상승(예상 3.6%, 8월 3.4%)",
+        "근원 CPI 전년 대비 2.6%(예상 2.5%), 전월 대비 0.3%(예상 0.2%)",
+        "에너지·휘발유값 상승이 주도, 근원 물가도 예상보다 높아요",
+        "10/27~28 FOMC 앞 마지막 물가, 추가 인상 논의 재부각",
+        "발표 직후 미 국채금리·달러 상승 보도(10년물 5.28%대)"
+      ],
+      "summary": "미국 9월 CPI가 전년 대비 3.7% 올라 예상(3.6%)과 8월(3.4%)을 웃돌았다. 근원 CPI도 2.6%(전월 대비 0.3%)로 예상보다 높았다.",
+      "why": "10월 FOMC 직전 마지막 물가 지표로, 연준 추가 인상 기대와 금리·달러 방향을 좌우한다.",
+      "impact": {
+        "dir": "down",
+        "text": "금리·달러↑, 성장주·환율 부담"
+      },
+      "tickers": [
+        "^TNX",
+        "DX-Y.NYB",
+        "KRW=X"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "FXStreet (10/14 21:30)",
+          "url": "https://www.fxstreet.com/news/us-cpi-data-expected-to-rise-in-september-as-markets-reassess-fed-rate-outlook-202610140830"
+        },
+        {
+          "name": "CBC뉴스 (10/14)",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=615314"
+        },
+        {
+          "name": "블록미디어 (10/14)",
+          "url": "https://www.blockmedia.co.kr/archives/1151596"
+        },
+        {
+          "name": "Yahoo Finance (10/14)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"
+        }
+      ]
+    },
+    {
+      "id": "20261014-2150-2",
+      "time": "2026-10-14T19:45:00+09:00",
+      "category": "종목",
+      "title": "BofA, 12억달러 벌금에 EPS 예상 하회",
+      "lines": [
+        "뱅크오브아메리카 3분기 EPS 0.91달러, 예상 1.10달러 밑돌아",
+        "10/13 재무부 자금세탁방지 위반 벌금 약 12억달러 반영(주당 약 0.17달러)",
+        "매출 301.2억달러(+3.2%)도 예상보다 약 5.7억달러 적어요",
+        "개장 전 주가 4% 넘게 하락 보도"
+      ],
+      "summary": "BofA가 재무부 벌금 12억달러를 반영해 3분기 EPS 0.91달러로 예상(1.10달러)을 밑돌았다. 벌금 제외 EPS는 1.08달러, 매출도 예상 하회.",
+      "why": "대형은행 실적 시즌 중 첫 뚜렷한 부진으로 은행주 심리에 영향.",
+      "impact": {
+        "dir": "down",
+        "text": "BofA 주가 약세 요인"
+      },
+      "tickers": [
+        "BAC"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/14)",
+          "url": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html"
+        },
+        {
+          "name": "Axios (10/13)",
+          "url": "https://www.axios.com/2026/10/13/treasury-bank-america-fine"
+        },
+        {
+          "name": "TradingKey (10/14)",
+          "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262216187-us-premarket-cpi-bank-of-america-fall-blackrock-rise-tradingkey"
+        }
+      ]
+    },
+    {
+      "id": "20261014-2150-3",
+      "time": "2026-10-14T20:30:00+09:00",
+      "category": "종목",
+      "title": "모건스탠리, 주식 트레이딩 호조로 예상 상회",
+      "lines": [
+        "모건스탠리 3분기 EPS 3.03달러(예상 2.91), 매출 203.4억달러(예상 199.5억)",
+        "주식 트레이딩 매출 58억달러, 예상(49억)보다 약 9억달러 많아요",
+        "채권 트레이딩 20.1억달러, 자산관리 90.7억달러는 예상 소폭 하회",
+        "개장 전 주가는 보합~소폭 약세로 반응 엇갈려요"
+      ],
+      "summary": "모건스탠리가 주식 트레이딩 호조로 3분기 EPS·매출 모두 LSEG 예상을 넘었다. 채권 트레이딩과 자산관리는 예상에 조금 못 미쳤다.",
+      "why": "골드만삭스에 이어 투자은행 트레이딩 호황을 재확인.",
+      "impact": {
+        "dir": "neutral",
+        "text": "실적 호조, 주가 반응은 엇갈림"
+      },
+      "tickers": [
+        "MS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/14)",
+          "url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html"
+        },
+        {
+          "name": "Newsquawk (10/14)",
+          "url": "https://www.newsquawk.com/headlines/morgan-stanley-ms-q3-2026-usd-eps-303-exp-293-revenue-203bln-exp-199bln"
+        }
+      ]
+    },
+    {
+      "id": "20261014-2150-4",
+      "time": "2026-10-14T19:45:00+09:00",
+      "category": "종목",
+      "title": "블랙록 운용자산 15.5조달러 사상 최대",
+      "lines": [
+        "블랙록 3분기 말 운용자산 15.5조달러, 1년 전보다 15% 증가",
+        "분기 순유입 2,050억달러, 최근 12개월 8,690억달러",
+        "매출 77.5억달러(+19%), 조정 EPS 15.93달러로 예상(13.97) 상회",
+        "개장 전 주가 4~5% 상승 보도"
+      ],
+      "summary": "블랙록이 운용자산 15.5조달러, 분기 순유입 2,050억달러로 사상 최대를 기록했다. 조정 EPS 15.93달러로 예상을 크게 웃돌았다.",
+      "why": "ETF·자산운용 자금 유입이 강하다는 신호.",
+      "impact": {
+        "dir": "up",
+        "text": "블랙록·운용사주 긍정적"
+      },
+      "tickers": [
+        "BLK"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Quartz (10/14)",
+          "url": "https://qz.com/blackrock-earnings-profit-jump-assets-101426"
+        },
+        {
+          "name": "Pulse 2.0 (10/14)",
+          "url": "https://pulse2.com/blackrock-q3-2026-results/"
+        },
+        {
+          "name": "TradingKey (10/14)",
+          "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262216187-us-premarket-cpi-bank-of-america-fall-blackrock-rise-tradingkey"
+        }
+      ]
+    },
+    {
+      "id": "20261014-1841-1",
+      "time": "2026-10-14T15:30:00+09:00",
+      "category": "환율",
+      "title": "원·달러 6.8원 내린 1,338.3원 마감",
+      "lines": [
+        "14일 원·달러 1,338.3원(-6.8원, -0.51%), 하루 만에 하락 전환",
+        "1,344.0원 출발 뒤 오후 1,336.0원까지 낙폭 확대",
+        "연준 추가 긴축 우려 완화로 달러 약세, 수출업체 네고 물량",
+        "외국인 주식 매도·중동발 유가 우려에 낙폭은 제한, 밤 美 CPI 대기"
+      ],
+      "summary": "14일 원·달러 환율은 전 거래일 대비 6.8원(0.51%) 내린 1,338.3원에 주간 거래를 마쳤다. 1,344.0원에 출발해 오후 1,336.0원까지 내렸다.",
+      "why": "전날 10원 급등분 일부를 되돌려, 밤 미국 9월 CPI 결과가 다음 방향을 정할 변수가 됐다.",
+      "impact": {
+        "dir": "down",
+        "text": "환율 하락(원화 강세) 쪽"
+      },
+      "tickers": [
+        "KRW=X"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스 (10/14 15:40)",
+          "url": "https://www.fnnews.com/news/202610141540451756"
+        },
+        {
+          "name": "머니투데이 (10/14 15:36)",
+          "url": "https://www.mt.co.kr/economy/2026/10/14/2026101415361368844"
+        },
+        {
+          "name": "아시아경제 (10/14 15:44)",
+          "url": "https://view.asiae.co.kr/article/2026101415445490399"
+        },
+        {
+          "name": "서울경제 (10/14)",
+          "url": "https://m.sedaily.com/article/20101590"
+        }
+      ]
+    },
+    {
+      "id": "20261014-1841-2",
+      "time": "2026-10-14T15:30:00+09:00",
+      "category": "국내",
+      "title": "삼성전자 보합·하이닉스 1.7%↓ 반등 실패",
+      "lines": [
+        "삼성전자 23만2,000원 보합(장중 24만1,500원), 하이닉스 141만9,000원(-1.66%)",
+        "장 초반 3%대 반등했지만 외국인 매도에 상승분 반납",
+        "외국인 코스피 1조1,813억원 순매도, 기관 8,053억원 순매수",
+        "삼성전자 외국인 지분율 46.18%, 2009년 7월 이후 최저(아시아투데이 집계)"
+      ],
+      "summary": "14일 삼성전자는 전 거래일과 같은 23만2,000원, SK하이닉스는 1.66% 내린 141만9,000원에 마감했다. 장 초반 반등했지만 외국인 매도로 상승분을 반납했다.",
+      "why": "10/13 급락 뒤 반등 시도가 무산돼 외국인 수급 부담이 반도체 대형주에 계속 걸려 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "외국인 매도 지속, 반도체주 부담"
+      },
+      "tickers": [
+        "005930.KS",
+        "000660.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "뉴스핌 마감시황 (10/14)",
+          "url": "https://www.newspim.com/news/view/20261014001192"
+        },
+        {
+          "name": "서울경제 (10/14)",
+          "url": "https://m.sedaily.com/article/20101567"
+        },
+        {
+          "name": "서울신문 (10/14)",
+          "url": "https://seoul.co.kr/news/economy/securities/2026/10/14/20261014500216"
+        },
+        {
+          "name": "아시아투데이 (10/14)",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261014010004443"
+        }
+      ]
+    },
+    {
+      "id": "20261014-1841-3",
+      "time": "2026-10-14T10:30:00+09:00",
+      "category": "지표",
+      "title": "중국 9월 PPI 5.0%↑, 4년여 만에 최대",
+      "lines": [
+        "중국 9월 생산자물가(PPI) 전년 대비 5.0%↑(예상 4.5%, 8월 3.8%)",
+        "소비자물가(CPI)는 0.9%↑로 예상(1.0%) 소폭 하회, 근원 1.0%",
+        "광업 가격 25.4%↑, 휘발유 16.6%↑ 등 에너지가 물가 끌어올려",
+        "중동 전쟁발 원가 상승이 공장 출고가로 번지는 신호"
+      ],
+      "summary": "중국 국가통계국 발표에서 9월 PPI는 전년 대비 5.0% 올라 2022년 6월 이후 가장 빠르게 상승했다. CPI는 0.9% 올라 예상치 1.0%를 소폭 밑돌았다.",
+      "why": "중국 수출품 가격 상승이 세계 물가 부담으로 이어질 수 있어 금리 경로에 영향을 줄 수 있다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "글로벌 물가 부담 재료"
+      },
+      "tickers": [
+        "CNY"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/14)",
+          "url": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html"
+        },
+        {
+          "name": "FXStreet (10/14 10:31)",
+          "url": "https://www.fxstreet.com/news/breaking-chinas-cpi-inflation-rises-to-09-yoy-in-september-vs-10-expected-202610140131"
+        },
+        {
+          "name": "SMM (10/14)",
+          "url": "https://news.metal.com/newscontent/104155468-nbs-september-cpi-up-09-yoy-ppi-up-50-yoy-with-both-yoy-growth-rates-widening"
+        }
+      ]
+    },
+    {
+      "id": "20261014-1841-4",
+      "time": "2026-10-14T12:00:00+09:00",
+      "category": "원자재",
+      "title": "사우디-후티 석유시설 공방, 브렌트 106달러",
+      "lines": [
+        "14일 아시아장 브렌트 12월물 106.33달러(+0.61%), WTI 94.73달러(+0.63%)",
+        "10/13 사우디 연합군, 사나 석유시설·호데이다 연료 부두 공습",
+        "후티 '사우디 석유시설은 정당한 표적' 경고, 다란 아람코 시설 화재 보도",
+        "전날 러시아 경유 기대로 내렸던 유가가 다시 공급 우려로 반등"
+      ],
+      "summary": "사우디 주도 연합군이 10/13 예멘 사나의 석유시설과 호데이다항 연료 부두를 공습하고 후티가 사우디 석유시설을 표적으로 삼겠다고 밝히면서 14일 유가가 올랐다. 브렌트 12월물은 0.61% 오른 106.33달러에 거래됐다.",
+      "why": "유가 상승은 밤 미국 CPI와 금리 전망에 물가 부담으로 작용한다.",
+      "impact": {
+        "dir": "up",
+        "text": "유가 상승, 공급 차질 우려"
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/14)",
+          "url": "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html"
+        },
+        {
+          "name": "AP·US News (10/13)",
+          "url": "https://www.usnews.com/news/world/articles/2026-10-13/saudis-and-yemens-houthi-rebels-exchange-threats-to-escalate-conflict"
+        },
+        {
+          "name": "알자지라 (10/13)",
+          "url": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports"
+        },
+        {
+          "name": "HDFC Sky (10/14)",
+          "url": "https://hdfcsky.com/news/brent-crude-oil-price-today-october-14-2026-brent-rises-0-5percent-to-106-2-wti-gains-0-6percent-to-94-7-amid-saudi-supply-risks"
+        }
+      ]
+    },
+    {
+      "id": "20261014-1540-1",
+      "time": "2026-10-14T15:30:00+09:00",
+      "category": "국내",
+      "title": "코스피 2% 반등 반납, 6,008선 하락 마감",
+      "lines": [
+        "코스피 6,008.81(-26.54p, -0.44%), 코스닥 823.88(-1.57%) 마감",
+        "오전 2%대 반등(6,160선)했지만 오후 상승분 모두 반납",
+        "외국인 매도가 이어지며 장중 한때 6,000선 아래로 밀림",
+        "6거래일 연속 하락, 밤 21:30 미국 9월 CPI가 다음 변수"
+      ],
+      "summary": "14일 코스피는 26.54포인트(0.44%) 내린 6,008.81, 코스닥은 13.15포인트(1.57%) 내린 823.88에 마감했다. 장 초반 2%대 반등했으나 외국인 매도가 이어지며 상승분을 반납했고 오후 한때 6,000선을 밑돌았다.",
+      "why": "전날 5.46% 급락 뒤 반등 시도가 실패해 외국인 수급 부담이 여전함을 보여준다.",
+      "impact": {
+        "dir": "down",
+        "text": "반등 실패, 외국인 수급 부담 지속"
+      },
+      "tickers": [
+        "KOSPI",
+        "KOSDAQ"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "이투데이 (10/14 15:3x)",
+          "url": "https://www.etoday.co.kr/news/view/2635777"
+        },
+        {
+          "name": "서울경제 (10/14)",
+          "url": "https://m.sedaily.com/article/20101545"
+        },
+        {
+          "name": "아시아경제 (10/14 15:34)",
+          "url": "https://view.asiae.co.kr/article/2026101415345133755"
+        },
+        {
+          "name": "파이낸셜뉴스 (10/14 15:10)",
+          "url": "https://www.fnnews.com/news/202610141510494479"
+        },
+        {
+          "name": "뉴데일리 (10/14 15:00)",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/14/2026101400269.html"
+        }
+      ]
+    },
+    {
+      "id": "20261014-1540-2",
+      "time": "2026-10-14T14:00:00+09:00",
+      "category": "종목",
+      "title": "ASML 3분기 매출 사상 최대, 연간 전망 상향",
+      "lines": [
+        "3분기 매출 116.6억 유로(전 분기 대비 약 25%↑), 총이익률 57.5%",
+        "순이익 약 50억 유로, 미스트랄AI 지분 평가이익 5억 유로 포함",
+        "4분기 매출 전망 142억~152억 유로, 연간 440억~450억으로 상향",
+        "2027~28년 공급이 수요에 못 미칠 듯, 2030년 주문 문의도"
+      ],
+      "summary": "ASML은 3분기 순매출 116.6억 유로, 매출총이익률 57.5%, 순이익 약 50억 유로를 발표했다. 4분기 매출 전망을 142억~152억 유로로 제시하고 연간 전망을 440억~450억 유로로 높였다.",
+      "why": "AI 반도체 투자 수요가 2028년 이후까지 이어진다는 신호로, 최근 약세였던 반도체 장비·메모리주 심리에 영향을 줄 수 있다.",
+      "impact": {
+        "dir": "up",
+        "text": "반도체 장비 수요 견조 신호"
+      },
+      "tickers": [
+        "ASML",
+        "AMAT",
+        "LRCX"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "ASML 보도자료·GlobeNewswire (10/14 14:00)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/14/3380319/0/en/asml-reports-11-7-billion-total-net-sales-and-5-0-billion-net-income-in-q3-2026.html"
+        },
+        {
+          "name": "CNBC (10/14)",
+          "url": "https://www.cnbc.com/2026/10/14/asml-3q-earnings-ai-demand-orders-capacity.html"
+        },
+        {
+          "name": "머니투데이 (10/14 14:03)",
+          "url": "https://www.mt.co.kr/world/2026/10/14/2026101414035131348"
+        },
+        {
+          "name": "디지털데일리 (10/14 15:15)",
+          "url": "https://www.ddaily.co.kr/page/view/2026101415154092879"
+        }
+      ]
+    },
+    {
+      "id": "20261014-1240-1",
+      "time": "2026-10-14T11:27:00+09:00",
+      "category": "지표",
+      "title": "중국 9월 수출 36.3%↑, 예상 크게 상회",
+      "lines": [
+        "중국 해관총서, 9월 수출 전년 대비 36.3% 증가(예상 25.5%)",
+        "수입 31.0%↑, 무역흑자 1,335억 달러로 8월(1,191억)보다 확대",
+        "반도체·자동차 등 첨단 제품과 AI 데이터센터 부품 수요가 견인",
+        "EU 등의 무역 불균형 압박은 커질 수 있는 재료"
+      ],
+      "summary": "중국 9월 달러 기준 수출이 전년 대비 36.3% 늘어 로이터 예상치 25.5%와 8월 25.0%를 크게 웃돌았다. 수입은 31.0% 늘었고 무역흑자는 1,335억 달러로 확대됐다.",
+      "why": "AI 관련 수요가 아시아 교역을 끌어올리고 있음을 보여주지만, 중국과 교역 상대국 간 무역 마찰 우려도 키울 수 있다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "아시아 수출 호조, 무역마찰 우려 공존"
+      },
+      "tickers": [
+        "CNY"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "AP (10/14)",
+          "url": "https://www.ksat.com/business/2026/10/14/chinas-exports-surge-363-in-september-as-pressure-ramps-up-to-rebalance-trade/"
+        },
+        {
+          "name": "로이터·Business Recorder (10/14)",
+          "url": "https://www.brecorder.com/news/40444136/chinas-exports-surge-363-yy-in-september-imports-up-31"
+        },
+        {
+          "name": "SBS Biz (10/14)",
+          "url": "https://biz.sbs.co.kr/article/20000339876"
+        },
+        {
+          "name": "FXStreet (10/14 11:27)",
+          "url": "https://www.fxstreet.com/news/chinas-september-trade-balance-exports-and-imports-beat-estimates-202610140227"
+        }
+      ]
+    },
+    {
+      "id": "20261014-1240-2",
+      "time": "2026-10-14T11:00:00+09:00",
+      "category": "금리",
+      "title": "CPI 앞두고 달러지수 102선 약세",
+      "lines": [
+        "아시아 장에서 달러지수 102.1~102.2 부근, 이번 주 고점서 후퇴",
+        "윌리엄스 '연내 1회 인상, 내년은 불필요' 발언 뒤 달러 약세",
+        "미 10년물 금리 약 5.22%, 2주 만의 저점 근처에서 보합(로이터)",
+        "오늘 21:30 9월 CPI, 예상 전년 대비 3.6%로 가속"
+      ],
+      "summary": "미국 9월 CPI 발표를 앞두고 아시아 시간대 달러지수가 102선 초반으로 내려왔고, 미 10년물 금리는 약 5.22%로 2주 만의 저점 부근에서 보합을 보였다.",
+      "why": "달러와 미 금리가 쉬면 원·달러 환율 하락(원화 강세)에 우호적이지만, CPI 결과에 따라 방향이 바뀔 수 있다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "CPI 결과 따라 달러 방향 결정"
+      },
+      "tickers": [
+        "DXY",
+        "US10Y",
+        "USDKRW"
+      ],
+      "confidence": "주의",
+      "sources": [
+        {
+          "name": "로이터·investing.com (10/14)",
+          "url": "https://www.investing.com/news/economy-news/asia-shares-edge-up-as-chip-selloff-eases-us-cpi-awaited-4947869"
+        },
+        {
+          "name": "FXStreet (10/14 11:43)",
+          "url": "https://fxstreet.com/news/united-states-dollar-index-weakens-to-near-10200-ahead-of-us-cpi-release-202610140243"
+        }
+      ]
+    },
+    {
+      "id": "20261014-0943-1",
+      "time": "2026-10-14T09:13:00+09:00",
+      "category": "국내",
+      "title": "코스피 반등 출발, 장 초반 6,100선 회복",
+      "lines": [
+        "코스피 6,062.08(+0.44%) 출발, 5거래일 하락 뒤 반등",
+        "9시 13분 6,162.70(+2.11%), 6,100선 회복",
+        "전날 4.5조 판 외국인이 장 초반 매수 우위로 전환",
+        "삼성전자·SK하이닉스 2%대 상승, 코스닥은 약보합 출발",
+        "장 초반 흐름이라 오늘 밤 CPI 전까지 변동성 클 수 있음"
+      ],
+      "summary": "14일 코스피가 6,062.08로 상승 출발해 장 초반 2%대 오르며 6,100선을 회복했다. 낙폭 과대에 따른 반발 매수와 외국인 매수 전환이 배경으로 꼽혔다.",
+      "why": "전날 5.46% 급락 뒤 첫 반등 시도로, 외국인 수급이 이어질지가 반도체주 방향을 가를 수 있다.",
+      "impact": {
+        "dir": "up",
+        "text": "낙폭 과대 반발 매수"
+      },
+      "tickers": [
+        "^KS11",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "디지털데일리 (10/14 09:22)",
+          "url": "https://www.ddaily.co.kr/page/view/2026101409225950313"
+        },
+        {
+          "name": "뉴스핌 (10/14)",
+          "url": "https://www.newspim.com/news/view/20261014000254"
+        },
+        {
+          "name": "아시아경제 (10/14 09:01)",
+          "url": "https://view.asiae.co.kr/article/2026101409013453831"
+        },
+        {
+          "name": "한국경제 (10/14)",
+          "url": "https://www.hankyung.com/article/2026101403456"
+        }
+      ]
+    },
+    {
+      "id": "20261014-0943-2",
+      "time": "2026-10-14T09:00:00+09:00",
+      "category": "환율",
+      "title": "원·달러 1,344.0원 출발, 1.1원 하락",
+      "lines": [
+        "원·달러 1,344.0원 출발, 전날 종가 1,345.1원보다 1.1원↓",
+        "전날 10원 급등 뒤 숨 고르기, 원화 소폭 강세 출발",
+        "개장가는 1곳(ECOS 인용 기사)에서만 확인",
+        "코스피 반등·외국인 매수가 이어지면 하락 요인"
+      ],
+      "summary": "14일 원·달러 환율이 1,344.0원에 출발해 전날 종가보다 1.1원 낮게 시작했다. 개장가는 출처 1곳(한국은행 ECOS 인용 기사)에서만 확인됐다.",
+      "why": "전날 증시 급락으로 10원 오른 환율이 증시 반등과 함께 되돌림을 보일지 주목된다.",
+      "impact": {
+        "dir": "down",
+        "text": "환율 소폭 하락 출발"
+      },
+      "tickers": [
+        "KRW=X"
+      ],
+      "confidence": "주의",
+      "sources": [
+        {
+          "name": "토큰포스트·ECOS 인용 (10/14)",
+          "url": "https://www.tokenpost.kr/news/insights/422303"
+        }
+      ]
+    },
+    {
+      "id": "20261014-0943-3",
+      "time": "2026-10-14T09:30:00+09:00",
+      "category": "지표",
+      "title": "오늘 밤 21:30 미국 9월 CPI 발표",
+      "lines": [
+        "미국 9월 CPI, 한국시간 14일 21:30 발표 예정",
+        "예상: 전월 대비 +0.6%(8월 +0.4%), 근원 +0.2% 안팎",
+        "전년 대비 예상 3.6~3.7%, 휘발유 등 에너지가 끌어올림",
+        "근원이 예상보다 높으면 금리 인상 기대↑, 증시 부담 가능",
+        "10/27~28 FOMC 전 마지막 큰 물가 지표"
+      ],
+      "summary": "미국 9월 소비자물가지수가 한국시간 오늘 밤 9시 30분 발표된다. 에너지 가격 탓에 헤드라인은 높아지고 근원은 둔화될 것이라는 전망이 많다.",
+      "why": "연준 위원들이 연내 추가 인상을 언급한 가운데 근원 물가가 금리·달러·반도체주 방향을 좌우할 수 있다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "결과 따라 금리·달러 변동"
+      },
+      "tickers": [
+        "^TNX",
+        "DX-Y.NYB",
+        "^GSPC"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "블루밍비트 (10/13)",
+          "url": "https://bloomingbit.io/feed/news/122051"
+        },
+        {
+          "name": "뉴스웨이 (10/12)",
+          "url": "https://newsway.co.kr/news/view?ud=2026101214512802737"
+        },
+        {
+          "name": "뉴시스 (10/12)",
+          "url": "https://www.newsis.com/view/NISX20261012_0003821490"
+        }
+      ]
+    },
+    {
+      "id": "20261014-0641-1",
+      "time": "2026-10-14T05:00:00+09:00",
+      "category": "종목",
+      "title": "뉴욕증시 3대 지수 하락, 반도체 5일째 약세",
+      "lines": [
+        "13일 다우 51,670.10(-0.35%), 180포인트 하락",
+        "S&P500 7,805.45(-0.02%), 나스닥 27,204.38(-0.15%)",
+        "중국 CXMT 메모리 공세에 반도체주 5거래일 연속 하락",
+        "JP모건 등 대형 은행 실적 엇갈림, 14일 9월 CPI 대기"
+      ],
+      "summary": "13일(현지) 뉴욕증시 3대 지수가 모두 소폭 하락 마감했다. 반도체주가 5거래일 연속 약세를 이어갔고 대형 은행 실적이 엇갈렸다.",
+      "why": "오늘 밤 미국 9월 CPI 발표를 앞두고 반도체 약세가 이어져 한국 반도체주 흐름에도 부담이 될 수 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "반도체·기술주 부담 지속"
+      },
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "MU"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "뉴스핌 (10/14)",
+          "url": "https://newspim.com/news/view/20261014000021"
+        },
+        {
+          "name": "뉴스1 (10/14)",
+          "url": "https://www.news1.kr/world/international-economy/6319033"
+        },
+        {
+          "name": "블록미디어 (10/14)",
+          "url": "https://blockmedia.co.kr/archives/1151163"
+        }
+      ]
+    },
+    {
+      "id": "20261014-0641-2",
+      "time": "2026-10-14T03:30:00+09:00",
+      "category": "원자재",
+      "title": "유가 혼조 마감, 브렌트 105.69달러",
+      "lines": [
+        "13일 브렌트유 12월물 105.69달러(-0.90%)",
+        "WTI 11월물은 94.14달러(+0.43%)로 소폭 상승",
+        "러시아 경유 수출 재개 기대 vs 사우디·후티 충돌 우려",
+        "골드만 \"러시아 경유 물량, 가격 영향 제한적\" 분석"
+      ],
+      "summary": "13일(현지) 국제유가는 브렌트유가 내리고 WTI는 오르는 혼조로 마감했다. 러시아산 경유 공급 확대 기대와 중동 긴장이 엇갈렸다.",
+      "why": "유가가 100달러 안팎에 머물면 물가와 금리 부담이 이어진다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "유가 고공권 유지, 방향 엇갈림"
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스 (10/14 04:52)",
+          "url": "https://www.fnnews.com/news/202610140452085589"
+        },
+        {
+          "name": "뉴스1 (10/14)",
+          "url": "https://www.news1.kr/world/international-economy/6319031"
+        },
+        {
+          "name": "SBS Biz (10/14)",
+          "url": "https://biz.sbs.co.kr/article/20000339772"
+        }
+      ]
+    },
+    {
+      "id": "20261014-0641-3",
+      "time": "2026-10-13T23:00:00+09:00",
+      "category": "정책",
+      "title": "콜린스 연은 총재 \"연내 추가 인상 적절\"",
+      "lines": [
+        "보스턴 연은 콜린스 총재, 13일 연내 금리 추가 인상 예상",
+        "지난달 인상으로 기준금리 3.75~4.00%, 8월 PCE 3.4%",
+        "중동 전쟁발 에너지·관세·AI 투자를 물가 위험으로 꼽아",
+        "시기는 데이터에 달려, 10/27~28보다 12월 거론 많아"
+      ],
+      "summary": "수전 콜린스 보스턴 연은 총재가 13일(현지) 연설문에서 연말 전 금리를 조금 더 올리는 것이 적절할 것으로 본다고 밝혔다. 시기와 필요성은 앞으로 데이터에 따라 달라진다고 덧붙였다.",
+      "why": "추가 인상 신호는 미 국채금리·달러를 떠받쳐 성장주와 원화에 부담이 될 수 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "금리 부담, 성장주에 약세 요인"
+      },
+      "tickers": [],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Reuters via Investing.com (10/13)",
+          "url": "https://www.investing.com/news/economy-news/feds-collins-sees-another-rate-hike-on-the-table-before-end-of-2026-4947448"
+        },
+        {
+          "name": "인베스팅닷컴 한국 (10/13)",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2125784"
+        }
+      ]
+    },
+    {
+      "id": "20261014-0340-1",
+      "time": "2026-10-14T01:30:00+09:00",
+      "category": "종목",
+      "title": "J&J 실적 상회에도 6%대 하락",
+      "lines": [
+        "존슨앤드존슨 3분기 조정 EPS 2.59달러, 예상 2.53달러 상회",
+        "매출 254억 달러(+5.9%), 연간 EPS 전망 11.05~11.15달러로 상향",
+        "의료기기(메드테크) 매출 86억 달러(+2.5%)로 예상 미달",
+        "13일 장중 주가 약 6~7% 하락, 성장 둔화 우려 반영"
+      ],
+      "summary": "존슨앤드존슨이 3분기 조정 EPS와 매출 모두 예상을 넘기고 연간 전망도 올렸지만, 의료기기 부문 매출이 기대에 못 미치며 주가가 장중 6%대 하락했다. 회사는 중동 분쟁과 유럽·중국 약세를 이유로 들었다.",
+      "why": "실적 시즌 초반부터 '숫자는 좋아도 세부 부문이 약하면 매도'되는 분위기를 보여준다.",
+      "impact": {
+        "dir": "down",
+        "text": "J&J·헬스케어주 부담"
+      },
+      "tickers": [
+        "JNJ"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/13)",
+          "url": "https://www.cnbc.com/2026/10/13/jnj-earnings-q3-2026.html"
+        },
+        {
+          "name": "Motley Fool (10/13)",
+          "url": "https://www.fool.com/investing/2026/10/13/why-johnson-and-johnson-stock-dropped-today/"
+        },
+        {
+          "name": "J&J 실적 8-K (10/13)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000200406/000020040626000189/a2026q3exhibit991.htm"
+        }
+      ]
+    },
+    {
+      "id": "20261014-0340-2",
+      "time": "2026-10-14T03:00:00+09:00",
+      "category": "종목",
+      "title": "어플라이드 7%↓, 반도체 장비주 약세",
+      "lines": [
+        "13일 오후 어플라이드머티리얼즈 약 7% 하락, 461달러대",
+        "램리서치·KLA도 약 4% 하락, 장비주 중심 매도",
+        "올해 80% 오른 데 따른 차익실현·中 관련 우려 거론",
+        "한국 반도체 급락(10/13) 이어 미국 장비주로 번져"
+      ],
+      "summary": "13일 미국장에서 어플라이드머티리얼즈가 오후 약 7% 하락했고 램리서치·KLA도 4% 안팎 내렸다. 연초 대비 큰 상승 뒤 차익실현과 향후 설비투자·중국 관련 우려가 이유로 거론된다.",
+      "why": "반도체 장비 수요 기대가 흔들리면 한국 반도체 소재·장비주 심리에도 영향을 줄 수 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "반도체 장비주 약세"
+      },
+      "tickers": [
+        "AMAT",
+        "LRCX",
+        "KLAC"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "24/7 Wall St. (10/13)",
+          "url": "https://247wallst.com/investing/2026/10/13/semiconductor-equipment-stocks-slide-as-investors-take-profits-on-a-huge-year-applied-materials-sinks-7-lam-research-and-kla-drop-4/"
+        },
+        {
+          "name": "Benzinga (10/13)",
+          "url": "https://www.benzinga.com/news/26/10/62333961/chip-stocks-slide-korea-kospi-plunges-5-percent-jj-drops-markets-tuesday"
+        }
+      ]
+    },
+    {
+      "id": "20261014-0340-3",
+      "time": "2026-10-14T02:00:00+09:00",
+      "category": "종목",
+      "title": "네비우스 3~4%↓, IREN-앤트로픽 보도 여파",
+      "lines": [
+        "13일 네비우스 장중 약 2.8~4.4% 하락, 200~204달러대",
+        "IREN이 앤트로픽과 클라우드 계약했다는 보도(10/12)가 부담",
+        "다만 두 회사 모두 계약을 공식 확인하지 않음",
+        "IREN도 반짝 상승 뒤 약 5% 하락, 7월 이후 최저"
+      ],
+      "summary": "IREN이 앤트로픽과 AI 클라우드 계약을 맺었다는 디인포메이션 보도 뒤 경쟁 우려로 네비우스가 13일 장중 3~4% 하락했다. 계약은 공식 확인되지 않았다.",
+      "why": "관심 종목 네비우스의 대형 고객 확보 기대가 경쟁사 쪽으로 옮겨갈 수 있다는 우려다.",
+      "impact": {
+        "dir": "down",
+        "text": "네오클라우드주 경쟁 우려"
+      },
+      "tickers": [
+        "NBIS",
+        "IREN"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Benzinga (10/13)",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62326856/why-is-nebius-group-stock-falling-tuesday"
+        },
+        {
+          "name": "Sunday Guardian (10/13)",
+          "url": "https://sundayguardianlive.com/business/nebius-stock-today-nbis-shares-fall-283-to-20411-amid-ai-cloud-competition-iren-anthropic-deal-and-latest-market-updates-heres-what-investors-need-to-watch-305040/"
+        },
+        {
+          "name": "FinanceFeeds (10/13)",
+          "url": "https://financefeeds.com/iren-stock-erases-premarket-gains-on-reported-anthropic-ai-cloud-deal-neither-company-has-confirmed-it/"
+        }
+      ]
+    },
+    {
+      "id": "20261014-0040-1",
+      "time": "2026-10-13T20:00:00+09:00",
+      "category": "종목",
+      "title": "JP모건 3분기 EPS 예상 하회",
+      "lines": [
+        "JP모건 3분기 주당순이익 5.57달러, 예상(약 5.9달러) 하회",
+        "증권 손실 6.58억 달러 제외 시 5.75달러, 그래도 미달",
+        "매출 502억 달러(+8%), 순이자이익 271억 달러(+13%)",
+        "프리마켓 3%대 하락 뒤 연간 NII 전망 상향에 낙폭 축소",
+        "다이먼, 인플레·금리 상승·재정적자 위험 경고"
+      ],
+      "summary": "JP모건이 10/13 발표한 3분기 실적에서 주당순이익 5.57달러로 시장 예상을 밑돌았다. 순이자이익은 예상을 소폭 웃돌았고 2026년 NII 전망을 높였다.",
+      "why": "미국 은행 실적 시즌의 첫 대형 발표로 금융주 심리와 경기 판단에 영향을 준다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "실적 미달 vs NII 상향 엇갈림"
+      },
+      "tickers": [
+        "JPM"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Yahoo Finance (10/13)",
+          "url": "https://finance.yahoo.com/markets/article/jpmorgan-profit-misses-analyst-estimates-as-jamie-dimon-warns-economic-forces-shift-under-the-surface-112446859.html"
+        },
+        {
+          "name": "Benzinga (10/13)",
+          "url": "https://www.benzinga.com/markets/earnings/26/10/62321579/jpmorgan-ceo-jamie-dimon-sounds-alarm-on-inflation-rising-rates-and-economic-risks"
+        },
+        {
+          "name": "JPMorgan 8-K (10/13)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000019617/000162828026065582/jpm-20261013.htm"
+        }
+      ]
+    },
+    {
+      "id": "20261014-0040-2",
+      "time": "2026-10-13T20:00:00+09:00",
+      "category": "종목",
+      "title": "골드만삭스, 주식 트레이딩 72%↑ 호실적",
+      "lines": [
+        "골드만 3분기 주당순이익 17.01달러, 예상(약 13달러대) 크게 상회",
+        "주식 부문 매출 64.4억 달러로 1년 전보다 72% 증가",
+        "순매출 약 187억 달러, 사상 두 번째 규모",
+        "발표 뒤 주가 3%가량 상승(장 초반)"
+      ],
+      "summary": "골드만삭스가 주식 트레이딩 호조로 3분기 시장 예상을 크게 웃도는 실적을 냈다. 분기 배당은 주당 5달러.",
+      "why": "변동성 장세에서 투자은행·트레이딩 수익이 크게 늘었다는 신호다.",
+      "impact": {
+        "dir": "up",
+        "text": "투자은행주에 긍정적"
+      },
+      "tickers": [
+        "GS",
+        "MS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Goldman Sachs 8-K (10/13)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000886982/000088698226000529/a3q26gsearningsresults.htm"
+        },
+        {
+          "name": "Investing.com (10/13)",
+          "url": "https://www.investing.com/news/earnings/goldman-sachs-beats-third-quarter-estimates-on-trading-strength-4946382"
+        },
+        {
+          "name": "24/7 Wall St. (10/13)",
+          "url": "https://247wallst.com/investing/2026/10/13/goldman-sachs-rises-on-equities-led-earnings-beat-jpmorgan-chase-treads-water-wells-fargo-declines-3/"
+        }
+      ]
+    },
+    {
+      "id": "20261014-0040-3",
+      "time": "2026-10-13T20:00:00+09:00",
+      "category": "종목",
+      "title": "웰스파고, 이익은 상회·매출은 미달",
+      "lines": [
+        "웰스파고 3분기 주당순이익 1.87달러, 예상(1.85달러) 소폭 상회",
+        "매출 218.7억 달러(+2%), 순이자이익은 예상 하회",
+        "2026년 순이자이익 전망 약 500억 달러 유지",
+        "자본시장 부문 부진에 프리마켓 1~3% 하락"
+      ],
+      "summary": "웰스파고는 이익은 예상을 소폭 넘었지만 매출과 순이자이익이 기대에 못 미쳤다. 연간 NII 전망은 유지했다.",
+      "why": "대출 중심 은행의 이자이익 둔화 여부를 보여준다.",
+      "impact": {
+        "dir": "down",
+        "text": "매출 미달로 주가 약세"
+      },
+      "tickers": [
+        "WFC"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Wells Fargo 8-K (10/13)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000072971/000007297126000318/wfc3qer10-13x26ex991xrelea.htm"
+        },
+        {
+          "name": "Seeking Alpha (10/13)",
+          "url": "https://seekingalpha.com/news/4652369-wells-fargo-stock-falls-as-q3-capital-market-revenues-lag-2026-nii-guidance-maintained"
+        },
+        {
+          "name": "Central Oregon Daily/AP (10/13)",
+          "url": "https://www.centraloregondaily.com/news/consumer/wells-fargo-beats-profit-estimates-nii-and-revenue-fall-short/article_7a883bfe-8dcd-5597-a003-c77852d40b94.html"
+        }
+      ]
+    },
+    {
+      "id": "20261014-0040-4",
+      "time": "2026-10-13T19:30:00+09:00",
+      "category": "종목",
+      "title": "유나이티드헬스, 실적 상회·전망 상향",
+      "lines": [
+        "3분기 조정 주당순이익 4.69달러, 예상(약 4.12달러) 상회",
+        "매출 1,127억 달러, 의료비율 88.4%(전년 89.9%)",
+        "2026년 조정 EPS 전망 '최소 20.5달러'로 올해 세 번째 상향",
+        "장 초반 4~5% 상승, 다우 상승을 주도"
+      ],
+      "summary": "유나이티드헬스가 3분기 시장 예상을 웃도는 실적과 함께 연간 이익 전망을 다시 올렸다. 의료비 부담 비율이 낮아진 영향이다.",
+      "why": "다우 지수 비중이 큰 종목이라 지수 움직임에도 영향을 준다.",
+      "impact": {
+        "dir": "up",
+        "text": "헬스케어 보험주에 긍정적"
+      },
+      "tickers": [
+        "UNH",
+        "HUM"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Yahoo Finance (10/13)",
+          "url": "https://finance.yahoo.com/markets/stocks/article/unitedhealth-group-stock-jumps-5-on-profit-outlook-raise-130118726.html"
+        },
+        {
+          "name": "Investing.com (10/13)",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-unitedhealth-stock-rallying-today-93CH-4945959"
+        },
+        {
+          "name": "GuruFocus (10/13)",
+          "url": "https://www.gurufocus.com/news/9120735/unitedhealth-stock-jumps-on-q3-earnings-beat"
+        }
+      ]
+    },
+    {
+      "id": "20261013-1840-1",
+      "time": "2026-10-13T15:30:00+09:00",
+      "category": "국내",
+      "title": "코스피 5.46% 급락 마감, 6,035선",
+      "lines": [
+        "코스피 348.89p(5.46%) 내린 6,035.35에 마감, 장중 5,911까지",
+        "외국인 약 4.5조원 순매도, 개인·기관 매수로 6천선 턱걸이",
+        "10/2 7,003.74 이후 5거래일 연속 하락, 5일간 -13.83%",
+        "코스닥도 1.43% 내린 837.03, 오전 매도 사이드카 발동"
+      ],
+      "summary": "코스피가 외국인 대규모 순매도와 반도체 급락으로 5.46% 내린 6,035.35에 마감했다. 오전 6% 넘게 빠졌던 낙폭을 일부 줄였지만 5거래일 연속 하락했다.",
+      "why": "오전 6,000선 붕괴 소식의 마감 결과로, 외국인 이탈 규모가 국내 증시 방향의 핵심 변수다.",
+      "impact": {
+        "dir": "down",
+        "text": "국내 증시 하방 압력 지속"
+      },
+      "tickers": [
+        "^KS11",
+        "^KQ11"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "아시아경제 (10/13 15:37)",
+          "url": "https://view.asiae.co.kr/article/2026101315375562649"
+        },
+        {
+          "name": "뉴스1 (10/13)",
+          "url": "https://www.news1.kr/finance/market-exr/6318513"
+        },
+        {
+          "name": "위키트리 (10/13)",
+          "url": "https://www.wikitree.co.kr/articles/1165907"
+        }
+      ]
+    },
+    {
+      "id": "20261013-1840-2",
+      "time": "2026-10-13T15:30:00+09:00",
+      "category": "국내",
+      "title": "삼성전자 7%·하이닉스 10% 급락 마감",
+      "lines": [
+        "삼성전자 7.39% 내린 23만2천원, SK하이닉스 10.09% 내린 144만3천원",
+        "中 CXMT 연말 4F² 서버용 DDR5 출시 계획 발표가 계기",
+        "실제 양산 능력은 미확인, 해외 증권사는 회의적 시각",
+        "AI 투자 수익성 우려·외국인 매도도 겹쳤다는 분석"
+      ],
+      "summary": "중국 CXMT의 차세대 서버 D램 계획 발표 여파로 삼성전자와 SK하이닉스가 각각 7%, 10%대 급락 마감했다. 증권가는 AI 투자 우려와 외국인 매도가 겹쳤다고 분석했다.",
+      "why": "코스피 시가총액 1·2위 급락이 지수 하락을 주도했고 메모리 업황 기대에 대한 의구심을 키웠다.",
+      "impact": {
+        "dir": "down",
+        "text": "국내 메모리주 투자심리 위축"
+      },
+      "tickers": [
+        "005930.KS",
+        "000660.KS",
+        "MU"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스 (10/13 15:41)",
+          "url": "https://www.fnnews.com/news/202610131541233433"
+        },
+        {
+          "name": "인포스탁데일리 (10/13)",
+          "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=218365"
+        },
+        {
+          "name": "비즈니스포스트 (10/13)",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449229"
+        }
+      ]
+    },
+    {
+      "id": "20261013-1840-3",
+      "time": "2026-10-13T15:30:00+09:00",
+      "category": "환율",
+      "title": "원·달러 10원 급등, 1,345.1원 마감",
+      "lines": [
+        "원·달러 주간 종가 1,345.1원, 전일보다 10.0원 상승",
+        "전날 1,335.1원(약 2년 만의 최저)에서 하루 만에 반등",
+        "증시 급락·외국인 주식 매도·달러 강세가 환율 끌어올림",
+        "반도체 수출 달러 공급이 상승폭 일부 제한"
+      ],
+      "summary": "원·달러 환율이 10.0원 오른 1,345.1원에 마감해 하루 만에 1,340원대로 올라섰다. 외국인 주식 순매도와 중동 긴장에 따른 달러 강세가 원화 약세 요인이 됐다.",
+      "why": "2년 만의 원화 강세 흐름이 하루 만에 꺾여, 10/14 미국 CPI를 앞두고 변동성이 커졌다.",
+      "impact": {
+        "dir": "up",
+        "text": "환율 상승(원화 약세)"
+      },
+      "tickers": [
+        "KRW=X"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "뉴시스 (10/13)",
+          "url": "https://www.newsis.com/view/NISX20261013_0003824253"
+        },
+        {
+          "name": "머니투데이 (10/13 15:49)",
+          "url": "https://mt.co.kr/economy/2026/10/13/2026101315493144500"
+        },
+        {
+          "name": "서울파이낸스 (10/13)",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=639977"
+        }
+      ]
+    },
+    {
+      "id": "20261013-1840-4",
+      "time": "2026-10-13T18:40:00+09:00",
+      "category": "원자재",
+      "title": "브렌트유 1%대 하락, 105달러선",
+      "lines": [
+        "10/13 장중 브렌트유 약 1.5~1.7% 내린 104.8~105.1달러",
+        "WTI는 91달러대(Arbiterz 91.87달러)",
+        "러시아산 경유 공급 확대 기대가 하락 요인으로 꼽혀",
+        "사우디-후티 충돌·호르무즈 위험이 낙폭은 제한"
+      ],
+      "summary": "국제유가가 러시아산 에너지 공급 확대 기대에 1%대 하락해 브렌트유가 105달러 안팎에서 거래됐다. 전날 4일째 상승분 일부를 되돌렸지만 중동 위험이 낙폭을 제한했다.",
+      "why": "유가는 물가·금리 기대와 연결돼 10/14 미국 CPI를 앞두고 시장이 주목하는 변수다.",
+      "impact": {
+        "dir": "down",
+        "text": "유가 소폭 하락, 중동 위험은 여전"
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/13)",
+          "url": "https://www.cnbc.com/2026/10/13/oil-prices-today-brent-wti-hormuz.html"
+        },
+        {
+          "name": "Arbiterz (10/13)",
+          "url": "https://arbiterz.com/oil-prices-today-brent-falls-to-104-80-per-barrel"
+        }
+      ]
+    },
+    {
+      "id": "20261013-1241-1",
+      "time": "2026-10-13T10:29:00+09:00",
+      "category": "국내",
+      "title": "코스피 6%대 급락, 6,000선 붕괴",
+      "summary": "13일 코스피가 3.10% 내린 6,186.08로 출발한 뒤 낙폭을 키워 오전 10시 29분 5,991.04(-6.16%)로 6,000선 아래로 내려갔어요. 오전 9시 47분엔 코스피200 선물 5.08% 하락으로 매도 사이드카가 8/19~20 이후 약 두 달 만에 발동됐어요.",
+      "why": "전날 -3.65%에 이은 이틀 연속 급락으로, 외국인이 오전에만 2조원 안팎을 순매도해 올해 누적 순매도가 200조원을 넘었다는 보도가 나왔어요.",
+      "impact": {
+        "dir": "down",
+        "text": "코스피·코스닥 지수형 상품과 반도체 비중이 큰 국내 ETF에 하락 압력이 이어지고 있어요(장중 수치, 종가는 다를 수 있어요)."
+      },
+      "tickers": [
+        "^KS11"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "뉴스핌 (10/13 오전)",
+          "url": "https://www.newspim.com/news/view/20261013000430"
+        },
+        {
+          "name": "SBS Biz (10/13)",
+          "url": "https://biz.sbs.co.kr/article/20000339611"
+        },
+        {
+          "name": "세계일보 (10/13)",
+          "url": "https://www.segye.com/newsView/20261013509159"
+        }
+      ]
+    },
+    {
+      "id": "20261013-1241-2",
+      "time": "2026-10-13T10:30:00+09:00",
+      "category": "종목",
+      "title": "삼성전자 7%·하이닉스 8%대 급락",
+      "summary": "13일 오전 삼성전자는 7%대, SK하이닉스는 8%대 하락하며 코스피 급락을 이끌었어요(한 보도 기준 삼성전자 23만1,500원 -7.78%, SK하이닉스 146만6,000원 -8.79%). 매체마다 시점이 달라 하락률은 6~9% 범위로 보도됐어요.",
+      "why": "중국 창신메모리(CXMT)의 서버용 D램 진출에 따른 공급 증가 우려와 미국 AI 투자 자금 조달 둔화 우려가 겹쳤다는 분석이에요. 전날 미국 마이크론(-3.9%)·필라델피아 반도체지수(-2.6%) 약세의 연장이에요.",
+      "impact": {
+        "dir": "down",
+        "text": "국내 메모리 대형주와 반도체 ETF, 장비·소재주 투자심리에 부담이 될 수 있어요."
+      },
+      "tickers": [
+        "005930.KS",
+        "000660.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "SBS 뉴스 영문 (10/13)",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008795079"
+        },
+        {
+          "name": "CNBC (10/13)",
+          "url": "https://cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html"
+        },
+        {
+          "name": "딜사이트 (10/13)",
+          "url": "https://dealsite.co.kr/articles/170538"
+        }
+      ]
+    },
+    {
+      "id": "20261013-1241-3",
+      "time": "2026-10-13T11:00:00+09:00",
+      "category": "종목",
+      "title": "닛케이 2.5%↓, 도쿄일렉트론 6%대 하락",
+      "summary": "13일 일본 닛케이225가 장중 약 2.5% 내린 67,300선에서 거래됐고, 도쿄일렉트론이 6%대, 어드밴테스트가 5%대, 소프트뱅크그룹이 약 8% 하락했어요. 홍콩 항셍지수도 0.7~0.95% 내렸어요.",
+      "why": "미국 반도체주 약세와 높은 유가 부담이 아시아 기술주 전반으로 번지고 있어요.",
+      "impact": {
+        "dir": "down",
+        "text": "일본 반도체 장비주와 AI 관련 아시아 기술주 ETF에 하락 압력이에요(장중 수치)."
+      },
+      "tickers": [
+        "^N225",
+        "8035.T",
+        "6857.T",
+        "9984.T"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/13)",
+          "url": "https://cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html"
+        },
+        {
+          "name": "HDFC Sky (10/13)",
+          "url": "https://hdfcsky.com/news/gift-nifty-points-to-higher-open-for-sensex-nifty-on-tuesday-even-as-energy-ceasefire-falters-asian-tech-stocks-sink-october-13-2026"
+        }
+      ]
+    },
+    {
+      "id": "20261013-0645-1",
+      "time": "2026-10-13T05:00:00+09:00",
+      "category": "종목",
+      "title": "뉴욕증시 혼조 마감, 반도체 2.6%↓",
+      "summary": "10/12 뉴욕증시는 다우가 0.38% 오른 51,850.55로 3거래일 연속 상승했지만, S&P500은 0.06% 내린 7,807.24, 나스닥은 0.44% 내린 27,245.90에 마감했어요. 필라델피아 반도체지수가 약 2.6% 빠졌고 마이크론은 약 3.9%, SK하이닉스 ADR은 약 4% 하락했어요.",
+      "why": "앞서 전한 장중 혼조 흐름이 반도체 약세 속에 그대로 마감까지 이어졌고, 중국 CXMT 신형 D램 소식에 따른 경쟁 우려가 메모리주에 부담이 됐어요.",
+      "impact": {
+        "dir": "down",
+        "text": "오늘 코스피의 SK하이닉스·삼성전자 등 반도체주에 부담이 될 수 있어요(다만 콜럼버스데이로 거래는 한산했어요)."
+      },
+      "tickers": [
+        "^IXIC",
+        "^GSPC",
+        "^DJI",
+        "MU",
+        "000660.KS",
+        "005930.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "뉴스핌 (10/13)",
+          "url": "https://www.newspim.com/news/view/20261013000022"
+        },
+        {
+          "name": "아시아경제 (10/13 04:31)",
+          "url": "https://view.asiae.co.kr/article/2026101304312029548"
+        },
+        {
+          "name": "TheStreet (10/12)",
+          "url": "https://thestreet.com/stock-market-today/stock-market-today-oct-12-2026-dow-futures-climb-as-wall-street-gears-up-for-busy-week"
+        }
+      ]
+    },
+    {
+      "id": "20261013-0645-2",
+      "time": "2026-10-13T04:30:00+09:00",
+      "category": "원자재",
+      "title": "WTI 2%↑ 93.74달러, 유가 3일째 상승",
+      "summary": "10/12 WTI 11월물은 1.89달러(약 2%) 오른 배럴당 93.74달러, 브렌트유 12월물은 1.93달러(약 1.8%) 오른 106.65달러에 마감했어요. 후티의 사우디 공항 공격과 호르무즈 인근 유조선 피격이 이어지며 공급 불안이 커졌다는 분석이에요.",
+      "why": "트럼프의 러·우크라 에너지 휴전 발표에도 중동 공급 불안이 더 크게 작용해 유가가 장중 고점 부근에서 마감했어요.",
+      "impact": {
+        "dir": "up",
+        "text": "정유·에너지주에는 우호적일 수 있지만, 이번 주 미국 CPI를 앞두고 물가·금리 부담을 키우고 항공·운송주에는 비용 부담이 될 수 있어요."
+      },
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "이투데이 (10/13)",
+          "url": "https://www.etoday.co.kr/news/view/2634878"
+        },
+        {
+          "name": "뉴스핌 (10/13)",
+          "url": "https://www.newspim.com/news/view/20261013000023"
+        },
+        {
+          "name": "뉴스1 (10/13)",
+          "url": "https://www.news1.kr/world/international-economy/6317579"
+        }
+      ]
+    },
+    {
+      "id": "20261013-0340-1",
+      "time": "2026-10-13T01:00:00+09:00",
+      "category": "종목",
+      "title": "루멘텀 장중 약 9%↓, AI 광통신·메모리 약세",
+      "summary": "10/12 미국 장중 AI 광통신 부품주 루멘텀(LITE)이 약 9~10% 하락했고, 메모리주 샌디스크도 약 6% 떨어졌어요. 회사 자체 새 발표는 없었고 업종 전반의 차익실현·심리 위축이라는 분석이 많아요.",
+      "why": "앞서 마이크론이 중국 CXMT 소식에 약 4% 내린 데 이어 AI 하드웨어 전반으로 매도가 번진 흐름이에요.",
+      "impact": {
+        "dir": "down",
+        "text": "AI 인프라·메모리주 투자심리가 약해 오늘 SK하이닉스·삼성전자 등 국내 반도체주에 부담이 될 수 있어요."
+      },
+      "tickers": [
+        "LITE",
+        "SNDK",
+        "MU",
+        "000660.KS",
+        "005930.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "24/7 Wall St. (10/12)",
+          "url": "https://247wallst.com/investing/2026/10/12/lumentum-falls-10-as-optics-selloff-hits-hardest-where-capacity-is-sold-out-applied-optoelectronics-drops-7-coherent-slides-7/"
+        },
+        {
+          "name": "Investing.com (10/12)",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-lumentum-stock-sliding-today-93CH-4944829"
+        },
+        {
+          "name": "Benzinga (10/12) 샌디스크",
+          "url": "https://www.benzinga.com/markets/tech/26/10/62305426/sandisk-stock-is-falling-monday-whats-going-on-2"
+        }
+      ]
+    },
+    {
+      "id": "20261013-0340-2",
+      "time": "2026-10-12T22:30:00+09:00",
+      "category": "종목",
+      "title": "세일즈포스, BofA 2단계 상향에 3~4%↑",
+      "summary": "뱅크오브아메리카가 세일즈포스(CRM) 투자의견을 '매도(Underperform)'에서 '매수(Buy)'로 두 단계 올리고 목표가를 160달러에서 285달러로 높였어요. 주가는 10/12 장중 약 3~4% 올랐어요.",
+      "why": "AI가 기업용 소프트웨어를 대체할 거란 우려로 눌렸던 업종에 대해, 데이터·업무 흐름을 쥔 플랫폼은 AI로 오히려 강해질 수 있다는 반대 논리가 나온 거예요.",
+      "impact": {
+        "dir": "up",
+        "text": "세일즈포스와 서비스나우 등 대형 SaaS 종목 심리에 긍정적일 수 있어요(연초 대비로는 여전히 하락 상태)."
+      },
+      "tickers": [
+        "CRM",
+        "NOW"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Benzinga (10/12)",
+          "url": "https://www.benzinga.com/markets/tech/26/10/62303548/salesforce-double-upgrade-bank-of-america"
+        },
+        {
+          "name": "CNBC (10/12)",
+          "url": "https://www.cnbc.com/2026/10/12/salesforce-to-punch-into-the-green-on-ai-pivot-bank-of-america-says-.html"
+        },
+        {
+          "name": "24/7 Wall St. (10/12)",
+          "url": "https://247wallst.com/investing/2026/10/12/salesforce-advances-3-on-bank-of-america-double-upgrade-to-buy-with-285-target-servicenow-climbs-3-palantir-holds-steady/"
+        }
+      ]
+    },
+    {
+      "id": "20261013-0340-3",
+      "time": "2026-10-12T22:30:00+09:00",
+      "category": "종목",
+      "title": "어도비, 웰스파고 '비중축소' 강등에 4%↓",
+      "summary": "웰스파고가 어도비(ADBE) 투자의견을 '비중축소(Underweight)'로 두 단계 낮추고 목표가를 225달러로 내렸어요. 주가는 10/12 장중 약 4% 하락해 230달러대에 거래됐어요.",
+      "why": "웰스파고는 기업 IT 책임자 설문에서 어도비가 AI 예산 경쟁에서 점유율을 잃고 있다고 봤고, 4분기 신규 반복매출이 크게 늘어야 한다고 지적했어요.",
+      "impact": {
+        "dir": "down",
+        "text": "같은 날 세일즈포스는 상향, 어도비는 하향으로 소프트웨어 안에서도 'AI 수혜 vs 피해' 구분이 커지는 모습이에요."
+      },
+      "tickers": [
+        "ADBE"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Benzinga (10/12)",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62297901/wells-fargo-downgrades-adobe-to-underweight-says-ai-survey-shows-it-is-losing-budget-share"
+        },
+        {
+          "name": "24/7 Wall St. (10/12)",
+          "url": "https://247wallst.com/investing/2026/10/12/adobe-falls-4-as-wells-fargo-cuts-to-underweight-with-225-target-servicenow-climbs-3-intuit-ticks-up/"
+        },
+        {
+          "name": "Investing.com (10/12)",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-adobe-stock-sliding-today-93CH-4944223"
+        }
+      ]
+    },
+    {
+      "id": "20261013-0041-1",
+      "time": "2026-10-13T00:26:00+09:00",
+      "category": "종목",
+      "title": "뉴욕증시 혼조, 다우↑ 나스닥↓",
+      "summary": "12일(현지) 뉴욕증시는 다우가 오르고 나스닥이 내리는 혼조세예요. 오전 11시 26분(미 동부)께 다우는 약 0.5% 올랐고 나스닥은 약 0.3% 내렸어요(장중, 종가 아님).",
+      "why": "지난주 S&P500·나스닥이 최고치를 쓴 뒤 은행 실적(13일)과 물가 지표를 앞두고 숨 고르기를 하는 모습이에요.",
+      "impact": {
+        "dir": "neutral",
+        "text": "반도체주 약세가 나스닥을 누르고 에너지주는 유가 상승에 강세라 업종별로 엇갈려요."
+      },
+      "tickers": [
+        "^DJI",
+        "^IXIC",
+        "^GSPC"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Yahoo Finance (10/12 11:26 ET)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html"
+        },
+        {
+          "name": "AP·ABC7 Chicago (10/12)",
+          "url": "https://abc7chicago.com/post/us-stocks-hover-latest-record-mixed-trading-wall-street-dow-jones-rose-nasdaq-composite-slipped/19932185/"
+        }
+      ]
+    },
+    {
+      "id": "20261013-0041-2",
+      "time": "2026-10-12T23:40:00+09:00",
+      "category": "종목",
+      "title": "마이크론 약 4%↓, 中 CXMT 신형 D램 여파",
+      "summary": "중국 CXMT가 더 촘촘한 차세대 D램 셀 구조(4F²)를 쓴 서버용 메모리를 연내 내놓겠다고 밝히자 마이크론이 미국 장 초반 3.6~4% 내렸어요. 같은 날 한국에서도 SK하이닉스(-4.52%)·삼성전자(-4.39%)가 하락 마감했어요.",
+      "why": "중국 메모리 업체의 기술 추격이 메모리 가격·점유율 경쟁 우려로 이어져 한·미 메모리주 전체에 부담이 됐어요.",
+      "impact": {
+        "dir": "down",
+        "text": "삼성전자·SK하이닉스 등 메모리주에 경쟁 우려 부담. 다만 CXMT 제품의 실제 출하·고객 인증은 아직 확인되지 않았어요."
+      },
+      "tickers": [
+        "MU",
+        "000660.KS",
+        "005930.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "24/7 Wall St. (10/12)",
+          "url": "https://247wallst.com/investing/2026/10/12/memory-stocks-slide-as-chinas-cxmt-flags-denser-chip-design-micron-and-sk-hynix-fall-4-western-digital-drops-2/"
+        },
+        {
+          "name": "CNBC (10/12)",
+          "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "IBTimes (10/12)",
+          "url": "https://www.ibtimes.com.au/micron-sk-hynix-shares-fall-cxmt-denser-dram-1876576"
+        }
+      ]
+    },
+    {
+      "id": "20261013-0041-3",
+      "time": "2026-10-12T20:24:00+09:00",
+      "category": "원자재",
+      "title": "브렌트유 106달러, 9/29 이후 최고",
+      "summary": "브렌트유가 12일 한국시간 저녁 8시 24분께 1.2% 오른 배럴당 106.19달러로 9월 29일 이후 가장 높았어요. 오전엔 105달러 근처(앞 소식)였는데 후티의 사우디 공격·호르무즈 유조선 피격·러시아의 우크라 발전소 공격 우려가 겹치며 더 올랐어요.",
+      "why": "유가가 100달러 위에서 다시 오르면 미국 물가 지표(CPI)를 앞두고 인플레이션·금리 부담이 커질 수 있어요.",
+      "impact": {
+        "dir": "up",
+        "text": "정유·에너지주(엑슨·셰브런)엔 우호적, 항공·운송과 원유 수입국 통화엔 부담이 될 수 있어요."
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F",
+        "XOM",
+        "CVX"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Reuters 인용 Sunday Guardian (10/12 11:24 GMT)",
+          "url": "https://sundayguardianlive.com/world/oil-prices-today-brent-crude-climbs-to-near-two-week-high-at-10619-as-houthi-attacks-on-saudi-arabia-and-strait-of-hormuz-tanker-strikes-raise-supply-fears-304200/"
+        },
+        {
+          "name": "AP·ABC7 Chicago (10/12)",
+          "url": "https://abc7chicago.com/post/us-stocks-hover-latest-record-mixed-trading-wall-street-dow-jones-rose-nasdaq-composite-slipped/19932185/"
+        }
+      ]
+    },
+    {
+      "id": "20261012-2141-1",
+      "time": "2026-10-12T17:43:00+09:00",
+      "category": "종목",
+      "title": "유럽 증시 상승 출발, 은행주 주도",
+      "summary": "12일 유럽 증시에서 Stoxx 600 지수가 그리니치 기준 08:43(한국 17:43)께 0.56% 오른 635.09를 기록했어요(앞선 시점 634.25, +0.43%). 은행 업종이 약 1.5% 오르며 상승을 이끌었고, 스페인 IBEX도 1.1~1.3% 올랐어요.",
+      "why": "같은 날 코스피가 3.65% 급락한 것과 달리 유럽은 3분기 실적 시즌을 앞둔 은행주 강세로 출발했고, 13일 미국 대형은행 실적이 나와요.",
+      "impact": {
+        "dir": "up",
+        "text": "기사들은 러·우크라 '에너지 휴전' 기대에 따른 유가 진정과 금리 하락을 배경으로 꼽아 유럽 은행주에 우호적인 흐름이에요. 다만 장 초반 수치라 마감은 달라질 수 있어요."
+      },
+      "tickers": [
+        "^STOXX",
+        "^IBEX"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Reuters 인용 yournews (10/12)",
+          "url": "https://yournews.com/2026/10/12/7223055/european-stocks-advance-as-banks-rally-ahead-of-earnings-season"
+        },
+        {
+          "name": "Reuters 인용 Business Recorder (10/12)",
+          "url": "https://brecorder.com/news/40443806/european-shares-rise-on-lower-oil-prices-bank-strength-ahead-of-earnings"
+        }
+      ]
+    },
+    {
+      "id": "20261012-2141-2",
+      "time": "2026-10-11T08:45:00+09:00",
+      "category": "종목",
+      "title": "엔비디아, 리플렉션AI 인수 협상 보도",
+      "summary": "파이낸셜타임스(FT)가 현지 10일, 엔비디아가 오픈웨이트 AI 모델 개발사 리플렉션 AI를 인수하거나 추가 투자하는 방안을 초기 협상 중이라고 보도했어요. 엔비디아는 이미 8억달러를 투자했고, 리플렉션의 기업가치는 3월 투자 유치 때 250억달러로 평가됐어요.",
+      "why": "전체 인수 외에 인력 채용·기술 라이선스('어크하이어') 방식도 거론돼, 자체 프런티어 모델이 없는 엔비디아가 모델 분야로 넓히는 신호로 해석돼요.",
+      "impact": {
+        "dir": "neutral",
+        "text": "협상이 초기 단계라 결렬될 수 있고 조건도 공개되지 않아, 엔비디아 주가에 줄 영향은 아직 판단하기 어려워요."
+      },
+      "tickers": [
+        "NVDA"
+      ],
+      "confidence": "주의",
+      "sources": [
+        {
+          "name": "Investing.com (FT 인용, 10/10)",
+          "url": "https://www.investing.com/news/company-news/nvidia-in-talks-to-acquire-reflection-ai-or-increase-investment-ft-reports-4942324"
+        },
+        {
+          "name": "ZDNet Korea (10/11)",
+          "url": "https://zdnet.co.kr/view/?no=20261011084533"
+        },
+        {
+          "name": "뉴스핌 미국 특징주 (10/12)",
+          "url": "https://www.newspim.com/news/view/20261012000094"
+        }
+      ]
+    },
+    {
+      "id": "20261012-1841-1",
+      "time": "2026-10-12T15:30:00+09:00",
+      "category": "국내",
+      "title": "코스피 3.65% 급락 마감, 6,384선",
+      "summary": "12일 코스피가 241.69포인트(3.65%) 내린 6,384.24에 마감했고, 코스닥은 4.83% 내린 849.19로 끝났어요. 오전에 전한 장중 3%대 하락(6,420선)이 종가까지 이어졌고, 외국인이 코스피에서 약 2조원(2조186억~2조250억원)을 순매도하는 동안 개인이 약 1조4,700억원을 사들였어요.",
+      "why": "6,300대 종가는 8월 이후 약 두 달 만이라는 보도가 나왔고, 외국인 매도가 SK하이닉스(약 1조원)·삼성전자(약 5,300억원)에 몰렸어요.",
+      "impact": {
+        "dir": "down",
+        "text": "삼성전자(-4.39%, 25만500원)·SK하이닉스(-4.52%, 160만5,000원)가 함께 밀려 반도체 대형주와 지수에 하락 압력이 확인됐어요. 기사들은 미국 반도체주 약세·AI 투자 우려·미 금리·중동 정세를 배경으로 꼽아요."
+      },
+      "tickers": [
+        "^KS11",
+        "^KQ11",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "아시아경제 (10/12 15:33)",
+          "url": "https://view.asiae.co.kr/article/2026101215331204720"
+        },
+        {
+          "name": "뉴스핌 마감시황 (10/12)",
+          "url": "https://newspim.com/news/view/20261012001236"
+        },
+        {
+          "name": "싱글리스트 (10/12)",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=772774"
+        }
+      ]
+    },
+    {
+      "id": "20261012-1841-2",
+      "time": "2026-10-12T15:30:00+09:00",
+      "category": "환율",
+      "title": "원·달러 1,335.1원 마감, 2년 만의 최저",
+      "summary": "12일 서울 외환시장에서 원·달러 환율이 오후 3시 30분 주간거래 종가 기준 7.7원 내린 1,335.1원에 마감했어요. 1,342.5원에 출발해 내려갔고, 2024년 10월 4일 이후 가장 낮은 수준이라고 보도됐어요.",
+      "why": "오전에 전한 장중 2년 최저(1,333.2원) 흐름이 종가로 확인됐고, 반도체 기업 중심의 달러 매도(수출 대금 환전)가 이어졌다는 분석이에요.",
+      "impact": {
+        "dir": "down",
+        "text": "환율 숫자가 내려간 것이라 원화 강세 쪽이에요. 같은 날 외국인이 주식을 2조원가량 팔았는데도 환율이 내린 점이 눈에 띄고, 해외주식 환전 비용은 낮아지는 쪽이에요."
+      },
+      "tickers": [
+        "KRW=X"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "머니투데이 (10/12 15:44)",
+          "url": "https://www.mt.co.kr/economy/2026/10/12/2026101215440045026"
+        },
+        {
+          "name": "아시아경제 (10/12 17:28)",
+          "url": "https://view.asiae.co.kr/article/2026101217282362201"
+        },
+        {
+          "name": "데일리팝 (10/12)",
+          "url": "http://www.dailypop.kr/news/articleView.html?idxno=103311"
+        }
+      ]
+    },
+    {
+      "id": "20261012-1240-1",
+      "time": "2026-10-12T10:15:00+09:00",
+      "category": "국내",
+      "title": "코스피 장중 3%대 급락, 6,420선",
+      "summary": "연휴 뒤 첫 거래일인 12일 코스피가 오전 10시 15분께 6,419.99(-3.11%)까지 밀렸고, 코스닥도 859.54(-3.67%)로 함께 떨어졌어요. 9시 40분에 전한 1%대 하락(6,540선)에서 낙폭이 커졌고, 외국인이 5,300억원 넘게 순매도하는 동안 개인이 사들였어요.",
+      "why": "기사들은 오픈AI 연환산매출이 기대에 못 미쳤다는 보도로 번진 AI 거품론과, 연휴 중 필라델피아 반도체지수가 이틀간 3.8% 내린 것을 배경으로 꼽아요.",
+      "impact": {
+        "dir": "down",
+        "text": "SK하이닉스(장중 -4%대)·삼성전자(-1%대) 등 반도체 대형주와 코스피 지수에 하락 압력이에요. 종가는 아직 확정되지 않았어요."
+      },
+      "tickers": [
+        "^KS11",
+        "^KQ11",
+        "000660.KS",
+        "005930.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "잡포스트 (10/12 10:15 기준)",
+          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=231538"
+        },
+        {
+          "name": "산경투데이 (10/12)",
+          "url": "https://sankyungtoday.com/news/articleView.html?idxno=63546"
+        },
+        {
+          "name": "재경일보 (10/12)",
+          "url": "https://news.jkn.co.kr/post/1018002"
+        }
+      ]
+    },
+    {
+      "id": "20261012-1240-2",
+      "time": "2026-10-12T09:56:00+09:00",
+      "category": "환율",
+      "title": "원·달러 1,333.2원, 2년 만에 최저",
+      "summary": "원·달러 환율이 12일 1,342.5원에 출발한 뒤 오전 9시 56분께 1,333.2원까지 내려, 2024년 10월 4일 저점(1,331.3원) 이후 가장 낮았어요. 오전 11시 10분에는 1,336.7원이었고, 원/100엔 재정환율도 845원대로 2008년 1월(833.4원) 수준에 가까워졌어요.",
+      "why": "환율 숫자가 내려간 것은 원화가 달러 대비 강해졌다는 뜻이고, 수출업체의 달러 매도(네고) 물량이 나온 영향이라는 분석이에요.",
+      "impact": {
+        "dir": "down",
+        "text": "원·달러 환율 숫자에는 하락(원화 강세) 쪽이에요. 외국인이 주식을 파는 날인데도 원화가 강해 엇갈린 흐름이라, 종가까지 유지되는지 확인이 필요해요."
+      },
+      "tickers": [
+        "KRW=X",
+        "JPYKRW=X"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "SBS Biz (10/12)",
+          "url": "https://biz.sbs.co.kr/article/20000339354"
+        },
+        {
+          "name": "아주경제 (10/12 11:37)",
+          "url": "https://www.ajunews.com/view/20261012113748279"
+        },
+        {
+          "name": "세계일보·연합 (10/12)",
+          "url": "https://www.segye.com/newsView/20261012510123"
+        }
+      ]
+    },
+    {
+      "id": "20261012-0940-1",
+      "time": "2026-10-12T09:19:00+09:00",
+      "category": "국내",
+      "title": "연휴 끝 코스피 1%대 하락, 6,540선",
+      "summary": "한글날 연휴 뒤 첫 거래일인 12일 코스피는 47.76포인트(0.72%) 내린 6,578.17로 출발했고, 9시 19분에는 6,544.95(-1.22%)까지 밀렸어요. 외국인이 1,614억 원, 기관이 111억 원 순매도하고 개인이 1,664억 원 순매수했으며, 삼성전자(-0.86%)·SK하이닉스(-2.38%)가 지수를 끌어내렸어요.",
+      "why": "10/8 2.62% 급락(6,625.93 마감) 뒤에도 중동 긴장과 외국인 반도체 매도가 이어지고 있다는 신호예요.",
+      "impact": {
+        "dir": "down",
+        "text": "외국인 매도가 몰리는 삼성전자·SK하이닉스 등 반도체 대형주와 코스피 지수에 부담이 될 수 있어요(코스닥도 0.76% 내린 885.53 출발)."
+      },
+      "tickers": [
+        "^KS11",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스 (10/12 09:00)",
+          "url": "https://www.fnnews.com/news/202610120900289437"
+        },
+        {
+          "name": "머니투데이 (10/12 08:57)",
+          "url": "https://www.mt.co.kr/stock/2026/10/12/2026101208575738872"
+        },
+        {
+          "name": "블루밍비트 (10/12 09:19 기준)",
+          "url": "https://bloomingbit.io/feed/news/121986"
+        },
+        {
+          "name": "뉴스핌 개장시황 (10/12)",
+          "url": "https://www.newspim.com/news/view/20261012000025"
+        }
+      ]
+    },
+    {
+      "id": "20261012-0940-2",
+      "time": "2026-10-12T09:00:00+09:00",
+      "category": "원자재",
+      "title": "브렌트유 0.7%↑, 105달러 육박",
+      "summary": "12일 아시아장에서 브렌트유가 약 0.7% 올라 배럴당 105달러에 근접했고, WTI는 92달러 안팎에서 거래됐어요(블룸버그 인용). 앞서 전한 후티의 리야드 공항 연쇄 공격과 호르무즈 해협 안팎 유조선 2척 피격이 주말 사이 겹친 영향이에요.",
+      "why": "10/10 104.72달러 마감 뒤 주말 악재가 월요일 가격에 반영되며 고유가가 이어지고 있어요.",
+      "impact": {
+        "dir": "up",
+        "text": "정유·해운 운임에는 위쪽, 항공·화학 등 원가 부담 업종과 인플레이션 우려(10/14 미국 CPI 앞) 쪽에는 부담이 될 수 있어요."
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "EBN (10/12)",
+          "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727342"
+        },
+        {
+          "name": "뉴스1 (10/12)",
+          "url": "https://www.news1.kr/world/international-economy/6316276"
+        }
+      ]
+    },
+    {
+      "id": "20261012-0940-3",
+      "time": "2026-10-12T07:00:00+09:00",
+      "category": "종목",
+      "title": "미 선물 보합 출발, 은행 실적 주간",
+      "summary": "미국 동부 11일(일) 밤 S&P500·나스닥100 선물이 0.03%·0.07% 오르며 거의 변동 없이 출발했어요(CNBC). 이번 주 10/13 JP모건·골드만삭스·씨티·웰스파고를 시작으로 대형은행 3분기 실적이 나오고, 10/14 9월 CPI가 발표돼요.",
+      "why": "FactSet 기준 S&P500 3분기 이익 증가율 전망이 29.6%로 높아, 은행 실적이 실적 시즌 분위기를 정할 수 있어요.",
+      "impact": {
+        "dir": "neutral",
+        "text": "선물은 방향을 정하지 못했고, 은행 실적과 CPI 결과에 따라 금융주·지수 변동성이 커질 수 있어요."
+      },
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "JPM",
+        "GS",
+        "C",
+        "WFC"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/11 밤, 미 동부)",
+          "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "Yahoo Finance (10/12)",
+          "url": "https://finance.yahoo.com/"
+        }
+      ]
+    },
+    {
+      "id": "20261012-0642-1",
+      "time": "2026-10-12T04:00:00+09:00",
+      "category": "원자재",
+      "title": "에너지 휴전 직후 러, 하르키우 발전소 공격",
+      "summary": "트럼프 대통령이 현지 11일 오전 러·우크라 \"에너지 휴전\"을 발표한 지 몇 시간 뒤인 같은 날 저녁, 러시아가 하르키우 열병합발전소를 공격해 화재가 났어요. 젤렌스키 대통령은 키이우의 발전소도 공격받았다며 러시아가 지난 한 주 우크라이나 전력망을 200차례 넘게 공격했다고 밝혔고, 러시아는 휴전에 대해 아직 입장을 내지 않았어요.",
+      "why": "앞서 올린 트럼프의 \"에너지 휴전\" 발표(10/11)가 실제로는 지켜지지 않고 있다는 첫 신호여서, 러시아 정유시설 공격 중단에 따른 연료 공급 안정 기대가 약해질 수 있어요.",
+      "impact": {
+        "dir": "neutral",
+        "text": "휴전 기대가 꺾이면 경유·유가 하락 요인이 약해지지만, 우크라이나의 러시아 정유시설 공격 재개 여부는 아직 확인되지 않아 방향은 중립으로 봐요."
+      },
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Kyiv Independent (10/11)",
+          "url": "https://kyivindependent.com/russia-struck-kharkivs-power-plant-shortly-after-trump-announced-energy-ceasefire/"
+        },
+        {
+          "name": "The Hill (10/11)",
+          "url": "https://thehill.com/policy/international/6141601-russia-strikes-ukraine-power-plant/"
+        },
+        {
+          "name": "Euromaidan Press (10/11)",
+          "url": "https://euromaidanpress.com/2026/10/11/hours-after-trump-declared-an-energy-ceasefire-russia-hit-kharkiv-power-plant-one-of-200-plus-strikes-on-ukraines-grid-this-week-zelenskyy-says/"
+        }
+      ]
+    },
+    {
+      "id": "20261012-0642-2",
+      "time": "2026-10-11T22:58:00+09:00",
+      "category": "원자재",
+      "title": "호르무즈서 유조선 또 피격, 이틀 연속",
+      "summary": "영국 해사무역기구(UKMTO)는 현지 11일(일) 호르무즈 해협을 빠져나가던 유조선 1척이 정체불명 발사체에 왼쪽 선체를 맞아 파손됐지만 선원은 모두 무사하다고 밝혔어요. 10일 밤(19:20 UTC)에도 다른 출항 유조선이 같은 방식으로 맞아 불이 났는데, 두 배의 이름과 공격 주체는 공개되지 않았어요.",
+      "why": "이란이 미국 답변을 불충분하다고 한 날 유조선 피격이 이틀 연속 이어져, 해협 통항이 늘고 있다는 미국 설명과 달리 해상 위험이 계속되고 있어요.",
+      "impact": {
+        "dir": "up",
+        "text": "월요일 거래 재개 때 브렌트·WTI와 유조선 보험료에 오름 압력이 될 수 있어요. 다만 원유 유출·공급 차질은 보고되지 않았어요."
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "gCaptain (10/11)",
+          "url": "https://gcaptain.com/more-tankers-hit-in-hormuz-as-u-s-strikes-cargo-ship/"
+        },
+        {
+          "name": "경향신문 영문 (10/11 22:58)",
+          "url": "https://khan.co.kr/en/article/202610112258007"
+        },
+        {
+          "name": "Newsy Today (10/11)",
+          "url": "https://www.newsy-today.com/ukmto-confirms-two-tankers-damaged-in-hormuz-strait-attacks/"
+        }
+      ]
+    },
+    {
+      "id": "20261012-0340-1",
+      "time": "2026-10-12T03:40:00+09:00",
+      "category": "원자재",
+      "title": "이란 \"호르무즈 재개방안 美 답변 불충분\"",
+      "summary": "이란 최고국가안보회의 레자이 사무총장이 현지 10/11 국영 IRNA를 통해, 호르무즈 해협 재개방 제안에 대한 미국의 카타르 경유 답변이 '불충분하다'고 말했어요. 미국이 조건 일부는 받아들였지만 나머지는 불분명하고, 7개 조건이 충족되기 전에는 해협을 열지도 협상하지도 않겠다고 했어요.",
+      "why": "이란은 유엔총회 때 조건이 맞으면 7일 안에 해협 통항을 정상화하겠다고 제안했는데, 이번 발언으로 종전·해협 재개방 협상이 다시 멈춘 모습이에요.",
+      "impact": {
+        "dir": "up",
+        "text": "호르무즈 정상화 기대가 늦춰지면 월요일 브렌트·WTI에 상승 압력이 될 수 있어요(같은 날 트럼프의 러·우크라 에너지 휴전 발표는 반대 방향 요인)."
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Reuters via ThePrint (10/11)",
+          "url": "https://theprint.in/world/iran-says-us-response-to-its-proposal-to-reopen-hormuz-was-insufficient/3068754/"
+        },
+        {
+          "name": "Arab News (10/11)",
+          "url": "https://www.arabnews.com/middle-east/iran-says-us-response-to-its-proposal-to-reopen-hormuz-was-insufficient-state-media-reports-3005806"
+        },
+        {
+          "name": "AP via Audacy (10/11)",
+          "url": "https://www.audacy.com/knss/news/world/saudi-arabia-houthis-netanyahu-october-11-2026-baa06588f3ebe6dad93695581f68d3c1"
+        }
+      ]
+    },
+    {
+      "id": "20261012-0040-1",
+      "time": "2026-10-11T23:00:00+09:00",
+      "category": "원자재",
+      "title": "트럼프 \"러·우크라 에너지 휴전\" 발표",
+      "summary": "트럼프 대통령이 현지 11일(일) 오전 트루스소셜에 '즉시 러시아·우크라이나 전쟁에 에너지 휴전이 발효된다'고 올렸어요. 젤렌스키 대통령은 '나도 처음 듣는 소식'이라며 러시아가 동의하면 따르겠다고 했고, 러시아는 아직 확인하지 않았어요.",
+      "why": "러시아 정유시설 공격이 경유 공급을 흔들어 왔는데, 지난 9일 '푸틴 경유 공급 합의'에 이어 나온 조치라 실제로 지켜지면 연료 공급 부담이 줄 수 있어요.",
+      "impact": {
+        "dir": "neutral",
+        "text": "휴전이 확인되면 경유·유가에 하락 압력이 될 수 있지만, 9월에도 같은 발표 뒤 공격이 이어져 실제 이행 여부를 봐야 해요."
+      },
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "NBC News (10/11)",
+          "url": "https://www.nbcnews.com/world/ukraine/trump-russia-ukraine-agree-energy-ceasefire-zelenskyy-diesel-rcna602766"
+        },
+        {
+          "name": "Axios (10/11)",
+          "url": "https://www.axios.com/2026/10/11/trump-russia-ukraine-energy-ceasefire-zelensky"
+        },
+        {
+          "name": "Euronews (10/11)",
+          "url": "https://www.euronews.com/2026/10/11/energy-ceasefire-agreed-between-russia-and-ukraine-trump-says"
+        }
+      ]
+    },
+    {
+      "id": "20261012-0040-2",
+      "time": "2026-10-11T19:00:00+09:00",
+      "category": "원자재",
+      "title": "리야드 공항 또 피격, 4터미널 화재",
+      "summary": "사우디 주도 연합군 대변인은 현지 11일(일) 발사체가 리야드 킹칼리드 공항 4터미널에 떨어져 화재가 났고, 공항 근처에서 순항미사일 1발을 요격했다고 밝혔어요. 12명이 숨진 10일 공격에 이어 이틀 연속 피격이며 공항은 11일에도 폐쇄됐어요.",
+      "why": "후티의 사우디 공격이 수도 핵심 시설까지 반복되면서 미국 개입 가능성과 걸프 지역 긴장이 함께 커지고 있어요.",
+      "impact": {
+        "dir": "up",
+        "text": "중동 공급 불안이 커지면 유가에 상승 압력이 될 수 있어요. 이번 피격 대상은 석유 시설이 아닌 공항이에요."
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Saudi Gazette (10/11)",
+          "url": "https://saudigazette.com.sa/article/665312/saudi-arabia/projectile-hits-terminal-4-of-riyadh-airport-causing-fire"
+        },
+        {
+          "name": "Euronews (10/11)",
+          "url": "https://www.euronews.com/2026/10/11/riyadh-airport-stays-shut-after-deadly-attack-as-trump-says-us-may-join-saudi-strikes-on-h"
+        },
+        {
+          "name": "France 24 (10/11)",
+          "url": "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport"
+        }
+      ]
+    },
+    {
+      "id": "20261011-1840-1",
+      "time": "2026-10-11T17:46:00+09:00",
+      "category": "정책",
+      "title": "후티 \"사우디 공항 이용 말라\" 재경고",
+      "summary": "후티 반군 군 대변인 야히야 사레아가 현지 10/11(일) X에 항공사·항공 종사자·여행객에게 사우디 공항과 영공을 쓰지 말라고 다시 경고했어요. 메카·메디나 공항은 제외했고, \"공항에는 공항, 봉쇄에는 봉쇄\"라며 보복을 예고했어요.",
+      "why": "10/10 리야드 공항 피격(12명 사망) 뒤 리야드 공항은 운영이 멈췄고, 에미레이트 등 UAE 항공사가 일요일·월요일 리야드 노선을 취소하는 등 걸프 지역 항공 차질이 커지고 있어요.",
+      "impact": {
+        "dir": "neutral",
+        "text": "사우디 원유 시설을 겨냥한 위협은 아니지만 걸프 확전 우려를 키워 월요일 유가·중동 노선 항공사 주가의 변동성을 키울 수 있어요. 실제 원유 공급 차질은 확인되지 않았어요."
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스 영문 (10/11 17:46)",
+          "url": "https://en.fnnews.com/news/202610111746202831"
+        },
+        {
+          "name": "SBS 영문 (10/11)",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008792023"
+        },
+        {
+          "name": "The National (10/11)",
+          "url": "https://www.thenationalnews.com/travel/2026/10/11/riyadh-airport-closure-emirates-etihad-cancel-flights-sunday-monday/"
+        }
+      ]
+    },
+    {
+      "id": "20261011-1540-1",
+      "time": "2026-10-11T13:40:00+09:00",
+      "category": "원자재",
+      "title": "미군, 오만만서 이란 봉쇄 돌파 화물선 타격",
+      "summary": "미 중부사령부(CENTCOM)는 현지 10/10 이란 항구에서 출항해 봉쇄를 뚫으려던 파나마 국적 벌크선 오션 몰리카(Ocean Molica, 일명 Arika Sun)를 전투기가 정밀유도탄으로 고물(선미)을 맞혀 멈춰 세웠다고 밝혔어요. 선원 피해는 없었고, 공식 발표된 이란 관련 선박 공격은 9/8 이후 한 달여 만이에요.",
+      "why": "CENTCOM은 3개월 봉쇄 동안 상선 4척을 무력화하고 135척을 돌려보냈으며 IRGC 연계 유조선 10척을 파괴했다고 밝혀, 같은 주말 이란의 유조선 공격 주장·리야드 공항 피격과 함께 걸프 해상 긴장이 한층 높아졌어요.",
+      "impact": {
+        "dir": "up",
+        "text": "월요일 거래 재개 때 유가(브렌트 10/9 104.72달러)와 해운 보험료에 오름 압력이 될 수 있어요. 다만 이번 선박은 원유가 아닌 화물선이고, 실제 원유 공급 차질은 확인되지 않았어요."
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Al Jazeera (10/11)",
+          "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman"
+        },
+        {
+          "name": "ANI (10/11)",
+          "url": "https://aninews.in/news/world/us/us-fighter-jet-strikes-cargo-ship-in-gulf-of-oman-as-iran-blockade-tightens20261011101052/"
+        },
+        {
+          "name": "Ynet News (10/11)",
+          "url": "https://www.ynetnews.com/article/syuhakoigl"
+        }
+      ]
+    },
+    {
+      "id": "20261011-1240-1",
+      "time": "2026-10-11T05:25:00+09:00",
+      "category": "원자재",
+      "title": "혁명수비대 \"초대형 유조선 기뢰 폭발\" 주장",
+      "summary": "이란 혁명수비대(IRGC) 해군이 현지 10/10 성명에서, 이란이 지정하지 않은 남쪽 항로로 호르무즈 해협을 빠져나가던 초대형 유조선이 기뢰에 부딪혀 폭발했다고 주장했어요. 선박 이름·국적·선원 피해는 밝히지 않았고, 독립적인 확인은 아직 없어요.",
+      "why": "앞서 선주가 부인한 NV 선샤인호 공격 주장에 이어 나온 두 번째 선박 공격 주장으로, IRGC는 위반 선박에 대한 조치를 호르무즈 밖으로도 넓히겠다고 경고했어요.",
+      "impact": {
+        "dir": "up",
+        "text": "사실로 확인되면 월요일 거래 재개 때 유가와 유조선 보험료에 오름 압력이 될 수 있어요. 다만 이란 측 주장뿐이고, 같은 날 UAE가 걸프 해역 유조선 화재에서 선원 22명을 구조했다는 소식과 같은 배인지도 확인되지 않았어요."
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "주의",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스 (10/11 05:25)",
+          "url": "https://www.fnnews.com/news/202610110525183106"
+        },
+        {
+          "name": "IANS/Telangana Today (10/10)",
+          "url": "https://telanganatoday.com/irans-irgc-says-violating-supertanker-exploded-after-hitting-mines-in-hormuz-strait"
+        }
+      ]
+    },
+    {
+      "id": "20261011-0940-1",
+      "time": "2026-10-11T06:00:00+09:00",
+      "category": "원자재",
+      "title": "리야드 공항 피격 12명 사망…美 개입 검토",
+      "summary": "현지 10/10(토) 사우디 리야드 킹칼리드 국제공항이 공격받아 최소 12명이 숨지고 309명이 다쳤다고 사우디 당국이 밝혔어요. 사망자 중 미국인 1명이 포함됐고, 사우디 주도 연합군과 미 국무부는 후티 반군을 지목했어요(후티는 이번 공격을 아직 인정하지 않음).",
+      "why": "이란 전쟁 이후 걸프 국가에서 가장 큰 인명 피해로, 트럼프 대통령이 \"그럴 수도 있다, 검토하겠다\"며 사우디의 후티 공습에 미국이 동참할지 결정하겠다고 밝혀 확전 가능성이 커졌어요.",
+      "impact": {
+        "dir": "up",
+        "text": "앞서 '중간선거 전 이란 공격 없다'던 흐름에 미군 개입 변수가 더해져, 월요일 거래 재개 때 유가(브렌트 10/9 104.72달러)에 오름 압력이 될 수 있어요. 실제 원유 공급 차질은 아직 확인되지 않았어요."
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNN (10/10)",
+          "url": "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl"
+        },
+        {
+          "name": "NPR (10/10)",
+          "url": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack"
+        },
+        {
+          "name": "NBC News (10/10)",
+          "url": "https://www.nbcnews.com/world/middle-east/riyadh-airport-attacked-rcna602662"
+        }
+      ]
+    },
+    {
+      "id": "20261011-0640-1",
+      "time": "2026-10-10T18:00:00+09:00",
+      "category": "원자재",
+      "title": "선박 소유사 \"NV 선샤인 피격 없었다\"",
+      "summary": "앞서 전한 이란 혁명수비대의 유조선 공격 주장과 관련해, 해당 선박은 베트남 PVTrans 자회사 NVTrans 소속 LPG 운반선 NV 선샤인(NV Sunshine)호로 전해졌어요. NVTrans는 10/10 성명에서 \"공격받지 않았고 기관실 화재도 없었으며, 선박과 선원 모두 안전하게 정상 운항 중\"이라고 반박했어요.",
+      "why": "이란 측 주장을 선주가 부인하면서, 호르무즈 신규 피격 소식이 과장됐을 가능성이 생겼어요.",
+      "impact": {
+        "dir": "neutral",
+        "text": "추가 공급 차질 우려는 다소 줄 수 있지만, 해협이 사실상 막힌 상황은 그대로라 월요일 유가 방향은 단정하기 어려워요."
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Canberra Times/AAP (10/10)",
+          "url": "https://www.canberratimes.com.au/story/9365979/iran-claims-it-struck-gas-tanker-in-strait-of-hormuz/"
+        },
+        {
+          "name": "Tin Nhanh Chung Khoan (10/10)",
+          "url": "https://www.tinnhanhchungkhoan.vn/pvtrans-pvt-phu-nhan-tau-nv-sunshine-bi-tan-cong-tai-khu-vuc-eo-bien-hormuz-post399190.html"
+        }
+      ]
+    },
+    {
+      "id": "20261011-0640-2",
+      "time": "2026-10-10T20:00:00+09:00",
+      "category": "원자재",
+      "title": "사우디 연합군 \"후티 표적 136곳 파괴\"",
+      "summary": "사우디 주도 연합군 대변인 투르키 알말리키가 10/10 예멘 후티 반군 지역의 군사 표적 136곳을 파괴했다고 밝혔어요. 탄도미사일 발사 시설 등을 겨냥한 대규모 작전으로, 최근 후티의 리야드 킹칼리드 국제공항 공격 뒤 이어진 공세예요.",
+      "why": "후티와 사우디의 충돌이 커지면 홍해·사우디 에너지 시설을 둘러싼 지정학 위험이 유가에 더해질 수 있어요.",
+      "impact": {
+        "dir": "up",
+        "text": "중동 긴장 확대는 유가 상승 압력이 될 수 있지만, 실제 공급 차질은 아직 확인되지 않았어요."
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "사우디 국영 SPA (10/10)",
+          "url": "https://www.spa.gov.sa/en/N2697547"
+        },
+        {
+          "name": "Malay Mail (10/10)",
+          "url": "https://www.malaymail.com/news/world/2026/10/10/saudi-led-coalition-says-destroyed-more-than-100-houthi-targets/238507"
+        }
+      ]
+    },
+    {
+      "id": "20261011-0640-3",
+      "time": "2026-10-10T09:00:00+09:00",
+      "category": "정책",
+      "title": "트럼프 \"이란 전쟁, 어떻게든 곧 끝\"",
+      "summary": "트럼프 대통령은 현지 10/9 연설에서 이란 전쟁이 \"어느 쪽이든 아주 빨리\" 끝날 것이라며, 이란이 모든 것을 내주거나 아니면 존재하지 않게 될 것이라고 경고했어요. 앞서 밝힌 '중간선거(11/3) 전 이란 공격 없다'는 입장과 함께 나온 발언으로, 구체적 시한이나 조건은 제시하지 않았어요.",
+      "why": "협상 타결과 군사 행동 가능성을 함께 열어둬, 선거 뒤 호르무즈·유가 시나리오가 크게 갈릴 수 있어요.",
+      "impact": {
+        "dir": "neutral",
+        "text": "타결 기대는 유가 하락, 강경 발언은 상승 요인이라 방향은 엇갈려요."
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Iran International (10/10)",
+          "url": "https://www.iranintl.com/en/liveblog/202610033293"
+        },
+        {
+          "name": "Voz (10/10)",
+          "url": "https://voz.us/en/politics/261010/39840/trump-says-the-war-with-iran-is-nearing-an-end-one-way-or-the-other.html"
+        }
+      ]
+    },
+    {
+      "id": "20261011-0045-1",
+      "time": "2026-10-10T00:00:00+09:00",
+      "category": "원자재",
+      "title": "이란 혁명수비대 \"유조선 공격\"…역외 위협",
+      "summary": "이란 혁명수비대(IRGC)가 10/9 호르무즈 해협 남쪽 항로를 지나던 유조선 MV 선샤인(Sun Shine)호의 기관실·추진장치를 공격해 불이 났다고 주장했어요. 이 항로를 '허가받지 않은 길'이라고 부르며, 이런 길을 쓰는 선박은 해협 밖 어디서든 쫓아가 '처벌'하겠다고 경고했어요.",
+      "why": "이란이 호르무즈 재개방 '7일 계획'에 대한 미국 답변을 검토하는 와중에 공격 범위를 넓히겠다고 밝혀, 협상 기대와 공급 차질 우려가 엇갈려요.",
+      "impact": {
+        "dir": "up",
+        "text": "브렌트유(10/9 104.72달러 마감)에는 다음 거래 재개 때 오름 압력이 될 수 있어요. 다만 피해 규모는 IRGC 주장만 있어 독립 확인 전까지는 조심해서 봐야 해요."
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "주의",
+      "sources": [
+        {
+          "name": "Euronews (10/9)",
+          "url": "https://www.euronews.com/2026/10/09/irans-irgc-strikes-tanker-and-threatens-to-target-vessels-beyond-hormuz"
+        },
+        {
+          "name": "CNBC (10/9)",
+          "url": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html"
+        }
+      ]
+    },
+    {
+      "id": "20261010-1845-1",
+      "time": "2026-10-10T01:30:00+09:00",
+      "category": "정책",
+      "title": "트럼프, 연준 쿡 이사 조사위 구성",
+      "summary": "트럼프 대통령이 리사 쿡 연준 이사의 주택담보대출 서류 허위진술 의혹을 조사할 '조사위원회'를 만들고, 11/5 백악관에서 비공개 청문회(4시간 이내)를 열도록 했어요. 위원은 해싯 국가경제위원장, 루카스 EEOC 위원장, 손더링 정부윤리청장 대행 3명이고, 해임 사유가 있는지 대통령에게 권고해요.",
+      "why": "6월 대법원이 첫 해임을 절차 문제로 막은 뒤 다시 해임을 추진하는 것으로, 연준 독립성 논란이 커질 수 있어요. 쿡 이사는 혐의를 부인하고 있고 기소된 적은 없어요.",
+      "impact": {
+        "dir": "neutral",
+        "text": "연준 독립성 우려는 장기 국채금리·달러에 변수가 될 수 있지만, 청문회가 11/5라 당장 시장 방향은 중립으로 봐요."
+      },
+      "tickers": [
+        "^TNX",
+        "DX-Y.NYB"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNN (10/9)",
+          "url": "https://www.cnn.com/2026/10/09/economy/white-house-committee-investigate-lisa-cook-federal-reserve"
+        },
+        {
+          "name": "PBS/AP (10/9)",
+          "url": "https://www.pbs.org/newshour/politics/trump-establishes-committee-to-investigate-federal-reserves-lisa-cook-in-latest-effort-to-fire-her"
+        },
+        {
+          "name": "CBS News (10/9)",
+          "url": "https://www.cbsnews.com/news/trump-lisa-cook-committee-fed-governor/"
+        }
+      ]
+    },
+    {
+      "id": "20261010-1540-1",
+      "time": "2026-10-10T15:00:00+09:00",
+      "category": "원자재",
+      "title": "이사이아스 온대저기압으로 약화",
+      "summary": "허리케인 이사이아스가 상륙 뒤 빠르게 약해져 미국 중부시간 10일 새벽 1시(한국 15시) 앨라배마 남부에서 온대저기압(최대 풍속 시속 65마일)으로 바뀌었어요. 허리케인 경보는 모두 해제됐고, 플로리다·앨라배마·조지아 정전은 60만 곳을 넘었어요.",
+      "why": "상륙 전 멕시코만 원유 생산의 약 71%(하루 146만 배럴)가 멈췄는데, 폭풍이 지나가 설비 점검 뒤 재가동 일정이 다음 관심사가 됐어요.",
+      "impact": {
+        "dir": "neutral",
+        "text": "피해가 크지 않으면 생산 재개로 유가 공급 우려가 줄 수 있지만, 정유소 정전·침수 여부는 아직 확인되지 않아 유가 방향은 중립으로 봐요."
+      },
+      "tickers": [
+        "CL=F",
+        "BZ=F",
+        "CVX"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "미 국립허리케인센터 특보 14A (10/10 01:00 CDT)",
+          "url": "https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPAT4+html/081154.shtml"
+        },
+        {
+          "name": "NBC News 라이브 (10/10)",
+          "url": "https://www.nbcnews.com/weather/hurricanes/live-blog/live-updates-hurricane-isaias-rcna602422"
+        },
+        {
+          "name": "WSFA (10/10)",
+          "url": "https://www.wsfa.com/2026/10/10/hurricane-isaias-makes-landfall-weakens-it-moves-north-across-alabama/"
+        },
+        {
+          "name": "OilPrice.com (10/9)",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Hurricane-Isaias-Shuts-In-71-of-US-Gulf-Oil-Production.html"
+        }
+      ]
+    },
+    {
+      "id": "20261010-1240-1",
+      "time": "2026-10-10T10:30:00+09:00",
+      "category": "원자재",
+      "title": "허리케인 이사이아스, 데스틴 부근 상륙",
+      "summary": "미 국립허리케인센터(NHC)에 따르면 이사이아스가 현지 10/9 저녁 8시 30분께(한국 10일 오전 10시 30분께) 플로리다 데스틴 부근에 최대 풍속 시속 105마일(2등급)로 상륙했어요. 플로리다·앨라배마 정전은 집계 시점에 따라 41만~50만여 가구·업체로, 앞서 전한 상륙 임박 소식의 후속이에요.",
+      "why": "멕시코만 원유 생산의 약 63~72%가 예방적으로 멈춘 상태라, 상륙 뒤 피해 규모와 생산·정유 재개 속도가 다음 주 유가와 경유 가격을 가를 수 있어요.",
+      "impact": {
+        "dir": "neutral",
+        "text": "해상 시설·파스카굴라 정유소 피해가 작으면 생산 재개로 유가 부담이 줄 수 있지만, 정유·전력 피해가 확인되면 경유·휘발유 가격을 자극할 수 있어요."
+      },
+      "tickers": [
+        "CL=F",
+        "BZ=F",
+        "CVX"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "NBC News 라이브 (10/9)",
+          "url": "https://www.nbcnews.com/weather/hurricanes/live-blog/live-updates-hurricane-isaias-rcna602422"
+        },
+        {
+          "name": "CNN 라이브 (10/9)",
+          "url": "https://www.cnn.com/2026/10/09/weather/live-news/hurricane-isaias-gulf-storm"
+        },
+        {
+          "name": "WEAR-TV (10/9)",
+          "url": "https://weartv.com/news/local/hurricane-isaias-forecast-to-reach-category-3-over-the-gulf-this-afternoon"
+        },
+        {
+          "name": "CNBC (10/9)",
+          "url": "https://www.cnbc.com/2026/10/09/hurricane-isaias-gulf-mexico-oil-refinery.html"
+        }
+      ]
+    },
+    {
+      "id": "20261010-0941-1",
+      "time": "2026-10-10T09:36:00+09:00",
+      "category": "원자재",
+      "title": "허리케인 이사이아스 상륙 임박, 정전 확산",
+      "summary": "미 국립허리케인센터(NHC)는 현지 10/9 저녁 이사이아스가 플로리다 서부 팬핸들 상륙을 앞두고 있다고 밝혔고, 직전 발표 기준 최대 풍속은 시속 110마일(2등급)로 하루 전 3등급에서 다소 약해졌어요. 플로리다·앨라배마 등에서 정전이 늘고 있지만 집계마다 18만~36만여 명으로 차이가 나요.",
+      "why": "앞서 전한 멕시코만 원유 생산 중단이 상륙 뒤 얼마나 빨리 풀리는지가 다음 주 유가 방향에 영향을 줄 수 있어요.",
+      "impact": {
+        "dir": "neutral",
+        "text": "피해가 크지 않으면 생산 재개로 유가 부담이 줄 수 있지만, 정유·항만 피해가 확인되면 휘발유·경유 가격을 자극할 수 있어요."
+      },
+      "tickers": [
+        "CL=F",
+        "BZ=F"
+      ],
+      "confidence": "주의",
+      "sources": [
+        {
+          "name": "NBC News 라이브 (10/9 20:36 EDT)",
+          "url": "https://www.nbcnews.com/weather/hurricanes/live-blog/live-updates-hurricane-isaias-rcna602422"
+        },
+        {
+          "name": "Fox Weather 라이브 (10/9)",
+          "url": "https://www.foxweather.com/live-news/live-updates-hurricane-isaias-threatens-the-gulf-coast-with-dangerous-landfall-expected-tonight"
+        },
+        {
+          "name": "Weather.com (10/9)",
+          "url": "https://weather.com/2026/10/09/storms/hurricane/hurricane-isaias-forecast-gulf-coast-louisiana-alabama-florida"
+        },
+        {
+          "name": "WEAR-TV (10/9)",
+          "url": "https://weartv.com/news/local/hurricane-isaias-causes-power-outages-along-northern-gulf-coast"
+        }
+      ]
+    },
+    {
+      "id": "20261010-0941-2",
+      "time": "2026-10-10T04:00:00+09:00",
+      "category": "정책",
+      "title": "트럼프 \"푸틴, 경유 공급 합의\"…제재 한시 면제",
+      "summary": "트럼프 대통령은 10/9 트루스소셜에 러시아가 경유 30만t을 즉시, 11월 50만t, 이후 100만t을 공급하고 정유시설 상황에 따라 300만t을 더 보내기로 했다고 밝혔어요. 미 재무부(OFAC)는 러시아산 경유 거래를 허용하는 한시적 일반면허를 냈고, 이 발표 뒤 뉴욕증시가 장중 고점을 찍었다는 보도예요.",
+      "why": "미국 경유 가격이 갤런당 6달러를 넘는 상황에서 중간선거 전 연료비를 낮추려는 조치로, 유가·인플레이션 기대에 영향을 줄 수 있어요.",
+      "impact": {
+        "dir": "down",
+        "text": "경유 가격에는 하락 압력이지만, 전체 물량이 미국 소비 약 1주일분 남짓이라 실제 효과는 제한적일 수 있다는 분석도 있어요."
+      },
+      "tickers": [
+        "HO=F",
+        "CL=F",
+        "BZ=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/9)",
+          "url": "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html"
+        },
+        {
+          "name": "CBS News (10/9)",
+          "url": "https://www.cbsnews.com/news/trump-russia-release-diesel-oil-iran-skyrocketing-costs/"
+        },
+        {
+          "name": "Fortune (10/9)",
+          "url": "https://fortune.com/2026/10/09/trump-putin-russian-diesel-deal-zelenskyy-sanctions/"
+        },
+        {
+          "name": "Al Jazeera (10/9)",
+          "url": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices"
+        }
+      ]
+    },
+    {
+      "id": "20261010-0640-1",
+      "time": "2026-10-10T05:00:00+09:00",
+      "category": "종목",
+      "title": "뉴욕증시 상승 마감, 다우 0.8%↑",
+      "summary": "10/9 다우는 423.31포인트(0.83%) 오른 51,654.95, S&P500은 0.59% 오른 7,811.54, 나스닥은 0.64% 오른 27,366.17에 마감했어요. 전날 나스닥이 1%대 하락한 뒤 기술주가 반등했고, 유가 진정이 도움이 됐다는 보도예요.",
+      "why": "주간 기준 S&P500 약 1.2%, 다우 약 0.9%, 나스닥 약 0.6% 올라 3대 지수 모두 한 주를 상승으로 마쳤어요.",
+      "impact": {
+        "dir": "up",
+        "text": "다음 주 미국 3분기 실적 시즌 시작을 앞두고 위험자산 심리가 다소 회복됐지만, 금리 5%대 부담은 여전해요."
+      },
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^DJI"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "AP via KRMG (10/9)",
+          "url": "https://krmg.com/2026/10/09/how-major-us-stock-indexes-fared-friday-10-9-2026/"
+        },
+        {
+          "name": "CNBC (10/9)",
+          "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html"
+        }
+      ]
+    }
+  ]
+}

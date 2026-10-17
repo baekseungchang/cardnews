@@ -1,0 +1,93 @@
+{
+  "tag": "급락 분석",
+  "ticker": "CIEN",
+  "company": "시에나 · AI 광통신 장비",
+  "brand": "#C8102E",
+  "direction": "down",
+  "chartSymbol": "CIEN",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 종가",
+  "change": "-9.95%",
+  "changeNote": "10/12 종가 405.01달러",
+  "headline": "시에나 하루 만에\n**-9.95%** 급락",
+  "subhead": "회사 뉴스 없이 광통신주 동반 하락\n일주일 전엔 하루 +13.8% 급등",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무슨 일이 있었나",
+      "body": "10/12 시에나가 **405.01달러**에 마감해\n하루 만에 9.95% 내렸어요.",
+      "bullets": [
+        "회사 자체 발표는 **없었어요**",
+        "루멘텀 등 광통신주 **동반 약세**",
+        "같은 날 S&P500 **-0.06%**",
+        "OCP 글로벌 서밋 **개막일**"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9/3", "text": "3분기 매출 **+37%** 발표"},
+        {"date": "10/1", "text": "목표가 상향 잇따라 +6%"},
+        {"date": "10/6", "text": "**+13.8%**, 443.65달러"},
+        {"date": "10/9", "text": "449.77달러 마감"},
+        {"date": "10/12", "text": "**-9.95%**, 405.01달러", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "왜 떨어졌나",
+      "body": "회사 악재보다는 **급등 뒤 차익 실현**이\n나왔다는 분석이 많아요.",
+      "bullets": [
+        "10/5~9 나흘 새 **+15.4%**",
+        "급등 뒤 **차익 실현** 매물",
+        "OCP 서밋 '뉴스에 팔자' 분석도",
+        "AI 투자 속도 우려도 거론돼요"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날",
+      "timeline": [
+        {"date": "10/14", "text": "미국 9월 **CPI** (한국 밤)"},
+        {"date": "10/15", "text": "OCP 글로벌 서밋 폐막"},
+        {"date": "10/28", "text": "MS 등 **빅테크 실적** 예정"},
+        {"date": "10/29", "text": "**FOMC** 결과 (한국 새벽)"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "앞으로의 시나리오 (전망)",
+      "bullets": [
+        "강세: 빅테크 **AI 투자 유지** 확인",
+        "기본: 고점 논란 속 **큰 폭 등락**",
+        "약세: CPI 상회·**금리 재상승**",
+        "확인: 빅테크 설비투자 계획"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "10/12 하루 등락", "value": "-9.95%"},
+    {"label": "10/5→10/9 상승률", "value": "+15.4%"},
+    {"label": "6/3 최고 종가 대비", "value": "-36.5%"},
+    {"label": "애널리스트 평균 목표가", "value": "약 510달러"}
+  ],
+  "summary": "회사 뉴스 없이\n하루 **-9.95%**.\n급등 뒤 되돌림,\n관건은 **AI 투자**.",
+  "caption": "AI 광통신 장비주 시에나(CIEN)가 10/12 하루 만에 9.95% 내렸어요 📉 (종가 405.01달러)\n\n회사 자체 발표는 없었어요. 루멘텀 등 광통신주가 함께 밀렸고, S&P500은 -0.06%로 거의 제자리였어요. 시에나는 10/6 하루 +13.8%, 10/5~10/9 나흘 새 +15.4% 올랐던 터라 차익 실현이 나왔다는 분석이 많아요. OCP 글로벌 서밋 개막에 맞춘 '뉴스에 팔자', AI 투자 속도에 대한 우려를 드는 분석도 있어요.\n\n6/3 최고 종가(637.51달러)보다는 아직 36% 넘게 낮아요. 애널리스트 평균 목표가는 510달러 안팎이에요.\n\n다음 고비는 10/14 미국 CPI, 10/28 MS 등 빅테크 실적(AI 설비투자 계획)이에요.\n\n여러분은 광통신주 조정, 쉬어가기일까요 추세 전환일까요? 👇",
+  "hashtags": ["시에나", "CIEN", "광통신", "AI인프라", "루멘텀", "미국주식", "급락", "OCP", "빅테크실적", "카드뉴스"],
+  "sources": [
+    {"name": "TokenPost (2026-10-12)", "url": "https://www.tokenpost.com/news/investing/30570"},
+    {"name": "Smartkarma (2026-10-12)", "url": "https://www.smartkarma.com/home/market-movers/ciena-corporations-stock-price-dips-to-405-01-recording-a-9-95-decline-a-detailed-analysis/"},
+    {"name": "MarketBeat (2026-10-12)", "url": "https://www.marketbeat.com/instant-alerts/price-ciena-nyse-cien-stock-price-down-101-time-to-sell-2026-10-12/"},
+    {"name": "Seeking Alpha (2026-10-12)", "url": "https://seekingalpha.com/news/4652264-ciena-slumps-10-amid-profit-taking-after-recent-rally"},
+    {"name": "Investing.com (2026-10-12)", "url": "https://www.investing.com/news/stock-market-news/why-is-ciena-stock-tumbling-today-93CH-4945039"},
+    {"name": "Financefeeds (2026-10-07)", "url": "https://financefeeds.com/ciena-cien-stock-443-ai-networking-bull-660-bear-390/"},
+    {"name": "BestStocks (2026-10-06)", "url": "https://beststocks.com/stocks/cien/what-changed/2026-10-06"},
+    {"name": "24/7 Wall St. (2026-10-06)", "url": "https://247wallst.com/investing/2026/10/06/arista-networks-advances-4-while-ciena-soars-11-on-ai-networking-demand-cisco-rises-3/"},
+    {"name": "TradingKey (2026-10-01)", "url": "https://www.tradingkey.com/news/market-movers/262196644-market-movers-cien-20261001"},
+    {"name": "Ciena 3분기 실적 발표 (2026-09-03)", "url": "https://www.sec.gov/Archives/edgar/data/0000936395/000162828026060245/ex9912026q3earningspressre.htm"},
+    {"name": "Yahoo Finance CIEN 시세", "url": "https://finance.yahoo.com/quote/CIEN/"},
+    {"name": "OCP 2026 Global Summit 공식", "url": "https://www.opencompute.org/events/ocp-summit/2026-ocp-global-summit/"},
+    {"name": "Microsoft IR", "url": "https://www.microsoft.com/en-us/investor/default"}
+  ]
+}

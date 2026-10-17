@@ -1,0 +1,96 @@
+{
+  "tag": "하락 분석",
+  "ticker": "ORCL",
+  "company": "오라클",
+  "brand": "#C74634",
+  "direction": "down",
+  "chartSymbol": "ORCL",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 종가",
+  "change": "-5.5%",
+  "changeNote": "오픈AI 매출 보도일 (10/8 종가 $135.69)",
+  "headline": "오픈AI 매출 보도에\n**오라클** -5.5%",
+  "subhead": "FT \"오픈AI 연환산 매출 약 500억 달러\"\n종가 135.69달러, 한 달 새 -16.5%",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "10/8 무슨 일이",
+      "body": "FT가 오픈AI 연환산 매출이 **약 500억 달러**라고\n보도했어요. 시장에서 거론된 700억 달러보다 적어요.",
+      "bullets": [
+        "종가 **135.69달러**, -5.48%",
+        "나스닥 -1.25%, 반도체 약세",
+        "엔비디아도 -2.9%",
+        "WSJ: 칩 구매용 **추가 자금** 협의"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9/8", "text": "종가 162.52달러"},
+        {"date": "9/10", "text": "실적: **RPO 6,640억 달러**"},
+        {"date": "9/24", "text": "**불가항력** 통지, CDS 최고"},
+        {"date": "9/28", "text": "종가 132.60달러"},
+        {"date": "10/8", "text": "오픈AI 보도, **135.69달러**", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "왜 오라클이 더 빠졌을까",
+      "body": "오픈AI 의존도와 **빚 부담**이 한꺼번에\n부각됐다는 분석이 많아요.",
+      "bullets": [
+        "수주잔고 약 45%가 **오픈AI**",
+        "장기 부채 **1,600억 달러** 넘어",
+        "칩 구매 **리스 구조** 협의 보도",
+        "매출 차이는 **집계 방식** 탓이란 설명"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날",
+      "timeline": [
+        {"date": "10/9", "text": "배당락 (주당 **0.50달러**)"},
+        {"date": "10/14", "text": "미국 9월 **CPI**"},
+        {"date": "10/25~28", "text": "오라클 **AI 월드** (라스베이거스)"},
+        {"date": "10/29", "text": "**FOMC** 결과 (한국 새벽)"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "하락 뒤 갈림길",
+      "bullets": [
+        "강세: 오픈AI **매출 성장** 확인",
+        "기본: 실적 전까지 **뉴스 따라 등락**",
+        "약세: 금리·**CDS** 다시 상승하면",
+        "참고: 목표가 평균 238~252달러"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "10/8 종가 등락", "value": "-5.48%"},
+    {"label": "1개월 (9/8 대비)", "value": "-16.5%"},
+    {"label": "52주 고점 대비", "value": "-58%"},
+    {"label": "오픈AI 연환산 매출 (FT)", "value": "500억달러"}
+  ],
+  "summary": "오픈AI 매출 보도에\n**오라클**이 -5.5%.\n고객 집중·빚 부담이\n다시 **시험대**에 올랐어요.",
+  "caption": "오라클(ORCL) 하루 -5.48%, 종가 135.69달러 📉\n\nFT가 \"오픈AI가 투자자에게 제시한 9월 말 연환산 매출은 약 500억 달러\"라고 보도했어요. 그동안 거론된 약 700억 달러보다 200억 달러가량 적은 숫자예요(집계 방식 차이라는 설명도 나왔어요).\n\n오라클은 수주잔고 6,640억 달러 중 약 45%가 오픈AI 계약이라 타격이 더 컸어요. 같은 날 WSJ는 오라클이 칩 구매 자금을 아폴로·골드만삭스와 협의 중이라고 보도했죠. 주가는 한 달 새 -16.5%예요.\n\n다음 확인할 날: 10/14 CPI, 10/25~28 오라클 AI 월드, 10/29 새벽 FOMC 결과.\n\nAI 인프라 투자, 아직 수익보다 빚이 먼저일까요? 여러분 생각은? 👇",
+  "hashtags": ["오라클", "ORCL", "오픈AI", "OpenAI", "AI인프라", "데이터센터", "미국주식", "해외주식", "하락분석", "카드뉴스"],
+  "sources": [
+    {"name": "CNN (2026-10-08)", "url": "https://www.cnn.com/2026/10/08/investing/openai-nasdaq-stocks"},
+    {"name": "CNBC (2026-10-08)", "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"},
+    {"name": "Reuters via Investing.com (2026-10-08)", "url": "https://investing.com/news/stock-market-news/openais-annualized-revenue-20-billion-less-than-previously-signaled-ft-reports-4939854"},
+    {"name": "Yahoo Finance (2026-10-08)", "url": "https://finance.yahoo.com/technology/article/oracle-stock-falls-on-more-debt-to-fund-ai-chip-buying-openai-revenue-disclosure-180233070.html"},
+    {"name": "TipRanks (2026-10-08)", "url": "https://www.tipranks.com/news/broadcom-oracle-stocks-fall-on-huge-ai-chip-debt-plans"},
+    {"name": "글로벌이코노믹 (2026-10-09)", "url": "https://www.g-enews.com/article/Securities/2026/10/202610090609005142e250e8e188_1"},
+    {"name": "뉴스핌 (2026-10-09)", "url": "https://www.newspim.com/news/view/20261009000017"},
+    {"name": "GuruFocus (2026-10-08)", "url": "https://www.gurufocus.com/news/9116249/a-look-at-oracle-corp-orcl-after-55-decline-gf-value-19475-vs-price-13569"},
+    {"name": "Benzinga 1분기 실적콜 (2026-09)", "url": "https://www.benzinga.com/news/26/09/61729962/oracle-reports-q1-2027-results-full-earnings-call-transcript"},
+    {"name": "CNBC (2026-09-24)", "url": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html"},
+    {"name": "Seeking Alpha (2026-09-24)", "url": "https://seekingalpha.com/news/4647050-hyperscaler-cds-spreads-widen-with-oracle-hitting-record-high"},
+    {"name": "Investing.com (2026-10-07)", "url": "https://www.investing.com/news/analyst-ratings/yorkville-ives-initiates-oracle-stock-coverage-at-in-line-on-execution-risk-93CH-4937090"},
+    {"name": "StockAnalysis 목표가 집계", "url": "https://stockanalysis.com/stocks/orcl/forecast/"},
+    {"name": "StockAnalysis 배당 일정", "url": "https://stockanalysis.com/stocks/orcl/dividend/"},
+    {"name": "BLS CPI 일정", "url": "https://www.bls.gov/cpi/"},
+    {"name": "ACCELQ 오라클 AI 월드 안내", "url": "https://www.accelq.com/events/oracle-ai-world-2026/"}
+  ]
+}

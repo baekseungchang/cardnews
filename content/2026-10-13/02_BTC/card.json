@@ -1,0 +1,93 @@
+{
+  "tag": "비트코인 브리핑",
+  "ticker": "BTC",
+  "company": "비트코인",
+  "brand": "#F7931A",
+  "direction": "down",
+  "chartSymbol": "BTC-USD",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 비트코인 (달러)",
+  "change": "8.3만달러대",
+  "changeNote": "10/12 기준, 최고가 대비 약 -34%",
+  "headline": "비트코인 8만달러대,\n**ETF 돈**이 빠졌어요",
+  "subhead": "지난주 현물 ETF 약 6.8억 달러 순유출\n10/14 미국 CPI가 다음 고비",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "지금 비트코인은",
+      "body": "10/12 **8만3천달러대**에서 움직였어요.\n최고가(12만6천달러대)보다 약 34% 낮아요.",
+      "bullets": [
+        "현물 ETF **3주 만에 순유출**",
+        "10/8 **8만350달러**까지 하락",
+        "지난주 **주간 하락** 마감",
+        "CPI 앞두고 **관망세**"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9/17", "text": "연준 기준금리 **인상**"},
+        {"date": "9월", "text": "현물 ETF로 **자금 유입**"},
+        {"date": "10/5~9", "text": "ETF **6.8억 달러** 순유출"},
+        {"date": "10/8", "text": "**8만350달러**, 3주 만에 최저"},
+        {"date": "10/12", "text": "8만3천달러대 **관망**", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "왜 약해졌나",
+      "body": "**금리 부담**과 **ETF 자금 이탈**이\n겹쳤다는 분석이 많아요.",
+      "bullets": [
+        "ETF 자금 **순유출로 전환**",
+        "연준 **추가 인상** 예상 커져",
+        "10/8 하루 청산 **10.9억 달러**",
+        "중동 긴장·**유가 100달러대**"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (한국 시간)",
+      "timeline": [
+        {"date": "10/14", "text": "미국 9월 **CPI** (21:30)"},
+        {"date": "10/15", "text": "미국 9월 PPI"},
+        {"date": "10/29", "text": "**FOMC** 결과 (새벽)"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "앞으로의 시나리오 (전망)",
+      "bullets": [
+        "강세: CPI 둔화·**ETF 유입 복귀**",
+        "기본: 8만달러 초중반 **등락**",
+        "약세: CPI 상회·**8만달러 이탈**",
+        "확인: 주간 현물 ETF 자금 흐름"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "10/12 시세", "value": "8.3만달러"},
+    {"label": "최고가 대비", "value": "약 -34%"},
+    {"label": "지난주 현물 ETF", "value": "-6.8억$"},
+    {"label": "10/8 하루 청산", "value": "10.9억$"}
+  ],
+  "summary": "비트코인 **8만3천달러대**.\nETF 돈이 빠지고\n금리 부담도 커요.\n다음 고비는 **CPI**.",
+  "caption": "비트코인이 8만3천달러대에 머물고 있어요 🪙 (10/12 기준)\n\n지난해 10월 최고가(12만6천달러대)보다 약 34% 낮아요. 10/8엔 8만350달러까지 밀려 9/18 이후 최저를 찍었고, 하루 새 약 10.9억 달러 규모의 레버리지 포지션이 청산됐어요.\n\n지난주(10/5~9) 미국 현물 비트코인 ETF에서는 약 6.8억 달러가 빠져나가, 3주 연속 유입이 끊겼어요. 연준 의사록에서 연내 추가 인상 전망이 확인된 점, 중동 긴장과 유가 100달러대도 부담으로 꼽혀요.\n\n다음 고비는 10/14 밤 미국 9월 CPI(예상 전년 대비 3.6%, 8월 3.4%)예요.\n\n여러분은 CPI 전에 움직이세요, 확인하고 움직이세요? 👇",
+  "hashtags": ["비트코인", "BTC", "비트코인ETF", "코인시황", "미국CPI", "연준", "FOMC", "가상자산", "돈의흐름", "카드뉴스"],
+  "sources": [
+    {"name": "Fortune (2026-10-12)", "url": "https://fortune.com/article/price-of-bitcoin-10-12-2026/"},
+    {"name": "FXStreet (2026-10-12)", "url": "https://www.fxstreet.com/cryptocurrencies/news/cryptocurrencies-price-prediction-cardano-zcash-bitcoin-asian-wrap-12-october-202610120542"},
+    {"name": "아시아투데이 (2026-10-12)", "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261012010003307"},
+    {"name": "뉴스핌 (2026-10-12)", "url": "https://www.newspim.com/news/view/20261012001490"},
+    {"name": "토큰포스트 (2026-10-12)", "url": "https://www.tokenpost.kr/news/breaking/421312"},
+    {"name": "Cointelegraph (2026-10-09)", "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation"},
+    {"name": "Cryptonomist (2026-10-09)", "url": "https://en.cryptonomist.ch/2026/10/09/bitcoin-price-liquidations-drop/"},
+    {"name": "Bitcoin Foundation (2026-10)", "url": "https://bitcoinfoundation.org/news/crypto-etf/bitcoin-and-ethereum-etfs-reverse-course-with-1-22-billion-in-weekly-outflows/"},
+    {"name": "DailyCoin (2026-10-12)", "url": "https://dailycoin.com/bitcoin-price-today-btc-rebounds-83300-october-bottom/"},
+    {"name": "SimpleMining 9월 리포트", "url": "https://www.simplemining.io/insights/post/bitcoin-market-report-september-2026"},
+    {"name": "24/7 Wall St. (2026-09-26)", "url": "https://247wallst.com/investing/cryptocurrency/2026/09/26/bitcoin-etf-inflows-reach-2-4-billion-this-week-but-daily-figures-decline-is-the-momentum-fading/"},
+    {"name": "Crypto.com 마켓 업데이트", "url": "https://crypto.com/uk/market-updates/bitcoin-ath-one-year-golden-cross-uptober"},
+    {"name": "StockTitan CPI 프리뷰 (2026-10)", "url": "https://stocktitan.net/articles/september-2026-cpi-inflation-report"},
+    {"name": "GoBull CPI 일정", "url": "https://gobull.ai/blog/cpi-report-october-2026"}
+  ]
+}

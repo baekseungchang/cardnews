@@ -1,0 +1,88 @@
+{
+  "tag": "환율 브리핑",
+  "ticker": "JPY",
+  "company": "엔화",
+  "brand": "#0B3D91",
+  "direction": "up",
+  "chartSymbol": "JPY=X",
+  "chartRange": "3mo",
+  "chartCaption": "엔·달러 최근 3개월 (오를수록 엔화 약세)",
+  "change": "158엔대",
+  "changeNote": "10/6 엔·달러, 1주 고점권",
+  "headline": "금리 올렸는데\n**엔화**는 왜 약할까",
+  "subhead": "일본 1995년 이후 최고 금리에도\n달러당 158엔대, 100엔 850원 안팎",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "다시 158엔대로",
+      "body": "10/6 엔·달러는 **158.1엔** 안팎.\n원화로 보면 100엔당 **850원** 안팎이에요.",
+      "bullets": [
+        "엔·달러 **1주 고점권**",
+        "9/8 대비 엔화 **약 2.9% 약세**",
+        "100엔 = 약 850원",
+        "일본 기준금리 **1.25%**"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9/8", "text": "153엔대, 2월 이후 **엔 최강**"},
+        {"date": "9/16", "text": "미 연준 인상, **3.75~4%**"},
+        {"date": "9/18", "text": "일본은행 인상, **1.25%**"},
+        {"date": "10/1", "text": "추가 인상 기대 꺾여 158엔대"},
+        {"date": "10/6", "text": "**158.1엔**, 1주 고점권", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "금리를 올려도 약한 이유",
+      "body": "일본이 올린 만큼 **미국도 올려서**\n금리 차이가 거의 그대로예요.",
+      "bullets": [
+        "미·일 금리차 **2.5~2.75%p**",
+        "10월 **연속 인상** 기대 후퇴",
+        "높은 미 금리가 **달러 지지**"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (한국 시간)",
+      "timeline": [
+        {"date": "10/14", "text": "미국 9월 **CPI** (21:30)"},
+        {"date": "10/29", "text": "**FOMC** 결과 (새벽 3시)"},
+        {"date": "10/30", "text": "**일본은행** 금리 결정"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "엔화, 어디로 갈까",
+      "bullets": [
+        "엔 강세: 일본은행 **추가 인상 신호**",
+        "기본: 158엔 안팎 눈치보기",
+        "엔 약세: 미 물가 강세 → **160엔** 시험",
+        "체크: 160엔 근처 **개입 경계**"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "엔·달러 (10/6)", "value": "158.1엔"},
+    {"label": "원/100엔 (10/6)", "value": "약 850원"},
+    {"label": "9/8 대비 엔·달러", "value": "+2.9%"},
+    {"label": "미·일 기준금리 차", "value": "2.5%p+"}
+  ],
+  "summary": "일본이 금리를 올려도\n미국도 올리면 **제자리**.\n엔화 방향은 10/30\n**일본은행**이 가를 듯해요.",
+  "caption": "금리를 올렸는데 엔화는 왜 더 약해질까? 💴\n\n일본은행이 9/18 기준금리를 1.25%로 올렸지만(1995년 이후 최고), 이틀 전 미국 연준도 금리를 올렸어요. 금리 차이가 그대로라 엔·달러는 9월 153엔대에서 다시 158엔대로, 원화로는 100엔당 850원 안팎이에요.\n\n다음 갈림길은 10/14 미국 CPI, 10/29 FOMC, 10/30 일본은행. 160엔 근처에선 당국 개입 경계도 커져요.\n\n엔화 환전, 지금 하시나요 아니면 더 기다리시나요? 👇",
+  "hashtags": ["엔화", "엔화환율", "엔저", "일본은행", "환율", "엔테크", "일본여행", "FOMC", "재테크", "카드뉴스"],
+  "sources": [
+    {"name": "뉴스핌 (2026-10-06)", "url": "https://www.newspim.com/news/view/20261006001013"},
+    {"name": "투어코리아 (2026-10-06)", "url": "https://www.tournews21.com/news/articleView.html?idxno=145029"},
+    {"name": "머니투데이 (2026-10-06)", "url": "https://www.mt.co.kr/economy/2026/10/06/2026100615323434507"},
+    {"name": "FXStreet (2026-10-05)", "url": "https://www.fxstreet.com/news/japanese-yen-weakens-as-wide-yield-gap-supports-us-dollar-202610051826"},
+    {"name": "Bloomberg (2026-10-01)", "url": "https://www.bloomberg.com/news/articles/2026-10-01/yen-weakens-as-boj-summary-damps-bets-for-back-to-back-rate-hike"},
+    {"name": "CNBC (2026-09-18)", "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html"},
+    {"name": "CNBC (2026-09-16)", "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html"},
+    {"name": "Japan Times (2026-09-08)", "url": "https://www.japantimes.co.jp/business/2026/09/08/markets/yen-153/"},
+    {"name": "FXStreet (2026-10-06)", "url": "https://www.fxstreet.com/analysis/the-market-is-pricing-a-boj-pause-heres-why-uedas-keep-raising-rates-could-force-a-sharp-yen-repricing-202610061823"},
+    {"name": "Forex.com Q4 전망", "url": "https://www.forex.com/en-us/news-and-analysis/usd-jpy-q4-2026-outlook-hawkish-fed-pricing-clashes-with-intervention-risk/"}
+  ]
+}
