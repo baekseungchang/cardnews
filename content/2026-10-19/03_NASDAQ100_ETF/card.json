@@ -1,0 +1,94 @@
+{
+  "tag": "ETF 비교",
+  "ticker": "QQQ/QQQM",
+  "company": "나스닥100 ETF 4종",
+  "brand": "#0A4B8F",
+  "direction": "down",
+  "chartSymbol": "QQQ",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 QQQ 종가",
+  "change": "-5.5%",
+  "changeNote": "QQQ 주간 변화 (10/12~16)",
+  "headline": "QQQ 한 주 **-5.5%**\n나스닥100 4종 비교",
+  "subhead": "같은 지수, 다른 보수·세금·계좌\n실적 시즌 전에 구조부터 확인해요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무엇을 담나",
+      "body": "4종 모두 **나스닥100** 지수를 따라가요.\n차이는 보수, 세금, 담을 수 있는 계좌예요.",
+      "table": {
+        "head": ["ETF", "상장", "총보수", "특징"],
+        "rows": [
+          ["QQQ", "미국", "0.18%", "거래량 최대"],
+          ["QQQM", "미국", "0.15%", "장기 보유용"],
+          ["TIGER 133690", "한국", "0.0068%", "연금계좌 가능"],
+          ["KODEX 379810", "한국", "0.0062%", "연금계좌 가능"]
+        ]
+      }
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9/9", "text": "TIGER 개인 순매수 **2.1조**"},
+        {"date": "10/8", "text": "오픈AI 매출 보도, AI주↓"},
+        {"date": "10/14", "text": "9월 CPI 3.7% 예상 상회"},
+        {"date": "10/16", "text": "원·달러 **2년 만의 최저**"},
+        {"date": "10/16", "text": "QQQ -2.5%, 주간 **-5.5%**", "now": true}
+      ]
+    },
+    {
+      "phase": "현재",
+      "title": "국내 상장은 환율도 봐야",
+      "body": "국내 상장 2종은 **환노출**이에요.\n원화가 강해지면 원화 수익률이 더 깎여요.",
+      "bullets": [
+        "10/16 원·달러 **1,331.4원**",
+        "QQQ 하락 + **원화 강세**",
+        "보수 외 기타비용 **별도**",
+        "TIGER 순자산 11.4조(9월초)"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (미국 날짜)",
+      "timeline": [
+        {"date": "10/20", "text": "넷플릭스 실적"},
+        {"date": "10/21", "text": "**테슬라·메타** 실적"},
+        {"date": "10/27~28", "text": "**FOMC** 금리 결정"},
+        {"date": "10/28~29", "text": "MS·알파벳·아마존 실적"}
+      ]
+    },
+    {
+      "phase": "어떤 사람에게",
+      "title": "어떤 사람에게 맞나",
+      "bullets": [
+        "단기 매매·옵션: **QQQ**",
+        "달러로 장기 적립: **QQQM**",
+        "연금·ISA 계좌: **국내 상장**",
+        "세금: 국내 15.4%, 직투 22%"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "QQQ 주간", "value": "-5.52%"},
+    {"label": "QQQ 총보수", "value": "0.18%"},
+    {"label": "QQQM 총보수", "value": "0.15%"},
+    {"label": "KODEX 총보수", "value": "0.0062%"}
+  ],
+  "summary": "나스닥100 ETF는\n지수는 같고 **구조가 달라요**.\n보수·세금·계좌 확인,\n국내 상장은 **환율**도.",
+  "caption": "나스닥이 6월 이후 최악의 한 주를 보냈어요 📉 QQQ는 10/16 하루 -2.5%, 한 주 -5.5%였어요.\n\n같은 나스닥100 ETF라도 구조가 달라요.\n• QQQ 0.18%: 거래량이 가장 많아요\n• QQQM 0.15%: 같은 지수, 보수가 더 낮아요\n• TIGER 미국나스닥100 0.0068%, KODEX 미국나스닥100 0.0062%: 연금저축·IRP·ISA에 담을 수 있어요(보수 외 기타비용 별도)\n\n세금도 달라요. 국내 상장은 매매차익·분배금에 15.4%, 미국 직상장은 연 250만원 공제 뒤 양도세 22%예요. 국내 상장 2종은 환노출이라 10/16처럼 원화가 강해지면(1,331.4원) 원화 수익률이 더 깎여요.\n\n이번 주 넷플릭스(10/20), 테슬라·메타(10/21) 실적이 나와요. 여러분은 나스닥100, 어느 계좌로 모으고 계세요? 👇",
+  "hashtags": ["나스닥100", "QQQ", "QQQM", "미국ETF", "TIGER미국나스닥100", "KODEX미국나스닥100", "연금저축", "ETF비교", "해외주식세금", "카드뉴스"],
+  "sources": [
+    {"name": "FinanceFeeds (2026-10-17)", "url": "https://financefeeds.com/nasdaq-100-6-52-percent-below-high-10-percent-correction-not-printed/"},
+    {"name": "Portfolio Terminal (2026-10-16)", "url": "https://portfolio-terminal.com/blog/stock-market-week-in-review-october-16-2026"},
+    {"name": "MarketBeat (2026-10-16)", "url": "https://www.marketbeat.com/instant-alerts/price-invesco-qqq-nasdaq-qqq-stock-price-down-25-heres-what-happened-2026-10-16/"},
+    {"name": "Investing.com (2026-10-16)", "url": "https://www.investing.com/news/stock-market-news/nasdaq-futures-edge-lower-as-ai-spending-fed-rate-concerns-weigh-4952930"},
+    {"name": "ETF.com (2025-12-19)", "url": "https://www.etf.com/sections/features/invesco-wins-approval-convert-qqq-standard-etf"},
+    {"name": "SEC Invesco QQQ PRE 14A (2025)", "url": "https://www.sec.gov/Archives/edgar/data/1067839/000206159025000113/preliminaryproxy.htm"},
+    {"name": "Dividend.com (QQQM)", "url": "https://www.dividend.com/etfs/qqqm-invesco-nasdaq-100-etf/"},
+    {"name": "스마트투데이 (TIGER 보수 인하)", "url": "https://www.smarttoday.co.kr/ko-kr/articles/71818"},
+    {"name": "FnGuide/FunETF (KODEX 379810)", "url": "https://www.funetf.co.kr/product/etf/view/KR7379810005"},
+    {"name": "뉴스핌 (2026-09-10)", "url": "https://www.newspim.com/news/view/20260910000773"},
+    {"name": "KB자산운용 세금 가이드", "url": "https://kbam.co.kr/insights/guide/domestic-vs-overseas-etf-tax-comparison"}
+  ]
+}

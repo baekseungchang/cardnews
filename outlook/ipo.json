@@ -1,0 +1,558 @@
+{
+ "updated": "2026-10-21T15:10:00+09:00",
+ "headline": "이번 주 공모주 8곳",
+ "lines": [
+  "10/21~29 청약 8곳 (오늘 16시 티앤이·크리에이츠 마감)",
+  "분위기 식는 중: 기관 확약 중앙값 43%→5% (10/21)",
+  "최근 상장: 멜콘 급등, 진코스텍 -36%·엘리스 -32% (종가)",
+  "Claude 판단: 인텔리빅스 청약, 티앤이·영광 소액 청약",
+  "나머지 5곳은 청약 안 함 (조건 맞으면 재검토)"
+ ],
+ "items": [
+  {
+   "name": "티앤이코리아",
+   "market": "코스닥",
+   "sector": "고속 터보기계",
+   "stage": "청약 중",
+   "demand": {
+    "start": "2026-10-07",
+    "end": "2026-10-14",
+    "ratio": 1041.02,
+    "lockup": null
+   },
+   "subscribe": {
+    "start": "2026-10-20",
+    "end": "2026-10-21"
+   },
+   "listing": "2026-10-29",
+   "underwriters": [
+    {
+     "name": "신한투자증권",
+     "role": "대표"
+    }
+   ],
+   "priceBand": [
+    12600,
+    15300
+   ],
+   "finalPrice": 15300,
+   "offerAmount": "약 367억원",
+   "floatPct": null,
+   "expected": {
+    "institution": null,
+    "retail": [
+     500,
+     1200
+    ]
+   },
+   "retailRatio": null,
+   "lines": [
+    "고속 터보기계 회사, 오늘(10/21) 16시 청약 마감",
+    "기관 1,041:1, 공모가 밴드 상단 15,300원 확정",
+    "시총 약 1,737억으로 작고 전량 신주",
+    "걸리는 점: 확약 낮고 공모자금 71억은 빚 갚는 데 씀"
+   ],
+   "call": {
+    "action": "apply",
+    "text": "소액 청약",
+    "reason": "기관 수요 강함, 확약 낮아 소액만"
+   },
+   "basis": [
+    "기관 1,041.02:1, 2,274곳 참여, 상단 확정 (뉴스프라임·이데일리·뉴스핌)",
+    "청약 첫날 비례 경쟁률 45.91:1 (CBC뉴스 10/20, 1곳)",
+    "확약 비율은 보도가 엇갈려 미확인",
+    "비교: 진코스텍 기관 1,098:1·확약 5%·유통 58% → 상장일 종가 -36%"
+   ],
+   "result": null,
+   "sources": [
+    {
+     "name": "뉴스프라임 (10/16)",
+     "url": "https://www.newsprime.co.kr/news/article/?no=751298"
+    },
+    {
+     "name": "이데일리 (10/16)",
+     "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04244326645613576"
+    },
+    {
+     "name": "IB토마토 (10/16)",
+     "url": "https://www.newstomato.com/ReadNews.aspx?no=1317021"
+    },
+    {
+     "name": "CBC뉴스 (10/20)",
+     "url": "https://www.cbci.co.kr/news/articleView.html?idxno=617415"
+    }
+   ]
+  },
+  {
+   "name": "크리에이츠",
+   "market": "코스닥",
+   "sector": "골프 시뮬레이터",
+   "stage": "청약 중",
+   "demand": {
+    "start": "2026-10-12",
+    "end": "2026-10-16",
+    "ratio": 240.46,
+    "lockup": 0
+   },
+   "subscribe": {
+    "start": "2026-10-20",
+    "end": "2026-10-21"
+   },
+   "listing": "2026-10-30",
+   "underwriters": [
+    {
+     "name": "삼성증권",
+     "role": "대표"
+    }
+   ],
+   "priceBand": [
+    15000,
+    18000
+   ],
+   "finalPrice": 15000,
+   "offerAmount": "210억원",
+   "floatPct": null,
+   "expected": {
+    "institution": null,
+    "retail": [
+     20,
+     150
+    ]
+   },
+   "retailRatio": null,
+   "lines": [
+    "골프 시뮬레이터 회사, 오늘(10/21) 16시 청약 마감",
+    "기관 240:1, 공모가 밴드 하단 15,000원 확정",
+    "기관 확약 0%, 참여 기관 절반이 하단 미만 제시",
+    "일반 청약 열기도 약함 (마감일 중간 2:1 수준)"
+   ],
+   "call": {
+    "action": "skip",
+    "text": "청약 안 함",
+    "reason": "하단 확정·확약 0%, 수요 약함"
+   },
+   "basis": [
+    "기관 240.46:1, 831곳, 하단 확정 (아시아경제·뉴스핌 10/19)",
+    "확약 0%, 하단 미만 52.2%, 마감일 중간 2.11:1 (각 1곳)"
+   ],
+   "result": null,
+   "sources": [
+    {
+     "name": "메트로서울 (10/21)",
+     "url": "https://www.metroseoul.co.kr/article/20261021500001"
+    }
+   ]
+  },
+  {
+   "name": "인텔리빅스",
+   "market": "코스닥",
+   "sector": "AI 영상분석",
+   "stage": "청약 중",
+   "demand": {
+    "start": "2026-10-12",
+    "end": "2026-10-16",
+    "ratio": 1234.3,
+    "lockup": 4.4
+   },
+   "subscribe": {
+    "start": "2026-10-21",
+    "end": "2026-10-22"
+   },
+   "listing": "2026-10-30",
+   "underwriters": [
+    {
+     "name": "미래에셋증권",
+     "role": "대표"
+    }
+   ],
+   "priceBand": [
+    7600,
+    9000
+   ],
+   "finalPrice": 9000,
+   "offerAmount": "225억원",
+   "floatPct": 23.95,
+   "expected": {
+    "institution": null,
+    "retail": [
+     700,
+     1500
+    ]
+   },
+   "retailRatio": null,
+   "lines": [
+    "안전 AI(영상분석) 회사, 13년 연속 흑자",
+    "기관 1,234:1, 밴드 상단 9,000원 확정",
+    "시총 약 1,020억으로 작고 유통 물량 24%",
+    "걸리는 점: 기관 확약 4.4%로 낮음"
+   ],
+   "call": {
+    "action": "apply",
+    "text": "청약",
+    "reason": "기관 1,234:1·흑자·유통 24%로 가벼움"
+   },
+   "basis": [
+    "기관 1,234.3:1, 2,357건, 상단 확정, 공모 225억 (디지털데일리·ZDNet·FETV 10/20)",
+    "확약 4.4%, 상장 주식 76.05% 의무보유·매각제한 (ZDNet·디지털데일리)",
+    "구주매출 없이 전량 신주"
+   ],
+   "result": null,
+   "sources": [
+    {
+     "name": "디지털데일리 (10/20)",
+     "url": "https://www.ddaily.co.kr/page/view/2026102017292000866"
+    },
+    {
+     "name": "ZDNet (10/20)",
+     "url": "https://zdnet.co.kr/view/?no=20261020175204"
+    },
+    {
+     "name": "FETV (10/20)",
+     "url": "https://www.fetv.co.kr/news/articleView.html?idxno=312130"
+    }
+   ]
+  },
+  {
+   "name": "래블업",
+   "market": "코스닥",
+   "sector": "AI 인프라 소프트웨어",
+   "stage": "청약 전",
+   "demand": {
+    "start": "2026-10-13",
+    "end": "2026-10-19",
+    "ratio": null,
+    "lockup": null
+   },
+   "subscribe": {
+    "start": "2026-10-22",
+    "end": "2026-10-23"
+   },
+   "listing": "2026-11-03",
+   "underwriters": [
+    {
+     "name": "NH투자증권",
+     "role": "대표"
+    }
+   ],
+   "priceBand": [
+    19000,
+    22000
+   ],
+   "finalPrice": null,
+   "offerAmount": "414억~480억원",
+   "floatPct": null,
+   "expected": {
+    "institution": [
+     300,
+     900
+    ],
+    "retail": [
+     200,
+     800
+    ]
+   },
+   "retailRatio": null,
+   "lines": [
+    "GPU 관리 AI 인프라 SW(Backend.AI) 회사",
+    "매출 99억원인데 몸값 약 3,000억 요구",
+    "희망 공모가를 한 차례 낮춤 (2만~2.3만 → 1.9만~2.2만)",
+    "바뀔 조건: 기관 1,000:1↑·확약 15%↑면 소액 청약"
+   ],
+   "call": {
+    "action": "skip",
+    "text": "청약 안 함",
+    "reason": "매출 대비 몸값 높음, AI 공모 약세"
+   },
+   "basis": [
+    "매출 99억·몸값 3,000억 (딜사이트)",
+    "비교: 엘리스그룹(AI 클라우드) 기관 389:1 → 상장일 종가 -32%",
+    "수요예측 결과는 10/21 확정 공고 예정, 아직 미확인"
+   ],
+   "result": null,
+   "sources": [
+    {
+     "name": "딜사이트",
+     "url": "https://dealsite.co.kr/articles/168502"
+    },
+    {
+     "name": "비즈워치 (10/16)",
+     "url": "https://news.bizwatch.co.kr/article/market/2026/10/16/0024"
+    }
+   ]
+  },
+  {
+   "name": "영광",
+   "market": "코스닥",
+   "sector": "조선·플랜트 기자재",
+   "stage": "청약 전",
+   "demand": {
+    "start": "2026-10-13",
+    "end": "2026-10-19",
+    "ratio": null,
+    "lockup": null
+   },
+   "subscribe": {
+    "start": "2026-10-22",
+    "end": "2026-10-23"
+   },
+   "listing": "2026-11-02",
+   "underwriters": [
+    {
+     "name": "한국투자증권",
+     "role": "대표"
+    }
+   ],
+   "priceBand": [
+    14000,
+    17000
+   ],
+   "finalPrice": null,
+   "offerAmount": "316억~384억원",
+   "floatPct": null,
+   "expected": {
+    "institution": [
+     500,
+     1200
+    ],
+    "retail": [
+     300,
+     1000
+    ]
+   },
+   "retailRatio": null,
+   "lines": [
+    "울산 선박 엔진룸 모듈·플랜트 압력용기 회사",
+    "공모 316억~384억, 조선 업황 수혜 기대",
+    "걸리는 점: 고평가 비교기업 빼면 적정가 상단 아래",
+    "바뀔 조건: 기관 500:1↓이나 하단 확정이면 청약 안 함"
+   ],
+   "call": {
+    "action": "apply",
+    "text": "소액 청약",
+    "reason": "조선 업황 수혜, 공모 규모 작음"
+   },
+   "basis": [
+    "평가액 21,196원(EV/EBITDA 11.98배), HD현대마린솔루션 빼면 16,321원 (알파스퀘어)",
+    "유통 가능 31.75% (1곳)",
+    "수요예측 결과는 10/21 확정 공고 예정, 아직 미확인"
+   ],
+   "result": null,
+   "sources": [
+    {
+     "name": "뉴스핌 (09/22)",
+     "url": "https://www.newspim.com/news/view/20260922000554"
+    },
+    {
+     "name": "뉴스웨이 (10/19)",
+     "url": "https://www.newsway.co.kr/news/view?ud=2026101914015814305"
+    },
+    {
+     "name": "알파스퀘어",
+     "url": "https://alphasquare.co.kr/home/insight/posts/5883e7a2-aed6-4785-a205-12b8bb3e32dd"
+    }
+   ]
+  },
+  {
+   "name": "이에스티",
+   "market": "코스닥",
+   "sector": "반도체 정전척(ESC)",
+   "stage": "청약 전",
+   "demand": {
+    "start": "2026-10-14",
+    "end": "2026-10-20",
+    "ratio": null,
+    "lockup": null
+   },
+   "subscribe": {
+    "start": "2026-10-22",
+    "end": "2026-10-23"
+   },
+   "listing": "2026-11-04",
+   "underwriters": [
+    {
+     "name": "대신증권",
+     "role": "대표"
+    }
+   ],
+   "priceBand": [
+    10600,
+    12400
+   ],
+   "finalPrice": null,
+   "offerAmount": "233억~273억원",
+   "floatPct": null,
+   "expected": {
+    "institution": [
+     400,
+     1000
+    ],
+    "retail": [
+     300,
+     900
+    ]
+   },
+   "retailRatio": null,
+   "lines": [
+    "반도체 정전척 국산화 회사, 전량 신주",
+    "공모 233억~273억으로 작음",
+    "걸리는 점: 올해 8월까지 영업손실 13.7억원",
+    "바뀔 조건: 기관 1,000:1↑·상단 확정이면 소액 청약"
+   ],
+   "call": {
+    "action": "skip",
+    "text": "청약 안 함",
+    "reason": "아직 적자, 신규 수주 확인 필요"
+   },
+   "basis": [
+    "8월까지 영업손실 13.7억 (알파스퀘어)",
+    "수요예측 결과는 10/21 확정 공고 예정, 아직 미확인"
+   ],
+   "result": null,
+   "sources": [
+    {
+     "name": "ZDNet (10/20)",
+     "url": "https://zdnet.co.kr/view/?no=20261020135732"
+    },
+    {
+     "name": "알파스퀘어",
+     "url": "https://alphasquare.co.kr/home/insight/posts/b52d8534-5d4c-42a4-8f1f-732f82c33f23"
+    },
+    {
+     "name": "뉴스토마토",
+     "url": "https://www.newstomato.com/ReadNews.aspx?no=1317421"
+    }
+   ]
+  },
+  {
+   "name": "에이엘로봇",
+   "market": "코스닥",
+   "sector": "로봇 힘·토크 센서 (기술특례)",
+   "stage": "수요예측 중",
+   "demand": {
+    "start": "2026-10-15",
+    "end": "2026-10-21",
+    "ratio": null,
+    "lockup": null
+   },
+   "subscribe": {
+    "start": "2026-10-26",
+    "end": "2026-10-27"
+   },
+   "listing": null,
+   "underwriters": [
+    {
+     "name": "대신증권",
+     "role": "대표"
+    }
+   ],
+   "priceBand": [
+    15700,
+    17600
+   ],
+   "finalPrice": null,
+   "offerAmount": "377억~422억원",
+   "floatPct": null,
+   "expected": {
+    "institution": [
+     500,
+     1200
+    ],
+    "retail": [
+     400,
+     1200
+    ]
+   },
+   "retailRatio": null,
+   "lines": [
+    "로봇용 힘·토크 센서 회사, 기술특례 상장",
+    "공모 377억~422억, 전량 신주",
+    "걸리는 점: 아직 적자 가능성, 같은 주 공모 몰림",
+    "바뀔 조건: 기관 1,000:1↑·확약 10%↑면 소액 청약"
+   ],
+   "call": {
+    "action": "skip",
+    "text": "청약 안 함",
+    "reason": "기술특례 적자 우려, 결과 보고 재판단"
+   },
+   "basis": [
+    "공모가 확정 공고 10/22 예정",
+    "같은 기간 10곳 안팎 동시 수요예측 (핀포인트뉴스)"
+   ],
+   "result": null,
+   "sources": [
+    {
+     "name": "비즈워치 (10/16)",
+     "url": "https://news.bizwatch.co.kr/article/market/2026/10/16/0024"
+    }
+   ]
+  },
+  {
+   "name": "엠비디",
+   "market": "코스닥",
+   "sector": "바이오 (3D 세포배양)",
+   "stage": "수요예측 중",
+   "demand": {
+    "start": "2026-10-16",
+    "end": "2026-10-22",
+    "ratio": null,
+    "lockup": null
+   },
+   "subscribe": {
+    "start": "2026-10-28",
+    "end": "2026-10-29"
+   },
+   "listing": null,
+   "underwriters": [
+    {
+     "name": "하나증권",
+     "role": "대표"
+    }
+   ],
+   "priceBand": [
+    9600,
+    11700
+   ],
+   "finalPrice": null,
+   "offerAmount": "192억~234억원",
+   "floatPct": null,
+   "expected": {
+    "institution": [
+     200,
+     800
+    ],
+    "retail": [
+     100,
+     600
+    ]
+   },
+   "retailRatio": null,
+   "lines": [
+    "3D 세포배양 정밀의료 바이오 회사",
+    "공모 192억~234억으로 작음",
+    "걸리는 점: 일정 한 차례 연기, 실적 미확인",
+    "바뀔 조건: 기관 1,000:1↑·확약 15%↑면 소액 청약"
+   ],
+   "call": {
+    "action": "skip",
+    "text": "청약 안 함",
+    "reason": "바이오·일정 연기, 근거 부족"
+   },
+   "basis": [
+    "당초 청약 10/6~7 → 10/28~29로 연기, 공모가 확정 10/26 예정"
+   ],
+   "result": null,
+   "sources": []
+  }
+ ],
+ "history": [],
+ "track": {
+  "n": 0,
+  "hit": 0,
+  "applyAvg": null
+ },
+ "method": "매주 월요일 업데이트. 수요예측 결과·확약·유통 물량·최근 상장 성적을 비교해 판단. 결과 전 종목은 바뀔 조건을 함께 표시.",
+ "excluded": [
+  "스팩·리츠 제외",
+  "11/2 이후 청약 종목(동원파츠·바로팜·넥스아이·제논·옵토닉스 등)은 10/27(월) 업데이트에서 다룸"
+ ]
+}

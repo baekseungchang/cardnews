@@ -1,0 +1,282 @@
+{
+  "updated": "2026-10-24T00:25:00+09:00",
+  "headline": "원화 1,320원대 지지, 유로 약세",
+  "lines": [
+    "원·달러 10/23 1,324.6원(+0.4원) 마감, 장중 1,321.5원 찍고 6거래일 만에 반등",
+    "외국인 코스피 약 1조원 순매도·브렌트 115달러 돌파(10/23) → 상승 요인",
+    "신현송 총재 10/23 국감 '원화 추가 강세 여지' 발언 → 환율 하락 요인",
+    "유로존 10월 PMI 51.9(예상 52.7)·프랑스 48.4, 유로/달러 1.12 아래 → 원/유로 하락 요인",
+    "1주 전망: 원/달러 1,305~1,340원, 원/100엔 830~860원, 원/유로 1,463~1,503원"
+  ],
+  "summary": "원·달러는 10/23 외국인 매도에 6거래일 만에 소폭 올랐지만(1,324.6원) 수출 네고와 한은 총재의 '원화 추가 강세 여지' 발언으로 1,320원대 중반에 머물렀어요. 세 통화쌍 판단은 직전(10/23 13:40)과 같고, 유로존 PMI 부진으로 유로 약세 근거가 늘어 원/유로 범위만 3원 낮췄어요. 10/23 밤 브렌트유가 115달러를 넘어 6개월 최고로 오른 것은 상승 요인으로 더했지만, 판단과 범위는 바꾸지 않았어요.",
+  "pairs": [
+    {
+      "code": "USDKRW",
+      "name": "원/달러",
+      "label": "1달러",
+      "view": "down",
+      "viewText": "완만한 하락 우위 (원화 강세), 1,320원 지지 시험",
+      "confidence": "낮음",
+      "base": 1324.6,
+      "baseNote": "10/23 서울 주간 종가(15:30, SBS Biz·파이낸셜뉴스·머니투데이·뉴스핌). 장중 저점 1,321.5원(서울경제·SBS Biz)",
+      "range": [
+        1305,
+        1340
+      ],
+      "rangeNote": "앞으로 1주 예상 범위",
+      "summary": "외국인 코스피 약 1조원 순매도와 위험회피로 10/23 원·달러는 6거래일 만에 0.4원 올랐지만, 장중 1,321.5원까지 내렸고 수출 네고·한은 총재 발언이 원화 강세 쪽을 받치고 있어요. 다음 주 FOMC(10/29 새벽)가 매파적이면 반등할 수 있어 확신은 낮아요.",
+      "drivers": [
+        {
+          "effect": "up",
+          "text": "10/23 1,324.6원(+0.4원) 마감, 외국인 약 1조원 순매도·위험회피로 6거래일 만에 반등",
+          "src": "SBS Biz·뉴스핌·파이낸셜뉴스 (10/23)",
+          "url": "https://www.newspim.com/news/view/20261023001156"
+        },
+        {
+          "effect": "down",
+          "text": "신현송 총재 10/23 국감 '원화 추가 강세 여지 충분, 내수에 도움'",
+          "src": "이데일리·아시아경제·뉴스1·서울경제 (10/23)",
+          "url": "https://www.news1.kr/economy/trend/6330087"
+        },
+        {
+          "effect": "down",
+          "text": "수출업체 네고 물량이 장중 상승폭을 제한, 반도체 수출·경상흑자 달러 공급",
+          "src": "뉴스핌·서울경제 (10/23)",
+          "url": "https://www.sedaily.com/article/20105439"
+        },
+        {
+          "effect": "down",
+          "text": "10/22 미 10년물 4.952%(-19.3bp), 달러인덱스 3주 저점권(10/23 101.67)",
+          "src": "헤럴드경제·이투데이 (10/23), SBS Biz (10/23)",
+          "url": "https://www.etoday.co.kr/news/view/2639161"
+        },
+        {
+          "effect": "down",
+          "text": "10/23 코스피 장중 -4.12%에서 5,550.30(+0.30%)로 반등 마감, 증시 충격 일부 진정",
+          "src": "KED Global·파이낸셜뉴스·뉴스핌 (10/23)",
+          "url": "https://www.newspim.com/news/view/20261023001023"
+        },
+        {
+          "effect": "up",
+          "text": "10/29 FOMC 매파적 동결 가능성이 달러 강세 요인이라는 분석",
+          "src": "서울경제·뉴스핌 (10/23)",
+          "url": "https://www.sedaily.com/article/20105439"
+        },
+        {
+          "effect": "up",
+          "text": "브렌트유 10/22 113.17달러에 이어 10/23 115달러 넘어 6개월 최고 → 수입 결제 수요",
+          "src": "Fox News·CNBC·Coinpaper (10/23)",
+          "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html"
+        },
+        {
+          "effect": "up",
+          "text": "10/22 나스닥 -2.60%·반도체지수 약 -6.7%, AI주 투매에 위험회피",
+          "src": "뉴스핌·뉴스1 (10/23)",
+          "url": "https://bloomingbit.io/feed/news/122772"
+        }
+      ],
+      "scenarios": [
+        {
+          "dir": "down",
+          "name": "환율 하락 (원화 강세)",
+          "cond": "달러 약세·미 금리 하락 지속, 외국인 매도 진정으로 1,319원(2024/10/2 종가) 하향 돌파",
+          "range": "1,305~1,319원"
+        },
+        {
+          "dir": "neutral",
+          "name": "기본",
+          "cond": "1,320원 지지와 수출 네고가 맞서는 좁은 박스",
+          "range": "1,319~1,333원"
+        },
+        {
+          "dir": "up",
+          "name": "환율 상승 (원화 약세)",
+          "cond": "외국인 매도 확대, 유가 추가 급등, FOMC 매파적 동결",
+          "range": "1,333~1,340원"
+        }
+      ]
+    },
+    {
+      "code": "JPYKRW",
+      "name": "원/100엔",
+      "label": "100엔",
+      "view": "up",
+      "viewText": "완만한 상승 우위 (엔화 강세)",
+      "confidence": "낮음",
+      "base": 844.0,
+      "baseNote": "10/23 15:30 재정환율 843.79원(SBS Biz)~844.15원(서울외국환중개·연합인포맥스, PPSS). 원·달러 1,324.6원 ÷ 엔·달러 156.9엔(Trading Economics) 교차값 844.3원과 일치",
+      "range": [
+        830,
+        860
+      ],
+      "rangeNote": "앞으로 1주 예상 범위",
+      "summary": "미 금리 급락과 위험회피로 엔·달러가 10/23 아시아장 156엔 부근(한 달여 만의 엔고)까지 내려 원/100엔은 844원대로 올랐어요. 유럽장에선 157엔 부근으로 되돌렸고 10/30 BOJ 결과에 따라 흔들릴 수 있어 확신은 낮아요.",
+      "drivers": [
+        {
+          "effect": "up",
+          "text": "10/23 아시아장 엔·달러 156엔 부근 한 달여 저점(엔 강세), 유럽장 157엔 부근 반등",
+          "src": "FXStreet·Trading Economics (10/23)",
+          "url": "https://www.fxstreet.com/news/usd-jpy-price-forecast-recovers-further-from-one-month-low-retakes-15700-on-firmer-usd-202610230756"
+        },
+        {
+          "effect": "up",
+          "text": "10/23 15:30 원/100엔 843.79원, 전일보다 1.58원 상승",
+          "src": "SBS Biz·PPSS(연합인포맥스 844.15원) (10/23)",
+          "url": "https://www.ppss.kr/news/articleView.html?idxno=317100"
+        },
+        {
+          "effect": "up",
+          "text": "日 9월 근원 CPI 2.1%(8월 1.7%), 9개월 만에 2% 상회 → 10/30 BOJ 매파 기대",
+          "src": "FXStreet·investingLive (10/23)",
+          "url": "https://www.fxstreet.com/news/eur-jpy-price-forecast-trades-around-17600-after-rebounding-from-fresh-12-month-lows-202610230259"
+        },
+        {
+          "effect": "up",
+          "text": "UOB '과매도 속 엔·달러 156.00엔까지 하락 연장 가능'(1곳, 가능성)",
+          "src": "FXStreet(UOB) (10/23, 1곳)",
+          "url": "https://fxstreet.com/news/japanese-yen-set-for-further-gains-against-us-dollar-uob-202610230841"
+        },
+        {
+          "effect": "up",
+          "text": "미 10년물 19.3bp 급락으로 미·일 금리차 축소, 위험회피 엔 매수",
+          "src": "헤럴드경제·이투데이 (10/23), FXStreet·StoneX (10/22)",
+          "url": "https://stonex.com/en-gb/news-and-analysis/japanese-yen-surges-across-fx-majors-as-risk-aversion-intensifies-2026-10-22"
+        },
+        {
+          "effect": "down",
+          "text": "BOJ 인상 기대가 이미 반영됐다는 시각에 엔·달러 157엔 회복, 원화 강세도 상승폭 상쇄",
+          "src": "FXStreet (10/23)·서울경제 (10/23)",
+          "url": "https://www.fxstreet.com/news/usd-jpy-price-forecast-recovers-further-from-one-month-low-retakes-15700-on-firmer-usd-202610230756"
+        }
+      ],
+      "scenarios": [
+        {
+          "dir": "down",
+          "name": "엔화 약세·원화 강세",
+          "cond": "위험회피 진정으로 엔·달러 158.5엔 위 + 원·달러 1,319원 아래",
+          "range": "830~838원"
+        },
+        {
+          "dir": "neutral",
+          "name": "기본",
+          "cond": "엔·달러 155.5~158엔, 원·달러 1,319~1,333원",
+          "range": "838~852원"
+        },
+        {
+          "dir": "up",
+          "name": "엔화 강세",
+          "cond": "증시 급락 재개·BOJ 매파 신호로 엔·달러 155엔대, 원화 약세 전환",
+          "range": "852~860원"
+        }
+      ]
+    },
+    {
+      "code": "EURKRW",
+      "name": "원/유로",
+      "label": "1유로",
+      "view": "down",
+      "viewText": "하락 우위 (원화 강세·유로 약세)",
+      "confidence": "낮음",
+      "base": 1484.5,
+      "baseNote": "10/23 15:30 1,485.54원(서울외국환중개·연합인포맥스, PPSS). 원·달러 1,324.6원 × 유로/달러 1.1195~1.121달러(XTB·VT Markets) 교차값 1,483~1,485원으로 확인해 1,484.5원 사용",
+      "range": [
+        1463,
+        1503
+      ],
+      "rangeNote": "앞으로 1주 예상 범위",
+      "summary": "유로존 10월 종합 PMI가 51.9로 예상(52.7)을 밑돌고 프랑스는 48.4로 위축 전환하면서 유로/달러가 1.12달러 아래로 밀렸어요. 10/29 ECB가 매파 신호를 주면 반등할 수 있어 확신은 낮아요.",
+      "drivers": [
+        {
+          "effect": "down",
+          "text": "유로존 10월 종합 PMI 51.9(9월 53.1, 예상 52.7), 6월 이후 최저",
+          "src": "Reuters(US News·Investing.com)·FXStreet(Ebury) (10/23)",
+          "url": "https://money.usnews.com/investing/news/articles/2026-10-23/euro-zone-growth-slows-to-4-month-low-amid-rising-costs-and-french-turmoil-pmi-shows"
+        },
+        {
+          "effect": "down",
+          "text": "프랑스 10월 종합 PMI 48.4(9월 51.1, 예상 약 50.5) 위축 전환, 유로/달러 1.12달러 아래",
+          "src": "XTB·investingLive·Newsquawk (10/23)",
+          "url": "https://www.xtb.com/cy/market-analysis/news-and-research/breaking-france-slows-down-germany-holds-on-euro-falls-below-1-12"
+        },
+        {
+          "effect": "down",
+          "text": "10/22 프랑스 10년물 5.10% 돌파, 독일과 금리차 160bp 넘어 2011년 11월 이후 최대",
+          "src": "FXStreet(TradeTheNews)·MarketScreener (10/22)",
+          "url": "https://www.fxstreet.com/analysis/frances-10-year-yield-moves-above-510-level-202610220948"
+        },
+        {
+          "effect": "down",
+          "text": "원화 강세 기조(10/23 장중 1,321.5원)가 원/유로 상단을 누름",
+          "src": "서울경제·SBS Biz (10/23)",
+          "url": "https://www.sedaily.com/article/20105439"
+        },
+        {
+          "effect": "up",
+          "text": "PMI 투입물가 2개월 연속 가속, ECB 추가 긴축 기대 남아 10/29 매파 신호 시 유로 반등 가능",
+          "src": "Reuters·investingLive (10/23)",
+          "url": "https://investinglive.com/news/eurozone-october-pmi-misses-estimates-as-growth-slows-keeping-ecb-rate-hike-dilemma-alive/"
+        },
+        {
+          "effect": "up",
+          "text": "미 금리 급락·달러인덱스 3주 저점권이 유로/달러 하단을 받침",
+          "src": "investingLive·FX Leaders (10/22)",
+          "url": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-22-oct-nasdaq-sinks-as-ai-worries-bite-treasury-yields-tumble/"
+        }
+      ],
+      "scenarios": [
+        {
+          "dir": "down",
+          "name": "유로 약세·원화 강세",
+          "cond": "프랑스 정국·국채 불안 지속, 유로/달러 1.115달러 아래 + 원·달러 1,319원 아래",
+          "range": "1,463~1,476원"
+        },
+        {
+          "dir": "neutral",
+          "name": "기본",
+          "cond": "유로/달러 1.115~1.125달러, 원·달러 1,319~1,333원",
+          "range": "1,476~1,495원"
+        },
+        {
+          "dir": "up",
+          "name": "유로 반등·원화 약세",
+          "cond": "ECB 매파 신호·프랑스 예산 진전 + 원화 약세 전환",
+          "range": "1,495~1,503원"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "date": "10/29 (목) 03:00",
+      "text": "미국 FOMC 금리 결정"
+    },
+    {
+      "date": "10/29 (목) 21:30",
+      "text": "미국 3분기 GDP 속보치·9월 PCE 물가"
+    },
+    {
+      "date": "10/29 (목) 22:15",
+      "text": "유럽중앙은행(ECB) 금리 결정 (유럽 서머타임 종료 반영)"
+    },
+    {
+      "date": "10/30 (금)",
+      "text": "일본은행(BOJ) 금리 결정·전망 보고서"
+    },
+    {
+      "date": "11/26 (목)",
+      "text": "한국은행 금통위 (다음 회의)"
+    }
+  ],
+  "method": "시세 서버(야후)와 기사 원문 접속이 막혀 10/23 서울 마감 기사·유럽 PMI 기사 검색 결과에서 2곳 이상 일치한 숫자만 썼고, 원/100엔·원/유로는 원·달러×엔·달러·유로/달러 교차값으로 다시 확인했어요. 복기: 채점 45건 중 범위 44건·방향 28건 적중이고 빗나간 건 대부분 '중립이라 했는데 실제로는 하락'이라, 근거가 한쪽으로 쌓인 세 통화쌍 모두 중립 대신 방향(원/달러·원/유로 하락, 원/100엔 상승)을 유지했어요. 확률이 아닌 참고용 전망이에요. 10/24 00시 갱신: 밤사이 유가 상승을 반영했지만 미국 PMI·뉴욕 외환 마감이 확인되지 않아 판단은 그대로 두었어요.",
+  "excluded": [
+    "시세 서버(야후 파이낸스)·기사 원문 접속 실패: 검색 결과로 2곳 이상 확인한 숫자만 사용",
+    "10/23 야간 원·달러 시세: 확인 가능한 보도가 없어 주간 종가(15:30)를 기준값으로 사용",
+    "원/유로 15:30 1,485.54원: 1곳(연합인포맥스 인용)이라 교차 계산(1,483~1,485원)으로 확인한 뒤 1,484.5원으로 사용",
+    "국민은행 10/23 20:01 고시(엔 송금 853.26/836.88원, 유로 1,498.75/1,469.09원): 검색 요약 1곳이고 매매기준율 표기가 불명확해 뺌",
+    "유로/달러 1.1195달러: 시각 확인이 안 돼 '1.12달러 아래'로만 표기",
+    "외국인 순매도 규모: '약 1조원'(SBS Biz 1조938억, 뉴스핌 코스피 9,670억)으로 매체마다 달라 '약 1조원'으로만 표기",
+    "한국 3분기 GDP 속보치 발표일: 공식 일정 확인 안 돼 일정에서 뺌",
+    "미국 10월 S&P 글로벌 PMI 속보치(10/23 22:45): 작업 시점까지 결과 보도를 확인 못해 미반영",
+    "10/23 뉴욕장 유로/달러·엔·달러 마감: 확인된 보도가 없어 숫자를 쓰지 않음"
+  ]
+}

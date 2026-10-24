@@ -1,0 +1,91 @@
+{
+  "tag": "ETF 비교",
+  "ticker": "XLF/KRE",
+  "company": "미국 금융·은행 ETF",
+  "brand": "#0F3B5F",
+  "direction": "neutral",
+  "chartSymbol": "XLF",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 XLF 종가",
+  "change": "D-1",
+  "changeNote": "10/13 밤 JP모건 등 대형은행 실적 (한국 시간)",
+  "headline": "은행 실적 시즌,\n**금융 ETF** 3종 비교",
+  "subhead": "XLF·KBE·KRE, 같은 은행 ETF가 아니에요\n9월 금융주는 1990년 이후 최악의 상대 성적",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "이번 주 무슨 일이",
+      "body": "10/13부터 미국 대형은행이 **3분기 실적**을\n내놔요. 은행주는 최근 한 달 부진했어요.",
+      "bullets": [
+        "10/13 **JP모건** 등 4곳 실적",
+        "10/14 같은 날 **9월 CPI**",
+        "10/9 XLF **+0.92%**",
+        "10/9 KRE **-0.83%**"
+      ]
+    },
+    {
+      "phase": "현재",
+      "title": "무엇을 담나",
+      "table": {
+        "head": ["ETF", "담는 것", "비중 방식", "총보수"],
+        "rows": [
+          ["XLF", "금융 전반(카드·보험 포함)", "시가총액", "0.08%"],
+          ["KBE", "미국 은행 전반", "동일가중", "0.35%"],
+          ["KRE", "지역은행", "동일가중", "0.35%"]
+        ]
+      }
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "8월 중순", "text": "은행지수 고점"},
+        {"date": "9/17", "text": "연준 **0.25%p 인상**"},
+        {"date": "9월", "text": "금융주 **1990년 이후** 최악"},
+        {"date": "10/2", "text": "은행지수 고점 대비 **-13%**"},
+        {"date": "10/9", "text": "XLF 반등, KRE 하락", "now": true}
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (한국 시간)",
+      "timeline": [
+        {"date": "10/13", "text": "JP모건·골드만·씨티·웰스"},
+        {"date": "10/14", "text": "BofA·모건스탠리, **CPI**"},
+        {"date": "10/15", "text": "US뱅코프·슈왑, PPI"},
+        {"date": "10/29", "text": "**FOMC** 결과 (새벽)"}
+      ]
+    },
+    {
+      "title": "나에게 맞는 구조는?",
+      "bullets": [
+        "XLF: **저보수**, 대형 금융주 중심",
+        "KBE: 대형~소형 **은행만** 고르게",
+        "KRE: **지역은행**, 변동성 더 큼",
+        "실적 뒤 **순이자마진·충당금** 확인"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "XLF 총보수", "value": "0.08%"},
+    {"label": "KBE·KRE 총보수", "value": "0.35%"},
+    {"label": "은행지수 8월 고점 대비", "value": "-13%"},
+    {"label": "대형은행 실적 시작", "value": "10/13"}
+  ],
+  "summary": "은행 실적 시즌 개막.\n**XLF**는 금융 전반,\n**KRE**는 지역은행.\n담는 게 달라요.",
+  "caption": "미국 은행 실적 시즌이 이번 주 시작돼요 🏦\n\n10/13(한국 시간 밤) JP모건·골드만삭스·씨티·웰스파고, 10/14 뱅크오브아메리카·모건스탠리가 3분기 성적표를 내요. 같은 날 밤엔 미국 9월 CPI도 나와요.\n\n은행주는 최근 부진했어요. 트루이스트는 9월 금융주가 S&P500 대비 1990년 이후 가장 부진한 달이었다고 분석했고, 은행지수는 8월 중순 고점보다 13% 넘게 내려왔어요. 실적보다 AI 쪽으로 돈이 쏠린 영향이라는 분석이 많아요.\n\n금융 ETF도 담는 게 달라요.\n• XLF: 버크셔·JP모건·비자 등 금융 대형주, 총보수 0.08%\n• KBE: 미국 은행 전반을 고르게, 0.35%\n• KRE: 지역은행 위주, 0.35%\n\n여러분은 대형 금융주파, 지역은행파? 👇",
+  "hashtags": ["금융ETF", "XLF", "KRE", "KBE", "은행주", "JP모건", "실적시즌", "미국ETF", "ETF비교", "카드뉴스"],
+  "sources": [
+    {"name": "CNBC (2026-10-11)", "url": "https://www.cnbc.com/2026/10/11/bank-earnings-jpmorgan-goldman.html"},
+    {"name": "CNBC (2026-10-09)", "url": "https://www.cnbc.com/2026/10/09/earnings-season-kicks-into-high-gear-as-big-banks-report-next-week.html"},
+    {"name": "한국경제 (2026-10-11)", "url": "https://www.hankyung.com/article/2026101145081"},
+    {"name": "글로벌이코노믹 (2026-10-12)", "url": "https://www.g-enews.com/article/Securities/2026/10/202610120548315463e250e8e188_1"},
+    {"name": "24/7 Wall St. (2026-10-02)", "url": "https://247wallst.com/investing/etf/2026/10/02/bank-stocks-are-lagging-the-sp-500-by-the-most-since-1990/"},
+    {"name": "Yahoo Finance (2026-10)", "url": "https://finance.yahoo.com/markets/stocks/article/bank-stocks-extend-second-half-slump-amid-sharp-interest-rate-rise-185202119.html"},
+    {"name": "Yahoo Finance XLF 시세", "url": "https://finance.yahoo.com/quote/XLF/"},
+    {"name": "Yahoo Finance KRE 시세", "url": "https://finance.yahoo.com/quote/KRE/"},
+    {"name": "mutualfunds.com XLF", "url": "https://www.mutualfunds.com/etfs/xlf-financial-select-sector-spdr/"},
+    {"name": "etfdb KBE vs KRE", "url": "https://etfdb.com/tool/etf-comparison/KBE-KRE/"},
+    {"name": "State Street KRE", "url": "https://www.ssga.com/us/en/intermediary/etfs/state-street-spdr-sp-regional-banking-etf-kre"}
+  ]
+}

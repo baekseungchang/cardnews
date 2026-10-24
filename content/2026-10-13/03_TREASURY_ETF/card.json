@@ -1,0 +1,200 @@
+{
+  "tag": "ETF 비교",
+  "ticker": "TLT/IEF",
+  "company": "미국채 만기별 ETF",
+  "brand": "#1F3A5F",
+  "direction": "neutral",
+  "chartSymbol": "TLT",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 TLT 종가",
+  "change": "D-1",
+  "changeNote": "10/14 밤 미국 9월 CPI (한국 시간)",
+  "headline": "30년물 24년 최고,\n**미국채 ETF** 비교",
+  "subhead": "TLT·IEF·SHY, 같은 미국채라도\n금리에 흔들리는 정도가 달라요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "지금 미국 장기금리",
+      "body": "미국 30년물 금리가 10/5 **5.6%대 후반**까지\n올라 2002년 이후 최고권이에요.",
+      "bullets": [
+        "10/8 30년물 입찰 **5.618%**",
+        "TLT 10/9 **77.98달러** 마감",
+        "TLT **2023년 이후 최저권**",
+        "그래도 TLT엔 **자금 유입**"
+      ]
+    },
+    {
+      "phase": "현재",
+      "title": "무엇을 담나",
+      "table": {
+        "head": [
+          "ETF",
+          "담는 만기",
+          "듀레이션",
+          "총보수"
+        ],
+        "rows": [
+          [
+            "TLT",
+            "20년 이상",
+            "14.7년",
+            "0.15%"
+          ],
+          [
+            "IEF",
+            "7~10년",
+            "약 7년",
+            "0.15%"
+          ],
+          [
+            "SHY",
+            "1~3년",
+            "약 1.8년",
+            "0.15%"
+          ]
+        ]
+      }
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {
+          "date": "9/17",
+          "text": "연준 기준금리 **인상**"
+        },
+        {
+          "date": "9/29",
+          "text": "30년물 장중 **5.6% 돌파**"
+        },
+        {
+          "date": "10/5",
+          "text": "30년물 **2002년 이후 최고**"
+        },
+        {
+          "date": "10/8",
+          "text": "30년물 입찰 수요 **양호**"
+        },
+        {
+          "date": "10/9",
+          "text": "TLT **77.98달러** 마감",
+          "now": true
+        }
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (한국 시간)",
+      "timeline": [
+        {
+          "date": "10/14",
+          "text": "미국 9월 **CPI** (21:30)"
+        },
+        {
+          "date": "10/15",
+          "text": "미국 9월 PPI"
+        },
+        {
+          "date": "10/29",
+          "text": "**FOMC** 결과 (새벽)"
+        }
+      ]
+    },
+    {
+      "title": "나에게 맞는 구조는?",
+      "body": "금리 1%p 변화에 TLT는 약 15%, SHY는\n약 2% 움직여요. **약 8배** 차이예요(단순 계산).",
+      "bullets": [
+        "TLT: 금리 **하락 기대**, 변동 큼",
+        "IEF: 중간 만기, **중간 위험**",
+        "SHY: **현금 대용**, 변동 작음",
+        "원화 투자자는 **환율**도 영향"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "30년물 입찰 금리(10/8)",
+      "value": "5.618%"
+    },
+    {
+      "label": "TLT 듀레이션(10/8)",
+      "value": "14.7년"
+    },
+    {
+      "label": "SHY 듀레이션",
+      "value": "약 1.8년"
+    },
+    {
+      "label": "세 ETF 총보수",
+      "value": "0.15%"
+    }
+  ],
+  "summary": "같은 미국채라도\n**만기**가 다르면\n금리 민감도가\n**약 8배** 차이나요.",
+  "caption": "미국 30년물 국채금리가 2002년 이후 최고권이에요 📈\n\n10/5 30년물은 5.6%대 후반까지 올랐고, 10/8 입찰은 5.618%로 마감했지만 수요는 양호했어요. 장기채 ETF TLT는 10/9 77.98달러로 2023년 이후 최저권인데도 자금은 오히려 들어오고 있어요.\n\n같은 미국채 ETF라도 만기가 다르면 성격이 달라요.\n• TLT: 20년 이상, 듀레이션 14.7년\n• IEF: 7~10년, 약 7년\n• SHY: 1~3년, 약 1.8년\n(총보수는 셋 다 0.15%)\n\n듀레이션은 금리 1%p 변화에 가격이 몇 % 움직이는지 보여주는 단순 지표예요. TLT는 SHY보다 약 8배 민감해요. 원화로 투자하면 환율 변화도 함께 받아요.\n\n10/14 밤 미국 9월 CPI가 다음 고비예요. 여러분은 장기채파, 단기채파? 👇",
+  "hashtags": [
+    "미국채",
+    "TLT",
+    "IEF",
+    "SHY",
+    "채권ETF",
+    "미국국채",
+    "국채금리",
+    "미국CPI",
+    "ETF비교",
+    "카드뉴스"
+  ],
+  "sources": [
+    {
+      "name": "Investing Live (2026-10-08)",
+      "url": "https://investinglive.com/news/us-treasury-sells-22-billion-of-30-year-bonds-at-a-high-yield-of-5-618/"
+    },
+    {
+      "name": "Political.org (2026-10-08)",
+      "url": "https://political.org/2026/10/08/treasury-bonds-rally-as-30-year-auction-draws-solid-demand-despite-multi-decade-high-yields/"
+    },
+    {
+      "name": "Kalkine (2026-10)",
+      "url": "https://kalkine.com.au/news/general-news/why-is-a-566-30-year-yield-a-threat-to-tlt-nasdaqtlt"
+    },
+    {
+      "name": "Benzinga (2026-10)",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62152976/tlt-popular-treasury-bond-etf-inflows-are-rising-as-30-year-yield-soars"
+    },
+    {
+      "name": "TradingView/Benzinga (2026-10-02)",
+      "url": "https://www.tradingview.com/news/benzinga:ebd773152094b:0-tlt-hits-52-week-low-yet-billions-pour-in-is-long-duration-treasury-etf-becoming-an-ice-cream-trade/"
+    },
+    {
+      "name": "stockanalysis TLT",
+      "url": "https://stockanalysis.com/etf/tlt/"
+    },
+    {
+      "name": "파이낸셜뉴스 (2026-10-06)",
+      "url": "https://www.fnnews.com/news/202610060511334960"
+    },
+    {
+      "name": "블루밍비트 (2026-09)",
+      "url": "https://bloomingbit.io/feed/news/121261"
+    },
+    {
+      "name": "iShares TLT",
+      "url": "https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf"
+    },
+    {
+      "name": "iShares IEF",
+      "url": "https://www.ishares.com/us/products/239456/"
+    },
+    {
+      "name": "iShares SHY",
+      "url": "https://www.ishares.com/us/products/239452/SHY"
+    },
+    {
+      "name": "24/7 Wall St. TLT vs IEF (2026-07-10)",
+      "url": "https://247wallst.com/investing/etf/2026/07/10/tlt-vs-ief-how-much-treasury-rate-risk-should-you-actually-take/"
+    },
+    {
+      "name": "StockTitan CPI 프리뷰 (2026-10)",
+      "url": "https://stocktitan.net/articles/september-2026-cpi-inflation-report"
+    }
+  ]
+}

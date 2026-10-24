@@ -1,0 +1,92 @@
+{
+  "tag": "ETF 비교",
+  "ticker": "GOLD ETF",
+  "company": "금 ETF 4종 비교",
+  "brand": "#7A5A00",
+  "direction": "down",
+  "chartSymbol": "GC=F",
+  "chartRange": "3mo",
+  "chartCaption": "금 선물 최근 3개월 (달러/온스)",
+  "change": "4,100달러대",
+  "changeNote": "10/7 금, 두 달 만의 최저권",
+  "headline": "금값 두 달 최저,\n**금 ETF** 뭐가 달라",
+  "subhead": "같은 금인데 보수는 4배 차이\nGLD·IAU·GLDM·국내 금현물",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "금값, 두 달 만의 최저권",
+      "body": "10/7 금은 온스당 **4,100달러대**,\n8월 초 이후 가장 낮은 수준이에요.",
+      "bullets": [
+        "9월 초 대비 **약 -8%**",
+        "1월 고점 대비 **약 -26%**",
+        "미 금리·달러 강세가 **부담**"
+      ]
+    },
+    {
+      "phase": "현재",
+      "title": "같은 금, 다른 비용",
+      "table": {
+        "head": ["ETF", "운용사", "총보수"],
+        "rows": [
+          ["GLD", "State Street", "0.40%"],
+          ["IAU", "BlackRock", "0.25%"],
+          ["GLDM", "State Street", "**0.10%**"],
+          ["KRX금현물(국내)", "한투·미래 등", "0.1%대"]
+        ]
+      }
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9/9", "text": "**4,496달러**, 6월 이후 최고"},
+        {"date": "9/16", "text": "미 연준 금리 **인상**"},
+        {"date": "10/6", "text": "장중 4,104달러, 두 달 최저"},
+        {"date": "10/7", "text": "미 10년물 **5.35%**, 금 약세", "now": true}
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (한국 시간)",
+      "timeline": [
+        {"date": "10/14", "text": "미국 9월 **CPI** (21:30)"},
+        {"date": "10/29", "text": "**FOMC** 결과 (새벽 3시)"},
+        {"date": "수시", "text": "미 국채금리·**달러** 흐름"}
+      ]
+    },
+    {
+      "phase": "어떤 사람에게 맞나",
+      "title": "나에게 맞는 금 ETF",
+      "bullets": [
+        "오래 묻어둘 → 보수 낮은 **GLDM**",
+        "자주 매매·옵션 → 거래 많은 **GLD**",
+        "원화·연금계좌 → **국내 금현물 ETF**",
+        "세금: 해외 22%·국내 15.4%"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "금 9월 초 대비", "value": "약 -8%"},
+    {"label": "금 1월 고점 대비", "value": "약 -26%"},
+    {"label": "GLDM 총보수", "value": "0.10%"},
+    {"label": "GLD 총보수", "value": "0.40%"}
+  ],
+  "summary": "금값은 금리에 눌려\n**두 달 만의 최저권**.\n같은 금 ETF라도\n보수는 **최대 4배** 차이.",
+  "caption": "금값이 두 달 만의 최저권까지 내려왔어요 🪙\n\n10/7 금은 온스당 4,100달러대로, 8월 초 이후 가장 낮은 수준이에요. 미 10년물 금리가 2002년 이후 최고(5.35%대)로 오르고 달러가 강해지면서, 이자가 없는 금에 부담이 됐다는 분석이 많아요.\n\n금 ETF로 담는다면 비용부터 비교해 보세요. 같은 금을 담아도 GLD 0.40%, IAU 0.25%, GLDM 0.10%로 보수가 4배까지 차이 나요. 국내 KRX금현물 ETF는 원화로 사고 연금계좌에서도 담을 수 있지만, 원·달러 환율 변화도 함께 반영돼요.\n\n세금도 달라요. 미국 상장은 양도세 22%(연 250만 원 공제), 국내 상장은 매매차익에 15.4%예요.\n\n여러분은 금을 어떤 방법으로 담고 계신가요? 👇",
+  "hashtags": ["금ETF", "금투자", "GLD", "GLDM", "IAU", "금현물", "금값", "ETF비교", "재테크", "카드뉴스"],
+  "sources": [
+    {"name": "MINING.COM (2026-10-07)", "url": "https://www.mining.com/web/gold-price-slides-to-two-month-low-as-robust-dollar-yields-add-pressure"},
+    {"name": "Mining.com.au (2026-10-07)", "url": "https://mining.com.au/gold-price-hits-two-month-low-as-oil-surge-revives-rate-fears/"},
+    {"name": "GoldSilver (2026-10-06)", "url": "https://goldsilver.com/industry-news/goldsilver-news/gold-two-month-low-treasury-yields-iran-sanctions/"},
+    {"name": "FXStreet (2026-10-06)", "url": "https://www.fxstreet.com/news/gold-hits-two-month-low-as-bears-await-break-below-4-100-amid-sustained-usd-strength-202610060506"},
+    {"name": "Fortune (2026-09-03)", "url": "https://fortune.com/article/current-price-of-gold-09-03-2026/"},
+    {"name": "Ajel (2026-09-09)", "url": "https://english.ajel.sa/business/sr7cego6a"},
+    {"name": "EBC (2026)", "url": "https://www.ebc.com/forex/gold-highest-price-ever-xauusd-record-2026"},
+    {"name": "etf.com", "url": "https://www.etf.com/sections/news/gld-vs-gldm-vs-iau-which-gold-etf-should-you-actually-buy"},
+    {"name": "Yahoo Finance (GLDM vs IAU)", "url": "https://finance.yahoo.com/news/gold-etfs-gldm-offers-lower-181702534.html"},
+    {"name": "미래에셋 TIGER KRX금현물", "url": "https://investments.miraeasset.com/tigeretf/ko/product/search/detail/index.do?ksdFund=KR70072R0006"},
+    {"name": "아시아경제 (2025-07-17)", "url": "https://www.asiae.co.kr/article/2025071708493540073"},
+    {"name": "KB Think ETF 세금", "url": "https://kbthink.com/etf/etf-tax.html"},
+    {"name": "키움투자자산운용 ETF 세금", "url": "https://www.kiwoomam.com/lounge/KI0502010102M?kijaNo=487"}
+  ]
+}

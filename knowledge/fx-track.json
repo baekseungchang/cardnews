@@ -1,0 +1,1544 @@
+{
+ "entries": [
+  {
+   "made": "2026-10-07T08:24:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1330,
+    1360
+   ],
+   "due": "2026-10-14",
+   "result": {
+    "base": 1339.74,
+    "actual": 1334.13,
+    "date": "2026-10-13",
+    "chg": -0.42,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-07T08:24:00+09:00",
+   "code": "JPYKRW",
+   "view": "down",
+   "range": [
+    838,
+    862
+   ],
+   "due": "2026-10-14",
+   "result": {
+    "base": 846.32,
+    "actual": 841.41,
+    "date": "2026-10-13",
+    "chg": -0.58,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-07T08:24:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1490,
+    1525
+   ],
+   "due": "2026-10-14",
+   "result": {
+    "base": 1506.13,
+    "actual": 1488.11,
+    "date": "2026-10-13",
+    "chg": -1.2,
+    "inRange": false,
+    "dirHit": false,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-07T13:22:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1355
+   ],
+   "due": "2026-10-14",
+   "result": {
+    "base": 1339.74,
+    "actual": 1334.13,
+    "date": "2026-10-13",
+    "chg": -0.42,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-07T13:22:00+09:00",
+   "code": "JPYKRW",
+   "view": "down",
+   "range": [
+    832,
+    858
+   ],
+   "due": "2026-10-14",
+   "result": {
+    "base": 846.32,
+    "actual": 841.41,
+    "date": "2026-10-13",
+    "chg": -0.58,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-07T13:22:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1488,
+    1524
+   ],
+   "due": "2026-10-14",
+   "result": {
+    "base": 1506.13,
+    "actual": 1488.11,
+    "date": "2026-10-13",
+    "chg": -1.2,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-07T20:30:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1355
+   ],
+   "due": "2026-10-14",
+   "result": {
+    "base": 1339.74,
+    "actual": 1334.13,
+    "date": "2026-10-13",
+    "chg": -0.42,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-07T20:30:00+09:00",
+   "code": "JPYKRW",
+   "view": "down",
+   "range": [
+    832,
+    858
+   ],
+   "due": "2026-10-14",
+   "result": {
+    "base": 846.32,
+    "actual": 841.41,
+    "date": "2026-10-13",
+    "chg": -0.58,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-07T20:30:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1486,
+    1522
+   ],
+   "due": "2026-10-14",
+   "result": {
+    "base": 1506.13,
+    "actual": 1488.11,
+    "date": "2026-10-13",
+    "chg": -1.2,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-08T13:22:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1355
+   ],
+   "due": "2026-10-15",
+   "result": {
+    "base": 1339.08,
+    "actual": 1339.35,
+    "date": "2026-10-15",
+    "chg": 0.02,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-08T13:22:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    834,
+    862
+   ],
+   "due": "2026-10-15",
+   "result": {
+    "base": 847.74,
+    "actual": 848.05,
+    "date": "2026-10-15",
+    "chg": 0.04,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-08T13:22:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1482,
+    1518
+   ],
+   "due": "2026-10-15",
+   "result": {
+    "base": 1499.4,
+    "actual": 1499.15,
+    "date": "2026-10-15",
+    "chg": -0.02,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-08T20:23:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1355
+   ],
+   "due": "2026-10-15",
+   "result": {
+    "base": 1339.08,
+    "actual": 1339.35,
+    "date": "2026-10-15",
+    "chg": 0.02,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-08T20:23:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    832,
+    860
+   ],
+   "due": "2026-10-15",
+   "result": {
+    "base": 847.74,
+    "actual": 848.05,
+    "date": "2026-10-15",
+    "chg": 0.04,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-08T20:23:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1482,
+    1518
+   ],
+   "due": "2026-10-15",
+   "result": {
+    "base": 1499.4,
+    "actual": 1499.15,
+    "date": "2026-10-15",
+    "chg": -0.02,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-09T08:30:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1355
+   ],
+   "due": "2026-10-16",
+   "result": {
+    "base": 1342.99,
+    "actual": 1340.95,
+    "date": "2026-10-16",
+    "chg": -0.15,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-09T08:30:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    832,
+    860
+   ],
+   "due": "2026-10-16",
+   "result": {
+    "base": 849.54,
+    "actual": 847.74,
+    "date": "2026-10-16",
+    "chg": -0.21,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-09T08:30:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1482,
+    1518
+   ],
+   "due": "2026-10-16",
+   "result": {
+    "base": 1503.66,
+    "actual": 1501.45,
+    "date": "2026-10-16",
+    "chg": -0.15,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-09T13:40:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1355
+   ],
+   "due": "2026-10-16",
+   "result": {
+    "base": 1342.99,
+    "actual": 1340.95,
+    "date": "2026-10-16",
+    "chg": -0.15,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-09T13:40:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    832,
+    860
+   ],
+   "due": "2026-10-16",
+   "result": {
+    "base": 849.54,
+    "actual": 847.74,
+    "date": "2026-10-16",
+    "chg": -0.21,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-09T13:40:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1482,
+    1518
+   ],
+   "due": "2026-10-16",
+   "result": {
+    "base": 1503.66,
+    "actual": 1501.45,
+    "date": "2026-10-16",
+    "chg": -0.15,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-09T20:40:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1355
+   ],
+   "due": "2026-10-16",
+   "result": {
+    "base": 1342.99,
+    "actual": 1340.95,
+    "date": "2026-10-16",
+    "chg": -0.15,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-09T20:40:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    832,
+    860
+   ],
+   "due": "2026-10-16",
+   "result": {
+    "base": 849.54,
+    "actual": 847.74,
+    "date": "2026-10-16",
+    "chg": -0.21,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-09T20:40:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1482,
+    1518
+   ],
+   "due": "2026-10-16",
+   "result": {
+    "base": 1503.66,
+    "actual": 1501.45,
+    "date": "2026-10-16",
+    "chg": -0.15,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-12T08:23:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1360
+   ],
+   "due": "2026-10-19",
+   "result": {
+    "base": 1340.84,
+    "actual": 1340.95,
+    "date": "2026-10-16",
+    "chg": 0.01,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-12T08:23:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    834,
+    862
+   ],
+   "due": "2026-10-19",
+   "result": {
+    "base": 847.53,
+    "actual": 847.74,
+    "date": "2026-10-16",
+    "chg": 0.02,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-12T08:23:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1485,
+    1522
+   ],
+   "due": "2026-10-19",
+   "result": {
+    "base": 1502.28,
+    "actual": 1501.45,
+    "date": "2026-10-16",
+    "chg": -0.06,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-12T13:22:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1318,
+    1352
+   ],
+   "due": "2026-10-19",
+   "result": {
+    "base": 1340.84,
+    "actual": 1340.95,
+    "date": "2026-10-16",
+    "chg": 0.01,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-12T13:22:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    832,
+    858
+   ],
+   "due": "2026-10-19",
+   "result": {
+    "base": 847.53,
+    "actual": 847.74,
+    "date": "2026-10-16",
+    "chg": 0.02,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-12T13:22:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1478,
+    1515
+   ],
+   "due": "2026-10-19",
+   "result": {
+    "base": 1502.28,
+    "actual": 1501.45,
+    "date": "2026-10-16",
+    "chg": -0.06,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-12T20:35:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1318,
+    1355
+   ],
+   "due": "2026-10-19",
+   "result": {
+    "base": 1340.84,
+    "actual": 1340.95,
+    "date": "2026-10-16",
+    "chg": 0.01,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-12T20:35:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    830,
+    856
+   ],
+   "due": "2026-10-19",
+   "result": {
+    "base": 847.53,
+    "actual": 847.74,
+    "date": "2026-10-16",
+    "chg": 0.02,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-12T20:35:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1478,
+    1515
+   ],
+   "due": "2026-10-19",
+   "result": {
+    "base": 1502.28,
+    "actual": 1501.45,
+    "date": "2026-10-16",
+    "chg": -0.06,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-13T08:25:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1318,
+    1355
+   ],
+   "due": "2026-10-20",
+   "result": {
+    "base": 1334.13,
+    "actual": 1333.43,
+    "date": "2026-10-19",
+    "chg": -0.05,
+    "inRange": true,
+    "dirHit": true,
+    "actualDir": "neutral"
+   }
+  },
+  {
+   "made": "2026-10-13T08:25:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    828,
+    854
+   ],
+   "due": "2026-10-20",
+   "result": {
+    "base": 841.41,
+    "actual": 844.98,
+    "date": "2026-10-19",
+    "chg": 0.42,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "up"
+   }
+  },
+  {
+   "made": "2026-10-13T08:25:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1470,
+    1505
+   ],
+   "due": "2026-10-20",
+   "result": {
+    "base": 1488.11,
+    "actual": 1498.22,
+    "date": "2026-10-19",
+    "chg": 0.68,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "up"
+   }
+  },
+  {
+   "made": "2026-10-14T08:40:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1362
+   ],
+   "due": "2026-10-21",
+   "result": {
+    "base": 1340.31,
+    "actual": 1330,
+    "date": "2026-10-20",
+    "chg": -0.77,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-14T08:40:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    834,
+    862
+   ],
+   "due": "2026-10-21",
+   "result": {
+    "base": 846.53,
+    "actual": 839.08,
+    "date": "2026-10-20",
+    "chg": -0.88,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-14T08:40:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1480,
+    1522
+   ],
+   "due": "2026-10-21",
+   "result": {
+    "base": 1499.92,
+    "actual": 1490.66,
+    "date": "2026-10-20",
+    "chg": -0.62,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-14T13:22:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1360
+   ],
+   "due": "2026-10-21",
+   "result": {
+    "base": 1340.31,
+    "actual": 1330,
+    "date": "2026-10-20",
+    "chg": -0.77,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-14T13:22:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    832,
+    860
+   ],
+   "due": "2026-10-21",
+   "result": {
+    "base": 846.53,
+    "actual": 839.08,
+    "date": "2026-10-20",
+    "chg": -0.88,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-14T13:22:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1480,
+    1520
+   ],
+   "due": "2026-10-21",
+   "result": {
+    "base": 1499.92,
+    "actual": 1490.66,
+    "date": "2026-10-20",
+    "chg": -0.62,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-14T20:40:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1322,
+    1357
+   ],
+   "due": "2026-10-21",
+   "result": {
+    "base": 1340.31,
+    "actual": 1330,
+    "date": "2026-10-20",
+    "chg": -0.77,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-14T20:40:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    830,
+    858
+   ],
+   "due": "2026-10-21",
+   "result": {
+    "base": 846.53,
+    "actual": 839.08,
+    "date": "2026-10-20",
+    "chg": -0.88,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-14T20:40:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1478,
+    1518
+   ],
+   "due": "2026-10-21",
+   "result": {
+    "base": 1499.92,
+    "actual": 1490.66,
+    "date": "2026-10-20",
+    "chg": -0.62,
+    "inRange": true,
+    "dirHit": false,
+    "actualDir": "down"
+   }
+  },
+  {
+   "made": "2026-10-19T08:23:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1318,
+    1355
+   ],
+   "due": "2026-10-26",
+   "result": null
+  },
+  {
+   "made": "2026-10-19T08:23:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    828,
+    858
+   ],
+   "due": "2026-10-26",
+   "result": null
+  },
+  {
+   "made": "2026-10-19T08:23:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1470,
+    1520
+   ],
+   "due": "2026-10-26",
+   "result": null
+  },
+  {
+   "made": "2026-10-19T13:40:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1315,
+    1355
+   ],
+   "due": "2026-10-26",
+   "result": null
+  },
+  {
+   "made": "2026-10-19T13:40:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    830,
+    860
+   ],
+   "due": "2026-10-26",
+   "result": null
+  },
+  {
+   "made": "2026-10-19T13:40:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1475,
+    1525
+   ],
+   "due": "2026-10-26",
+   "result": null
+  },
+  {
+   "made": "2026-10-19T20:35:00+09:00",
+   "code": "USDKRW",
+   "view": "down",
+   "range": [
+    1310,
+    1350
+   ],
+   "due": "2026-10-26",
+   "result": null
+  },
+  {
+   "made": "2026-10-19T20:35:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    825,
+    855
+   ],
+   "due": "2026-10-26",
+   "result": null
+  },
+  {
+   "made": "2026-10-19T20:35:00+09:00",
+   "code": "EURKRW",
+   "view": "down",
+   "range": [
+    1465,
+    1510
+   ],
+   "due": "2026-10-26",
+   "result": null
+  },
+  {
+   "made": "2026-10-20T08:25:00+09:00",
+   "code": "USDKRW",
+   "view": "down",
+   "range": [
+    1310,
+    1350
+   ],
+   "due": "2026-10-27",
+   "result": null
+  },
+  {
+   "made": "2026-10-20T08:25:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    822,
+    852
+   ],
+   "due": "2026-10-27",
+   "result": null
+  },
+  {
+   "made": "2026-10-20T08:25:00+09:00",
+   "code": "EURKRW",
+   "view": "down",
+   "range": [
+    1462,
+    1508
+   ],
+   "due": "2026-10-27",
+   "result": null
+  },
+  {
+   "made": "2026-10-20T13:40:00+09:00",
+   "code": "USDKRW",
+   "view": "down",
+   "range": [
+    1305,
+    1345
+   ],
+   "due": "2026-10-27",
+   "result": null
+  },
+  {
+   "made": "2026-10-20T13:40:00+09:00",
+   "code": "JPYKRW",
+   "view": "down",
+   "range": [
+    818,
+    848
+   ],
+   "due": "2026-10-27",
+   "result": null
+  },
+  {
+   "made": "2026-10-20T13:40:00+09:00",
+   "code": "EURKRW",
+   "view": "down",
+   "range": [
+    1458,
+    1505
+   ],
+   "due": "2026-10-27",
+   "result": null
+  },
+  {
+   "made": "2026-10-20T20:30:00+09:00",
+   "code": "USDKRW",
+   "view": "down",
+   "range": [
+    1308,
+    1345
+   ],
+   "due": "2026-10-27",
+   "result": null
+  },
+  {
+   "made": "2026-10-20T20:30:00+09:00",
+   "code": "JPYKRW",
+   "view": "down",
+   "range": [
+    822,
+    852
+   ],
+   "due": "2026-10-27",
+   "result": null
+  },
+  {
+   "made": "2026-10-20T20:30:00+09:00",
+   "code": "EURKRW",
+   "view": "down",
+   "range": [
+    1465,
+    1510
+   ],
+   "due": "2026-10-27",
+   "result": null
+  },
+  {
+   "made": "2026-10-21T08:25:00+09:00",
+   "code": "USDKRW",
+   "view": "down",
+   "range": [
+    1308,
+    1345
+   ],
+   "due": "2026-10-28",
+   "result": null
+  },
+  {
+   "made": "2026-10-21T08:25:00+09:00",
+   "code": "JPYKRW",
+   "view": "down",
+   "range": [
+    822,
+    852
+   ],
+   "due": "2026-10-28",
+   "result": null
+  },
+  {
+   "made": "2026-10-21T08:25:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1470,
+    1512
+   ],
+   "due": "2026-10-28",
+   "result": null
+  },
+  {
+   "made": "2026-10-21T20:40:00+09:00",
+   "code": "USDKRW",
+   "view": "down",
+   "range": [
+    1305,
+    1342
+   ],
+   "due": "2026-10-28",
+   "result": null
+  },
+  {
+   "made": "2026-10-21T20:40:00+09:00",
+   "code": "JPYKRW",
+   "view": "down",
+   "range": [
+    820,
+    850
+   ],
+   "due": "2026-10-28",
+   "result": null
+  },
+  {
+   "made": "2026-10-21T20:40:00+09:00",
+   "code": "EURKRW",
+   "view": "down",
+   "range": [
+    1466,
+    1505
+   ],
+   "due": "2026-10-28",
+   "result": null
+  },
+  {
+   "made": "2026-10-22T00:20:00+09:00",
+   "code": "USDKRW",
+   "view": "down",
+   "range": [
+    1305,
+    1342
+   ],
+   "due": "2026-10-29",
+   "result": null
+  },
+  {
+   "made": "2026-10-22T00:20:00+09:00",
+   "code": "JPYKRW",
+   "view": "down",
+   "range": [
+    820,
+    850
+   ],
+   "due": "2026-10-29",
+   "result": null
+  },
+  {
+   "made": "2026-10-22T00:20:00+09:00",
+   "code": "EURKRW",
+   "view": "down",
+   "range": [
+    1466,
+    1505
+   ],
+   "due": "2026-10-29",
+   "result": null
+  },
+  {
+   "made": "2026-10-22T08:20:00+09:00",
+   "code": "USDKRW",
+   "view": "down",
+   "range": [
+    1305,
+    1342
+   ],
+   "due": "2026-10-29",
+   "result": null
+  },
+  {
+   "made": "2026-10-22T08:20:00+09:00",
+   "code": "JPYKRW",
+   "view": "down",
+   "range": [
+    820,
+    850
+   ],
+   "due": "2026-10-29",
+   "result": null
+  },
+  {
+   "made": "2026-10-22T08:20:00+09:00",
+   "code": "EURKRW",
+   "view": "down",
+   "range": [
+    1466,
+    1505
+   ],
+   "due": "2026-10-29",
+   "result": null
+  },
+  {
+   "made": "2026-10-22T13:25:00+09:00",
+   "code": "USDKRW",
+   "view": "down",
+   "range": [
+    1305,
+    1340
+   ],
+   "due": "2026-10-29",
+   "result": null
+  },
+  {
+   "made": "2026-10-22T13:25:00+09:00",
+   "code": "JPYKRW",
+   "view": "down",
+   "range": [
+    820,
+    850
+   ],
+   "due": "2026-10-29",
+   "result": null
+  },
+  {
+   "made": "2026-10-22T13:25:00+09:00",
+   "code": "EURKRW",
+   "view": "down",
+   "range": [
+    1466,
+    1505
+   ],
+   "due": "2026-10-29",
+   "result": null
+  },
+  {
+   "made": "2026-10-22T20:23:00+09:00",
+   "code": "USDKRW",
+   "view": "down",
+   "range": [
+    1305,
+    1340
+   ],
+   "due": "2026-10-29",
+   "result": null
+  },
+  {
+   "made": "2026-10-22T20:23:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    826,
+    856
+   ],
+   "due": "2026-10-29",
+   "result": null
+  },
+  {
+   "made": "2026-10-22T20:23:00+09:00",
+   "code": "EURKRW",
+   "view": "down",
+   "range": [
+    1466,
+    1505
+   ],
+   "due": "2026-10-29",
+   "result": null
+  },
+  {
+   "made": "2026-10-23T00:25:00+09:00",
+   "code": "USDKRW",
+   "view": "down",
+   "range": [
+    1305,
+    1340
+   ],
+   "due": "2026-10-30",
+   "result": null
+  },
+  {
+   "made": "2026-10-23T00:25:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    826,
+    856
+   ],
+   "due": "2026-10-30",
+   "result": null
+  },
+  {
+   "made": "2026-10-23T00:25:00+09:00",
+   "code": "EURKRW",
+   "view": "down",
+   "range": [
+    1466,
+    1505
+   ],
+   "due": "2026-10-30",
+   "result": null
+  },
+  {
+   "made": "2026-10-23T08:23:00+09:00",
+   "code": "USDKRW",
+   "view": "down",
+   "range": [
+    1305,
+    1340
+   ],
+   "due": "2026-10-30",
+   "result": null
+  },
+  {
+   "made": "2026-10-23T08:23:00+09:00",
+   "code": "JPYKRW",
+   "view": "up",
+   "range": [
+    830,
+    860
+   ],
+   "due": "2026-10-30",
+   "result": null
+  },
+  {
+   "made": "2026-10-23T08:23:00+09:00",
+   "code": "EURKRW",
+   "view": "down",
+   "range": [
+    1466,
+    1505
+   ],
+   "due": "2026-10-30",
+   "result": null
+  },
+  {
+   "made": "2026-10-23T13:40:00+09:00",
+   "code": "USDKRW",
+   "view": "down",
+   "range": [
+    1305,
+    1340
+   ],
+   "due": "2026-10-30",
+   "result": null
+  },
+  {
+   "made": "2026-10-23T13:40:00+09:00",
+   "code": "JPYKRW",
+   "view": "up",
+   "range": [
+    830,
+    860
+   ],
+   "due": "2026-10-30",
+   "result": null
+  },
+  {
+   "made": "2026-10-23T13:40:00+09:00",
+   "code": "EURKRW",
+   "view": "down",
+   "range": [
+    1466,
+    1505
+   ],
+   "due": "2026-10-30",
+   "result": null
+  },
+  {
+   "made": "2026-10-23T20:26:00+09:00",
+   "code": "USDKRW",
+   "view": "down",
+   "range": [
+    1305,
+    1340
+   ],
+   "due": "2026-10-30",
+   "result": null
+  },
+  {
+   "made": "2026-10-23T20:26:00+09:00",
+   "code": "JPYKRW",
+   "view": "up",
+   "range": [
+    830,
+    860
+   ],
+   "due": "2026-10-30",
+   "result": null
+  },
+  {
+   "made": "2026-10-23T20:26:00+09:00",
+   "code": "EURKRW",
+   "view": "down",
+   "range": [
+    1463,
+    1503
+   ],
+   "due": "2026-10-30",
+   "result": null
+  },
+  {
+   "made": "2026-10-24T00:25:00+09:00",
+   "code": "USDKRW",
+   "view": "down",
+   "range": [
+    1305,
+    1340
+   ],
+   "due": "2026-10-31",
+   "result": null
+  },
+  {
+   "made": "2026-10-24T00:25:00+09:00",
+   "code": "JPYKRW",
+   "view": "up",
+   "range": [
+    830,
+    860
+   ],
+   "due": "2026-10-31",
+   "result": null
+  },
+  {
+   "made": "2026-10-24T00:25:00+09:00",
+   "code": "EURKRW",
+   "view": "down",
+   "range": [
+    1463,
+    1503
+   ],
+   "due": "2026-10-31",
+   "result": null
+  }
+ ],
+ "stats": {
+  "all": {
+   "n": 45,
+   "range": 44,
+   "dir": 28
+  },
+  "byCode": {
+   "USDKRW": {
+    "n": 15,
+    "range": 15,
+    "dir": 9
+   },
+   "JPYKRW": {
+    "n": 15,
+    "range": 15,
+    "dir": 11
+   },
+   "EURKRW": {
+    "n": 15,
+    "range": 14,
+    "dir": 8
+   }
+  },
+  "nextDue": "2026-10-26",
+  "updated": "2026-10-24T18:42:50.304Z"
+ },
+ "recentMisses": [
+  {
+   "made": "2026-10-14T13:22:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1325,
+    1360
+   ],
+   "base": 1340.31,
+   "actual": 1330,
+   "date": "2026-10-20",
+   "chg": -0.77,
+   "inRange": true,
+   "dirHit": false,
+   "actualDir": "down"
+  },
+  {
+   "made": "2026-10-14T13:22:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    832,
+    860
+   ],
+   "base": 846.53,
+   "actual": 839.08,
+   "date": "2026-10-20",
+   "chg": -0.88,
+   "inRange": true,
+   "dirHit": false,
+   "actualDir": "down"
+  },
+  {
+   "made": "2026-10-14T13:22:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1480,
+    1520
+   ],
+   "base": 1499.92,
+   "actual": 1490.66,
+   "date": "2026-10-20",
+   "chg": -0.62,
+   "inRange": true,
+   "dirHit": false,
+   "actualDir": "down"
+  },
+  {
+   "made": "2026-10-14T20:40:00+09:00",
+   "code": "USDKRW",
+   "view": "neutral",
+   "range": [
+    1322,
+    1357
+   ],
+   "base": 1340.31,
+   "actual": 1330,
+   "date": "2026-10-20",
+   "chg": -0.77,
+   "inRange": true,
+   "dirHit": false,
+   "actualDir": "down"
+  },
+  {
+   "made": "2026-10-14T20:40:00+09:00",
+   "code": "JPYKRW",
+   "view": "neutral",
+   "range": [
+    830,
+    858
+   ],
+   "base": 846.53,
+   "actual": 839.08,
+   "date": "2026-10-20",
+   "chg": -0.88,
+   "inRange": true,
+   "dirHit": false,
+   "actualDir": "down"
+  },
+  {
+   "made": "2026-10-14T20:40:00+09:00",
+   "code": "EURKRW",
+   "view": "neutral",
+   "range": [
+    1478,
+    1518
+   ],
+   "base": 1499.92,
+   "actual": 1490.66,
+   "date": "2026-10-20",
+   "chg": -0.62,
+   "inRange": true,
+   "dirHit": false,
+   "actualDir": "down"
+  }
+ ]
+}
