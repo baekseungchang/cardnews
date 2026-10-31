@@ -1,0 +1,90 @@
+{
+  "tag": "ETF 비교",
+  "ticker": "ITA/XAR",
+  "company": "미국 방산 ETF 3종",
+  "brand": "#3B4A2F",
+  "direction": "down",
+  "chartSymbol": "ITA",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 ITA 종가",
+  "change": "-19%",
+  "changeNote": "ITA 52주 고점 대비 (10/19 종가)",
+  "headline": "방산주 **-19%**\n방산 ETF 3종 비교",
+  "subhead": "중간선거 앞두고 방산주가 밀렸어요\n같은 방산이라도 담는 방식이 달라요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무엇을 담나",
+      "body": "세 ETF 모두 미국 **항공우주·방산**이에요.\n차이는 보수와 종목 비중이에요.",
+      "table": {
+        "head": ["ETF", "총보수", "구조", "순자산"],
+        "rows": [
+          ["ITA", "0.37%", "상위 3개 약 45%", "약 120억$"],
+          ["XAR", "0.35%", "동일가중 50여 개", "약 50억$"],
+          ["PPA", "0.58%", "60여 종목 분산", "-"]
+        ]
+      }
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "두 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "8월 초", "text": "방산지수 **고점**"},
+        {"date": "10/14", "text": "고점 대비 약 **-19%**"},
+        {"date": "10/19", "text": "ITA 207.76달러, 50일선↓"},
+        {"date": "10/20", "text": "RTX·노스롭·GE **실적 상회**", "now": true}
+      ]
+    },
+    {
+      "phase": "현재",
+      "title": "왜 밀렸나",
+      "body": "**중간선거** 뒤 국방 예산 증액이\n막힐 거란 우려가 컸다는 분석이에요.",
+      "bullets": [
+        "ITA 52주 고점 대비 **-19%**",
+        "GE·RTX·보잉이 ITA의 45%",
+        "3사 연간 전망 **상향**",
+        "저가 매수 시각도 있어요"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (미국 날짜)",
+      "timeline": [
+        {"date": "10/22", "text": "**록히드마틴** 실적"},
+        {"date": "11/3", "text": "미국 **중간선거**"},
+        {"date": "11/5", "text": "ITA **3:1 분할** 첫 거래"}
+      ]
+    },
+    {
+      "phase": "어떤 사람에게",
+      "title": "어떤 사람에게 맞나",
+      "bullets": [
+        "대형 방산·항공 집중: **ITA**",
+        "중소형까지 고르게: **XAR**",
+        "넓게 분산: PPA (보수↑)",
+        "세금: 직투 22%(250만원 공제)"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "ITA 고점 대비", "value": "-19.0%"},
+    {"label": "ITA 총보수", "value": "0.37%"},
+    {"label": "XAR 총보수", "value": "0.35%"},
+    {"label": "PPA 총보수", "value": "0.58%"}
+  ],
+  "summary": "방산 ETF도\n**종목 비중**이 달라요.\nITA는 상위 3개 45%,\n**11/3 선거** 확인.",
+  "caption": "미국 방산주가 8월 초 고점에서 약 19% 밀렸어요 🛡️ 대표 ETF인 ITA도 10/19 종가 207.76달러로 52주 고점보다 19% 낮아요.\n\n11/3 중간선거 뒤 국방 예산 증액이 막힐 거란 우려가 컸다는 분석이에요. 반면 10/20 RTX·노스롭그루먼·GE에어로스페이스는 모두 예상보다 좋은 실적과 올해 전망 상향을 내놨어요.\n\n같은 방산 ETF라도 구조가 달라요.\n• ITA 0.37%: GE·RTX·보잉 3개가 약 45%\n• XAR 0.35%: 50여 종목을 같은 비중으로\n• PPA 0.58%: 60여 종목에 넓게 분산\n\n10/22 록히드마틴 실적, 11/5 ITA 3:1 액면분할(보유 가치는 그대로)도 있어요. 여러분은 방산, 집중형과 분산형 중 어느 쪽이 맞나요? 👇",
+  "hashtags": ["방산ETF", "ITA", "XAR", "PPA", "미국ETF", "방산주", "중간선거", "록히드마틴", "ETF비교", "카드뉴스"],
+  "sources": [
+    {"name": "Bloomberg (2026-10-15)", "url": "https://www.bloomberg.com/news/articles/2026-10-15/defense-stock-rout-lures-dip-buyers-looking-past-election-risk"},
+    {"name": "Spokesman-Review·Bloomberg (2026-10-15)", "url": "https://www.spokesman.com/stories/2026/oct/15/defense-stock-rout-lures-dip-buyers-looking-past-u/"},
+    {"name": "247 Wall St. (2026-10-20)", "url": "https://247wallst.com/investing/2026/10/20/defense-stocks-are-tumbling-as-wall-street-bets-on-a-democratic-sweep/"},
+    {"name": "iShares ITA 상품 페이지 (2026-10-19)", "url": "https://www.ishares.com/us/products/239502/ishares-us-aerospace-defense-etf"},
+    {"name": "State Street XAR 상품 페이지 (2026-10-19)", "url": "https://www.ssga.com/us/en/intermediary/etfs/state-street-spdr-sp-aerospace-defense-etf-xar"},
+    {"name": "ETFdb ITA (2026-10-16)", "url": "https://etfdb.com/etf/ITA/"},
+    {"name": "Motley Fool (2026-08-21)", "url": "https://www.fool.com/coverage/etfs/2026/08/21/which-aerospace-and-defense-etf-is-a-better-buy-big-bets-or-broad-exposure/"},
+    {"name": "ETF Newswire (2026-10)", "url": "https://etfshelf.com/etf-newswire/ishares-plans-stock-splits-for-five-etfs-4224"},
+    {"name": "Defense World (2026-10-20)", "url": "https://www.defenseworld.net/2026/10/20/ishares-u-s-aerospace-defense-etf-batsita-stock-to-split-on-thursday-november-5th.html"},
+    {"name": "Lockheed Martin IR (2026-10-01)", "url": "https://investors.lockheedmartin.com/news-releases/news-release-details/lockheed-martin-announces-third-quarter-2026-earnings-results"}
+  ]
+}

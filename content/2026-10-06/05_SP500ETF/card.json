@@ -1,0 +1,125 @@
+{
+  "type": "etf",
+  "tag": "ETF 비교",
+  "ticker": "S&P500",
+  "company": "ETF 4종 비교",
+  "brand": "#14213D",
+  "direction": "up",
+  "chartSymbol": "VOO",
+  "chartRange": "1y",
+  "chartCaption": "VOO 최근 1년",
+  "change": "+13.4%",
+  "changeNote": "올해 수익률 (VOO 기준)",
+  "headline": "같은 S&P500인데\n수수료는 **4.7배** 차이?",
+  "subhead": "SPY · VOO · IVV · SPYM\n뭐가 다른지 한 번에 정리",
+  "slides": [
+    {
+      "title": "담는 건 똑같아요",
+      "body": "4개 모두 미국 대형주 500개를\n같은 방식으로 담는 **S&P500 추종 ETF**예요.",
+      "bullets": [
+        "올해 수익률 모두 **약 13.4~13.5%**",
+        "차이는 **수수료 · 거래량 · 구조**"
+      ]
+    },
+    {
+      "title": "한눈에 비교",
+      "table": {
+        "head": [
+          "ETF",
+          "운용사",
+          "총보수"
+        ],
+        "rows": [
+          [
+            "SPY",
+            "State Street",
+            "0.0945%"
+          ],
+          [
+            "VOO",
+            "Vanguard",
+            "0.03%"
+          ],
+          [
+            "IVV",
+            "iShares",
+            "0.03%"
+          ],
+          [
+            "SPYM",
+            "State Street",
+            "**0.02%**"
+          ]
+        ]
+      }
+    },
+    {
+      "title": "1,000만 원 넣으면\n1년 수수료는?",
+      "big": "4.7배",
+      "bigSub": "SPY **약 9,450원** vs SPYM **약 2,000원**\n(1,000만 원 · 1년 · 단순 계산)"
+    },
+    {
+      "title": "그럼 SPY는\n왜 아직 1등일까?",
+      "bullets": [
+        "**거래량·유동성** 압도적 (단기매매·옵션)",
+        "1993년 상장, **미국 최초의 ETF**",
+        "단, 구조상 배당 재투자·대여수익 **불가**"
+      ]
+    },
+    {
+      "title": "나에게 맞는 건?",
+      "bullets": [
+        "**장기 적립식** → 보수 낮은 쪽이 유리",
+        "**단기 매매·옵션** → 유동성 높은 SPY",
+        "1주 가격이 부담 → SPYM **약 $91**",
+        "국내 상장 S&P500 ETF는 **세금 구조**가 달라요"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "SPYM 총보수",
+      "value": "0.02%"
+    },
+    {
+      "label": "SPY 총보수",
+      "value": "0.0945%"
+    },
+    {
+      "label": "올해 수익률 (VOO)",
+      "value": "+13.4%"
+    },
+    {
+      "label": "SPYM 1주 가격",
+      "value": "$91"
+    }
+  ],
+  "summary": "같은 지수라면\n오래 들고 갈수록\n**수수료가 곧 수익률**이에요.",
+  "caption": "S&P500 ETF, 아무거나 사도 될까? 🤔\n\nSPY · VOO · IVV · SPYM 모두 같은 500개 기업을 담지만 수수료는 최대 4.7배 차이!\n장기 투자라면 작은 보수 차이도 쌓이면 커요.\n\n여러분은 어떤 S&P500 ETF 모으고 계세요? 👇",
+  "hashtags": [
+    "ETF",
+    "SP500",
+    "VOO",
+    "SPY",
+    "IVV",
+    "SPYM",
+    "미국ETF",
+    "적립식투자",
+    "미국주식",
+    "카드뉴스"
+  ],
+  "sources": [
+    {
+      "name": "etf.com",
+      "url": "https://www.etf.com/sections/news/voo-vs-spy-vs-ivv-which-sp-500-etf-should-you-buy-2026"
+    },
+    {
+      "name": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/08/21/spy-has-a-nearly-identical-twin-that-costs-80-percent-less-and-pays-the-same-dividends/"
+    },
+    {
+      "name": "Yahoo Finance 시세",
+      "url": "https://finance.yahoo.com/quote/VOO"
+    }
+  ]
+}

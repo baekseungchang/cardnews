@@ -1,0 +1,87 @@
+{
+  "tag": "급등 분석",
+  "ticker": "CEG",
+  "company": "컨스텔레이션 에너지",
+  "brand": "#1E5BA8",
+  "direction": "up",
+  "chartSymbol": "CEG",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 종가",
+  "change": "+12.2%",
+  "changeNote": "구글 원전 계약 발표일 (10/6 종가)",
+  "headline": "구글과 20년 계약,\n**원전주**가 뛰었다",
+  "subhead": "미국 최대 원전 운영사 컨스텔레이션\n하루 +12.2%, 종가 $300.40",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "10/6 무슨 일이",
+      "body": "구글이 컨스텔레이션 원전의 **증설 전력**을\n20년 동안 사기로 했어요.",
+      "bullets": [
+        "증설분 **890MW**, 20년 계약",
+        "11개 원자로 효율 개선",
+        "투자 **43억 달러** 이상",
+        "종가 **+12.2%**, 장중 +15%"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "일주일 새 계약 2건",
+      "timeline": [
+        {"date": "10/1", "text": "**아마존**과 20년 원전 계약"},
+        {"date": "10/2", "text": "종가 $257.49, 소폭 하락"},
+        {"date": "10/5", "text": "종가 $267.62"},
+        {"date": "10/6", "text": "**구글** 계약, $300.40", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "왜 이렇게 올랐을까",
+      "body": "장기 고정 계약으로 **이익이 예측 가능**해졌다는\n분석이 많아요.",
+      "bullets": [
+        "MS·메타·아마존에 이어 **구글**",
+        "신규 건설보다 빠른 **증설**",
+        "첫 증설 전력은 **2028년** 예정",
+        "그래도 52주 고점 대비 **-27%**"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날",
+      "timeline": [
+        {"date": "10/14", "text": "미국 9월 **CPI**"},
+        {"date": "10/29", "text": "**FOMC** 결과 (한국 새벽)"},
+        {"date": "10월 말", "text": "빅테크 실적, 전력 투자 계획"},
+        {"date": "11월 초", "text": "CEG 3분기 실적 (미확정)"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "급등 뒤 갈림길",
+      "bullets": [
+        "강세: 추가 계약·**가이던스 상향**",
+        "기본: $300 안팎 숨 고르기",
+        "약세: 금리 부담에 **상승분 반납**",
+        "참고: 목표가 평균 **350달러대**"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "10/6 종가 등락", "value": "+12.2%"},
+    {"label": "10/2 대비 (2거래일)", "value": "+16.7%"},
+    {"label": "구글 계약 증설분", "value": "890MW"},
+    {"label": "52주 고점 대비", "value": "-27%"}
+  ],
+  "summary": "아마존에 이어 **구글**까지,\n빅테크가 원전 전력을\n20년씩 사 가요.\n다음 확인은 **3분기 실적**.",
+  "caption": "컨스텔레이션 에너지(CEG) 하루 +12.2% ⚡\n\n구글이 컨스텔레이션 원자로 11기의 증설 전력 890MW를 20년 동안 사기로 했어요. 불과 닷새 전엔 아마존과도 20년 원전 계약을 맺었죠.\n\n장기 고정 계약 = 이익이 예측 가능해진다는 평가에 주가가 크게 뛰었지만, 아직 52주 고점보다는 27% 아래예요. 금리(10/29 새벽 FOMC 결과)와 11월 초 실적이 다음 관문입니다.\n\nAI 전력 수요, 원전이 진짜 수혜주일까요? 여러분 생각은? 👇",
+  "hashtags": ["컨스텔레이션에너지", "CEG", "원전주", "원자력", "구글", "AI전력", "미국주식", "급등주", "해외주식", "카드뉴스"],
+  "sources": [
+    {"name": "Constellation 보도자료 (2026-10-06)", "url": "https://www.constellationenergy.com/news/2026/10/google-and-constellation-announce-landmark-agreement-to-bring-890-mw-of-new-nuclear-capacity-to-pjm-grid.html"},
+    {"name": "CNBC (2026-10-06)", "url": "https://www.cnbc.com/2026/10/06/google-constellation-energy-ceg-nuclear-power-data-center.html"},
+    {"name": "Seeking Alpha (2026-10-06)", "url": "https://seekingalpha.com/news/4650742-constellation-energy-surges-12-on-google-nuclear-deal"},
+    {"name": "Yahoo Finance (2026-10-06)", "url": "https://finance.yahoo.com/energy/articles/constellation-energy-stock-surges-landmark-144101746.html"},
+    {"name": "Benzinga (2026-10-01)", "url": "https://www.benzinga.com/markets/tech/26/10/62097215/amazon-constellation-nuclear-power-deal-ai-electricity-demand-3-billion"},
+    {"name": "World Nuclear News (2026-10-01)", "url": "https://world-nuclear-news.org/articles/constellation-amazon-agree-nuclear-focused-power-purchase-deal"},
+    {"name": "ad-hoc-news (2026-10-02)", "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/constellation-energy-stock-trades-at-usd-257-49-after-amazon-deal/70224437"},
+    {"name": "MarketBeat 목표가 집계", "url": "https://www.marketbeat.com/stocks/NASDAQ/CEG/forecast/"}
+  ]
+}

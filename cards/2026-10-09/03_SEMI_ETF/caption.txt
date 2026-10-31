@@ -1,0 +1,29 @@
+같은 '미국 반도체 ETF'인데 속은 꽤 달라요 🔍
+
+10/8 오픈AI 매출 보도 뒤 필라델피아 반도체지수가 3%대 내렸어요.
+
+SMH(VanEck)는 엔비디아 약 19%·TSMC 약 9%로 대형주 쏠림이 크고, SOXX(iShares)는 1위 AMD도 9%대로 상위 종목을 더 고르게 담아요. 올해(10/7 기준) 연초 대비 수익률은 SOXX 90%대, SMH 70%대예요.
+
+총보수는 0.35% vs 0.33%, 분배는 연 1회 vs 분기. SOXX는 11/3 기준 주식 분할도 예정돼 있어요.
+
+여러분은 '엔비디아 집중'과 '고른 분산' 중 어느 쪽이 더 편하세요? 👇
+
+#반도체ETF #SMH #SOXX #엔비디아 #TSMC #필라델피아반도체 #미국ETF #ETF비교 #미국주식 #카드뉴스
+
+※ 투자 권유 아님. 투자 판단의 책임은 본인에게 있습니다.
+
+[출처]
+- VanEck SMH 상품 페이지 https://www.vaneck.com/us/en/investments/semiconductor-etf-smh/
+- iShares SOXX 상품 페이지 https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf
+- StockAnalysis SMH 보유종목 (2026-10-06) https://stockanalysis.com/etf/smh/holdings/
+- StockAnalysis SOXX 보유종목 (2026-10-05) https://stockanalysis.com/etf/soxx/holdings/
+- Morningstar SMH https://www.morningstar.com/etfs/xnas/smh/quote
+- Morningstar SOXX https://www.morningstar.com/etfs/xnas/soxx/quote
+- Trackinsight SMH vs SOXX https://www.trackinsight.com/en/compare-etfs/SMH,SOXX
+- 24/7 Wall St. (2026-06-10) https://247wallst.com/investing/2026/06/10/smh-vs-soxx-which-semiconductor-etf-is-the-smarter-chip-bet/
+- CNN (2026-10-08) https://edition.cnn.com/2026/10/08/investing/openai-nasdaq-stocks
+- Bloomberg (2026-10-08) https://www.bloomberg.com/news/articles/2026-10-08/us-stock-futures-slip-on-mounting-energy-shock-ai-bubble-fears
+- 국민일보 (2026-10-09) https://www.kmib.co.kr/article/view.asp?arcid=9000021221
+- 톱스타뉴스 (2026-10-09) https://www.topstarnews.net/news/articleView.html?idxno=16242203
+- TSMC IR 3분기 실적 컨퍼런스 https://investor.tsmc.com/english/quarterly-results/teleconference
+- MarketVector MVIS US Listed Semiconductor 25 지수 가이드 https://files.marketvector.com/index-guide/MVSMH_Index_Guide.pdf

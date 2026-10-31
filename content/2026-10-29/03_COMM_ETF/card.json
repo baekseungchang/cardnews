@@ -1,0 +1,91 @@
+{
+  "tag": "ETF 비교",
+  "ticker": "XLC/VOX",
+  "company": "커뮤니케이션 ETF 3종",
+  "brand": "#5F259F",
+  "direction": "neutral",
+  "chartSymbol": "XLC",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 XLC 종가",
+  "change": "약 44%",
+  "changeNote": "XLC 속 메타+알파벳 비중 (10/27)",
+  "headline": "알파벳 흔들리면\n**섹터 ETF**도 출렁",
+  "subhead": "XLC·FCOM·VOX 세 ETF 모두\n메타+알파벳이 절반 가까이예요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무엇을 담나",
+      "body": "구글·메타·넷플릭스가 속한 **커뮤니케이션**\n섹터 ETF예요. 보수는 셋 다 낮아요.",
+      "table": {
+        "head": ["ETF", "총보수", "담는 범위", "메타+알파벳"],
+        "rows": [
+          ["XLC", "0.08%", "S&P500만, 20여 개", "약 44%"],
+          ["FCOM", "0.08%", "중소형 포함, 90여 개", "약 49%"],
+          ["VOX", "0.09%", "중소형 포함", "약 42~47%"]
+        ]
+      }
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "10/14", "text": "알파벳 장중 359$ 고점권"},
+        {"date": "10/22", "text": "메타 실적 뒤 **-6.98%**"},
+        {"date": "10/27", "text": "XLC 103.58$"},
+        {"date": "10/28", "text": "알파벳 시간외 약 -10%", "now": true}
+      ]
+    },
+    {
+      "phase": "현재",
+      "title": "알파벳 -10%의 무게",
+      "body": "XLC 속 알파벳은 약 **22%**.\n다른 종목이 그대로면 약 -2.2%p예요.",
+      "bullets": [
+        "단순 계산, 정규장 전 기준",
+        "메타도 약 21% 더 담아요",
+        "두 종목이 ETF 방향 좌우",
+        "FCOM·VOX는 같은 지수"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (미국 날짜)",
+      "timeline": [
+        {"date": "10/29", "text": "알파벳 실적 뒤 첫 정규장"},
+        {"date": "11/3", "text": "미국 중간선거"},
+        {"date": "11/6", "text": "미국 10월 고용"},
+        {"date": "11/10", "text": "미국 10월 CPI"}
+      ]
+    },
+    {
+      "phase": "어떤 사람에게",
+      "title": "어떤 구조가 맞을까",
+      "bullets": [
+        "XLC: 대형주만, 거래 많은 쪽",
+        "FCOM: 보수 같고 중소형까지",
+        "VOX: 뱅가드 선호, 중소형 포함",
+        "공통: 메타·알파벳 쏠림 확인"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "XLC·FCOM 총보수", "value": "0.08%"},
+    {"label": "VOX 총보수", "value": "0.09%"},
+    {"label": "XLC 메타+알파벳", "value": "약 44%"},
+    {"label": "알파벳 -10% 단순 영향", "value": "약 -2.2%p"}
+  ],
+  "summary": "이름은 섹터 ETF,\n실제론 **두 종목**이\n절반 가까이.\n**쏠림**부터 확인해요.",
+  "caption": "구글·메타·넷플릭스가 속한 미국 '커뮤니케이션 서비스' 섹터 ETF 3종을 비교했어요 📡\n\nXLC(0.08%)는 S&P500 종목만 20여 개, FCOM(0.08%)과 VOX(0.09%)는 같은 MSCI 지수를 따라 중소형주까지 담아요.\n\n공통점은 쏠림이에요. 메타+알파벳 비중이 XLC 약 44%(10/27), FCOM 약 49%(10/12), VOX 약 42~47%(8~9월 자료)예요.\n\n그래서 10/28 알파벳이 실적 뒤 시간외 약 10% 떨어진 게 이 ETF들에 바로 영향을 줘요. XLC 속 알파벳 비중 약 22%로 단순 계산하면, 다른 종목이 그대로일 때 약 -2.2%p예요(정규장 결과는 10/29 확인). 10/22엔 메타가 실적 뒤 -6.98%였어요.\n\n섹터 ETF라도 사실상 두 종목에 크게 기대는 구조예요. 여러분은 개별주와 섹터 ETF 중 어떤 쪽을 고르시나요? 👇",
+  "hashtags": ["ETF", "XLC", "VOX", "FCOM", "미국ETF", "알파벳", "메타", "섹터ETF", "ETF비교", "카드뉴스"],
+  "sources": [
+    {"name": "State Street XLC (2026-10-27)", "url": "https://www.ssga.com/us/en/intermediary/etfs/state-street-communication-services-select-sector-spdr-etf-xlc"},
+    {"name": "Morningstar XLC (2026-10-23)", "url": "https://www.morningstar.com/etfs/arcx/xlc/quote"},
+    {"name": "stockanalysis XLC 보유 종목 (2026-10-26)", "url": "https://stockanalysis.com/etf/xlc/holdings/"},
+    {"name": "TipRanks FCOM 보유 종목 (2026-10-12)", "url": "https://www.tipranks.com/etf/fcom/holdings"},
+    {"name": "stockanalysis FCOM", "url": "https://stockanalysis.com/etf/fcom/"},
+    {"name": "Vanguard VOX", "url": "https://advisors.vanguard.com/investments/products/vox/vanguard-communication-services-etf"},
+    {"name": "Morningstar VOX (2026-09-30)", "url": "https://www.morningstar.com/etfs/arcx/vox/quote"},
+    {"name": "stockanalysis VOX 보유 종목 (2026-08-31)", "url": "https://stockanalysis.com/etf/vox/holdings/"},
+    {"name": "etf.com XLC vs VOX", "url": "https://www.etf.com/tools/etf-comparison/XLC-vs-VOX"},
+    {"name": "CNBC · 알파벳 실적 (2026-10-28)", "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html"}
+  ]
+}

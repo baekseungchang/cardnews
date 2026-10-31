@@ -1,0 +1,91 @@
+{
+  "tag": "ETF 비교",
+  "ticker": "반도체ETF",
+  "company": "국내 반도체 ETF 2종",
+  "brand": "#1428A0",
+  "direction": "neutral",
+  "chartSymbol": "091160.KS",
+  "chartRange": "3mo",
+  "chartCaption": "KODEX 반도체 최근 3개월 종가",
+  "change": "D-DAY",
+  "changeNote": "SK하이닉스 3분기 실적 (10/28)",
+  "headline": "반도체 ETF\n**집중 vs 분산**",
+  "subhead": "하이닉스·삼성 실적 주간,\n같은 보수 두 ETF의 차이를 봐요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무엇을 담나",
+      "body": "보수는 둘 다 **연 0.45%**로 같아요.\n차이는 상위 2종목에 얼마나 몰렸나예요.",
+      "table": {
+        "head": ["ETF", "구조", "상위 2종목", "순자산"],
+        "rows": [
+          ["TIGER 반도체TOP10", "상위 10종목 집중", "각 약 25%", "약 10조원"],
+          ["KODEX 반도체", "KRX 반도체 분산", "각 17~19%", "약 6.3조원"]
+        ]
+      }
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "반도체 대장주 흐름",
+      "timeline": [
+        {"date": "7/27", "text": "하이닉스 181만6천원"},
+        {"date": "10/22", "text": "코스피 한 달 -16.1%"},
+        {"date": "10/26", "text": "하이닉스 127만5천원"},
+        {"date": "10/27", "text": "하이닉스 **+5.18%** 반등", "now": true}
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날",
+      "timeline": [
+        {"date": "10/28", "text": "**SK하이닉스** 3분기 실적"},
+        {"date": "10/29", "text": "삼성전자 3분기 실적"},
+        {"date": "10/29 03시", "text": "미국 FOMC 결과"}
+      ]
+    },
+    {
+      "phase": "미래 · 실적 관전 포인트",
+      "title": "이번 주 무엇을 보나",
+      "body": "하이닉스 영업이익 예상은 **약 76조원**.\n시장 관심은 주주환원 발표예요.",
+      "bullets": [
+        "예상 76조~77조원대",
+        "삼성전자는 하루 뒤 발표",
+        "특별배당설, 회사는 미확정",
+        "두 회사 실적이 ETF 좌우"
+      ]
+    },
+    {
+      "phase": "어떤 사람에게 맞나",
+      "title": "어떤 사람에게 맞나",
+      "bullets": [
+        "TOP10: 대형 2종목에 크게",
+        "KODEX: 장비·소재까지 넓게",
+        "둘 다 국내 주식형 ETF",
+        "실적 날엔 변동성 주의"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "두 ETF 총보수 (연)", "value": "0.45%"},
+    {"label": "하이닉스 7/27→10/26", "value": "-29.8%"},
+    {"label": "하이닉스 10/27 종가", "value": "+5.18%"},
+    {"label": "하이닉스 영업이익 예상", "value": "약 76조"}
+  ],
+  "summary": "보수는 같아요.\nTOP10 **2종목 50%**,\nKODEX는 더 넓게.\n실적 주간 변동 주의.",
+  "caption": "오늘(10/28) SK하이닉스, 내일(10/29) 삼성전자가 3분기 실적을 내요 💾 국내 반도체 ETF를 산다면 어떤 걸 볼까요?\n\n대표적인 두 ETF는 총보수가 연 0.45%로 같아요. 차이는 '얼마나 몰렸나'예요.\n- TIGER 반도체TOP10: 상위 10종목에 집중, 삼성전자·SK하이닉스가 각각 약 25%(합쳐서 약 50%), 순자산 약 10조원\n- KODEX 반도체: KRX 반도체지수로 장비·소재까지 분산, 두 종목이 각각 17~19% 안팎, 순자산 약 6.3조원\n\nSK하이닉스는 7/27 181만6천원에서 10/26 127만5천원으로 석 달 새 -29.8%였고, 10/27엔 5.18% 반등했어요. 3분기 영업이익 예상은 약 76조원대이고, 시장은 주주환원 발표를 지켜보고 있어요(회사는 '확정된 것 없다'는 입장).\n\n비중은 날마다 바뀌니 매수 전 운용사 구성종목을 꼭 확인하세요. 여러분은 집중형과 분산형 중 어느 쪽인가요? 👇",
+  "hashtags": ["반도체ETF", "TIGER반도체TOP10", "KODEX반도체", "SK하이닉스", "삼성전자", "국내ETF", "ETF비교", "실적발표", "ETF투자", "카드뉴스"],
+  "sources": [
+    {"name": "FunETF · TIGER 반도체TOP10 (2026-10-08)", "url": "https://www.funetf.co.kr/product/etf/view/KR7396500001"},
+    {"name": "FunETF · KODEX 반도체 (2026-10-01)", "url": "https://www.funetf.co.kr/product/etf/view/KR7091160002"},
+    {"name": "etfshopping · 396500", "url": "https://etfshopping.com/etf/396500"},
+    {"name": "한국경제 (2026-03-22)", "url": "https://www.hankyung.com/article/2026032280851"},
+    {"name": "칙스톡 · KODEX 반도체", "url": "https://www.chickstockfi.com/stocks/091160"},
+    {"name": "etfshopping · 반도체 ETF 비교 (2026-10-02)", "url": "https://etfshopping.com/best/semiconductor-etf"},
+    {"name": "이투데이 (2026-10-26)", "url": "https://www.etoday.co.kr/news/view/2640432"},
+    {"name": "국제뉴스 (2026-10-27)", "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734205"},
+    {"name": "중앙이코노미뉴스 (2026-10)", "url": "https://www.joongangenews.com/news/articleView.html?idxno=558506"},
+    {"name": "한국경제 (2026-10-26)", "url": "https://www.hankyung.com/article/202610266363g"},
+    {"name": "헤럴드경제 (2026-10)", "url": "https://biz.heraldcorp.com/article/10915891"},
+    {"name": "YTN (2026-10-27)", "url": "https://www.ytn.co.kr/_ln/0102_202610270853230574"}
+  ]
+}

@@ -1,0 +1,2931 @@
+{
+  "updated": "2026-11-01T03:40:00+09:00",
+  "items": [
+    {
+      "id": "20261101-0340-1",
+      "time": "2026-10-31T05:00:00+09:00",
+      "category": "지표",
+      "title": "뉴욕증시 급락, 6월 이후 최악",
+      "lines": [
+        "10/30 기술주 매도에 3대 지수 모두 하락",
+        "S&P500 7,580.07(-1.82%), 나스닥 25,437.00(-2.86%)",
+        "다우 51,770.31(-572p), 엔비디아 4%대↓ 최대 부담",
+        "AI 투자 부담 우려 확산, 나스닥 10월 월간 큰 폭 하락"
+      ],
+      "summary": "10/30(현지) 인텔·아마존 실적 충격과 AI 투자 부담 우려로 뉴욕증시가 6월 이후 최악의 하루를 보냈다. S&P500 -1.82%, 나스닥 -2.86%, 다우 -572포인트.",
+      "why": "전날 알파벳 급락에 이어 빅테크 실적 실망이 이어지며 기술주 투자심리가 꺾였다.",
+      "impact": {
+        "dir": "down",
+        "text": "기술주·반도체 약세 압력"
+      },
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^DJI",
+        "NVDA"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "AP via Washington Times (10/30)",
+          "url": "https://www.washingtontimes.com/news/2026/oct/30/wall-street-falls-worst-day-since-june-sell-tech-stocks-deepens/"
+        },
+        {
+          "name": "CBC (10/30)",
+          "url": "https://www.cbc.ca/news/business/tech-stocks-markets-oct-30-9.7403226"
+        },
+        {
+          "name": "CNN (10/30)",
+          "url": "https://www.cnn.com/2026/10/30/investing/us-stocks-ai-investment"
+        }
+      ]
+    },
+    {
+      "id": "20261101-0340-2",
+      "time": "2026-10-31T05:00:00+09:00",
+      "category": "종목",
+      "title": "인텔 28.6%↓, 1974년 이후 최악",
+      "lines": [
+        "인텔 10/30 하루 28.58% 급락, 52년 만의 최악",
+        "4분기 EPS 전망 0.25달러, 예상 0.43달러 크게 밑돌아",
+        "4분기 매출 전망 150~160억달러(예상 약 170억)",
+        "3분기 실적은 예상 상회, 전망 하향이 충격"
+      ],
+      "summary": "인텔이 10/29 장 마감 뒤 3분기 실적은 예상을 넘었지만 4분기 매출·이익 전망을 시장 예상보다 크게 낮췄다. 10/30 주가는 28.58% 떨어져 1974년 이후 최악의 하루를 기록했다.",
+      "why": "PC 재고 조정과 공급 제약으로 실적 회복이 늦어질 수 있다는 신호다.",
+      "impact": {
+        "dir": "down",
+        "text": "반도체주 투자심리 악화"
+      },
+      "tickers": [
+        "INTC"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Yahoo Finance (10/30)",
+          "url": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-30-on-pace-for-its-worst-day-since-1974-135850305.html"
+        },
+        {
+          "name": "CNN (10/30)",
+          "url": "https://www.cnn.com/2026/10/30/investing/us-stocks-ai-investment"
+        },
+        {
+          "name": "Intel 8-K (10/29)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000050863/000005086326000188/intc-20261029.htm"
+        }
+      ]
+    },
+    {
+      "id": "20261101-0340-3",
+      "time": "2026-10-30T05:05:00+09:00",
+      "category": "종목",
+      "title": "아마존 AWS 39%↑, 투자비에 약세",
+      "lines": [
+        "아마존 3분기 매출 약 2,019억달러(+12%)",
+        "AWS 매출 460억달러(+39%), 약 5년 만에 최고 성장",
+        "설비투자 약 773억달러, EPS 1.89달러로 예상 하회",
+        "12개월 잉여현금흐름 -424억달러, 시간외 6~7%↓"
+      ],
+      "summary": "아마존은 10/29 3분기 실적에서 AWS가 39% 성장했지만 설비투자 급증과 잉여현금흐름 적자 전환을 보고했다. 주가는 시간외 6~7% 하락했고 10/30 정규장에서도 약세였다.",
+      "why": "클라우드 성장보다 AI 투자비 부담에 시장이 더 민감하게 반응하고 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "투자비 부담에 주가 약세"
+      },
+      "tickers": [
+        "AMZN"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Amazon IR (10/29)",
+          "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/"
+        },
+        {
+          "name": "WebProNews (10/30)",
+          "url": "https://www.webpronews.com/aws-39-percent-growth-amazon-q3-2026-earnings-capex"
+        },
+        {
+          "name": "CoinDCX (10/30)",
+          "url": "https://coindcx.com/blog/us-stock/amazon-q3-2026-earnings-results"
+        }
+      ]
+    },
+    {
+      "id": "20261101-0340-4",
+      "time": "2026-10-30T15:30:00+09:00",
+      "category": "국내",
+      "title": "코스피 3.48%↓ 5,730, 환율 1,334원",
+      "lines": [
+        "10/30 코스피 5,730.74(-206.92p, -3.48%) 마감",
+        "외국인 약 1.6조원 순매도, 코스닥 724.38(-3.83%)",
+        "원·달러 1,334.3원, 2.5원↓(원화 강세)",
+        "빅테크 급락 여파, 월말 네고가 환율 끌어내려"
+      ],
+      "summary": "10/30 코스피가 미국 빅테크 급락 여파와 외국인 1.6조원 순매도로 3.48% 떨어진 5,730.74에 마감했다. 원·달러 환율은 월말 수출업체 달러 매도로 2.5원 내린 1,334.3원에 마감했다.",
+      "why": "10/28 6,000 돌파 이후 이틀 만에 큰 폭 조정이 나왔다.",
+      "impact": {
+        "dir": "down",
+        "text": "국내 반도체 대형주 부담"
+      },
+      "tickers": [
+        "^KS11",
+        "USDKRW",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "아시아경제 (10/30 16:08)",
+          "url": "https://view.asiae.co.kr/article/2026103016084854064"
+        },
+        {
+          "name": "서울경제 (10/30)",
+          "url": "https://m.sedaily.com/article/20108385"
+        },
+        {
+          "name": "네이트뉴스 (10/30)",
+          "url": "https://m.news.nate.com/view/20261030n24303"
+        }
+      ]
+    },
+    {
+      "id": "20261101-0340-5",
+      "time": "2026-10-29T15:30:00+09:00",
+      "category": "종목",
+      "title": "삼성전자 영업익 107조에도 4%↓",
+      "lines": [
+        "삼성전자 3분기 영업이익 107조4,405억원, 분기 최대",
+        "매출 195조2,532억원, 반도체 영업익 106.5조원",
+        "주당 4,601원 분기배당(총 약 30조원) 결의",
+        "10/29 주가 23만2,000원(-4.13%), 높은 기대 못 미쳐"
+      ],
+      "summary": "삼성전자가 10/29 3분기 영업이익 107조4,405억원으로 분기 최대 실적을 냈지만 주가는 4.13% 하락했다. 시장 기대치에 못 미쳤고 추가 주주환원책이 구체화되지 않은 점이 실망 요인으로 꼽혔다.",
+      "why": "사상 최대 실적에도 이미 높아진 눈높이가 주가에 부담이 되고 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "기대 대비 실망, 단기 약세"
+      },
+      "tickers": [
+        "005930.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "재경일보 (10/29)",
+          "url": "https://news.jkn.co.kr/post/1056331"
+        },
+        {
+          "name": "이지경제 (10/29)",
+          "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=241430"
+        },
+        {
+          "name": "네이트뉴스 (10/29)",
+          "url": "https://m.news.nate.com/view/20261029n28848"
+        }
+      ]
+    },
+    {
+      "id": "20261101-0340-6",
+      "time": "2026-10-30T12:00:00+09:00",
+      "category": "금리",
+      "title": "일본·유럽 중앙은행 금리 동결",
+      "lines": [
+        "BOJ 10/30 기준금리 1.25% 동결, 8대1 표결",
+        "다카타 위원은 1.5% 인상 주장, 물가 전망 상향",
+        "ECB 10/29 예금금리 2.50% 동결, 시장 예상대로",
+        "다음 회의 ECB 12/17, BOJ 12/18"
+      ],
+      "summary": "일본은행이 10/30 기준금리를 1.25%로 동결했고 1명이 인상을 주장했다. 유럽중앙은행도 10/29 예금금리를 2.50%로 동결했다.",
+      "why": "두 중앙은행 모두 12월 추가 인상 가능성을 열어둬 엔·유로 흐름에 영향을 준다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "12월 인상 여부가 관건"
+      },
+      "tickers": [
+        "JPY=X",
+        "EURUSD=X"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Yahoo Finance (10/30)",
+          "url": "https://finance.yahoo.com/economy/policy/articles/instant-view-analysts-react-boj-032614967.html"
+        },
+        {
+          "name": "Tradingpedia (10/30)",
+          "url": "https://www.tradingpedia.com/2026/10/30/yen-gains-as-boj-holds-rates-signals-hawkish-stance/"
+        },
+        {
+          "name": "euribor-rates.info (10/29)",
+          "url": "https://euribor-rates.info/en/ecb-interest-rates/"
+        },
+        {
+          "name": "IndexBox (10/29)",
+          "url": "https://www.indexbox.io/blog/ecb-holds-key-rates-steady-as-energy-shock-clouds-outlook/"
+        }
+      ]
+    },
+    {
+      "id": "20261029-0945-1",
+      "time": "2026-10-29T09:02:00+09:00",
+      "category": "국내",
+      "title": "코스피 0.08%↑ 6,017 출발",
+      "lines": [
+        "코스피 6,017.22로 출발, 전날보다 4.78p(0.08%)↑",
+        "전날 종가 6,012.44, 6,000선 위에서 출발",
+        "SK하이닉스 강세, 삼성전자는 약세로 엇갈려",
+        "코스닥은 하락 출발, 두 시장 흐름 엇갈림"
+      ],
+      "summary": "10/29 코스피는 전 거래일보다 4.78포인트(0.08%) 오른 6,017.22에 출발했다. 반도체 대형주 중 SK하이닉스는 강세, 삼성전자는 약세였고 코스닥은 하락 출발했다.",
+      "why": "전날 6.63% 급등 뒤 6,000선 유지 여부와 오늘 삼성전자 확정 실적이 단기 방향을 가를 수 있다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "급등 뒤 보합권 숨고르기"
+      },
+      "tickers": [
+        "^KS11",
+        "000660.KS",
+        "005930.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "MTN (10/29 09:02)",
+          "url": "https://news.mtn.co.kr/article/2026102909024628871"
+        },
+        {
+          "name": "위키트리 (10/29)",
+          "url": "https://www.wikitree.co.kr/articles/1170069"
+        }
+      ]
+    },
+    {
+      "id": "20261029-0945-2",
+      "time": "2026-10-29T05:05:00+09:00",
+      "category": "종목",
+      "title": "포티넷, 실적 상회에도 시간외 급락",
+      "lines": [
+        "포티넷 3분기 조정 EPS 0.91달러, 예상 0.86달러 상회",
+        "매출 20.8억달러로 예상(20.6억) 소폭 웃돌아",
+        "조정 매출총이익률 79.6%, 예상 80.1% 밑돌아",
+        "매출 성장 둔화 우려에 시간외 20%대 급락 보도"
+      ],
+      "summary": "포티넷이 10/28(현지) 장 마감 후 매출·이익 모두 예상을 웃돈 3분기 실적을 냈지만 매출총이익률이 예상에 못 미쳤다. 정규장 약 -5.8%에 이어 시간외에서 20%대 급락했다는 보도가 이어졌다(시점별 6~26%로 차이).",
+      "why": "보안 소프트웨어 성장 둔화 신호로 받아들여져 업종 전반 투자심리에 부담이 될 수 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "포티넷·보안주 부담"
+      },
+      "tickers": [
+        "FTNT"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/28)",
+          "url": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-after-hours-googl-msft-cmg-now.html"
+        },
+        {
+          "name": "SiliconANGLE (10/28)",
+          "url": "https://siliconangle.com/2026/10/28/fortinet-plunges-26-after-hours-and-takes-tenable-with-it-as-gen-digital-rises/"
+        },
+        {
+          "name": "Investing.com (10/28)",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-fortinet-stock-plunging-today-93CH-4980914"
+        }
+      ]
+    },
+    {
+      "id": "20261029-0945-3",
+      "time": "2026-10-29T05:05:00+09:00",
+      "category": "종목",
+      "title": "서비스나우, 이익 미달에 시간외 15%↓",
+      "lines": [
+        "서비스나우 3분기 매출 41.1억달러, 예상 40.9억 상회",
+        "조정 EPS 1.00달러로 예상(1.02달러) 밑돌아",
+        "4분기 매출 전망 42.5~42.6억달러, 예상 하회",
+        "시간외 14~17% 급락, AI발 소프트웨어 우려 재부각"
+      ],
+      "summary": "서비스나우가 10/28(현지) 3분기 매출은 예상을 웃돌았지만 조정 EPS가 1.00달러로 예상에 못 미쳤고 4분기 매출 전망도 기대보다 낮았다. 주가는 시간외에서 14~17% 급락했다.",
+      "why": "AI가 기존 소프트웨어 사업을 잠식할 수 있다는 우려가 다시 커지며 소프트웨어 업종에 부담이 될 수 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "서비스나우·SW주 부담"
+      },
+      "tickers": [
+        "NOW"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Investing.com (10/28)",
+          "url": "https://www.investing.com/news/earnings/servicenow-shares-sink-on-earnings-miss-weak-q4-revenue-outlook-4980689"
+        },
+        {
+          "name": "Benzinga (10/28)",
+          "url": "https://www.benzinga.com/markets/earnings/26/10/62677656/servicenow-reports-mixed-q3-results-shares-sink"
+        }
+      ]
+    },
+    {
+      "id": "20261029-0945-4",
+      "time": "2026-10-29T05:05:00+09:00",
+      "category": "종목",
+      "title": "이베이 실적·전망 상향, 시간외 5%↑",
+      "lines": [
+        "이베이 3분기 매출 약 32억달러, 14% 증가",
+        "조정 EPS 1.51달러, 예상(1.41달러) 상회",
+        "연간 매출 전망 126.2~126.7억달러로 상향",
+        "시간외 약 4.7~5% 상승, 123달러대"
+      ],
+      "summary": "이베이가 10/28(현지) 매출 약 32억달러(+14%), 조정 EPS 1.51달러로 예상을 웃돈 3분기 실적과 함께 연간 전망을 올렸다. 주가는 시간외에서 5% 안팎 올랐다.",
+      "why": "소비 둔화 우려 속에서도 전자상거래 거래액이 견조함을 보여준다.",
+      "impact": {
+        "dir": "up",
+        "text": "이베이 긍정"
+      },
+      "tickers": [
+        "EBAY"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "eBay 실적발표 (10/28)",
+          "url": "https://www.ebayinc.com/stories/news/ebay-inc-reports-third-quarter-2026-results/"
+        },
+        {
+          "name": "Investing.com (10/28)",
+          "url": "https://ca.investing.com/news/stock-market-news/ebay-shares-jump-5-on-strong-q3-earnings-beat-and-raised-guidance-93CH-4910877"
+        }
+      ]
+    },
+    {
+      "id": "20261029-0645-1",
+      "time": "2026-10-29T05:10:00+09:00",
+      "category": "종목",
+      "title": "MS 실적 상회, 시간외 4%대↑",
+      "lines": [
+        "MS 1분기(7~9월) 매출 923억달러, 19% 증가",
+        "애저 매출 331.7억달러(+48%), 처음 금액 공개",
+        "조정 EPS 4.89달러, 예상(약 4.72달러) 웃돌아",
+        "클라우드 수주잔고 6,770억달러(+73%), 시간외 4%대↑"
+      ],
+      "summary": "마이크로소프트가 10/28(현지) 장 마감 후 회계 1분기 매출 923억달러(+19%), 조정 EPS 4.89달러로 예상을 웃돈 실적을 발표했다. 애저 매출은 331.7억달러로 48% 늘었고 주가는 시간외에서 4%대 올랐다.",
+      "why": "AI 투자 회수 여부를 가늠하는 애저 성장이 가이던스(45%)를 넘어 AI 인프라 수요가 견조함을 보여준다.",
+      "impact": {
+        "dir": "up",
+        "text": "MS·AI 클라우드 긍정"
+      },
+      "tickers": [
+        "MSFT"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/28)",
+          "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html"
+        },
+        {
+          "name": "Phemex News (10/28)",
+          "url": "https://phemex.com/news/article/microsoft-q1-fy2027-revenue-hits-923b-as-azure-grows-48-yoy-101615"
+        },
+        {
+          "name": "TradersAgency (10/28)",
+          "url": "https://tradersagency.com/blog/microsoft-beats-q1-fy27-estimates-as-azure-tops-dollar33-billion-for-the-first-time-shares-rise"
+        }
+      ]
+    },
+    {
+      "id": "20261029-0645-2",
+      "time": "2026-10-29T05:10:00+09:00",
+      "category": "종목",
+      "title": "알파벳 이익 미달, 시간외 8%대↓",
+      "lines": [
+        "알파벳 3분기 매출 1,276억달러(+25%), 예상 소폭 하회",
+        "EPS 2.12달러로 예상(약 2.99달러) 크게 밑돌아",
+        "검색 매출 633.5억달러, 예상 648.5억달러 미달",
+        "클라우드는 307억달러(+103%), 주가 시간외 8~9%↓"
+      ],
+      "summary": "알파벳이 10/28(현지) 장 마감 후 3분기 매출 1,276억달러(+25%), EPS 2.12달러를 발표해 이익이 예상(약 2.99달러)을 크게 밑돌았다. 구글 클라우드는 103% 늘었지만 검색 매출이 기대에 못 미쳐 주가가 시간외 8~9% 하락했다.",
+      "why": "클라우드 고성장에도 검색 둔화와 투자 손실·설비투자 부담이 부각돼 빅테크 실적 평가가 엇갈렸다.",
+      "impact": {
+        "dir": "down",
+        "text": "알파벳 주가 부담"
+      },
+      "tickers": [
+        "GOOGL",
+        "GOOG"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Alphabet 실적 발표 (SEC 8-K, 10/28)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/googexhibit991q32026.htm"
+        },
+        {
+          "name": "AP via Boston 25 News (10/28)",
+          "url": "https://www.boston25news.com/news/business/google-misses/4KDH6YUPY42CXMYNTIBZGM3MYA/"
+        },
+        {
+          "name": "GuruFocus (10/28)",
+          "url": "https://www.gurufocus.com/news/9148625/alphabet-goog-shares-drop-87-after-q3-earnings-miss-expectations"
+        },
+        {
+          "name": "XTB (10/28)",
+          "url": "https://www.xtb.com/int/market-analysis/news-and-research/alphabet-disappoints-wall-street-despite-record-results-shares-plunge-over-8-and-test-300"
+        }
+      ]
+    },
+    {
+      "id": "20261029-0645-3",
+      "time": "2026-10-29T05:00:00+09:00",
+      "category": "지표",
+      "title": "뉴욕증시 3일 연속 상승 마감",
+      "lines": [
+        "10/28 S&P500 7,743.98(+0.28%), 사흘째 상승",
+        "나스닥 26,549.85(+0.27%), 다우 52,475.10(+0.19%)",
+        "연준 동결 결과에 반응은 제한적",
+        "장 마감 후 MS↑·알파벳↓로 실적 반응 엇갈려"
+      ],
+      "summary": "10/28(현지) 뉴욕증시는 연준의 금리 동결 속에 S&P500 +0.28%, 나스닥 +0.27%, 다우 +0.19%로 3거래일 연속 올랐다. 시장 관심은 빅테크 실적으로 옮겨갔다.",
+      "why": "FOMC는 무난히 넘겼지만 장 마감 후 빅테크 실적이 엇갈려 오늘 밤 지수 방향은 실적 반응에 달렸다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "FOMC 소화, 실적 주목"
+      },
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^DJI"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/28)",
+          "url": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "The Standard (10/29)",
+          "url": "https://www.thestandard.com.hk/finance/article/346836/Wall-Street-ends-higher-as-Fed-holds-key-rate-steady-focus-turns-to-earnings"
+        },
+        {
+          "name": "Yahoo Finance (10/28)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html"
+        }
+      ]
+    },
+    {
+      "id": "20261029-0645-4",
+      "time": "2026-10-28T05:00:00+09:00",
+      "category": "종목",
+      "title": "네비우스 11%↑, 자금조달 소식",
+      "lines": [
+        "네비우스, 10/27(현지) 11%대 급반등",
+        "프랑스 릴 데이터센터용 약 2.5억유로 조달 보도",
+        "10월 네오클라우드주 30% 넘게 급락한 뒤 반등",
+        "앞서 '자금줄 일시 막혀' 발언 우려 일부 완화"
+      ],
+      "summary": "네비우스가 10/27(현지) 프랑스 릴 데이터센터 자금 약 2.5억유로 조달 보도에 11%대 올라 170달러 안팎에서 거래됐다. 네비우스·코어위브 등은 10월 들어 30% 넘게 떨어진 상태였다.",
+      "why": "CEO의 '자금줄 일시 막힘' 발언 뒤 실제 조달이 이어진다는 신호로 자금 우려가 일부 줄었다.",
+      "impact": {
+        "dir": "up",
+        "text": "자금 우려 일부 완화"
+      },
+      "tickers": [
+        "NBIS",
+        "CRWV"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Investing.com (10/27)",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-surging-today-93CH-4975930"
+        },
+        {
+          "name": "Tickeron (10/27)",
+          "url": "https://tickeron.com/blogs/why-is-nebius-group-nbis-stock-up-10-97-today-22441/"
+        },
+        {
+          "name": "Stocktwits (10/27)",
+          "url": "https://stocktwits.com/news-articles/markets/equity/nbis-stock-rises-overnight-neocloud-reportedly-raises-nearly-280-m-for-france-data-center/cZUIuskRBzS"
+        }
+      ]
+    },
+    {
+      "id": "20261029-0345-1",
+      "time": "2026-10-29T03:00:00+09:00",
+      "category": "금리",
+      "title": "美 연준 동결, 2명은 인상 주장",
+      "lines": [
+        "연준, 기준금리 3.75~4.00% 동결 (10대2 표결)",
+        "쿡 이사·해먁 총재는 0.25%p 인상 주장하며 반대",
+        "9월 인상 뒤 첫 동결, 물가는 여전히 높다고 판단",
+        "12월 추가 인상 가능성 남아, 美 10년물 5%대 소폭↑"
+      ],
+      "summary": "미 연준이 10/28(현지) 기준금리를 3.75~4.00%로 동결했다. 쿡 이사와 해먁 클리블랜드 연은 총재는 0.25%p 인상을 주장하며 반대했다.",
+      "why": "시장 예상대로 동결했지만 인상 쪽 반대표 2장이 나와 12월 인상 가능성이 계속 남는다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "예상대로, 12월 인상 경계"
+      },
+      "tickers": [
+        "^TNX",
+        "DX-Y.NYB"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNN (10/28)",
+          "url": "https://www.cnn.com/2026/10/28/business/live-news/federal-reserve-interest-rate-october"
+        },
+        {
+          "name": "Axios (10/28)",
+          "url": "https://axios.com/2026/10/28/fed-warsh-interest-rates-cook"
+        },
+        {
+          "name": "Yahoo Finance (10/28)",
+          "url": "https://finance.yahoo.com/economy/policy/live/fed-meeting-live-updates-federal-reserve-october-meeting-kevin-warsh-161129201.html"
+        }
+      ]
+    },
+    {
+      "id": "20261029-0345-2",
+      "time": "2026-10-28T21:00:00+09:00",
+      "category": "종목",
+      "title": "웬디스, 트라이언 인수 제안에 15%↑",
+      "lines": [
+        "넬슨 펠츠의 트라이언 등, 웬디스 비상장화 제안",
+        "주당 7.35달러 현금, 약 14억달러 규모",
+        "전일 종가 대비 약 20% 프리미엄, 주가 장중 14~15%↑",
+        "구속력 없는 제안, 이사회 특별위원회 검토 예정"
+      ],
+      "summary": "트라이언 펀드 매니지먼트가 주도하는 그룹이 10/28 웬디스에 주당 7.35달러 현금 인수(비상장화)를 제안했다. 약 14억달러 규모로 주가는 장중 14~15% 올랐다.",
+      "why": "지분 16.3%를 가진 최대 주주의 인수 제안으로 주가 하단이 제안가 쪽으로 맞춰질 수 있다.",
+      "impact": {
+        "dir": "up",
+        "text": "인수 제안가 쪽으로 상승"
+      },
+      "tickers": [
+        "WEN"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "StreetInsider (10/28)",
+          "url": "https://www.streetinsider.com/Corporate+News/Trian+and+partners+offer+%247.35+per+share+to+take+Wendys+private/27245508.html"
+        },
+        {
+          "name": "24/7 Wall St. (10/28)",
+          "url": "https://247wallst.com/investing/2026/10/28/wendys-surges-14-on-trian-led-1-4b-take-private-offer-mcdonalds-edges-higher-yum-brands-stays-put/"
+        },
+        {
+          "name": "Yahoo Finance (10/28)",
+          "url": "https://sg.finance.yahoo.com/news/wendy-shares-surge-16-1-123942706.html"
+        }
+      ]
+    },
+    {
+      "id": "20261029-0345-3",
+      "time": "2026-10-28T22:30:00+09:00",
+      "category": "종목",
+      "title": "엔페이즈, 실적·전망 부진에 16%대↓",
+      "lines": [
+        "엔페이즈 3분기 매출 2.93억달러, 1년 새 29% 감소",
+        "조정 EPS 0.41달러로 예상(0.51달러) 밑돌아",
+        "4분기 매출 전망 2.25~2.55억달러, 예상 3억달러 하회",
+        "고금리·가정용 태양광 세액공제 종료로 미국 수요 둔화"
+      ],
+      "summary": "엔페이즈 에너지가 3분기 이익·매출 모두 예상을 밑돌고 4분기 매출 전망도 크게 낮게 내놨다. 10/28 정규장에서 주가가 16% 넘게 떨어졌다.",
+      "why": "고금리와 세액공제 종료가 가정용 태양광 수요를 누르고 있다는 신호다.",
+      "impact": {
+        "dir": "down",
+        "text": "태양광주 투자심리 약화"
+      },
+      "tickers": [
+        "ENPH"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Tradingpedia (10/28)",
+          "url": "https://www.tradingpedia.com/2026/10/28/enphase-energy-plunges-16-on-q3-miss-and-weak-outlook/"
+        },
+        {
+          "name": "Invezz (10/28)",
+          "url": "https://invezz.com/news/2026/10/28/heres-why-enphase-energy-stock-is-plummeting-after-earnings-and-what-next/"
+        },
+        {
+          "name": "CNBC 장중 특징주 (10/28)",
+          "url": "https://www.cnbc.com/2026/10/28/stocks-making-the-biggest-moves-midday-wen-wing-ffiv-enph-lh.html"
+        }
+      ]
+    },
+    {
+      "id": "20261029-0045-1",
+      "time": "2026-10-28T22:45:00+09:00",
+      "category": "금리",
+      "title": "캐나다, 금리 2.50%로 인상",
+      "lines": [
+        "캐나다 중앙은행, 기준금리 2.25%→2.50% 인상",
+        "2023년 이후 3년여 만의 첫 인상, 7회 동결 끝",
+        "중동發 에너지값 급등이 물가로 번질 위험 대응",
+        "추가 인상 가능성 언급, 2027 물가 전망 3.1%로 상향"
+      ],
+      "summary": "캐나다 중앙은행이 10/28 기준금리를 0.25%p 올린 2.50%로 결정했다. 에너지 가격 급등이 다른 물가로 번지는 것을 막기 위해서라며 추가 인상 가능성도 열어뒀다.",
+      "why": "FOMC(10/29 03:00) 직전 주요국 중앙은행이 다시 인상에 나서 글로벌 긴축 우려를 키울 수 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "글로벌 긴축 우려 확대"
+      },
+      "tickers": [
+        "USDCAD"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CBC (10/28)",
+          "url": "https://www.cbc.ca/news/business/livestory/bank-of-canada-interest-rate-announcement-oct-28-9.7398140"
+        },
+        {
+          "name": "BNN Bloomberg (10/28)",
+          "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/28/bank-of-canada-raises-key-interest-rate-says-another-hike-possible/"
+        },
+        {
+          "name": "investingLive (10/28)",
+          "url": "https://investinglive.com/central-banks/the-full-statement-from-the-bank-of-canada-rate-decision-for-october-2026-hikes-by-25-basis-points/"
+        }
+      ]
+    },
+    {
+      "id": "20261029-0010-1",
+      "time": "2026-10-28T22:32:00+09:00",
+      "category": "지표",
+      "title": "뉴욕증시 강보합 출발, 반도체 강세",
+      "lines": [
+        "10/28 뉴욕증시 상승 출발, 다우 +0.08%(52,417)·나스닥 +0.24%",
+        "SK하이닉스 3분기 호실적에 ADR 장중 7~10%↑, 반도체주 동반 강세",
+        "FOMC 결정 10/29 새벽 3시, 동결 확률 90%대",
+        "장 마감 뒤 마이크로소프트·알파벳 실적 발표"
+      ],
+      "summary": "10/28 뉴욕증시는 SK하이닉스 호실적에 반도체주가 오르며 소폭 상승 출발했어요. FOMC 결정과 마이크로소프트·알파벳 실적을 앞두고 관망세도 짙어요.",
+      "why": "FOMC 결과와 빅테크 실적이 오늘 밤 한꺼번에 나와 변동성이 커질 수 있어요.",
+      "impact": {
+        "dir": "neutral",
+        "text": "FOMC·빅테크 실적 대기"
+      },
+      "tickers": [
+        "^IXIC",
+        "^DJI",
+        "SKHY",
+        "MSFT",
+        "GOOGL"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "뉴스1 (10/28)",
+          "url": "https://www.news1.kr/world/usa-canada/6335556"
+        },
+        {
+          "name": "국제뉴스 (10/28)",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3735852"
+        },
+        {
+          "name": "Upstox (10/28)",
+          "url": "https://upstox.com/news/market-news/us-stocks/us-markets-today-nasdaq-100-dow-jones-and-s-and-p-500-trade-on-the-flat-line-ahead-of-fed-decision-sk-hynix-soars-10/article-202577/"
+        }
+      ]
+    },
+    {
+      "id": "20261029-0010-2",
+      "time": "2026-10-28T21:30:00+09:00",
+      "category": "정책",
+      "title": "영국 예산안 발표, 시장 반응 제한",
+      "lines": [
+        "영국 10/28 예산안 발표, 재정 여력 236억→150억파운드로 축소",
+        "시장 예상과 대체로 부합해 파운드·국채(길트) 반응 작음",
+        "발표 전 영국 10년물 금리 5.36% 안팎, 수십 년 만의 고점권",
+        "11/5 영란은행 0.25%p 인상은 시장이 거의 반영"
+      ],
+      "summary": "영국 정부가 10/28 예산안을 발표했는데, 재정 여력 축소 폭이 예상과 비슷해 파운드와 국채 시장 반응은 작았어요. 다음 변수는 11/5 영란은행 결정이에요.",
+      "why": "영국 국채 불안이 커지면 글로벌 금리와 달러에도 영향을 줘요.",
+      "impact": {
+        "dir": "neutral",
+        "text": "파운드·길트 반응 제한"
+      },
+      "tickers": [
+        "GBPUSD=X"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "ActionForex (10/28)",
+          "url": "https://www.actionforex.com/action-insight/market-overview/659039-uk-budget-shrinks-fiscal-buffer-without-market-shock-fed-dissent-in-focus/"
+        },
+        {
+          "name": "Portfolio Adviser (10/28)",
+          "url": "https://portfolio-adviser.com/autumn-budget-2026-gilts-steady-after-budget-broadly-consistent-with-market-expectations"
+        },
+        {
+          "name": "Trading Economics (10/28)",
+          "url": "https://tradingeconomics.com/united-kingdom/government-bond-yield"
+        }
+      ]
+    },
+    {
+      "id": "20261028-2150-1",
+      "time": "2026-10-28T19:30:00+09:00",
+      "category": "종목",
+      "title": "버티브 매출 61%↑, 장전 15%대↑",
+      "lines": [
+        "버티브 3분기 매출 43.1억달러, 전년비 61% 증가",
+        "조정 EPS 2.21달러(+78%), 회사 예상 1.80달러 크게 상회",
+        "연간 매출 전망 144.5~148.5억달러로 6.5억달러 상향",
+        "AI 데이터센터 전력·냉각 수요 확인, 장전 15% 안팎↑"
+      ],
+      "summary": "버티브가 10/28 개장 전 3분기 매출 43.13억달러(+61%), 조정 EPS 2.21달러(+78%)를 발표하고 연간 가이던스를 전 항목 상향했다. 유기 수주는 100% 넘게 늘었고 주가는 개장 전 14~16% 올랐다.",
+      "why": "AI 데이터센터 인프라 수요가 여전히 강하다는 신호로 전력·냉각 관련주 심리에 영향을 준다.",
+      "impact": {
+        "dir": "up",
+        "text": "AI 전력·냉각주 강세 요인"
+      },
+      "tickers": [
+        "VRT"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "SEC 8-K 보도자료 (10/28)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001674101/000162828026067707/q32026exhibit991vrt10282026.htm"
+        },
+        {
+          "name": "Stocktitan (10/28)",
+          "url": "https://www.stocktitan.net/news/VRT/vertiv-reports-strong-third-quarter-2026-with-net-sales-growth-of-61-m3nhlt378p4h.html"
+        },
+        {
+          "name": "토큰포스트 (10/28)",
+          "url": "https://www.tokenpost.com/news/business/42578"
+        },
+        {
+          "name": "Investing.com (10/28)",
+          "url": "https://www.investing.com/news/stock-market-news/premarket-movers-vertiv-sk-hynix-jump-enphase-nxp-slide-4978698"
+        }
+      ]
+    },
+    {
+      "id": "20261028-2150-2",
+      "time": "2026-10-28T20:00:00+09:00",
+      "category": "종목",
+      "title": "GE버노바 수주 96%↑, 전망 상향",
+      "lines": [
+        "GE버노바 3분기 매출 126억달러(+27%), 조정 EPS 4.81달러",
+        "수주 290억달러로 유기 96%↑, 수주잔고 1,970억달러",
+        "연 매출 전망 465~475억달러로 상향, 자사주 한도 200억달러",
+        "가스터빈 등 전력 장비 수요 강해, 주가 장전 2~4%↑"
+      ],
+      "summary": "GE버노바가 10/28 3분기 매출 126억달러(+27%), 조정 EPS 4.81달러(예상 약 4.00달러)를 발표했다. 2026년 매출 전망을 465~475억달러로 올리고 자사주 매입 한도를 100억→200억달러로 늘렸다.",
+      "why": "AI 데이터센터 전력 수요가 발전 장비 주문으로 이어지고 있음을 보여준다.",
+      "impact": {
+        "dir": "up",
+        "text": "전력 장비주 강세 요인"
+      },
+      "tickers": [
+        "GEV"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "SEC 8-K 보도자료 (10/28)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001996810/000199681026000162/gevpressrelease3q26.htm"
+        },
+        {
+          "name": "GuruFocus (10/28)",
+          "url": "https://www.gurufocus.com/news/9146884/ge-vernova-inc-reports-q3-earnings-eps-of-481-and-revenue-of-126-billion-surpass-estimates"
+        },
+        {
+          "name": "Investing.com (10/28)",
+          "url": "https://ng.investing.com/news/earnings/ge-vernova-stock-gains-on-earnings-beat-raised-guidance-2762536"
+        }
+      ]
+    },
+    {
+      "id": "20261028-2150-3",
+      "time": "2026-10-28T20:00:00+09:00",
+      "category": "종목",
+      "title": "암페놀 최대 실적, 배당 20%↑",
+      "lines": [
+        "암페놀 3분기 매출 102억달러(+65%), 사상 최대",
+        "조정 EPS 0.80달러, 예상 0.72~0.73달러 상회",
+        "4분기 매출 전망 약 104억달러, 예상보다 6%가량 높아",
+        "배당 20% 인상·40억달러 자사주, 장전 3~7% 상승 보도"
+      ],
+      "summary": "암페놀이 10/28 3분기 매출 102억달러(+65%), 조정 EPS 0.80달러로 예상을 웃돌고 4분기 매출 가이던스도 컨센서스를 상회했다. 분기 배당을 0.15달러로 20% 올리고 3년 40억달러 자사주 매입을 발표했다.",
+      "why": "AI 서버용 커넥터 수요가 강하다는 신호로, 장전 상승 폭은 매체마다 3~7%로 엇갈린다.",
+      "impact": {
+        "dir": "up",
+        "text": "AI 부품주 강세 요인"
+      },
+      "tickers": [
+        "APH"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Stocktitan(회사 보도자료) (10/28)",
+          "url": "https://www.stocktitan.net/news/APH/amphenol-reports-record-third-quarter-2026-results-and-announces-9cqifkvkktkz.html"
+        },
+        {
+          "name": "StockStory (10/28)",
+          "url": "https://stockstory.org/us/stocks/nyse/aph/news/earnings/amphenol-nyseaph-reports-upbeat-q3-2026-stock-soars"
+        },
+        {
+          "name": "Current Logic 모닝브리프 (10/28)",
+          "url": "https://currentlogic.substack.com/p/the-morning-brief-october-28-2026"
+        }
+      ]
+    },
+    {
+      "id": "20261028-2150-4",
+      "time": "2026-10-28T15:00:00+09:00",
+      "category": "원자재",
+      "title": "브렌트 1%대 반등, 115달러대",
+      "lines": [
+        "10/28 아시아장 브렌트 약 1.3~1.8%↑ 115달러대",
+        "WTI도 1.5% 안팎 올라 101달러대",
+        "후티 '사우디 라스타누라 공격' 주장 뒤 상승, 사우디 확인 없음",
+        "전날 회담 기대로 내린 폭 대부분 되돌려"
+      ],
+      "summary": "10/28 아시아장에서 브렌트유가 115달러대로 1%대 반등하며 10/27 하락분 대부분을 되돌렸다. 후티의 사우디 라스타누라 정유시설 공격 주장이 나왔지만 사우디의 피해 확인은 없다.",
+      "why": "유가 반등은 물가·금리 부담을 키워 FOMC를 앞둔 시장에 변수가 된다.",
+      "impact": {
+        "dir": "up",
+        "text": "유가 상승, 물가 부담"
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "주의",
+      "sources": [
+        {
+          "name": "FinanceFeeds (10/28)",
+          "url": "https://financefeeds.com/brent-crude-oil-price-115-59-wednesday-fed-decision-day-ras-tanura-claim-bull-120-bear-108/"
+        },
+        {
+          "name": "Daily Pioneer (10/28)",
+          "url": "https://dailypioneer.com/business/sensex-tumbles-601-points-it-stocks-slide-crude-oil-tops-115"
+        }
+      ]
+    },
+    {
+      "id": "20261028-1841-1",
+      "time": "2026-10-28T09:30:00+09:00",
+      "category": "지표",
+      "title": "호주 9월 물가 4.3%, 예상 웃돌아",
+      "lines": [
+        "호주 9월 소비자물가 전년비 4.3%, 8월 4.0%서 상승",
+        "시장 예상 4.2% 상회, 3분기 물가 전분기비 1.3%",
+        "근원(절사평균) 3분기 1.0%, 중앙은행 전망 0.8% 웃돌아",
+        "11/2~3 호주 금리 회의서 추가 인상 가능성 커져"
+      ],
+      "summary": "호주 통계청이 10/28 발표한 9월 소비자물가 상승률이 전년 대비 4.3%로 예상(4.2%)과 8월(4.0%)을 웃돌았다. 연료비 급등이 주도했고, 근원물가인 절사평균도 3분기 전분기 대비 1.0% 올라 RBA 전망(0.8%)보다 높았다.",
+      "why": "고물가가 이어지며 호주 중앙은행의 11월 추가 금리 인상 기대가 커졌고, 유가 상승이 각국 물가를 다시 밀어 올리는 흐름을 보여준다.",
+      "impact": {
+        "dir": "up",
+        "text": "호주달러·금리 상승 압력"
+      },
+      "tickers": [
+        "AUDUSD"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "호주 통계청 ABS (10/28)",
+          "url": "https://www.abs.gov.au/media-centre/media-releases/cpi-rose-43-year-september-2026"
+        },
+        {
+          "name": "FXStreet (10/28)",
+          "url": "https://www.fxstreet.com/news/australia-cpi-expected-to-rise-to-42-in-september-202610272030"
+        },
+        {
+          "name": "Babypips (10/28)",
+          "url": "https://www.babypips.com/news/headline-australia-cpi-heats-43-core-inflation-rba-alert-2026-10-28"
+        }
+      ]
+    },
+    {
+      "id": "20261028-1550-1",
+      "time": "2026-10-28T15:30:00+09:00",
+      "category": "국내",
+      "title": "코스피 6.63%↑ 6,012 마감",
+      "lines": [
+        "코스피 374.10p(6.63%) 오른 6,012.44 마감",
+        "10거래일 만에 6,000선 회복, 코스닥 3.69%↑ 771.28",
+        "SK하이닉스 사상 최대 실적·100조 주주환원이 견인",
+        "오전 장중 6,000 터치 뒤 종가로도 지켜냄"
+      ],
+      "summary": "10/28 코스피가 6.63% 오른 6,012.44에 마감해 10거래일 만에 6,000선을 회복했다. 코스닥은 3.69% 오른 771.28.",
+      "why": "오전 6,000 터치(앞 소식)가 종가까지 이어지며 반도체 중심 반등이 확인됐다.",
+      "impact": {
+        "dir": "up",
+        "text": "반도체·대형주 투자심리 개선"
+      },
+      "tickers": [
+        "KOSPI",
+        "000660.KS",
+        "005930.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스 (10/28 15:23)",
+          "url": "https://www.fnnews.com/news/202610281523015061"
+        },
+        {
+          "name": "아시아경제 (10/28 15:33)",
+          "url": "https://view.asiae.co.kr/article/2026102815333646435"
+        },
+        {
+          "name": "이투데이 (10/28)",
+          "url": "https://www.etoday.co.kr/news/view/2641234"
+        }
+      ]
+    },
+    {
+      "id": "20261028-1550-2",
+      "time": "2026-10-28T15:30:00+09:00",
+      "category": "환율",
+      "title": "원·달러 1,337.7원, 14원↑",
+      "lines": [
+        "원·달러 오후 3시30분 1,337.7원, 전일비 14.0원↑",
+        "6거래일 만에 1,330원대, 원화 약세",
+        "증시 급등에도 FOMC 앞둔 달러 강세·외국인 달러 매수",
+        "오늘 새벽(한국시간) FOMC 결정 앞두고 변동성 주의"
+      ],
+      "summary": "10/28 서울 외환시장에서 원·달러 환율이 오후 3시30분 기준 1,337.7원으로 14.0원 올랐다. 1,330원대는 6거래일 만이다.",
+      "why": "코스피 급등에도 원화가 약해져 FOMC 경계감과 달러 강세가 우위였다.",
+      "impact": {
+        "dir": "down",
+        "text": "원화 약세, 수입물가 부담"
+      },
+      "tickers": [
+        "USDKRW"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "아시아경제 (10/28 15:34)",
+          "url": "https://view.asiae.co.kr/article/2026102815342479015"
+        },
+        {
+          "name": "뉴스1 (10/28)",
+          "url": "https://www.news1.kr/finance/market-exr/6335062"
+        },
+        {
+          "name": "이데일리 (10/28)",
+          "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=04037686645617512"
+        }
+      ]
+    },
+    {
+      "id": "20261028-1550-3",
+      "time": "2026-10-28T15:20:00+09:00",
+      "category": "종목",
+      "title": "HD현대 3분기 영업익 2.9조, 71%↑",
+      "lines": [
+        "HD현대 3분기 연결 영업이익 2조9,197억원(+71.5%)",
+        "매출 22조800억원(+21.2%), 잠정 실적",
+        "조선·건설기계·에너지가 실적 견인",
+        "HD한국조선해양 영업익 1조4,472억원(+37.3%)"
+      ],
+      "summary": "HD현대가 10/28 3분기 연결 매출 22조800억원, 영업이익 2조9,197억원(전년 대비 +71.5%)을 공시했다. HD한국조선해양 영업이익은 1조4,472억원(+37.3%).",
+      "why": "조선 호황이 지주사와 조선 계열사 이익을 함께 끌어올리고 있다.",
+      "impact": {
+        "dir": "up",
+        "text": "조선·지주사 실적 모멘텀"
+      },
+      "tickers": [
+        "267250.KS",
+        "009540.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "아주경제 (10/28 15:20)",
+          "url": "https://www.ajunews.com/view/20261028152032720"
+        },
+        {
+          "name": "디지털투데이 (10/28)",
+          "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=710676"
+        },
+        {
+          "name": "한국면세뉴스 (10/28)",
+          "url": "https://www.kdfnews.com/news/articleView.html?idxno=190050"
+        }
+      ]
+    },
+    {
+      "id": "20261028-1242-1",
+      "time": "2026-10-28T10:57:00+09:00",
+      "category": "국내",
+      "title": "코스피 장중 6,000 터치, 사이드카",
+      "lines": [
+        "코스피 오전 10시57분 장중 6,003.22, 6,000선 회복",
+        "10거래일 만의 6,000선, 매수 사이드카 이틀 연속(9:54)",
+        "삼성전자 7%대↑ 23만5,500원, 하이닉스 7%대↑ 143만원대",
+        "하이닉스 최대 실적·100조 주주환원에 외국인 순매수"
+      ],
+      "summary": "SK하이닉스 사상 최대 실적과 약 100조원 주주환원 발표 뒤 코스피가 장중 6,000선을 10거래일 만에 다시 넘었다. 오전 9시54분 유가증권시장에 이틀 연속 매수 사이드카가 발동됐다.",
+      "why": "반도체 대형주 실적이 지수를 끌어올려, 29일 삼성전자 확정 실적과 FOMC 결과에 대한 기대가 커졌다.",
+      "impact": {
+        "dir": "up",
+        "text": "반도체·대형주 강세"
+      },
+      "tickers": [
+        "^KS11",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "국제뉴스 (10/28)",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3735123"
+        },
+        {
+          "name": "SBS Biz (10/28)",
+          "url": "https://biz.sbs.co.kr/article/20000342637"
+        },
+        {
+          "name": "뉴스핌 (10/28)",
+          "url": "https://www.newspim.com/news/view/20261028000393"
+        },
+        {
+          "name": "이투데이 (10/28)",
+          "url": "https://www.etoday.co.kr/news/view/2641034"
+        }
+      ]
+    },
+    {
+      "id": "20261028-1242-2",
+      "time": "2026-10-28T09:44:00+09:00",
+      "category": "종목",
+      "title": "네이버, 12조 AI 인프라 계약에 6%↑",
+      "lines": [
+        "네이버, 브룩필드와 90억달러(약 12조원) AI 인프라 계약",
+        "브룩필드가 GPU·데이터센터 확보, 네이버클라우드가 운영",
+        "엔비디아 지분 투자의 선결 조건도 충족",
+        "주가 장 초반 최고 7%대↑, 9시44분 18만5,800원(+6.66%)"
+      ],
+      "summary": "네이버가 브룩필드와 90억달러 규모 AI 컴퓨팅 인프라 확보 계약을 맺었다고 27일 밝혔고, 28일 주가가 장 초반 5~7% 올랐다.",
+      "why": "AI 팩토리 사업의 자금·설비 조달이 확정돼 내년부터 매출 반영이 기대된다는 평가가 나온다.",
+      "impact": {
+        "dir": "up",
+        "text": "네이버 AI 사업 기대"
+      },
+      "tickers": [
+        "035420.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "파이낸셜뉴스 (10/28 09:43)",
+          "url": "https://www.fnnews.com/news/202610280943182543"
+        },
+        {
+          "name": "뉴스핌 특징주 (10/28)",
+          "url": "https://www.newspim.com/news/view/20261028000424"
+        },
+        {
+          "name": "파이낸셜뉴스 (10/27)",
+          "url": "https://www.fnnews.com/news/202610271816526015"
+        }
+      ]
+    },
+    {
+      "id": "20261028-1242-3",
+      "time": "2026-10-28T10:00:00+09:00",
+      "category": "금리",
+      "title": "뉴질랜드, 금리 2.75% 깜짝 동결",
+      "lines": [
+        "뉴질랜드 중앙은행 기준금리 2.75% 동결",
+        "시장은 3.00%로 0.25%p 인상 예상, 4대3 표결",
+        "위원 전원 '추가 긴축 필요할 듯' 여지 남겨",
+        "주요국 긴축 속도 기대에 영향, 다음 결정 12/9"
+      ],
+      "summary": "뉴질랜드 중앙은행(RBNZ)이 시장 예상과 달리 기준금리를 2.75%로 동결했다. 4대3 표결로, 3명은 인상을 주장했다.",
+      "why": "인상을 거의 확실시했던 시장 예상이 빗나가 뉴질랜드달러와 글로벌 금리 기대에 영향을 준다.",
+      "impact": {
+        "dir": "down",
+        "text": "뉴질랜드달러 약세 요인"
+      },
+      "tickers": [
+        "NZDUSD=X"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Newsquawk (10/28)",
+          "url": "https://www.newsquawk.com/headlines/rbnz-keeps-ocr-unchanged-at-275-exp-25bps-hike-with-the-decision-made-by-4-3-vote"
+        },
+        {
+          "name": "Newswire OCR tracker (10/28)",
+          "url": "https://newswire.co.nz/ocr-tracker/"
+        }
+      ]
+    },
+    {
+      "id": "20261028-0940-1",
+      "time": "2026-10-28T09:18:00+09:00",
+      "category": "종목",
+      "title": "SK하이닉스 3분기 영업익 83.3조, 최대",
+      "lines": [
+        "SK하이닉스 3분기 영업익 83조3,338억원, 사상 최대",
+        "매출 104.6조(+328%), 영업익 +632%, 이익률 약 80%",
+        "예상(76조원대)보다 6조원 이상 많아요",
+        "올해 주주환원 약 100조원, 3분기 배당 주당 2만원",
+        "주가 장 초반 3%대↑ 138만원대"
+      ],
+      "summary": "SK하이닉스가 3분기 매출 104조6,155억원, 영업이익 83조3,338억원으로 사상 최대 실적을 냈다. 올해 현금배당 30조원 이상, 자사주 매입·소각 60조원 이상 등 약 100조원 주주환원 계획도 밝혔다.",
+      "why": "HBM4·서버 D램 수요가 이익으로 확인돼, 최근 한 달 30% 가까이 빠졌던 메모리주 심리에 영향을 준다.",
+      "impact": {
+        "dir": "up",
+        "text": "메모리·반도체주에 긍정"
+      },
+      "tickers": [
+        "000660.KS",
+        "005930.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "헤럴드경제 (10/28)",
+          "url": "https://biz.heraldcorp.com/article/10916973"
+        },
+        {
+          "name": "FETV (10/28)",
+          "url": "https://www.fetv.co.kr/news/articleView.html?idxno=312556"
+        },
+        {
+          "name": "Korea Herald (10/28)",
+          "url": "https://www.koreaherald.com/article/10917003"
+        },
+        {
+          "name": "이투데이 특징주 (10/28 09:28)",
+          "url": "https://www.etoday.co.kr/news/view/2640952"
+        }
+      ]
+    },
+    {
+      "id": "20261028-0940-2",
+      "time": "2026-10-28T09:02:00+09:00",
+      "category": "국내",
+      "title": "코스피 2.23%↑ 5,763 출발",
+      "lines": [
+        "코스피 125.51p(2.23%) 오른 5,763.85 개장",
+        "어제 3.09% 급등에 이어 이틀째 강세",
+        "SK하이닉스 깜짝 실적이 반도체주 매수 이끌어",
+        "밤사이 나스닥 1.18%↑도 힘을 보탰어요"
+      ],
+      "summary": "코스피가 28일 전 거래일보다 125.51포인트(2.23%) 오른 5,763.85에 출발했다. SK하이닉스 사상 최대 실적과 주주환원 발표, 전날 미국 반도체주 강세가 영향을 줬다.",
+      "why": "FOMC 결과 발표(한국 시간 29일 새벽)를 앞두고도 반도체 실적이 지수를 끌어올리고 있다.",
+      "impact": {
+        "dir": "up",
+        "text": "국내 증시 반도체 중심 강세"
+      },
+      "tickers": [
+        "^KS11",
+        "000660.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "이투데이 (10/28 09:00)",
+          "url": "https://www.etoday.co.kr/news/view/2640930"
+        },
+        {
+          "name": "파이낸셜뉴스 (10/28 09:02)",
+          "url": "https://www.fnnews.com/news/202610280902438041"
+        },
+        {
+          "name": "뉴스핌 (10/28)",
+          "url": "https://www.newspim.com/news/view/20261028000108"
+        }
+      ]
+    },
+    {
+      "id": "20261028-0940-3",
+      "time": "2026-10-28T09:11:00+09:00",
+      "category": "환율",
+      "title": "원·달러 1,326원 출발, 2.3원↑",
+      "lines": [
+        "원·달러 1,326.0원 출발, 어제보다 2.3원↑(원화 약세)",
+        "9시11분 1,327.5원으로 상승폭 키워",
+        "FOMC 앞 관망과 유럽 재정 불안에 달러 강세",
+        "어제 종가 1,323.7원은 연중 최저 수준"
+      ],
+      "summary": "28일 원·달러 환율이 전일 종가(1,323.7원)보다 2.3원 오른 1,326.0원에 출발해 장 초반 1,327원대로 올랐다. FOMC 결과를 앞둔 관망과 유럽 재정 불확실성 속 달러 강세 영향이다.",
+      "why": "FOMC 결과에 따라 연중 저점 부근 환율의 방향이 갈릴 수 있다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "FOMC 앞 소폭 원화 약세"
+      },
+      "tickers": [
+        "KRW=X"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "토큰포스트(한국은행 ECOS) (10/28)",
+          "url": "https://www.tokenpost.kr/news/insights/428317"
+        },
+        {
+          "name": "뉴스1 (10/28 09:11)",
+          "url": "https://www.news1.kr/finance/market-exr/6334329"
+        }
+      ]
+    },
+    {
+      "id": "20261028-0645-1",
+      "time": "2026-10-28T05:00:00+09:00",
+      "category": "종목",
+      "title": "뉴욕증시 상승 마감, 나스닥 1.18%↑",
+      "lines": [
+        "10/27 S&P500 7,722.60(+0.6%), 나스닥 26,477.81(+1.18%)",
+        "다우는 52,377.57로 0.03% 소폭 상승",
+        "반도체주가 상승 주도, 유가 하락도 심리 지지",
+        "FOMC 결정(한국 29일 새벽) 앞두고 이틀째 상승"
+      ],
+      "summary": "10월 27일 뉴욕증시는 반도체주 강세에 3대 지수가 모두 올랐다. S&P500은 0.6%, 나스닥은 1.18% 상승했고 다우는 보합권에서 마쳤다.",
+      "why": "연준 동결 전망(약 90%) 속에 금리 인상 신호 여부가 다음 변수다.",
+      "impact": {
+        "dir": "up",
+        "text": "기술·반도체주 강세 지속"
+      },
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^DJI"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "뉴스핌 (10/28)",
+          "url": "https://www.newspim.com/news/view/20261028000019"
+        },
+        {
+          "name": "TheStreet (10/27)",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026"
+        },
+        {
+          "name": "글로벌이코노믹 (10/28 05:33)",
+          "url": "https://www.g-enews.com/article/Securities/2026/10/202610280533084715e250e8e188_1"
+        }
+      ]
+    },
+    {
+      "id": "20261028-0645-2",
+      "time": "2026-10-28T05:05:00+09:00",
+      "category": "종목",
+      "title": "비자, 실적 상회에도 내년 전망에 약세",
+      "lines": [
+        "회계 4분기 조정 EPS 3.48달러(예상 3.44) 상회",
+        "매출 121억달러(+13%), 분기 배당 16% 인상",
+        "2027 EPS 증가율 10%대 초반 전망, 올해(16%)보다 둔화",
+        "시간외 1~2%대 하락"
+      ],
+      "summary": "비자가 10/27 장 마감 후 예상을 웃돈 회계 4분기 실적과 배당 16% 인상을 발표했다. 다만 2027 회계연도 이익 증가율 전망이 둔화돼 시간외에서 하락했다.",
+      "why": "결제 대표주의 성장 둔화 신호로 결제·카드주 심리에 영향.",
+      "impact": {
+        "dir": "down",
+        "text": "내년 성장 둔화 우려"
+      },
+      "tickers": [
+        "V"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Investing.com (10/27)",
+          "url": "https://investing.com/news/earnings/visa-q4-revenue-rises-13-as-payment-volumes-remain-strong-4976751"
+        },
+        {
+          "name": "Seeking Alpha (10/27)",
+          "url": "https://seekingalpha.com/news/4658307-visa-q4-earnings-beat-revenue-in-line-as-payments-volume-growth-ticks-slightly-lower"
+        },
+        {
+          "name": "SEC 8-K (10/27)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001403161/000140316126000126/q42026earningsrelease.htm"
+        }
+      ]
+    },
+    {
+      "id": "20261028-0645-3",
+      "time": "2026-10-28T05:10:00+09:00",
+      "category": "종목",
+      "title": "NXP 실적 상회에도 시간외 7~9%↓",
+      "lines": [
+        "3분기 조정 EPS 4.20달러(예상 약 4.12), 매출 37.9억달러(+19%)",
+        "4분기 매출 전망 37.5~39.5억달러, 중간값이 예상 하회",
+        "50억달러 자사주 매입 추가에도 시간외 7~9% 하락",
+        "정규장 3%대 상승분 반납, 반도체 심리 변수"
+      ],
+      "summary": "NXP반도체가 예상을 웃돈 3분기 실적과 50억달러 자사주 매입을 발표했지만, 4분기 매출 전망 중간값이 시장 예상(약 38.6억달러)을 밑돌아 시간외에서 급락했다.",
+      "why": "차량·산업용 반도체 수요 회복 속도에 대한 의문을 키울 수 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "아날로그 반도체 부담"
+      },
+      "tickers": [
+        "NXPI"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Benzinga (10/27)",
+          "url": "https://www.benzinga.com/markets/earnings/26/10/62639126/why-nxp-semiconductors-stock-is-falling-after-q3-results"
+        },
+        {
+          "name": "Newsquawk (10/27)",
+          "url": "https://www.newsquawk.com/headlines/nxp-semiconductors-nv-nxpi-q3-2026-usd-adj-eps-420-exp-412-revenue-38bln-exp-376bln"
+        },
+        {
+          "name": "StockStory (10/27)",
+          "url": "https://stockstory.org/us/stocks/nasdaq/nxpi/news/earnings/nxp-semiconductors-nasdaqnxpi-surprises-with-q3-sales-but-stock-drops"
+        }
+      ]
+    },
+    {
+      "id": "20261028-0645-4",
+      "time": "2026-10-28T05:15:00+09:00",
+      "category": "종목",
+      "title": "시게이트 호실적에도 시간외 6%대↓",
+      "lines": [
+        "회계 1분기 매출 42억달러, 조정 EPS 7.68달러(예상 7.40)",
+        "다음 분기 매출 48억±1억달러, EPS 9.20달러 전망",
+        "정규장 3.7% 오른 뒤 시간외 약 6% 하락",
+        "높아진 기대에 차익실현, 메모리·저장장치주 변수"
+      ],
+      "summary": "시게이트가 AI 데이터센터 수요로 예상을 웃돈 실적과 강한 다음 분기 전망을 냈지만, 정규장 상승 후 시간외에서 6%가량 떨어졌다.",
+      "why": "AI 저장장치 수요는 견조하나 높은 기대가 주가에 이미 반영됐다는 신호.",
+      "impact": {
+        "dir": "down",
+        "text": "높은 기대에 차익실현"
+      },
+      "tickers": [
+        "STX"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Seagate IR (10/27)",
+          "url": "https://investors.seagate.com/news/news-details/2026/Seagate-Technology-Reports-Fiscal-First-Quarter-2027-Financial-Results/default.aspx"
+        },
+        {
+          "name": "GuruFocus (10/27)",
+          "url": "https://www.gurufocus.com/news/9145362/seagate-technology-q1-2027-earnings-eps-of-759-on-revenue-of-42-billion-surpassing-analyst-estimates"
+        },
+        {
+          "name": "Blockonomi (10/27)",
+          "url": "https://blockonomi.com/seagate-technology-stx-stock-surges-as-4-2b-revenue-and-strong-profits-lift-q1-earnings"
+        }
+      ]
+    },
+    {
+      "id": "20261028-0645-5",
+      "time": "2026-10-28T05:10:00+09:00",
+      "category": "종목",
+      "title": "로빈후드, 이익 미달에 시간외 4%↓",
+      "lines": [
+        "3분기 EPS 0.51달러(-16%), 예상 0.55달러 안팎 하회",
+        "매출 14.2억달러(+12%) 최대치, 예상과 비슷",
+        "가상자산 매출 1.2억달러로 55% 급감",
+        "시간외 3.5~6% 하락, 올해 15% 넘게 하락 중"
+      ],
+      "summary": "로빈후드 3분기 매출은 사상 최대였지만 가상자산 거래 매출 급감과 비용 증가로 순이익이 14% 줄어 시장 예상을 밑돌았다.",
+      "why": "가상자산 시장 냉각이 증권·거래 플랫폼 실적에 부담이 되고 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "가상자산 둔화 부담"
+      },
+      "tickers": [
+        "HOOD"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/27)",
+          "url": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html"
+        },
+        {
+          "name": "Investing.com (10/27)",
+          "url": "https://www.investing.com/news/earnings/robinhood-shares-fall-on-q3-revenue-miss-eps-beat-4976780"
+        },
+        {
+          "name": "FX News Group (10/27)",
+          "url": "https://fxnewsgroup.com/forex-news/retail-forex/robinhood-revenues-tick-up-9-to-record-1-42-billion-in-q3-2026-profits-fall/"
+        }
+      ]
+    },
+    {
+      "id": "20261028-0055-1",
+      "time": "2026-10-27T23:00:00+09:00",
+      "category": "지표",
+      "title": "美 소비자신뢰 91.7, 4개월 만에 반등",
+      "lines": [
+        "10월 美 소비자신뢰지수 91.7, 9월 84.2서 7.5p↑",
+        "예상(약 81) 크게 웃돌며 6월 이후 최고",
+        "휘발유값 하락이 반등 이유, 장기 하락 추세는 여전",
+        "9월 내구재 주문도 1.8%↑로 예상(0.6%) 상회"
+      ],
+      "summary": "콘퍼런스보드 10월 소비자신뢰지수가 91.7로 전월 84.2(수정)에서 7.5포인트 올라 4개월 만에 반등했다. 같은 날 발표된 9월 내구재 주문도 1.8% 늘어 예상을 웃돌았다(운송 제외 0.5%).",
+      "why": "FOMC 회의 중 나온 견조한 지표라 경기 우려는 덜었지만 금리 인하 기대엔 부담이 될 수 있다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "경기 우려 완화, 금리엔 부담"
+      },
+      "tickers": [
+        "^GSPC"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Bloomberg (10/27)",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-27/us-consumer-confidence-increases-for-first-time-in-four-months"
+        },
+        {
+          "name": "FXStreet (10/27 23:12)",
+          "url": "https://www.fxstreet.com/news/us-cb-consumer-confidence-index-improves-to-917-in-october-202610271412"
+        },
+        {
+          "name": "PR Newswire 콘퍼런스보드 (10/27)",
+          "url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-increased-in-october-302920731.html"
+        },
+        {
+          "name": "FXStreet 내구재 (10/27 21:36)",
+          "url": "https://www.fxstreet.com/news/united-states-durable-goods-orders-rise-18-in-september-vs-06-expected-202610271236"
+        }
+      ]
+    },
+    {
+      "id": "20261028-0055-2",
+      "time": "2026-10-27T23:00:00+09:00",
+      "category": "금리",
+      "title": "美 10년물 5%대, FOMC 이틀 회의 시작",
+      "lines": [
+        "FOMC 27~28일 회의 시작, 10년물 5.003%로 소폭↑",
+        "전일 종가 4.986%, 30년물은 5.316%",
+        "페드워치 동결(3.75~4.00%) 확률 약 90.6%",
+        "결과는 한국 29일 03:00, 워시 의장 회견 03:30"
+      ],
+      "summary": "연준이 이틀간의 FOMC 회의를 시작한 27일 미 10년물 국채금리가 5.003%로 1bp 넘게 올라 5%선에 다시 섰다. 시장은 이번 회의 동결을 90% 이상 확률로 반영하고 있다.",
+      "why": "10년물 5%는 성장주·원화에 부담이 되는 선이라 회견 발언에 따라 방향이 갈릴 수 있다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "동결 유력, 회견 발언 주목"
+      },
+      "tickers": [
+        "^TNX"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/27)",
+          "url": "https://www.cnbc.com/2026/10/27/treasury-yields-federal-reserve-monetary-policy-meeting.html"
+        },
+        {
+          "name": "Kiplinger 라이브 (10/27)",
+          "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-october-2026"
+        }
+      ]
+    },
+    {
+      "id": "20261028-0055-3",
+      "time": "2026-10-27T22:30:00+09:00",
+      "category": "종목",
+      "title": "로열캐리비안 실적·전망 상향에 6%대↑",
+      "lines": [
+        "3분기 조정 EPS 6.57달러, 예상 6.38달러 상회",
+        "매출 56억달러로 예상 소폭 하회",
+        "연간 EPS 전망 17.85~17.95달러로 상향",
+        "장 초반 주가 6~7%대 상승, 2027 예약 두 자릿수↑"
+      ],
+      "summary": "로열캐리비안이 3분기 조정 EPS 6.57달러로 예상을 넘고 연간 전망을 올렸다. 유럽·카리브해 막판 수요가 강했고 2027년 예약도 전년보다 10%대 후반 늘었다.",
+      "why": "고유가(연료비) 속에서도 여행 수요가 견조하다는 신호다.",
+      "impact": {
+        "dir": "up",
+        "text": "크루즈·여행주 투자심리 개선"
+      },
+      "tickers": [
+        "RCL"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "PR Newswire 회사 발표 (10/27)",
+          "url": "https://www.prnewswire.com/news-releases/royal-caribbean-group-reports-third-quarter-results-above-expectations-and-raises-full-year-guidance-302920572.html"
+        },
+        {
+          "name": "Yahoo Finance (10/27)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-shares-rise-6-142904290.html"
+        },
+        {
+          "name": "Investing.com (10/27)",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-royal-caribbean-tops-profit-view-in-q3-2026-shares-jump-93CH-4976286"
+        }
+      ]
+    },
+    {
+      "id": "20261028-0055-4",
+      "time": "2026-10-27T20:00:00+09:00",
+      "category": "종목",
+      "title": "페이팔, 이익 상회·매출 미달에 약세",
+      "lines": [
+        "3분기 조정 EPS 1.45달러, 예상 약 1.31달러 상회",
+        "매출 85.8억달러로 예상 87.1억달러 하회",
+        "연간 조정 EPS 전망 약 5.60달러로 상향",
+        "매출 부진에 주가 개장 전후 1~3% 하락"
+      ],
+      "summary": "페이팔이 3분기 이익은 예상을 넘었지만 매출이 못 미쳤고 연간 이익 전망은 올렸다. 비용 절감(2~3년간 15억달러 이상)을 내걸었지만 주가는 매출 부진에 약세를 보였다.",
+      "why": "성장 둔화 우려가 이익 개선보다 크게 반영되고 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "매출 둔화 우려로 약세"
+      },
+      "tickers": [
+        "PYPL"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Seeking Alpha (10/27)",
+          "url": "https://seekingalpha.com/news/4657702-paypal-misses-q3-earnings-estimates-q4-guidance-falls-short-fy26-outlook-raised"
+        },
+        {
+          "name": "Benzinga (10/27)",
+          "url": "https://www.benzinga.com/markets/earnings/26/10/62617121/paypal-cuts-thousands-of-jobs-bets-on-ai-and-lifts-profit-outlook"
+        },
+        {
+          "name": "Newsquawk (10/27)",
+          "url": "https://www.newsquawk.com/headlines/paypal-holdings-inc-pypl-q3-2026-usd-adj-eps-145-exp-131-revenue-858bln-exp-871bln"
+        }
+      ]
+    },
+    {
+      "id": "20261028-0005-1",
+      "time": "2026-10-27T22:42:00+09:00",
+      "category": "지표",
+      "title": "뉴욕증시 상승 출발, 나스닥 0.7%↑",
+      "lines": [
+        "10/27 뉴욕증시 상승 출발, 나스닥 개장 +0.41%(26,275.83)",
+        "22:42 기준 나스닥 +0.72%(26,358.44), 다우는 보합권",
+        "유가 하락·앤트로픽 상장 기대에 AI·반도체주 강세",
+        "FOMC 이틀 회의 시작, 10/29 새벽 결정 앞 경계"
+      ],
+      "summary": "10/27 뉴욕증시는 유가 하락과 AI주 강세로 나스닥 중심 상승 출발했고, 다우는 보합권이었어요. FOMC 회의가 시작돼 결정 전 경계감도 남아 있어요.",
+      "why": "AI·반도체주 반등이 이어지면 국내 반도체주 심리에도 영향을 줘요.",
+      "impact": {
+        "dir": "up",
+        "text": "기술주 중심 반등 지속"
+      },
+      "tickers": [
+        "^IXIC",
+        "^GSPC",
+        "^DJI"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "국제뉴스 (10/27)",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734653"
+        },
+        {
+          "name": "CBC뉴스 (10/27)",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=620004"
+        },
+        {
+          "name": "뉴스1 (10/27)",
+          "url": "https://www.news1.kr/world/usa-canada/6334019"
+        }
+      ]
+    },
+    {
+      "id": "20261028-0005-2",
+      "time": "2026-10-27T18:00:00+09:00",
+      "category": "정책",
+      "title": "사우디·이란 회담 \"매우 좋았다\"",
+      "lines": [
+        "사우디 국방장관, 10/26 테헤란서 페제시키안 대통령과 회담",
+        "파키스탄·튀르키예 포함 4개국, 역내 안보 대화 지속 합의",
+        "이란 '매우 좋은 논의' 평가, 긴장 완화 기대",
+        "브렌트유 10/27 114~116달러 안팎에서 소폭 하락"
+      ],
+      "summary": "사우디·파키스탄·튀르키예 대표단이 10/26 테헤란에서 이란 대통령과 회담했고, 4개국은 대화를 이어가기로 했어요. 긴장 완화 기대에 유가는 소폭 내렸어요.",
+      "why": "중동 외교 진전 여부가 유가·환율·증시의 큰 변수예요.",
+      "impact": {
+        "dir": "down",
+        "text": "유가 하락 요인"
+      },
+      "tickers": [
+        "BZ=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Arab News (10/27)",
+          "url": "https://www.arabnews.com/energy/oil-slips-1-as-iran-diplomacy-eases-supply-fears-3008471"
+        },
+        {
+          "name": "CNBC (10/26)",
+          "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html"
+        },
+        {
+          "name": "CBS News (10/27)",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+        }
+      ]
+    },
+    {
+      "id": "20261027-2215-1",
+      "time": "2026-10-27T20:25:00+09:00",
+      "category": "종목",
+      "title": "앤트로픽, 스페이스X에 최대 1,205억달러",
+      "lines": [
+        "앤트로픽 S-1에 스페이스X AI 컴퓨팅 계약 규모 공개",
+        "2029년까지 최대 1,205억달러, 완전 가동 시 월 약 31억달러",
+        "초기 해지불가 기간 뒤 90일 통보로 해지 가능, '최대치'임",
+        "10/27 개장 전 스페이스X(SPCX) 약 1%대 상승 보도"
+      ],
+      "summary": "앤트로픽이 10/26 공개한 상장 신고서(S-1)에서 스페이스X 자회사 SpaceX.AI와 2029년까지 최대 1,205억달러 규모의 컴퓨팅 계약을 맺었다고 밝혔다. 기존 보도(약 845억달러)보다 커졌고, 10/27 개장 전 SPCX는 1%대 올랐다.",
+      "why": "관심 종목 스페이스X의 AI 인프라 매출 규모를 가늠할 수 있는 공식 수치다.",
+      "impact": {
+        "dir": "up",
+        "text": "스페이스X AI 매출 기대↑"
+      },
+      "tickers": [
+        "SPCX"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Gizmodo (10/26)",
+          "url": "https://gizmodo.com/anthropics-deal-with-elon-musks-spacexai-is-even-bigger-than-we-knew-ipo-filing-shows-2000830618"
+        },
+        {
+          "name": "TeslaNorth (10/26)",
+          "url": "https://teslanorth.com/2026/10/26/anthropic-s1-spacex-120b-compute/"
+        },
+        {
+          "name": "TheStreet (10/27 개장 전)",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-27-2026"
+        }
+      ]
+    },
+    {
+      "id": "20261027-2215-2",
+      "time": "2026-10-27T19:00:00+09:00",
+      "category": "종목",
+      "title": "UPS 실적 예상 상회, 연간 전망 또 상향",
+      "lines": [
+        "UPS 3분기 조정 EPS 1.69달러, 예상 1.63달러 상회",
+        "매출 229억달러(+6.7%), 예상 약 222.9억달러 상회",
+        "연간 매출 전망 912억→926억달러로 두 분기 연속 상향",
+        "개장 전 주가 소폭~2% 상승, 연말 물류 수요 신호"
+      ],
+      "summary": "UPS가 10/27 3분기 조정 EPS 1.69달러, 매출 229억달러로 시장 예상을 웃돌았고 연간 매출 전망을 926억달러로 올렸다. 개장 전 주가는 소폭~2% 올랐다.",
+      "why": "관세·유류비 부담 속에서도 물류 수요가 견조하다는 신호다.",
+      "impact": {
+        "dir": "up",
+        "text": "UPS·운송주 심리 개선"
+      },
+      "tickers": [
+        "UPS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/27)",
+          "url": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html"
+        },
+        {
+          "name": "TT News (10/27)",
+          "url": "https://www.ttnews.com/articles/ups-earnings-q3-2026"
+        },
+        {
+          "name": "Business Wire (10/27)",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-10-27-ups-releases-3q-2026-earnings"
+        }
+      ]
+    },
+    {
+      "id": "20261027-2215-3",
+      "time": "2026-10-27T20:00:00+09:00",
+      "category": "종목",
+      "title": "SoFi 호실적·2027 전망에 개장 전↑",
+      "lines": [
+        "SoFi 3분기 조정 매출 14억달러(+44%), 사상 최대",
+        "조정 EPS 0.18달러로 예상 0.17달러 상회",
+        "2027 매출 전망 64억달러, 컨센서스 61.4억달러 웃돌아",
+        "개장 전 5~7% 상승 보도, 올해 44% 하락 뒤 반등"
+      ],
+      "summary": "SoFi가 10/27 3분기 조정 매출 14억달러(+44%), 조정 EPS 0.18달러를 발표하고 2026년 전망 상향과 2027년 매출 64억달러 전망을 내놨다. 개장 전 주가는 5~7% 올랐다.",
+      "why": "올해 크게 빠진 핀테크주에 실적 반등 근거가 생겼다.",
+      "impact": {
+        "dir": "up",
+        "text": "SoFi·핀테크주 반등"
+      },
+      "tickers": [
+        "SOFI"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Seeking Alpha (10/27)",
+          "url": "https://seekingalpha.com/news/4657752-sofi-q3-stock-jumps-after-strong-q3-earnings-beat-2026-guidance-boost-new-2027-outlook"
+        },
+        {
+          "name": "Investing.com (10/27)",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-sofi-technologies-stock-surging-today-93CH-4975073"
+        }
+      ]
+    },
+    {
+      "id": "20261027-2215-4",
+      "time": "2026-10-27T20:00:00+09:00",
+      "category": "종목",
+      "title": "월풀 적자 전망에 개장 전 9%↓",
+      "lines": [
+        "월풀 3분기 조정 주당 0.21달러 손실, 흑자 예상 빗나가",
+        "매출 36.8억달러(-8.8%), 예상 약 39.2억달러 하회",
+        "연간 조정 EPS 전망 약 -1.30달러로 하향(올해 세 번째)",
+        "개장 전 약 9% 하락, 52주 최저 수준"
+      ],
+      "summary": "월풀이 10/26 장 마감 뒤 3분기 조정 주당 0.21달러 손실과 매출 36.8억달러(-8.8%)를 발표하고 연간 전망을 적자로 낮췄다. 10/27 개장 전 주가는 약 9% 내렸다.",
+      "why": "미국 가전 수요 회복이 예상보다 늦다는 신호다.",
+      "impact": {
+        "dir": "down",
+        "text": "월풀·가전주 부담"
+      },
+      "tickers": [
+        "WHR"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Benzinga (10/27)",
+          "url": "https://www.benzinga.com/markets/earnings/26/10/62612116/why-is-whirlpool-stock-falling-tuesday"
+        },
+        {
+          "name": "Investing.com (10/26~27)",
+          "url": "https://www.investing.com/news/earnings/whirlpool-tumbles-8-on-weak-guidance-thirdquarter-miss-93CH-4973622"
+        },
+        {
+          "name": "Tradingpedia (10/27)",
+          "url": "https://www.tradingpedia.com/2026/10/27/whirlpool-drops-to-new-lows-on-weak-earnings-guidance/"
+        }
+      ]
+    },
+    {
+      "id": "20261027-1841-1",
+      "time": "2026-10-27T15:44:00+09:00",
+      "category": "종목",
+      "title": "LG이노텍 3분기 영업익 948억, 53%↓",
+      "lines": [
+        "LG이노텍 3분기 잠정 영업이익 948억원",
+        "전년비 -53.4%, 전분기비 -61.4%",
+        "매출은 6조3,671억원(+18.6%) 3분기 첫 6조",
+        "원·달러 급락에 따른 환율 시차가 이익 깎아"
+      ],
+      "summary": "LG이노텍은 10/27 3분기 연결 잠정 매출 6조3,671억원(+18.6%), 영업이익 948억원(-53.4%)을 공시했다. 회사는 원재료 매입과 제품 출하 사이 원·달러 환율 하락에 따른 시차 영향을 이유로 들었다.",
+      "why": "매출은 늘었지만 원화 강세가 수출 부품사 이익률을 크게 낮출 수 있음을 보여준다.",
+      "impact": {
+        "dir": "down",
+        "text": "수익성 부진, 주가 부담"
+      },
+      "tickers": [
+        "011070.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "아주경제 (10/27 15:44)",
+          "url": "https://www.ajunews.com/view/20261027154411539"
+        },
+        {
+          "name": "아이뉴스24 (10/27)",
+          "url": "https://m.inews24.com/v/2019569"
+        },
+        {
+          "name": "국제뉴스 (10/27)",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734392"
+        }
+      ]
+    },
+    {
+      "id": "20261027-1841-2",
+      "time": "2026-10-27T15:30:00+09:00",
+      "category": "환율",
+      "title": "원·달러 1,323.7원 마감, 0.6원↑",
+      "lines": [
+        "원·달러 0.6원 오른 1,323.7원 마감(원화 소폭 약세)",
+        "장중 1,322.8~1,326.5원 좁은 범위 등락",
+        "수출 네고 vs 수입 결제·해외투자 수요 맞서",
+        "전일 연저점(1,323.1원) 부근, FOMC 대기"
+      ],
+      "summary": "10/27 원·달러 환율은 전일보다 0.6원 오른 1,323.7원에 주간 거래를 마쳤다. 수출업체 네고 물량과 결제·해외투자 달러 수요가 맞서며 좁은 범위에서 움직였다.",
+      "why": "연저점 부근에서 하락이 멈췄고, 이번 주 FOMC 결과가 다음 방향을 정할 변수다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "연저점 부근 보합세"
+      },
+      "tickers": [
+        "KRW=X"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "이투데이 (10/27 마감)",
+          "url": "https://www.etoday.co.kr/news/view/2640697"
+        },
+        {
+          "name": "뉴스1 (10/27)",
+          "url": "https://www.news1.kr/finance/market-exr/6333624"
+        },
+        {
+          "name": "아시아경제 (10/27 15:43)",
+          "url": "https://view.asiae.co.kr/article/2026102715430143967"
+        }
+      ]
+    },
+    {
+      "id": "20261027-1841-3",
+      "time": "2026-10-27T14:30:00+09:00",
+      "category": "종목",
+      "title": "HSBC 매출 예상 하회, 주가 5~6%↓",
+      "lines": [
+        "HSBC 3분기 세전이익 96억달러, 32% 증가",
+        "매출 186억달러로 예상(약 190억) 밑돌아",
+        "홍콩 주가 5~6% 하락, 최대 10억달러 자사주 매입",
+        "자산관리 매출 정체가 실망 요인으로 꼽혀"
+      ],
+      "summary": "HSBC는 10/27 3분기 세전이익이 32% 늘어난 96억달러라고 발표했지만 매출 186억달러가 시장 예상(약 190억달러)에 못 미쳤다. 최대 10억달러 자사주 매입을 발표했지만 홍콩 주가는 5~6% 떨어졌다.",
+      "why": "유럽·아시아 대형 은행주 실적 시즌의 분위기를 보여주는 첫 대형 결과다.",
+      "impact": {
+        "dir": "down",
+        "text": "글로벌 은행주 부담"
+      },
+      "tickers": [
+        "HSBC",
+        "0005.HK"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "SCMP (10/27 홍콩 13:34)",
+          "url": "https://www.scmp.com/business/companies/article/3372244/hsbc-reports-32-increase-third-quarter-pre-tax-profits-announces-us1b-share-buy-back"
+        },
+        {
+          "name": "Bloomberg (10/27)",
+          "url": "https://bloomberg.com/news/articles/2026-10-27/hsbc-1-billion-buyback-third-quarter-earnings-profit-growth-misses-estimates"
+        },
+        {
+          "name": "KSL/AP (10/27)",
+          "url": "https://www.ksl.com/article/51641418/hsbcs-third-quarter-profit-jumps-32-launches-buyback-of-up-to-1-billion"
+        }
+      ]
+    },
+    {
+      "id": "20261027-1841-4",
+      "time": "2026-10-27T13:28:00+09:00",
+      "category": "종목",
+      "title": "HD현대일렉트릭 3분기 영업익 2,845억",
+      "lines": [
+        "HD현대일렉트릭 3분기 영업이익 2,845억원(+15.1%)",
+        "매출 1조1,799억원(+18.5%), 이익률 24.1%",
+        "전분기(2,870억)보다는 0.9% 감소",
+        "수주잔고 88.4억달러로 전분기비 4.2% 증가"
+      ],
+      "summary": "HD현대일렉트릭은 10/27 3분기 연결 잠정 매출 1조1,799억원, 영업이익 2,845억원을 공시했다. 전년 대비 각각 18.5%, 15.1% 늘었지만 국내 매출 비중 확대로 이익률은 다소 낮아졌다.",
+      "why": "AI 데이터센터발 전력기기 호황이 이어지는지 보여주는 지표다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "성장 지속, 이익률 소폭 둔화"
+      },
+      "tickers": [
+        "267260.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "글로벌이코노믹 (10/27 13:28)",
+          "url": "https://www.g-enews.com/article/Securities/2026/10/20261027132845505544093b5d4e_1"
+        },
+        {
+          "name": "아주경제 (10/27)",
+          "url": "https://www.ajunews.com/view/20261027134239913"
+        },
+        {
+          "name": "파이낸셜투데이 (10/27)",
+          "url": "https://www.ftoday.co.kr/news/articleView.html?idxno=368275"
+        }
+      ]
+    },
+    {
+      "id": "20261027-1545-1",
+      "time": "2026-10-27T15:30:00+09:00",
+      "category": "국내",
+      "title": "코스피 3.09%↑ 5,638 마감, 코스닥 2%↑",
+      "lines": [
+        "코스피 168.87p(3.09%) 오른 5,638.34 마감",
+        "장중 4%대·5,700선 넘었다가 상승폭 일부 반납",
+        "코스닥 16.62p(2.29%) 오른 743.83 마감",
+        "하루 전 1.46% 급락분을 모두 만회"
+      ],
+      "summary": "10/27 코스피는 168.87포인트(3.09%) 오른 5,638.34, 코스닥은 2.29% 오른 743.83으로 마감했다. 오전 매수 사이드카 발동과 5,700선 회복 뒤 오후 들어 상승폭이 줄었다.",
+      "why": "앤트로픽 IPO 기대로 반도체 대형주와 외국인 매수가 지수를 끌어올렸다.",
+      "impact": {
+        "dir": "up",
+        "text": "국내 증시 반등 마감"
+      },
+      "tickers": [
+        "^KS11",
+        "^KQ11"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "이투데이 (10/27 마감)",
+          "url": "https://www.etoday.co.kr/news/view/2640679"
+        },
+        {
+          "name": "서울경제 (10/27)",
+          "url": "https://m.sedaily.com/article/20106678"
+        },
+        {
+          "name": "이투데이 코스닥 (10/27)",
+          "url": "https://www.etoday.co.kr/news/view/2640678"
+        },
+        {
+          "name": "서울경제 코스닥 (10/27)",
+          "url": "https://m.sedaily.com/article/20106680"
+        }
+      ]
+    },
+    {
+      "id": "20261027-1545-2",
+      "time": "2026-10-27T14:16:00+09:00",
+      "category": "종목",
+      "title": "한화오션 3분기 영업익 4,857억, 68%↑",
+      "lines": [
+        "3분기 영업이익 4,857억원, 전년 대비 67.6%↑",
+        "매출 3조4,139억원(+12.9%), 순이익 1,451억원(-46.1%)",
+        "전분기 대비로는 영업이익 34.0% 감소",
+        "고선가 LNG선 건조 확대가 실적 견인"
+      ],
+      "summary": "한화오션이 10/27 3분기 연결 영업이익 4,857억원(전년 대비 +67.6%), 매출 3조4,139억원을 잠정 공시했다. 전분기보다는 매출 37.3%, 영업이익 34.0%가 줄었다.",
+      "why": "전년 대비 증가에도 전분기 대비 감소와 순이익 감소가 함께 나와 해석이 엇갈릴 수 있다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "조선주 실적 평가 엇갈림"
+      },
+      "tickers": [
+        "042660.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "한국경제 (10/27)",
+          "url": "https://www.hankyung.com/article/202610277899i"
+        },
+        {
+          "name": "아시아경제 (10/27 14:16)",
+          "url": "https://view.asiae.co.kr/article/2026102714162044841"
+        },
+        {
+          "name": "아주경제 (10/27 14:22)",
+          "url": "https://www.ajunews.com/view/20261027142200094"
+        }
+      ]
+    },
+    {
+      "id": "20261027-1545-3",
+      "time": "2026-10-27T10:04:00+09:00",
+      "category": "종목",
+      "title": "셀트리온 3분기 영업익 5,253억 확정",
+      "lines": [
+        "3분기 영업이익 5,253억원, 매출 1조5,755억원",
+        "10/12 잠정치(5,100억원)보다 153억원 많아",
+        "분기 기준 역대 최대 실적"
+      ],
+      "summary": "셀트리온이 10/27 3분기 확정 실적으로 매출 1조5,755억원, 영업이익 5,253억원을 공시했다. 10/12 발표한 잠정 영업이익 5,100억원보다 153억원 늘었다.",
+      "why": "고수익 후속 제품 비중 확대로 수익성 개선이 이어지고 있다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "잠정치 소폭 상회"
+      },
+      "tickers": [
+        "068270.KS"
+      ],
+      "confidence": "주의",
+      "sources": [
+        {
+          "name": "머니투데이방송 (10/27 10:04)",
+          "url": "https://news.mtn.co.kr/article/2026102710044987248"
+        },
+        {
+          "name": "머니투데이방송 잠정치 (10/12)",
+          "url": "https://news.mtn.co.kr/news-detail/2026101207552521921"
+        }
+      ]
+    },
+    {
+      "id": "20261027-1240-1",
+      "time": "2026-10-27T10:56:00+09:00",
+      "category": "국내",
+      "title": "코스피 4%대↑, 매수 사이드카 발동",
+      "lines": [
+        "10:13 코스피 매수 사이드카, 4거래일 만·올해 26번째",
+        "코스피200 선물 5.05%↑ 893.02로 발동 요건 충족",
+        "10:56 코스피 5,716.50(+4.52%), 5,700선 회복",
+        "SK하이닉스 7%대·삼성전자 5%대 급등 견인"
+      ],
+      "summary": "10/27 오전 10시 13분 코스피200 선물이 5% 넘게 오르며 코스피 매수 사이드카가 발동됐다. 코스피는 오전 11시 무렵 5,700선을 회복했고 SK하이닉스·삼성전자가 상승을 이끌었다.",
+      "why": "앤트로픽 상장 서류 공개 뒤 AI 반도체 심리가 되살아나 외국인·기관이 함께 순매수하고 있다.",
+      "impact": {
+        "dir": "up",
+        "text": "국내 반도체주 강세"
+      },
+      "tickers": [
+        "^KS11",
+        "000660.KS",
+        "005930.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "뉴스웨이 (10/27 10:32)",
+          "url": "https://newsway.co.kr/news/view?ud=2026102710321704967"
+        },
+        {
+          "name": "디지털데일리 (10/27 11:01)",
+          "url": "https://www.ddaily.co.kr/page/view/2026102711014012862"
+        },
+        {
+          "name": "서울신문 (10/27)",
+          "url": "https://www.seoul.co.kr/news/economy/securities/2026/10/27/20261027500045"
+        },
+        {
+          "name": "뉴스1 (10/27)",
+          "url": "https://www.news1.kr/finance/market-exr/6333051"
+        }
+      ]
+    },
+    {
+      "id": "20261027-1240-2",
+      "time": "2026-10-27T11:35:00+09:00",
+      "category": "지표",
+      "title": "닛케이 1.92%↑, 오전 63,381 마감",
+      "lines": [
+        "닛케이 오전장 1,191.64엔(1.92%) 오른 63,381.29",
+        "장중 한때 2.4% 올라 63,684.69까지",
+        "앤트로픽 IPO 서류에 어드밴테스트 등 반도체 매수",
+        "중반부터 상승폭은 다소 줄어"
+      ],
+      "summary": "10/27 도쿄 증시 닛케이 평균이 오전장을 1.92% 오른 63,381.29에 마쳤다. 앤트로픽 상장 서류 공개에 반도체주가 올랐다.",
+      "why": "한국과 일본 반도체주가 같은 재료로 함께 오르고 있다.",
+      "impact": {
+        "dir": "up",
+        "text": "아시아 반도체주 동반 강세"
+      },
+      "tickers": [
+        "^N225"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "OANDA·로이터 (10/27 11:57)",
+          "url": "https://www.oanda.jp/lab-education/market_news/mn_1040766_202610271157/"
+        },
+        {
+          "name": "데일리스포츠·교도 (10/27)",
+          "url": "https://www.daily.co.jp/society/economics/2026/10/27/0020971882.shtml"
+        },
+        {
+          "name": "뉴스위크재팬·로이터 (10/27)",
+          "url": "https://www.newsweekjapan.jp/articles/-/338129"
+        }
+      ]
+    },
+    {
+      "id": "20261027-1240-3",
+      "time": "2026-10-26T22:00:00+09:00",
+      "category": "종목",
+      "title": "메타, 최대 950억달러 증자 추진",
+      "lines": [
+        "보통주 225억+전환우선주 125억 = 350억달러 공모",
+        "무의결권 C주로 최대 600억달러 추가 매각 계획",
+        "엔비디아·AMD·브로드컴 50억달러 인수 관심",
+        "신주 증가(희석) 우려에 메타 주가는 약세"
+      ],
+      "summary": "메타가 10/26 AI 인프라 투자를 위해 최대 950억달러 규모 주식 발행 계획을 밝혔다. 350억달러 공모를 먼저 하고, 600억달러 C주 매각은 2027년 1분기 이후 시작할 예정이다.",
+      "why": "3분기 잉여현금흐름이 마이너스로 돌아선 메타가 AI 투자 자금을 주식으로 조달해, 반도체 수요에는 긍정적이지만 기존 주주에게는 희석 부담이다.",
+      "impact": {
+        "dir": "down",
+        "text": "메타 희석 부담, 반도체엔 호재"
+      },
+      "tickers": [
+        "META",
+        "NVDA",
+        "AMD",
+        "AVGO"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "로이터·US뉴스 (10/26)",
+          "url": "https://money.usnews.com/investing/news/articles/2026-10-26/meta-launches-35-billion-stock-offering-to-fund-ai-expansion"
+        },
+        {
+          "name": "블룸버그 (10/26)",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/meta-seeks-up-to-95-billion-in-equity-to-fund-ai-spending"
+        },
+        {
+          "name": "미디어펜 (10/27)",
+          "url": "https://www.mediapen.com/news/view/1132651"
+        }
+      ]
+    },
+    {
+      "id": "20261027-1240-4",
+      "time": "2026-10-27T08:00:00+09:00",
+      "category": "종목",
+      "title": "SK하이닉스, 내일 3분기 실적",
+      "lines": [
+        "10/28 SK하이닉스, 10/29 삼성전자 확정실적 발표",
+        "하이닉스 영업이익 컨센서스 76조~77조원",
+        "직전 2분기 영업이익 60조5,426억원",
+        "80조원 돌파 여부·추가 주주환원이 관심"
+      ],
+      "summary": "SK하이닉스가 10/28 3분기 실적을 발표한다. 영업이익 컨센서스는 FnGuide 76조9,640억원, 연합인포맥스 76조2,605억원이다.",
+      "why": "최근 한 달 주가가 크게 내린 상태라 실적·주주환원이 반등 지속 여부를 가를 수 있다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "실적 확인 전 변동성 주의"
+      },
+      "tickers": [
+        "000660.KS",
+        "005930.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "SBS Biz",
+          "url": "https://biz.sbs.co.kr/article/20000341950"
+        },
+        {
+          "name": "진일보 (10/27)",
+          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000076893"
+        },
+        {
+          "name": "스톡플러스",
+          "url": "https://newsroom.stockplus.com/breaking-news/39522"
+        }
+      ]
+    },
+    {
+      "id": "20261027-0940-1",
+      "time": "2026-10-27T09:00:00+09:00",
+      "category": "국내",
+      "title": "코스피 3.46%↑ 5,658 출발",
+      "lines": [
+        "코스피 189.18p(3.46%) 오른 5,658.65 출발",
+        "코스닥도 2.18% 오른 743.09로 개장",
+        "앤트로픽 S-1·美 반도체 강세가 반도체주 견인",
+        "이번 주 FOMC·삼성·하이닉스 실적이 변수"
+      ],
+      "summary": "10/27 코스피가 전일 대비 3.46% 오른 5,658.65, 코스닥이 2.18% 오른 743.09에 출발했다. 전날 뉴욕증시 반도체 강세와 앤트로픽 상장 서류 공개가 국내 반도체주 매수로 이어졌다는 분석이다.",
+      "why": "전날 1.46% 하락을 하루 만에 만회하는 급반등 출발로, 반도체 비중이 큰 국내 증시 분위기가 바뀌는지 볼 대목이다.",
+      "impact": {
+        "dir": "up",
+        "text": "국내 반도체주 강세"
+      },
+      "tickers": [
+        "^KS11",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "머니투데이 (10/27 08:56)",
+          "url": "https://www.mt.co.kr/stock/2026/10/27/2026102708563597768"
+        },
+        {
+          "name": "서울경제 (10/27)",
+          "url": "https://m.sedaily.com/article/20106419"
+        },
+        {
+          "name": "아시아경제 (10/27 09:02, 코스닥)",
+          "url": "https://view.asiae.co.kr/article/2026102709022996908"
+        }
+      ]
+    },
+    {
+      "id": "20261027-0940-2",
+      "time": "2026-10-27T08:00:00+09:00",
+      "category": "지표",
+      "title": "3분기 GDP 1.0% 깜짝 성장",
+      "lines": [
+        "한국 3분기 실질 GDP 전기 대비 1.0% 성장",
+        "한은 8월 전망(0.3%)의 3배, 전년 대비 3.4%",
+        "설비투자 4.1%·수출 2.3%↑, 반도체가 견인",
+        "민간소비 0.2%↓, 2022년 4분기 이후 첫 감소"
+      ],
+      "summary": "한국은행이 발표한 3분기 실질 GDP 속보치는 전기 대비 1.0%로, 8월 전망치 0.3%를 크게 웃돌았다. 반도체 설비투자와 수출, 정부소비가 성장을 이끌었지만 민간소비는 줄었다.",
+      "why": "성장률이 예상보다 높아 한은 금리 인하 기대를 낮출 수 있고, 내수 약화는 성장의 질 논란으로 이어진다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "반도체 호조, 내수는 부진"
+      },
+      "tickers": [],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "이투데이 (10/27)",
+          "url": "https://www.etoday.co.kr/news/view/2640332"
+        },
+        {
+          "name": "헤럴드경제 (10/27)",
+          "url": "https://biz.heraldcorp.com/article/10915491"
+        },
+        {
+          "name": "데일리안 (10/27)",
+          "url": "https://www.dailian.co.kr/news/view/1706440/3%EB%B6%84%EA%B8%B0-GDP-10-%EC%84%B1%EC%9E%A5%EC%A0%84%EB%A7%9D%EC%B9%98-3%EB%B0%B0-2026"
+        }
+      ]
+    },
+    {
+      "id": "20261027-0940-3",
+      "time": "2026-10-27T09:00:00+09:00",
+      "category": "환율",
+      "title": "원·달러 1,325원대 출발, 소폭↑",
+      "lines": [
+        "원·달러 1,325.0원 출발, 전일 대비 1.9원↑",
+        "전일 종가 1,323.1원은 연중 최저 수준",
+        "오전 9시 무렵 1,326.0원(원화 소폭 약세)",
+        "FOMC 앞두고 1,320~1,330원 등락 전망"
+      ],
+      "summary": "10/27 원·달러 환율이 전날 종가(1,323.1원)보다 1.9원 오른 1,325.0원에 출발했다. 오전 9시 무렵 1,326원 안팎에서 거래됐다.",
+      "why": "연저점 부근에서 FOMC(10/28)를 앞두고 달러 반등과 수출업체 매도가 맞서는 흐름이다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "1,320원대 공방 지속"
+      },
+      "tickers": [
+        "KRW=X"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "토큰포스트 (10/27)",
+          "url": "https://www.tokenpost.kr/news/insights/427772"
+        },
+        {
+          "name": "데일리안 (10/27 09시)",
+          "url": "https://www.dailian.co.kr/news/view/1706488/%EC%9B%90%EB%8B%AC%EB%9F%AC-%ED%99%98%EC%9C%A8-%EC%98%A4%EC%A0%84-9%EC%8B%9C%EA%B2%BD-13260%EC%9B%90-2026"
+        },
+        {
+          "name": "이투데이 (10/27, 전망)",
+          "url": "https://www.etoday.co.kr/news/view/2640345"
+        }
+      ]
+    },
+    {
+      "id": "20261027-0645-1",
+      "time": "2026-10-27T05:00:00+09:00",
+      "category": "지표",
+      "title": "뉴욕증시 상승 마감, 나스닥 0.8%↑",
+      "lines": [
+        "10/26 뉴욕증시 3대 지수 모두 올라 마감했어요(앞 소식: 상승 출발)",
+        "다우 52,361.58(+0.29%), S&P500 7,676.77(약 +0.7%), 나스닥 26,169.38(+0.82%)",
+        "앤트로픽 S-1 공개에 AI·반도체주가 오르며 기술주가 상승을 이끌었어요",
+        "S&P500·나스닥은 2주 연속 주간 하락 뒤 반등, 이번 주 FOMC·빅테크 실적 대기"
+      ],
+      "summary": "10/26 뉴욕증시는 앤트로픽 상장 신고서 공개에 따른 AI·반도체주 강세로 3대 지수가 모두 상승 마감했다. 장중 1%대였던 나스닥 상승폭은 0.82%로 줄었다.",
+      "why": "지난주 기술주 급락 뒤 반등이라 오늘 국내 반도체주 출발에 영향을 줄 수 있다.",
+      "impact": {
+        "dir": "up",
+        "text": "기술주 반등, 국내 증시 심리 개선"
+      },
+      "tickers": [
+        "^GSPC",
+        "^IXIC",
+        "^DJI"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/26)",
+          "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "Investing.com (10/26)",
+          "url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-029-4973641"
+        },
+        {
+          "name": "24/7 Wall St. (10/26)",
+          "url": "https://247wallst.com/cards/tech-did-the-heavy-lifting-again-the-nasdaq-s-0-82-gain-wa-gspc-market-bell-01m5wwzh2mpdve63ekajqw4y73"
+        },
+        {
+          "name": "TheStreet (10/26)",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"
+        }
+      ]
+    },
+    {
+      "id": "20261027-0645-2",
+      "time": "2026-10-27T05:05:00+09:00",
+      "category": "종목",
+      "title": "셀레스티카 실적 상회, 시간외 9%↑",
+      "lines": [
+        "AI 서버·네트워크 장비 제조사 셀레스티카 3분기 실적이 회사 전망을 넘었어요",
+        "매출 58.3억달러(+83%), 조정 EPS 3.30달러(전망 2.88~3.08달러)",
+        "올해 매출 전망 205억→210억달러, EPS 11.30→11.55달러로 상향",
+        "정규장 -5.1%(246.65달러) 뒤 시간외 약 9% 반등, 잉여현금흐름 전망은 하향"
+      ],
+      "summary": "셀레스티카가 10/26 장 마감 뒤 3분기 매출 58.3억달러, 조정 EPS 3.30달러로 회사 전망 상단을 넘는 실적을 내고 연간 전망을 올렸다. 시간외 거래에서 주가가 약 9% 올랐다.",
+      "why": "AI 데이터센터 투자 수요가 여전히 강하다는 신호로, AI 인프라주 심리에 영향을 준다.",
+      "impact": {
+        "dir": "up",
+        "text": "AI 인프라 수요 확인"
+      },
+      "tickers": [
+        "CLS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Celestica 공식 발표/GlobeNewswire (10/26)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/26/3388573/0/en/celestica-announces-third-quarter-2026-financial-results-and-will-hold-2026-investor-and-analyst-day.html"
+        },
+        {
+          "name": "Investing.com (10/26)",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-celestica-stock-surging-today-93CH-4973665"
+        },
+        {
+          "name": "MoneyCheck (10/26)",
+          "url": "https://moneycheck.com/celestica-cls-stock-rallies-9-after-hours-on-record-5-83b-quarterly-revenue"
+        }
+      ]
+    },
+    {
+      "id": "20261027-0645-3",
+      "time": "2026-10-27T05:03:00+09:00",
+      "category": "종목",
+      "title": "앰코 실적·전망 소폭 하회",
+      "lines": [
+        "반도체 후공정(패키징) 업체 앰코 3분기 실적이 예상에 조금 못 미쳤어요",
+        "매출 19.9억달러(예상 20.3억), EPS 0.76달러(예상 0.77), 총이익률 18.3%",
+        "4분기 매출 전망 19~20억달러로 예상(약 20.1억)보다 낮아요",
+        "정규장 약 6% 하락, 시간외 반응은 매체마다 엇갈려요"
+      ],
+      "summary": "앰코가 10/26 장 마감 뒤 3분기 매출 19.9억달러, EPS 0.76달러로 시장 예상을 소폭 밑돌았고 4분기 매출 전망도 예상보다 낮게 제시했다. 총이익률은 1년 전 14.3%에서 18.3%로 개선됐다.",
+      "why": "한국에 대규모 공장을 둔 후공정 업체라 반도체 패키징 수요 흐름을 보여준다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "마진 개선, 매출 전망은 약함"
+      },
+      "tickers": [
+        "AMKR"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Amkor IR (10/26)",
+          "url": "https://ir.amkor.com/news-releases/news-release-details/amkor-technology-reports-financial-results-third-quarter-2026"
+        },
+        {
+          "name": "Seeking Alpha (10/26)",
+          "url": "https://seekingalpha.com/news/4657190-amkor-technology-slips-as-q3-results-guidance-miss-estimates"
+        },
+        {
+          "name": "Investing.com (10/26)",
+          "url": "https://www.investing.com/news/earnings/amkor-technology-stock-rises-4-after-hours-despite-q3-earnings-revenue-miss-93CH-4973614"
+        }
+      ]
+    },
+    {
+      "id": "20261027-0340-1",
+      "time": "2026-10-27T00:30:00+09:00",
+      "category": "종목",
+      "title": "앤트로픽 상장 서류에 반도체주 3%↑",
+      "lines": [
+        "앤트로픽 S-1 공개 뒤 AI·반도체주 장중 동반 강세",
+        "S-1: 상반기 매출 162.9억달러, 전년 대비 +1,304%",
+        "필라델피아 반도체지수 3%대↑, 엔비디아 +2.6%(장중)",
+        "S&P500 +0.92%·나스닥 +1.25%, 한 달 만의 최대 상승 흐름",
+        "고점 대비 약 25% 빠진 반도체주 반등, 국내 반도체 심리에 영향"
+      ],
+      "summary": "10/26 앤트로픽이 공개한 상장 서류에서 상반기 매출이 1년 새 14배로 늘어난 것으로 나오자 AI·반도체주가 장중 일제히 올랐어요. 미 동부 11:30 기준 S&P500과 나스닥은 한 달 만의 최대 상승 흐름이었어요.",
+      "why": "AI 투자 회의론으로 약세장에 들어간 반도체주가 반등해 SK하이닉스·삼성전자 등 국내 반도체주 심리에도 영향을 줘요.",
+      "impact": {
+        "dir": "up",
+        "text": "AI·반도체주 심리 개선"
+      },
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "MU",
+        "^SOX",
+        "^IXIC",
+        "^GSPC"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "The National/Reuters (10/26)",
+          "url": "https://www.thenationalnews.com/business/2026/10/26/anthropic-ipo-ai-tech-stocks/"
+        },
+        {
+          "name": "MarketScreener/Reuters (10/26)",
+          "url": "https://www.marketscreener.com/news/wall-st-eyes-best-day-in-a-month-as-anthropic-s-ipo-filing-propels-ai-stocks-ce785cdcdc8ff722"
+        },
+        {
+          "name": "CNBC (10/26)",
+          "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "id": "20261027-0340-2",
+      "time": "2026-10-27T00:30:00+09:00",
+      "category": "종목",
+      "title": "테슬라 장중 6% 급등",
+      "lines": [
+        "10/26 테슬라 장중 약 6% 급등, 393.73달러(+5.78%) 보도",
+        "바클레이즈 '비중확대' 상향(목표 450달러) 뒤 프리마켓 2%에서 확대",
+        "근거는 스페이스X 합병 기대·로보택시 성장 초기 신호",
+        "합병 지연·주주 승인 불확실성은 하락 위험으로 지적"
+      ],
+      "summary": "바클레이즈의 투자의견 상향(앞 소식) 뒤 테슬라가 장중 6% 가까이 올랐어요. 스페이스X 합병 기대가 주된 근거로 꼽혀요.",
+      "why": "관심 종목 테슬라와 스페이스X가 합병 기대로 함께 움직일 수 있어요.",
+      "impact": {
+        "dir": "up",
+        "text": "합병 기대에 테슬라 강세"
+      },
+      "tickers": [
+        "TSLA",
+        "SPCX"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CBC뉴스 (10/26)",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=619547"
+        },
+        {
+          "name": "TIKR (10/26)",
+          "url": "https://www.tikr.com/ko/blog/tesla-soars-6-on-barclays-upgrade-calling-spacex-merger-key-part-of-the-tesla-bull-case"
+        },
+        {
+          "name": "Investing.com (10/26)",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2141033"
+        }
+      ]
+    },
+    {
+      "id": "20261027-0005-1",
+      "time": "2026-10-26T22:43:00+09:00",
+      "category": "지표",
+      "title": "뉴욕증시 반등 출발, 유가 하락",
+      "lines": [
+        "10/26 뉴욕증시 3대 지수 상승 출발, 다우 개장 +0.41%(52,431.73)",
+        "22:43 기준 나스닥 +0.26%(26,021.99), 이후 장중 1%대로 확대 보도",
+        "중동 외교 진전 기대에 유가 하락, 기술주 반등",
+        "이번 주 FOMC·빅테크 실적 앞둔 경계감도 남아"
+      ],
+      "summary": "10/26 뉴욕증시는 유가 하락과 기술주 반등에 일제히 상승 출발했어요. 이번 주 FOMC와 빅테크 실적을 앞두고 경계감도 남아 있어요.",
+      "why": "지난주 기술주 급락 뒤 반등이라 국내 반도체주 심리에도 영향을 줘요.",
+      "impact": {
+        "dir": "up",
+        "text": "기술주 반등, 유가 부담 완화"
+      },
+      "tickers": [
+        "^IXIC",
+        "^GSPC",
+        "^DJI"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "국제뉴스 (10/26)",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3733375"
+        },
+        {
+          "name": "CBC뉴스 (10/26)",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=619540"
+        },
+        {
+          "name": "Yahoo Finance (10/26)",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-26-dow-sp-500-nasdaq-101153035.html"
+        }
+      ]
+    },
+    {
+      "id": "20261027-0005-2",
+      "time": "2026-10-26T21:00:00+09:00",
+      "category": "종목",
+      "title": "앤트로픽, IPO 증권신고서 공개",
+      "lines": [
+        "앤트로픽 10/26 미 SEC에 S-1(상장 신고서) 공개 제출",
+        "나스닥 글로벌 셀렉트 상장 추진, 종목코드 'ANT'",
+        "공모 주식 수·가격 범위는 아직 미정",
+        "대형 AI 기업 상장으로 AI·반도체주 투자심리에 영향"
+      ],
+      "summary": "AI 기업 앤트로픽이 10/26 상장 신고서(S-1)를 공개하고 나스닥에 'ANT'로 상장을 추진한다고 밝혔어요. 공모 규모와 가격은 아직 정해지지 않았어요.",
+      "why": "초대형 AI 기업 상장이 AI 관련주 가치 평가의 기준이 될 수 있어요.",
+      "impact": {
+        "dir": "neutral",
+        "text": "AI주 관심 확대, 공모가 미정"
+      },
+      "tickers": [
+        "NVDA"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Anthropic 공식 발표 (10/26)",
+          "url": "https://www.anthropic.com/news/s1-sec"
+        },
+        {
+          "name": "CNBC (10/26)",
+          "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html"
+        },
+        {
+          "name": "Yahoo Finance (10/26)",
+          "url": "https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html"
+        }
+      ]
+    },
+    {
+      "id": "20261027-0005-3",
+      "time": "2026-10-26T19:00:00+09:00",
+      "category": "정책",
+      "title": "사우디 국방장관, 이란 방문 회담",
+      "lines": [
+        "사우디 국방장관 할리드 왕자, 테헤란 방문해 이란과 회담",
+        "파키스탄 군 참모총장·튀르키예 정보국장도 함께 참석",
+        "사우디 외무부 '카타르·파키스탄 중재 지원, 대화 촉진'",
+        "긴장 완화 기대에 10/26 브렌트유 하락 요인으로 거론"
+      ],
+      "summary": "사우디 국방장관이 파키스탄·튀르키예 대표와 함께 테헤란을 방문해 이란 지도부와 회담한다고 사우디가 밝혔어요. 중동 긴장 완화 기대가 유가 하락 요인으로 거론됐어요.",
+      "why": "중동 외교 진전 여부가 유가와 환율의 큰 변수예요.",
+      "impact": {
+        "dir": "down",
+        "text": "유가 하락 요인"
+      },
+      "tickers": [
+        "BZ=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Arab News Japan (10/26)",
+          "url": "https://www.arabnews.jp/saudi-arabia/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E5%9B%BD%E9%98%B2%E5%A4%A7%E8%87%A3%E3%82%A4%E3%83%A9%E3%83%B3%E3%81%A8%E3%81%AE%E4%BC%9A%E8%AD%B0%E5%87%BA%E5%B8%AD%E3%81%AE%E3%81%9F%E3%82%81%E3%83%A1%E3%83%83%E3%82%AB%E5%8D%94%E5%AE%9A%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A3%E3%82%92%E7%8E%87%E3%81%84%E3%82%8B-3001076"
+        },
+        {
+          "name": "NEWSru (10/26)",
+          "url": "https://www.newsru.co.il/mideast/26oct2026/prince_202.html"
+        },
+        {
+          "name": "CNBC (10/26)",
+          "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html"
+        }
+      ]
+    },
+    {
+      "id": "20261026-2145-1",
+      "time": "2026-10-26T20:30:00+09:00",
+      "category": "종목",
+      "title": "바클레이즈, 테슬라 '비중확대' 상향",
+      "lines": [
+        "바클레이즈가 테슬라 의견을 '비중확대'로 올렸어요",
+        "목표가 370→450달러, 금요일 종가 대비 약 21% 위",
+        "스페이스X 합병 기대·자동차 성장 복귀·에너지 수요 근거",
+        "프리마켓에서 테슬라 약 2% 올랐어요"
+      ],
+      "summary": "바클레이즈(댄 레비)가 10/26 테슬라 투자의견을 '중립(Equal Weight)'에서 '비중확대(Overweight)'로 올리고 목표가를 370달러에서 450달러로 높였다. 스페이스X와의 합병 기대를 핵심 근거로 들었다.",
+      "why": "스페이스X 합병 기대가 대형 증권사의 공식 투자 논리에 들어갔다는 점에서 의미가 있다.",
+      "impact": {
+        "dir": "up",
+        "text": "테슬라 주가에 긍정적"
+      },
+      "tickers": [
+        "TSLA",
+        "SPCX"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/26)",
+          "url": "https://www.cnbc.com/2026/10/26/tesla-spacex-merger-barclays.html"
+        },
+        {
+          "name": "Investing.com (10/26)",
+          "url": "https://www.investing.com/news/stock-market-news/barclays-upgrades-tesla-says-spacex-merger-now-a-key-part-of-bull-case-4971996"
+        }
+      ]
+    },
+    {
+      "id": "20261026-2145-2",
+      "time": "2026-10-26T20:00:00+09:00",
+      "category": "종목",
+      "title": "네비우스 CEO \"자금줄 일시 막혀\"",
+      "lines": [
+        "네비우스 CEO가 GTC 베를린에서 자금 조달난을 인정했어요",
+        "\"자산담보·부채시장 일부가 일시적으로 닫혔다\"",
+        "프리마켓 3.1%↓ 153.87달러, 코어위브 등도 3%↑ 하락",
+        "머스크의 네오클라우드 경고(10/25)에 이은 발언이에요"
+      ],
+      "summary": "네비우스 아르카디 볼로즈 CEO가 엔비디아 GTC 베를린에서 일부 자본 조달 창구가 일시적으로 닫혔다고 말했다. 다만 고객 선수금 등으로 최소 1GW 구축 자금은 마련할 수 있다고 했다.",
+      "why": "AI 데이터센터(네오클라우드) 업체의 부채 조달 여건이 나빠지고 있다는 신호다.",
+      "impact": {
+        "dir": "down",
+        "text": "네오클라우드주 부담"
+      },
+      "tickers": [
+        "NBIS",
+        "CRWV"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "Benzinga (10/26)",
+          "url": "https://www.benzinga.com/markets/equities/26/10/62582975/nbis-stock-falls-pre-market-as-nebius-ceo-echoes-elon-musks-neocloud-financing-concerns-some-of-the-capital-sources-are-temporarily-closed"
+        },
+        {
+          "name": "Stocktwits/Yahoo (10/26)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-ceo-admits-neocloud-financing-041453980.html"
+        }
+      ]
+    },
+    {
+      "id": "20261026-2145-3",
+      "time": "2026-10-26T18:00:00+09:00",
+      "category": "정책",
+      "title": "룰라 4선에 브라질 ETF 19%↓",
+      "lines": [
+        "10/25 브라질 결선에서 룰라가 51.79%로 4선에 성공",
+        "미국 야간거래에서 브라질 ETF(EWZ) 19% 가까이 급락",
+        "CME 헤알화 선물도 아시아 시간대 약 10% 급락",
+        "보우소나루 승리에 베팅한 자금이 급히 빠졌어요",
+        "브라질 국채·ETF 투자자는 손실 점검이 필요해요"
+      ],
+      "summary": "룰라 대통령이 10/25 결선투표에서 51.79%를 얻어 플라비우 보우소나루(48.21%)를 꺾었다. 시장이 보우소나루 승리를 예상했던 만큼 브라질 ETF와 헤알화 선물이 급락했다.",
+      "why": "국내 개인투자자 보유가 많은 브라질 국채·ETF 가격과 헤알화 환산 가치에 직접 영향을 준다.",
+      "impact": {
+        "dir": "down",
+        "text": "브라질 자산·헤알화 약세"
+      },
+      "tickers": [
+        "EWZ",
+        "BRL=X"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "한국경제 (10/26)",
+          "url": "https://www.hankyung.com/article/202610264502i"
+        },
+        {
+          "name": "서울경제 (10/26)",
+          "url": "https://m.sedaily.com/article/20106333"
+        },
+        {
+          "name": "뉴스핌 (10/26)",
+          "url": "https://www.newspim.com/news/view/20261026000831"
+        }
+      ]
+    },
+    {
+      "id": "20261026-1845-1",
+      "time": "2026-10-26T15:30:00+09:00",
+      "category": "환율",
+      "title": "원·달러 1,323.1원 마감, 연저점 경신",
+      "lines": [
+        "원·달러 주간 종가 1,323.1원, 전일보다 1.5원 내렸어요",
+        "장중 1,326.2원까지 올랐다가 오후 1,320.6원까지 하락",
+        "2024년 10월 2일(1,319.3원) 이후 가장 낮은 종가예요",
+        "반도체 기업 달러 매도·월말 네고가 원화 강세를 이끌었어요"
+      ],
+      "summary": "10/26 원·달러 환율이 1,323.1원에 주간 거래를 마쳐 전일(1,324.6원)보다 1.5원 내렸다. 2024년 10월 2일 이후 최저 종가다.",
+      "why": "환율 하락(원화 강세)은 수입물가 부담을 덜고 해외자산 원화 환산액을 줄인다.",
+      "impact": {
+        "dir": "down",
+        "text": "환율 하락, 원화 강세 지속"
+      },
+      "tickers": [
+        "KRW=X"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "직썰 (10/26)",
+          "url": "https://www.ziksir.com/news/articleView.html?idxno=150792"
+        },
+        {
+          "name": "베타뉴스 (10/26)",
+          "url": "https://www.betanews.net/article/view/beta202610260105"
+        }
+      ]
+    },
+    {
+      "id": "20261026-1845-2",
+      "time": "2026-10-26T17:00:00+09:00",
+      "category": "원자재",
+      "title": "브렌트 1.9%↓ 114.51달러, 하락폭 확대",
+      "lines": [
+        "아침 0.8% 하락(115.79달러)에 이어 낙폭이 커졌어요",
+        "브렌트 114.51달러(-1.89%), WTI 101달러대(약 -2.1%)",
+        "트럼프 '당장 이란 타격 없다' 발언, 고유가 수요 위축 우려",
+        "사우디 에너지시설 공격 위험은 여전해 변동성 커요"
+      ],
+      "summary": "10/26 브렌트유가 1.89% 내린 114.51달러, WTI가 약 2% 내린 101달러대에 거래됐다. 아침 아시아장(115.79달러)보다 하락폭이 커졌다.",
+      "why": "유가 하락은 물가·금리 부담을 줄이지만 중동 리스크가 남아 있어 방향이 쉽게 바뀔 수 있다.",
+      "impact": {
+        "dir": "down",
+        "text": "유가 하락, 정유·에너지주 부담"
+      },
+      "tickers": [
+        "BZ=F",
+        "CL=F"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CNBC (10/26)",
+          "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html"
+        },
+        {
+          "name": "Benzinga (10/26)",
+          "url": "https://www.benzinga.com/news/politics/26/10/62581355/trump-iran-strike-oil-prices"
+        },
+        {
+          "name": "Investing.com (10/26)",
+          "url": "https://www.investing.com/commodities/crude-oil"
+        }
+      ]
+    },
+    {
+      "id": "20261026-1845-3",
+      "time": "2026-10-26T06:53:00+09:00",
+      "category": "종목",
+      "title": "머스크 \"스페이스X, GPU용 400억달러 조달\"",
+      "lines": [
+        "머스크가 X에 스페이스X 약 400억달러 부채 조달을 밝혔어요",
+        "주로 내년 1·2분기 들어올 GPU 구매용 콜러블 부채예요",
+        "10월 초 '협상 중' 보도가 조달 완료로 이어진 셈이에요",
+        "머스크는 소형 AI 클라우드(네오클라우드) 정리를 경고했어요"
+      ],
+      "summary": "머스크가 10/25(현지) X에서 스페이스X가 약 400억달러의 GPU 구매용 부채 조달을 마쳤다고 밝혔다. 금리 조건·주관사는 보도마다 다르다.",
+      "why": "엔비디아 칩 수요와 스페이스X AI 투자 규모를 보여주고, 자금난을 겪는 네오클라우드 업체(NBIS 등)에 부담이 될 수 있다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "엔비디아 수요↑, 네오클라우드 부담"
+      },
+      "tickers": [
+        "SPCX",
+        "NVDA",
+        "NBIS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "CoinDesk (10/26)",
+          "url": "https://coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout"
+        },
+        {
+          "name": "investingLive (10/26)",
+          "url": "https://investinglive.com/stocks/musk-says-spacex-closed-40-billion-gpu-debt-deal-predicts-neocloud-shakeout/"
+        },
+        {
+          "name": "아시아경제 (10/26 06:53)",
+          "url": "https://view.asiae.co.kr/article/2026102606533314055"
+        }
+      ]
+    },
+    {
+      "id": "20261026-1545-1",
+      "time": "2026-10-26T15:31:00+09:00",
+      "category": "국내",
+      "title": "코스피 1.46%↓ 5,469 마감, 코스닥 3%↓",
+      "lines": [
+        "코스피, 80.83p 내린 5,469.47로 마감",
+        "5,499 출발 뒤 낙폭 키워 5,500선 아래서 끝나",
+        "코스닥 24.48p(3.26%) 내린 727.21, 낙폭 2배",
+        "외국인 매도·AI 수익성 우려에 실적 앞둔 경계감"
+      ],
+      "summary": "10/26 코스피가 전 거래일보다 80.83포인트(1.46%) 내린 5,469.47에 마감했다. 코스닥은 24.48포인트(3.26%) 내린 727.21로 마감했다.",
+      "why": "FOMC와 삼성전자·SK하이닉스 실적을 앞둔 슈퍼위크 첫날, 장 초반보다 낙폭이 커졌다.",
+      "impact": {
+        "dir": "down",
+        "text": "국내 증시 약세 마감"
+      },
+      "tickers": [
+        "^KS11",
+        "^KQ11"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "아시아경제 (10/26 15:34)",
+          "url": "https://view.asiae.co.kr/article/2026102615340640663"
+        },
+        {
+          "name": "아주경제 (10/26 15:31)",
+          "url": "https://www.ajunews.com/view/20261026153133445"
+        },
+        {
+          "name": "아시아경제 코스닥 (10/26 15:34)",
+          "url": "https://view.asiae.co.kr/article/2026102615341947699"
+        }
+      ]
+    },
+    {
+      "id": "20261026-1545-2",
+      "time": "2026-10-26T14:42:00+09:00",
+      "category": "종목",
+      "title": "SK하이닉스 \"16조 특별배당 미확정\"",
+      "lines": [
+        "키옥시아 지분 차익 16조 특별배당 보도에 해명공시",
+        "보도: 차익 약 20조원 중 80%(16조원) 배당 검토",
+        "회사: 주주환원 검토 중이나 구체적 확정 없음",
+        "추가 주주환원안은 28일 3분기 실적 때 발표 예정"
+      ],
+      "summary": "SK하이닉스가 키옥시아 지분 매각 차익을 재원으로 16조원 특별배당을 한다는 보도에 대해 확정된 바 없다고 공시했다. 추가 주주환원 방안은 이사회 결의를 거쳐 10/28 3분기 실적발표 때 공개한다고 밝혔다.",
+      "why": "16조원은 지난해 배당 총액(약 2.1조원)의 약 7배로, 28일 발표 내용이 주가 변수다.",
+      "impact": {
+        "dir": "neutral",
+        "text": "28일 주주환원안이 변수"
+      },
+      "tickers": [
+        "000660.KS"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "ZDNet Korea (10/26 14:42)",
+          "url": "https://zdnet.co.kr/view/?no=20261026144216"
+        },
+        {
+          "name": "데일리안 (10/26)",
+          "url": "https://www.dailian.co.kr/news/view/1706004/"
+        },
+        {
+          "name": "위키리크스한국 (10/26)",
+          "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193729"
+        }
+      ]
+    },
+    {
+      "id": "20261026-0941-1",
+      "time": "2026-10-26T09:00:00+09:00",
+      "category": "국내",
+      "title": "코스피 0.92%↓ 5,499 출발",
+      "lines": [
+        "코스피, 전 거래일 5,550.30에서 51.25p 내려 출발",
+        "시초 5,499.05로 5,500선 아래, 코스닥 1.27%↓ 742.17",
+        "美 증시 약세·유가·금리 상승에 중동 긴장 부담",
+        "개장 직후 저점 뒤 낙폭 줄이며 반등 시도"
+      ],
+      "summary": "10/26 코스피가 전 거래일보다 51.25포인트(0.92%) 내린 5,499.05로 출발했다. 코스닥은 1.27% 내린 742.17로 시작했다.",
+      "why": "슈퍼위크(FOMC·삼성전자·SK하이닉스 실적) 첫날 중동 긴장과 유가 부담이 반영됐다.",
+      "impact": {
+        "dir": "down",
+        "text": "국내 증시 약세 출발"
+      },
+      "tickers": [
+        "^KS11",
+        "^KQ11"
+      ],
+      "confidence": "확인",
+      "sources": [
+        {
+          "name": "서울파이낸스 (10/26)",
+          "url": "https://www.seoulfn.com/news/articleView.html?idxno=640936"
+        },
+        {
+          "name": "위키트리 (10/26)",
+          "url": "https://www.wikitree.co.kr/articles/1169088"
+        },
+        {
+          "name": "필드뉴스 (10/26)",
+          "url": "http://www.fieldnews.kr/news/articleView.html?idxno=32517"
+        }
+      ]
+    }
+  ]
+}

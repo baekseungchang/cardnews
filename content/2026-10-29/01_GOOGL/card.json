@@ -1,0 +1,90 @@
+{
+  "tag": "주목 종목",
+  "ticker": "GOOGL",
+  "company": "알파벳 (구글)",
+  "brand": "#4285F4",
+  "direction": "down",
+  "chartSymbol": "GOOGL",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 종가",
+  "change": "약 -10%",
+  "changeNote": "10/28 실적 발표 뒤 시간외 (정규장은 +1.34%)",
+  "headline": "알파벳 시간외 **-10%**\n현금흐름 또 적자",
+  "subhead": "클라우드는 두 배로 컸는데\nAI 투자가 현금을 먼저 썼어요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무슨 일이 있었나",
+      "body": "10/28 장 마감 뒤 3분기 실적이 나오자\n시간외에서 **약 10%** 떨어졌어요.",
+      "bullets": [
+        "매출 1,276억$ (+25%)",
+        "클라우드 307억$ (+103%)",
+        "검색 성장 12%로 둔화",
+        "정규장은 324.89$ 마감"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "5월", "text": "사상 최고, 400$ 넘어"},
+        {"date": "10/14", "text": "장중 359$, 10월 고점권"},
+        {"date": "10/26", "text": "약 317$, 고점 대비 -12%"},
+        {"date": "10/28", "text": "실적 뒤 시간외 약 290$", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "왜 떨어졌나",
+      "body": "설비투자 514억달러에 잉여현금흐름이\n**2분기 연속 적자**(-91억달러)였어요.",
+      "bullets": [
+        "시장 예상 적자 약 27억$",
+        "EPS 2.12$, 예상 약 3$",
+        "스페이스X 평가손실 87억$",
+        "손실 빼도 2.67$로 미달"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (미국 날짜)",
+      "timeline": [
+        {"date": "10/29", "text": "실적 뒤 첫 정규장"},
+        {"date": "11/3", "text": "미국 중간선거"},
+        {"date": "11/6", "text": "미국 10월 고용"},
+        {"date": "11/10", "text": "미국 10월 CPI"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "앞으로의 시나리오 (전망)",
+      "bullets": [
+        "강세: 클라우드 성장이 투자 정당화",
+        "기본: 2027 투자 공개까지 공방",
+        "약세: 현금 적자 커지면 추가 조정",
+        "확인 지표: 잉여현금흐름·검색 성장"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "10/28 시간외 (약)", "value": "-10%"},
+    {"label": "3분기 잉여현금흐름", "value": "-91억$"},
+    {"label": "클라우드 매출 증가", "value": "+103%"},
+    {"label": "5월 고점 대비 (시간외)", "value": "약 -28%"}
+  ],
+  "summary": "클라우드는 **두 배**,\n현금흐름은 적자.\n이제 시장은\n**투자 회수**를 봐요.",
+  "caption": "알파벳(구글)이 10/28 장 마감 뒤 3분기 실적을 내자 시간외에서 약 10% 떨어졌어요 📉 정규장은 324.89달러(+1.34%)로 마쳤는데, 실적 발표 뒤 290달러 안팎까지 밀렸어요.\n\n성장은 좋았어요. 매출 1,276억달러(+25%), 클라우드 매출은 307억달러로 1년 새 두 배(+103%)가 됐어요. 다만 검색 매출 성장은 12%로 느려졌어요.\n\n문제는 현금이에요. 3분기 설비투자 514억달러에 잉여현금흐름이 -91억달러로 2분기 연속 적자였어요. 시장은 -27억달러 정도를 예상했어요. 주당순이익은 2.12달러였는데, 스페이스X 지분 등 평가손실(87억달러)을 빼도 2.67달러로 예상(3.02달러)에 못 미쳤어요.\n\n회사는 올해 투자 1,950~2,050억달러를 유지했고, 2027년엔 크게 늘릴 거라고 했어요. 실적 전 애널리스트 평균 목표가는 약 425달러였어요(실적 뒤 조정은 아직 확인 전).\n\n여러분은 구글의 AI 투자, 아직 기다려 줄 만하다고 보시나요? 👇",
+  "hashtags": ["알파벳", "구글", "GOOGL", "미국주식", "빅테크실적", "구글클라우드", "AI투자", "해외주식", "주식공부", "카드뉴스"],
+  "sources": [
+    {"name": "Alphabet 3분기 실적 발표 (2026-10-28)", "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf"},
+    {"name": "CNBC (2026-10-28)", "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html"},
+    {"name": "뉴스핌 (2026-10-29)", "url": "https://www.newspim.com/news/view/20261029000036"},
+    {"name": "재경일보 (2026-10-29)", "url": "https://news.jkn.co.kr/post/1055288"},
+    {"name": "뉴스1 (2026-10-29)", "url": "https://www.news1.kr/world/international-economy/6335595"},
+    {"name": "Investing.com (2026-10-28)", "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-alphabet-q3-2026-profit-miss-sparks-10-afterhours-drop-93CH-4981037"},
+    {"name": "TradingKey (2026-10-28)", "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262248965-google-earnings-report-q3-services-cloud-search-capital-expenditures-cash-tradingkey"},
+    {"name": "Vantage Markets (2026-10-27)", "url": "https://www.vantagemarkets.com/market-analysis/why-google-stock-fell-ai-spending-doubts-goog-october-27-2026/"},
+    {"name": "stockanalysis.com 시세 기록", "url": "https://stockanalysis.com/stocks/googl/history/"},
+    {"name": "Macrotrends 주가 기록", "url": "https://www.macrotrends.net/stocks/charts/GOOGL/alphabet/stock-price-history"},
+    {"name": "MarketBeat 목표가 (실적 전)", "url": "https://www.marketbeat.com/stocks/NASDAQ/GOOGL/forecast/"}
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "tag": "급등 분석",
+  "ticker": "AMZN",
+  "company": "아마존",
+  "brand": "#FF9900",
+  "direction": "up",
+  "chartSymbol": "AMZN",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 종가",
+  "change": "+4.98%",
+  "changeNote": "10/19 종가 262.45달러",
+  "headline": "아마존 하루 **+5%**\n모건스탠리 최선호주",
+  "subhead": "목표가 350달러로 올리고 AWS 전망 상향\n실적은 10/29 장 마감 뒤예요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무슨 일이 있었나",
+      "body": "10/19 아마존이 **+4.98%**, 262.45달러에\n마감했어요. 나스닥(+1.11%)보다 크게 올랐어요.",
+      "bullets": [
+        "10/19 종가 **262.45달러**",
+        "모건스탠리 **최선호주** 지정",
+        "목표가 335→**350달러**",
+        "8월 고점보다 **-8.6%**"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "8월", "text": "장중 287.20달러 고점"},
+        {"date": "10/9", "text": "+3.29%, 262.43달러"},
+        {"date": "10/14", "text": "뜨거운 CPI에 하락"},
+        {"date": "10/16", "text": "-1.87%, **250달러**"},
+        {"date": "10/19", "text": "**+4.98%**, 262.45달러", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "왜 올랐나",
+      "body": "실적이 아니라 **증권사 보고서**가 계기였어요.\n같은 날 기술주 반등도 힘을 보탰어요.",
+      "bullets": [
+        "AWS 2027년 성장 **47%** 전망",
+        "기존 41%에서 상향",
+        "근거: 엔비디아 GPU 공급 확대",
+        "나스닥 +1.11% 기술주 반등"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (미국 날짜)",
+      "timeline": [
+        {"date": "10/27~28", "text": "**FOMC** 금리 결정"},
+        {"date": "10/28", "text": "MS·알파벳 실적"},
+        {"date": "10/29", "text": "**아마존 3분기 실적**"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "앞으로의 시나리오 (전망)",
+      "bullets": [
+        "강세: AWS 성장 **가속** 확인",
+        "기본: 가이던스 안의 실적",
+        "약세: **설비투자 부담** 부각",
+        "확인: AWS 성장률·투자 계획"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "10/19 종가", "value": "$262.45"},
+    {"label": "하루 변화", "value": "+4.98%"},
+    {"label": "8월 고점 대비", "value": "-8.6%"},
+    {"label": "모건스탠리 목표가", "value": "350달러"}
+  ],
+  "summary": "하루 **+4.98%**,\n최선호주 지정.\nAWS 전망 상향,\n**10/29 실적** 확인.",
+  "caption": "아마존(AMZN)이 10/19 하루 +4.98%, 262.45달러로 마감했어요 📈\n\n모건스탠리가 아마존을 '최선호주(Top Pick)'로 꼽고 목표가를 335달러에서 350달러로 올렸어요. AWS 매출 성장률 전망을 2027년 47%(기존 41%)로 높였고, 엔비디아의 AWS용 GPU 공급 확대를 근거로 들었어요. 모건스탠리가 제시한 시나리오는 강세 410달러, 약세 220달러예요.\n\n그래도 8월 장중 고점(287.20달러)보다는 아직 8.6% 낮아요. 회사가 밝힌 올해 설비투자는 약 2,200억 달러로, 투자 부담은 여전히 숙제예요.\n\n다음 확인 포인트는 10/29 장 마감 뒤 3분기 실적(매출 가이던스 1,970억~2,020억 달러)이에요.\n\n여러분은 실적 전에 들어가세요, 실적 보고 판단하세요? 👇",
+  "hashtags": ["아마존", "AMZN", "AWS", "모건스탠리", "미국주식", "빅테크", "클라우드", "실적시즌", "급등주", "카드뉴스"],
+  "sources": [
+    {"name": "GuruFocus (2026-10-19)", "url": "https://www.gurufocus.com/news/9129797/amazon-named-morgan-stanley-top-pick-with-350-target"},
+    {"name": "24/7 Wall St. (2026-10-19)", "url": "https://247wallst.com/investing/2026/10/19/amazon-jumps-5-as-morgan-stanley-names-it-top-pick-on-faster-aws-growth-microsoft-and-alphabet-edge-higher/"},
+    {"name": "Motley Fool (2026-10-19)", "url": "https://www.fool.com/coverage/stock-market-today/2026/10/19/stock-market-today-oct-19-amazon-surges-on-morgan-stanley-top-pick-and-usd350-price-target/"},
+    {"name": "Rolling Out (2026-10-19)", "url": "https://rollingout.com/2026/10/19/can-amazon-stock-350-5-catalyst-to-watch/"},
+    {"name": "CBC뉴스 (2026-10-20)", "url": "https://cbci.co.kr/news/articleView.html?idxno=617209"},
+    {"name": "글로벌이코노믹 (2026-10-20)", "url": "https://www.g-enews.com/article/Securities/2026/10/20261020051241591e250e8e188_1"},
+    {"name": "미디어펜 (2026-10-20)", "url": "https://www.mediapen.com/news/view/1131088"},
+    {"name": "heygotrade (2026-10-16)", "url": "https://www.heygotrade.com/en/news/amazon-amzn-stock-news-october-19-2026/"},
+    {"name": "TradingKey (2026-10-09)", "url": "https://www.tradingkey.com/news/market-movers/262209293-market-movers-amzn-20261009"},
+    {"name": "Amazon IR (2026-10-15)", "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-to-Webcast-Third-Quarter-2026-Financial-Results-Conference-Call/default.aspx"},
+    {"name": "Seeking Alpha", "url": "https://seekingalpha.com/news/4622393-amazon-outlines-q3-net-sales-of-197b-202b-while-lifting-2026-cash-capex-to-about-220b"}
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "symbol": "NBIS",
+  "query": "네비우스그룹",
+  "name": "네비우스 그룹",
+  "nameEn": "Nebius Group N.V.",
+  "market": "NASDAQ",
+  "sector": "AI 클라우드(네오클라우드)",
+  "currency": "USD",
+  "updated": "2026-10-13T08:28:00+09:00",
+  "issue": null,
+  "price": {
+    "last": 210.06,
+    "asOf": "10/12 종가",
+    "chg1m": -6.5,
+    "chg3m": -0.2,
+    "chgYtd": 151,
+    "chg1y": 55.1,
+    "high52": 299.86,
+    "low52": 73.52,
+    "sinceListing": null,
+    "listed": null,
+    "verified": true
+  },
+  "chart": [
+    135.46,
+    109,
+    125.43,
+    120.47,
+    109.95,
+    85.98,
+    91.9,
+    96.45,
+    96.41,
+    80.95,
+    90.03,
+    83.71,
+    97.3,
+    103.89,
+    94.5,
+    85.19,
+    86.1,
+    98.01,
+    100.61,
+    91.01,
+    94.94,
+    129.85,
+    114.15,
+    92.26,
+    117.4,
+    161.94,
+    156.55,
+    135.51,
+    175.92,
+    179.11,
+    197.73,
+    208.37,
+    251.68,
+    211.69,
+    280.91,
+    256.63,
+    215.62,
+    219.65,
+    177.71,
+    187.77,
+    190.41,
+    187.97,
+    277.68,
+    219.13,
+    209.18,
+    226.39,
+    212.19,
+    232.8,
+    231.88,
+    232.57,
+    210.06
+  ],
+  "assessment": {
+    "score": 61,
+    "stance": "neutral",
+    "stanceText": "중립",
+    "confidence": "낮음",
+    "thesis": "AI 클라우드 수요로 2분기 매출이 +454% 늘고 조정 EBITDA 마진 41%로 흑자를 내는 등 성장과 영업 체력은 확인됐어요. 다만 올해 설비투자 200억~250억 달러를 빚과 증자로 메우고 있고 매출의 상당 부분이 마이크로소프트·메타 두 고객에 몰려 있어, 다음 실적에서 자금 조달 부담이 줄어드는지 보기 전까지는 중립으로 봐요. 이전에 분석한 기록이 없어 이번이 첫 판단이에요."
+  },
+  "scores": [
+    {
+      "key": "growth",
+      "name": "성장성",
+      "score": 5,
+      "reason": "2분기 매출 5.82억 달러로 전년 대비 +454%, 연환산 매출(ARR) 3월 말 19억 → 6월 말 약 30억 달러",
+      "src": "Nebius 실적발표·SEC 6-K·CNBC (8/12)"
+    },
+    {
+      "key": "profit",
+      "name": "수익성",
+      "score": 3,
+      "reason": "2분기 조정 EBITDA 마진 41%(2.36억 달러)로 흑자 전환했지만, 이자비용 1.19억 달러 등으로 순손실 -1.9억 달러",
+      "src": "Nebius 실적발표·SEC 6-K (8/12)"
+    },
+    {
+      "key": "balance",
+      "name": "재무 안정성",
+      "score": 2,
+      "reason": "현금 약 80억 달러지만 올해 설비투자 200억~250억 달러 계획, 2분기만 약 57억 달러 투자. 올해 전환사채 약 93억 달러 발행",
+      "src": "Nebius 주주서한 (8/12)·Business Wire (3/18)·Nebius 보도자료 (8/19)"
+    },
+    {
+      "key": "value",
+      "name": "밸류에이션",
+      "score": 2,
+      "reason": "시가총액 약 600억 달러로 최근 4분기 매출(약 13.6억 달러)의 40~44배, 올해 매출 가이던스 중간값의 약 19배",
+      "src": "계산·TipRanks·Robinhood (10/12)"
+    },
+    {
+      "key": "momentum",
+      "name": "모멘텀",
+      "score": 3,
+      "reason": "10/9 종가 $221.07로 연초 대비 +164%지만, 6/22 고점($299.86) 대비 약 -26%, 1개월 -1.5%. 10/6~10/9 나흘간 약 -12%",
+      "src": "Investing.com·Macrotrends 시세 (10/9)"
+    },
+    {
+      "key": "risk",
+      "name": "리스크",
+      "score": 2,
+      "reason": "계약 400억 달러+ 중 마이크로소프트·메타가 약 320억 달러로 고객 집중, 대규모 차입·증자, 데이터센터 건설 소송. 고객 선수금이 설비투자 일부를 받쳐줌",
+      "src": "Motley Fool (10/5)·KSHB (10/8)·Nebius 주주서한 (8/12)"
+    }
+  ],
+  "fundamentals": [
+    {
+      "label": "매출 (2026년 2분기)",
+      "value": "$582.3M",
+      "note": "전년 대비 +454%, AI 클라우드가 약 98%",
+      "src": "Nebius 실적발표·SEC 6-K (8/12)"
+    },
+    {
+      "label": "ARR (6월 말)",
+      "value": "약 $3.0B",
+      "note": "3월 말 $1.9B. 연말 목표 $7~9B",
+      "src": "Nebius 실적발표·CNBC (8/12)"
+    },
+    {
+      "label": "조정 EBITDA (2분기)",
+      "value": "$236.2M",
+      "note": "마진 41%, 1년 전 -$21M",
+      "src": "Nebius 실적발표·SEC 6-K (8/12)"
+    },
+    {
+      "label": "순손실 (2분기, 계속사업)",
+      "value": "-$190.4M",
+      "note": "주당 -$0.68, 이자비용 $119M",
+      "src": "Nebius 실적발표·SEC 6-K (8/12)"
+    },
+    {
+      "label": "올해 가이던스",
+      "value": "매출 $3.0~3.4B",
+      "note": "설비투자 $20~25B (5월에 $16~20B에서 상향)",
+      "src": "Nebius (5/13, 8/12)"
+    },
+    {
+      "label": "현금 (6월 말)",
+      "value": "약 $8B",
+      "note": "2분기 설비투자 약 $5.7B",
+      "src": "Nebius 주주서한 (8/12)"
+    },
+    {
+      "label": "올해 전환사채 발행",
+      "value": "약 $9.3B",
+      "note": "3월 $4.34B + 8월 $5.0B(전환가 $313~325)",
+      "src": "Business Wire (3/18)·Nebius 보도자료·SEC 6-K (8/19)"
+    },
+    {
+      "label": "시가총액",
+      "value": "약 $60B",
+      "note": "10/12 기준, 주식 수 기준에 따라 차이",
+      "src": "TipRanks·Robinhood (10/12)"
+    }
+  ],
+  "past": [
+    {
+      "date": "2026-02-05",
+      "text": "52주 최저가 $73.52 (장중)",
+      "src": "Barchart·Morningstar"
+    },
+    {
+      "date": "2026-03-16",
+      "text": "메타와 5년 최대 270억 달러 AI 인프라 계약 → 약 +15% (그 전 3/11엔 엔비디아 20억 달러 투자)",
+      "src": "CNBC·Yahoo (3/11, 3/16)"
+    },
+    {
+      "date": "2026-06-22",
+      "text": "나스닥100 편입일, 52주(사상) 최고가 $299.86 (장중)",
+      "src": "Robinhood·CNBC·Morningstar"
+    },
+    {
+      "date": "2026-07-01",
+      "text": "메타가 남는 AI 연산을 파는 클라우드 사업을 계획한다는 보도에 -17% ($276.17 → $229.18)",
+      "src": "CNBC·24/7 Wall St (7/1)"
+    },
+    {
+      "date": "2026-08-12",
+      "text": "2분기 매출 +454%, 계약 전력 목표 5GW로 상향 → +34.1% ($259.20)",
+      "src": "Yahoo·Motley Fool·CNBC (8/12)"
+    },
+    {
+      "date": "2026-08-19",
+      "text": "45억 달러 전환사채 발행 계획(이후 50억 달러로 증액)에 희석 우려로 약 -10%",
+      "src": "Yahoo·Nebius 보도자료 (8/19)"
+    }
+  ],
+  "present": [
+    {
+      "text": "10/12 네덜란드 VOLT의 로테르담 600MW AI 데이터센터 첫 입주사로 의향서 체결(구속력 없음, 사용 규모 미공개)",
+      "src": "DCD·NL Times (10/12)"
+    },
+    {
+      "text": "10/1 주문형 GPU 가격 인상: H100 $3.85→$4.50(+17%), B300 +21%. 5월 이후 두 번째 인상",
+      "src": "FourWeekMBA·Spheron (10/1)"
+    },
+    {
+      "text": "10/5 COO가 사전 계획(10b5-1)에 따라 50만 주를 $231~244에 매도",
+      "src": "SEC Form 4 (10/6)·Kalkine"
+    },
+    {
+      "text": "10/7 로젠블랫이 '매수', 목표가 $304로 분석 시작. 그래도 주가는 10/7 -5.1%, 10/8 AI 인프라주 동반 약세로 -7.4%",
+      "src": "Investing.com·MarketBeat (10/7~10/8)"
+    }
+  ],
+  "future": [
+    {
+      "date": "10/22",
+      "text": "미주리주 인디펜던스 데이터센터 공사 중지 가처분 심리",
+      "src": "KSHB·The Examiner (10/8)"
+    },
+    {
+      "date": "10월 말~11월 중순",
+      "text": "3분기 실적 (10/22 또는 11/10로 사이트마다 다르고, 회사 공지 전)",
+      "src": "TipRanks·MarketBeat"
+    },
+    {
+      "date": "2026년 말",
+      "text": "회사 목표: ARR $7~9B, 계약 전력 5GW, 연결 전력 0.8~1GW",
+      "src": "Nebius 실적발표 (8/12)"
+    }
+  ],
+  "analysts": {
+    "text": "14~25명 대부분 '매수'. 최근 평균 목표가 약 $283~300, 범위 $144~$410 (제공처마다 다름)",
+    "src": "TipRanks (10/7)·ChartMill (10/11)·StockAnalysis"
+  },
+  "bull": [
+    "2분기 매출 +454%, ARR 한 분기 만에 $1.9B → $3.0B로 성장 속도가 매우 빠름",
+    "조정 EBITDA 마진 41%로 이미 영업 단계에서는 흑자, GPU 가격도 10/1에 17~21% 인상",
+    "계약 잔고 400억 달러 이상, 2분기 계약의 약 70%에 선수금이 붙어 투자비 일부를 고객이 미리 냄"
+  ],
+  "bear": [
+    "올해 설비투자 $20~25B는 매출 가이던스($3.0~3.4B)의 약 7배, 2분기 잉여현금흐름은 약 -34억 달러(계산)",
+    "올해 전환사채 약 93억 달러 + 엔비디아 20억 달러 + 주식 추가 발행으로 빚과 주식 수가 계속 늘어남",
+    "계약의 대부분이 마이크로소프트·메타 두 곳에 집중. 7/1 메타 클라우드 보도 하루에 -17%"
+  ],
+  "scenarios": [
+    {
+      "dir": "up",
+      "name": "강세",
+      "cond": "3분기 실적에서 ARR이 연말 목표($7~9B)를 향해 빠르게 늘고 선수금 비중이 커지면",
+      "result": "자금 조달 걱정이 줄며 8/12처럼 고점 쪽 재평가가 나올 수 있어요"
+    },
+    {
+      "dir": "neutral",
+      "name": "기본",
+      "cond": "성장은 이어지지만 추가 차입·증자도 계속되면",
+      "result": "AI 인프라 업종 분위기에 따라 $180~$260대 등락(최근 3개월 범위)을 이어갈 수 있어요"
+    },
+    {
+      "dir": "down",
+      "name": "약세",
+      "cond": "빅테크 고객의 계약 축소, 추가 대규모 증자, 데이터센터 공사 지연이 겹치면",
+      "result": "7/1(-17%)처럼 급락이 다시 나올 수 있어요"
+    }
+  ],
+  "watch": [
+    "3분기 ARR과 연결 전력(GW)이 연말 목표 경로 위에 있으면 긍정 쪽으로",
+    "설비투자 중 선수금·자산담보 대출 비중이 커지고 주식 발행이 줄면 긍정 쪽으로",
+    "추가 전환사채·대규모 증자가 나오거나 10/22 가처분이 받아들여지면 부정 쪽으로",
+    "마이크로소프트·메타 외 새 대형 고객 계약 여부"
+  ],
+  "evidence": [
+    {
+      "claim": "2분기 매출 $582.3M, +454%",
+      "source": "Business Wire·SEC 6-K·CNBC (8/12)",
+      "data": "-",
+      "verdict": "확인"
+    },
+    {
+      "claim": "ARR 약 $3.0B (3월 말 $1.9B)",
+      "source": "Nebius 실적발표·CNBC (8/12)",
+      "data": "-",
+      "verdict": "확인"
+    },
+    {
+      "claim": "조정 EBITDA $236.2M, 마진 41%",
+      "source": "Nebius 실적발표·SEC 6-K (8/12)",
+      "data": "-",
+      "verdict": "확인"
+    },
+    {
+      "claim": "설비투자 가이던스 $20~25B",
+      "source": "Nebius X·TIKR (5/13), 8/12 재확인",
+      "data": "-",
+      "verdict": "확인"
+    },
+    {
+      "claim": "10/9 종가 $221.07",
+      "source": "Investing.com·Macrotrends",
+      "data": "CNBC·Morningstar 전일 종가 일치",
+      "verdict": "확인"
+    },
+    {
+      "claim": "연초 대비 +164%",
+      "source": "Macrotrends·TIKR(2025년 말 $83.71)·Ortex",
+      "data": "$83.71 → $221.07 계산",
+      "verdict": "확인"
+    },
+    {
+      "claim": "1개월 -1.5%",
+      "source": "StockAnalysis·Investing.com (9/11 $224.55)",
+      "data": "계산",
+      "verdict": "확인"
+    },
+    {
+      "claim": "52주 고점 $299.86(6/22)·저점 $73.52(2/5)",
+      "source": "Robinhood·Morningstar·Barchart",
+      "data": "장중 기준",
+      "verdict": "확인"
+    },
+    {
+      "claim": "8/12 +34.1%, 7/1 -17%",
+      "source": "Yahoo·Motley Fool·CNBC",
+      "data": "종가 2곳 일치",
+      "verdict": "확인"
+    },
+    {
+      "claim": "8월 전환사채 $5.0B",
+      "source": "Nebius 보도자료·SEC 6-K·Investing.com (8/19)",
+      "data": "-",
+      "verdict": "확인"
+    },
+    {
+      "claim": "MS·메타 계약 약 $32B / 총 $40B+",
+      "source": "Motley Fool (10/5)",
+      "data": "회사 발표 '400억 달러 이상'과 일치",
+      "verdict": "약하게 표현"
+    },
+    {
+      "claim": "GPU 가격 17~21% 인상",
+      "source": "FourWeekMBA·Spheron (10/1)",
+      "data": "-",
+      "verdict": "확인"
+    },
+    {
+      "claim": "잉여현금흐름 약 -34억 달러",
+      "source": "주주서한 수치로 계산",
+      "data": "회사 발표 아님",
+      "verdict": "약하게 표현"
+    },
+    {
+      "claim": "현재가·변화율·52주 범위·차트",
+      "source": "-",
+      "data": "빌드 시점 실제 시세로 자동 보정 (2026-10-12 종가), 보고서 작성 때 값 221.07과 차이 있음",
+      "verdict": "확인 (자동)"
+    }
+  ],
+  "excluded": [
+    "3개월·1년 변화율: 7월 10일 무렵 종가를 못 찾았고, 1년 전 종가($129.58)는 출처 1곳이라 비움 (빌드가 실제 시세로 보정)",
+    "주간 종가 차트: 클라우드에서 시세 서버가 막혀 받지 못함 (빌드가 보정)",
+    "3분기 실적 날짜: 10/22와 11/10로 출처가 갈리고 회사 공지 전이라 범위로만 표기",
+    "10/12 하락 폭과 원인(오픈AI 매출 관련 보도 등): 종가·원인이 출처마다 달라 제외",
+    "주식 발행(ATM) 1,270만 주·28억 달러 사용, 공매도 비율(17.6% vs 28.8%), 마이클 버리 공매도 확대: 출처 1곳이거나 2차 출처",
+    "클릭하우스·아브라이드 지분 가치: 제3자 추정이라 제외",
+    "로테르담 '최대 200MW' 사용: 2차 출처",
+    "총 부채 잔액: 공식 장부가를 찾지 못함 (전환사채 원금 합 약 134억 달러는 계산값이라 본문에서 제외)"
+  ],
+  "sources": [
+    {
+      "name": "Business Wire 2분기 실적 (2026-08-12)",
+      "url": "https://www.businesswire.com/news/home/20260812963359/en/Nebius-reports-second-quarter-2026-financial-results"
+    },
+    {
+      "name": "SEC 6-K 2분기 실적 (2026-08-12)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001513845/000110465926094844/nbis-20260812xex99d1.htm"
+    },
+    {
+      "name": "Yahoo Finance (2026-08-12)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-shares-surge-34-strong-100411846.html"
+    },
+    {
+      "name": "CNBC 메타 클라우드 보도 (2026-07-01)",
+      "url": "https://www.cnbc.com/2026/07/01/meta-stock-cloud-ai-compute.html"
+    },
+    {
+      "name": "CNBC 메타 계약 (2026-03-16)",
+      "url": "https://www.cnbc.com/2026/03/16/meta-nebius-ai-infrastructure.html"
+    },
+    {
+      "name": "Nebius 50억 달러 전환사채 (2026-08-19)",
+      "url": "https://nebius.com/newsroom/nebius-group-announces-pricing-of-upsized-private-offering-of-5-0-billion-of-convertible-senior-notes"
+    },
+    {
+      "name": "Motley Fool 고객 집중 (2026-10-05)",
+      "url": "https://www.fool.com/investing/2026/10/05/nebius-has-usd40-billion-of-customer-commitments-most-of-it-comes-from-2-customers/"
+    },
+    {
+      "name": "SEC Form 4 COO 매도 (2026-10-06)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001513845/000151384526000126/form4.xml"
+    },
+    {
+      "name": "NL Times 로테르담 (2026-10-12)",
+      "url": "https://nltimes.nl/2026/10/12/cloud-company-nebius-signs-first-client-new-major-data-center"
+    },
+    {
+      "name": "KSHB 인디펜던스 심리 (2026-10-08)",
+      "url": "https://www.kshb.com/news/local-news/hearing-set-for-october-22-on-temporary-restraining-order-for-nebius-data-center-project"
+    },
+    {
+      "name": "TipRanks 목표가",
+      "url": "https://www.tipranks.com/stocks/nbis/forecast"
+    }
+  ]
+}

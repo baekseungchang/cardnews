@@ -1,0 +1,92 @@
+{
+  "tag": "원자재 브리핑",
+  "ticker": "GOLD",
+  "company": "국제 금값",
+  "brand": "#7A5A00",
+  "direction": "neutral",
+  "chartSymbol": "GC=F",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 금 선물 종가",
+  "change": "4,000달러선",
+  "changeNote": "10/23 붕괴 → 10/27 반등",
+  "headline": "금값 **4,000달러**\n깨졌다 다시 회복",
+  "subhead": "전쟁 중인데 금이 약한 이유,\n유가와 금리에 답이 있어요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무슨 일이 있었나",
+      "body": "10/23 금값이 **7월 이후 처음** 4,000달러 아래로.\n10/27엔 유가가 내리자 4,050달러 안팎으로 반등했어요.",
+      "bullets": [
+        "10/23 주간 약 -4%",
+        "6월 이후 가장 나쁜 한 주",
+        "1월 고점보다 25% 넘게 낮아요",
+        "FOMC 결과 하루 전"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "1월", "text": "사상 최고, 5,400달러 넘어"},
+        {"date": "10월 초중순", "text": "4,100달러 안팎"},
+        {"date": "10/23", "text": "4,000달러 붕괴, 3개월 최저"},
+        {"date": "10/27", "text": "4,050달러 안팎 반등", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "왜 금이 약했나",
+      "body": "유가가 오르면 물가가 걱정되고,\n그러면 **금리 인상** 전망이 커져요.",
+      "bullets": [
+        "중동 공격에 유가 급등",
+        "미 10년물 다시 5% 위",
+        "이자 없는 금엔 불리",
+        "10/27 유가↓에 금 반등"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (한국 시간)",
+      "timeline": [
+        {"date": "10/29 03시", "text": "**FOMC** 금리 결정"},
+        {"date": "10/29 21:30", "text": "미 3분기 GDP·9월 PCE"},
+        {"date": "10/30", "text": "일본은행 금리 결정"},
+        {"date": "11/25", "text": "미 10월 PCE 물가"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "앞으로의 시나리오 (전망)",
+      "bullets": [
+        "강세: 중동 협상·유가↓ 땐 회복",
+        "기본: 4,000달러 공방",
+        "약세: 매파 신호·물가↑ 땐 재하락",
+        "확인 지표: 유가·미 10년물"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "10/27 금 현물 (장중)", "value": "약 4,050$"},
+    {"label": "10/23 주간 변화", "value": "약 -4%"},
+    {"label": "1월 고점 대비", "value": "-25%↓"},
+    {"label": "브렌트유 10/27 종가", "value": "113.88$"}
+  ],
+  "summary": "금 약세의 열쇠는\n**유가→금리**예요.\nFOMC·PCE 결과가\n**4,000달러** 방향타.",
+  "caption": "국제 금값이 10/23 온스당 4,000달러 아래로 내려갔어요. 7월 이후 처음이고, 그 주에만 약 4% 빠져 6월 이후 가장 나쁜 한 주였어요 🪙\n\n전쟁 뉴스가 많은데 왜 금이 약할까요? 중동 공격으로 유가가 뛰자 물가 걱정이 커졌고, 미국이 금리를 더 올릴 수 있다는 전망이 힘을 얻었어요. 미 10년물 금리도 다시 5% 위로 올라왔어요. 이자가 없는 금에는 불리한 환경이에요. 기술주 급락에 현금을 마련하려 금을 판 매물도 있었다는 분석도 있어요.\n\n10/27엔 사우디·이란 대화 소식에 브렌트유가 113.88달러(-1.67%)로 내리자 금이 4,050달러 안팎으로 반등했어요. 그래도 1월 고점보다는 25% 넘게 낮아요.\n\n이제 10/29 새벽 3시 FOMC, 같은 날 밤 9시 30분 미국 3분기 GDP·9월 PCE가 차례로 나와요. 여러분은 금 4,000달러, 지켜질까요? 👇",
+  "hashtags": ["금값", "국제금값", "금시세", "금투자", "FOMC", "유가", "미국금리", "원자재", "원자재브리핑", "카드뉴스"],
+  "sources": [
+    {"name": "investingLive (2026-10-23)", "url": "https://investinglive.com/commodities/gold-drops-below-4-000-for-first-time-since-july-as-yields-and-dollar-weigh/"},
+    {"name": "24/7 Wall St. (2026-10-24)", "url": "https://247wallst.com/investing/2026/10/24/gold-just-fell-below-4000-after-its-worst-week-in-five-months/"},
+    {"name": "Korea JoongAng Daily (2026-10)", "url": "https://www.koreajoongangdaily.com/multimedia-news/not-going-up-up-up/12939316"},
+    {"name": "Seeking Alpha (2026-10)", "url": "https://seekingalpha.com/news/4656608-gold-falls-to-a-3-month-low-and-dips-below-4k"},
+    {"name": "블루밍비트 (2026-10-27)", "url": "https://bloomingbit.io/feed/news/123047"},
+    {"name": "Invezz (2026-10-27)", "url": "https://invezz.com/news/2026/10/27/evening-digest-nvidia-amd-invest-in-meta-gold-prices-rebound/"},
+    {"name": "Rallies.ai (2026-10-27)", "url": "https://rallies.ai/news/gold-gains-on-softer-oil-prices-ahead-of-fed-meeting-adcca0005b6bfb4e"},
+    {"name": "이투데이 · 국제유가 (2026-10-28)", "url": "https://www.etoday.co.kr/news/view/2640822"},
+    {"name": "아이뉴스24 · 국제유가 (2026-10-28)", "url": "https://m.inews24.com/v/2019658"},
+    {"name": "Trading Economics · 금", "url": "https://tradingeconomics.com/commodity/gold"},
+    {"name": "Fortune · 금 시세 (2026-10-12)", "url": "https://fortune.com/article/current-price-of-gold-10-12-2026/"},
+    {"name": "FinanceCalendar · 미 3분기 GDP 일정", "url": "https://www.financecalendar.com/event/us-gross-domestic-product-october-2026/"},
+    {"name": "FinanceCalendar · 9월 PCE 일정", "url": "https://www.financecalendar.com/event/us-personal-income-and-outlays-pce-september-2026/"}
+  ]
+}

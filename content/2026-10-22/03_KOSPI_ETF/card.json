@@ -1,0 +1,94 @@
+{
+  "tag": "ETF 비교",
+  "ticker": "200·EWY",
+  "company": "한국 대표지수 ETF",
+  "brand": "#003876",
+  "direction": "neutral",
+  "chartSymbol": "^KS11",
+  "chartRange": "3mo",
+  "chartCaption": "코스피 최근 3개월",
+  "change": "한 달 -16.1%",
+  "changeNote": "코스피 9/30 → 10/21 종가",
+  "headline": "코스피 한 달 -16%\n담는 그릇 **비교**",
+  "subhead": "KODEX 200·TIGER 200·EWY\n보수·세금·계좌가 달라요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "한국 지수 ETF 3종",
+      "table": {
+        "head": ["항목", "KODEX 200", "TIGER 200", "EWY"],
+        "rows": [
+          ["상장", "국내", "국내", "미국"],
+          ["총보수", "0.15%", "0.05%", "0.59%"],
+          ["매매차익 세금", "비과세", "비과세", "22%"],
+          ["추종 지수", "코스피200", "코스피200", "MSCI 코리아"]
+        ]
+      }
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "코스피 한 달 동안",
+      "timeline": [
+        {"date": "9/30", "text": "6,838.04로 9월 마감"},
+        {"date": "10/13", "text": "외국인 매도에 **-5.46%**"},
+        {"date": "10/20", "text": "-3.73%, 5,552.74"},
+        {"date": "10/21", "text": "**+3.29%** 반등 5,735.66", "now": true}
+      ]
+    },
+    {
+      "phase": "현재",
+      "title": "반도체 두 종목 쏠림",
+      "body": "어느 그릇이든 **삼성전자·SK하이닉스**\n움직임이 수익률을 크게 좌우해요.",
+      "bullets": [
+        "코스피 시총의 약 **절반**",
+        "EWY 삼성 22%·하이닉스 21%",
+        "EWY는 달러로 미국장 거래",
+        "EWY 차익 250만원 공제 뒤 과세"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날",
+      "timeline": [
+        {"date": "10/22", "text": "한국은행 **금통위**"},
+        {"date": "10/28", "text": "**SK하이닉스** 3분기 실적"},
+        {"date": "10/29", "text": "**FOMC** 결과 (한국 새벽)"}
+      ]
+    },
+    {
+      "phase": "어떤 사람에게",
+      "title": "어떤 사람에게 맞나",
+      "bullets": [
+        "보수 아끼기: **TIGER 200**",
+        "거래량·순자산: KODEX 200",
+        "연금·ISA: 국내 상장 ETF",
+        "달러로 굴리기: EWY"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "코스피 한 달", "value": "-16.1%"},
+    {"label": "KODEX 200 총보수", "value": "0.15%"},
+    {"label": "TIGER 200 총보수", "value": "0.05%"},
+    {"label": "EWY 총보수", "value": "0.59%"}
+  ],
+  "summary": "코스피 한 달 **-16%**,\n같은 한국 지수도\n보수·세금이 달라요.\n**계좌**부터 확인.",
+  "caption": "코스피가 9월 말 6,838에서 10/21 5,735로 한 달 새 16% 넘게 내려왔어요 📉 10/13엔 외국인 매도에 하루 -5.46%, 10/20엔 -3.73%였고 10/21엔 +3.29% 반등했어요.\n\n한국 시장을 통째로 담는 ETF도 그릇마다 달라요. 국내 상장 KODEX 200은 총보수 0.15%, TIGER 200은 0.05%이고 둘 다 매매차익이 비과세예요. 미국 상장 EWY는 보수 0.59%에 매매차익은 250만원 공제 뒤 22% 양도세가 붙어요.\n\n어느 쪽이든 삼성전자·SK하이닉스 비중이 커서 10/28 하이닉스 실적이 중요해요. 여러분은 어떤 계좌로 한국 지수를 담고 계세요? 👇",
+  "hashtags": ["코스피", "코스피200", "ETF", "KODEX200", "TIGER200", "EWY", "ETF비교", "삼성전자", "SK하이닉스", "카드뉴스"],
+  "sources": [
+    {"name": "머니투데이 코스피 마감 (2026-10-21)", "url": "https://www.mt.co.kr/stock/2026/10/21/2026102115325717167"},
+    {"name": "아시아경제 (2026-10-21)", "url": "https://view.asiae.co.kr/article/2026102115334127007"},
+    {"name": "아시아경제 (2026-10-20)", "url": "https://view.asiae.co.kr/article/2026102015380933517"},
+    {"name": "서울경제 (2026-10-20)", "url": "https://m.sedaily.com/article/20103833"},
+    {"name": "위키트리 (2026-10-13)", "url": "https://www.wikitree.co.kr/articles/1165907"},
+    {"name": "Investing.com 코스피 과거 데이터", "url": "https://kr.investing.com/indices/kospi-historical-data"},
+    {"name": "뉴데일리 (2026-10-13)", "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/13/2026101300065.html"},
+    {"name": "머니투데이 (2026-10-16)", "url": "https://www.mt.co.kr/stock/2026/10/16/2026101520000316491"},
+    {"name": "매일신문 (2026-02-12)", "url": "https://www.imaeil.com/page/view/2026021209381716592"},
+    {"name": "iShares EWY", "url": "https://www.blackrock.com/us/individual/products/239681/ishares-msci-south-korea-capped-etf"},
+    {"name": "Morningstar EWY (2026-10-16)", "url": "https://www.morningstar.com/etfs/arcx/ewy/quote"},
+    {"name": "StockAnalysis EWY 구성 (2026-10-19)", "url": "https://stockanalysis.com/etf/ewy/holdings/"},
+    {"name": "KB증권 ETF 세금", "url": "https://kbthink.com/etf/etf-tax.html"},
+    {"name": "스톡플러스 (2026-10)", "url": "https://newsroom.stockplus.com/breaking-news/39522"}
+  ]
+}

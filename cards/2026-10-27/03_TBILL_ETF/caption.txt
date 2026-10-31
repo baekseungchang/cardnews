@@ -1,0 +1,23 @@
+FOMC를 앞두고 잠깐 돈을 넣어 둘 '파킹형 ETF' 비교예요 🅿️ 미국 기준금리가 3.75~4.00%라 미국 초단기 국채 ETF 수익률은 연 3%대 후반이에요. SGOV의 30일 SEC 수익률은 10월 중순 약 3.7%였어요.
+
+✔️ SGOV: 만기 0~3개월 미 국채, 총보수 0.09%, 매월 분배
+✔️ BIL: 만기 1~3개월 미 국채, 0.1356%, 매월 분배
+✔️ USFR: 미 변동금리 국채(이자 매주 재설정), 0.15%
+✔️ KODEX CD금리액티브(합성): CD 91일 금리, 0.02%, 원화
+
+숨은 변수는 환율이에요. 원·달러는 6/30 1,549.4원에서 10/26 1,323.1원으로 14.6% 내렸어요. 원화로 다시 바꿀 돈이라면 달러 이자보다 환율 영향이 더 컸던 거예요. 반대로 달러로 쓸 돈이라면 환율 걱정이 덜해요.
+
+10/29 새벽 FOMC 결과, 12월 인상 여부에 따라 수익률도 달라질 수 있어요. 여러분은 파킹 자금, 달러와 원화 중 어디에 두세요? 👇
+
+#SGOV #BIL #USFR #파킹형ETF #CD금리ETF #미국채 #단기채 #환율 #ETF비교 #카드뉴스
+
+※ 투자 권유 아님. 투자 판단의 책임은 본인에게 있습니다.
+
+[출처]
+- Motley Fool SGOV (2026-10-16 기준) https://www.fool.com/investing/how-to-invest/etfs/how-to-invest-in-sgov-etf/
+- yieldfinder SGOV (2026-10-14 기준) https://yieldfinder.app/funds/sgov/
+- securewealthblog SGOV vs BIL (2026-10) https://www.securewealthblog.com/sgov-vs-bil/
+- Cbonds BIL https://cbonds.com/etf/2181/
+- DividendVision USFR vs BIL (2026-10) https://www.dividendvision.com/compare/bil-vs-usfr
+- FunETF KODEX CD금리액티브 (2026-10-22 기준) https://www.funetf.co.kr/product/etf/view/KR7459580007
+- StockAnalysis SGOV (2026-10-26 조회) https://stockanalysis.com/etf/sgov/

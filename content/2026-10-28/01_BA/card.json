@@ -1,0 +1,93 @@
+{
+  "tag": "급락 분석",
+  "ticker": "BA",
+  "company": "보잉",
+  "brand": "#0033A0",
+  "direction": "down",
+  "chartSymbol": "BA",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 종가",
+  "change": "auto",
+  "changeNote": "3분기 실적 발표 날 (10/27)",
+  "headline": "보잉 **-10.7%**\n737 증산 또 미뤄",
+  "subhead": "실적보다 '늦어진 목표'가 문제였어요\n2020년 이후 가장 큰 하루 낙폭이에요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무슨 일이 있었나",
+      "body": "10/27 3분기 실적 날 **-10.69%**.\n168.18달러로 마감했어요.",
+      "bullets": [
+        "조정 주당손실 0.34달러",
+        "시장 예상은 약 -0.21달러",
+        "매출 241.9억달러",
+        "수주잔고 7,450억달러 최대"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9/25", "text": "198.07달러"},
+        {"date": "9/28", "text": "MAX 소프트웨어 이슈 -6%대"},
+        {"date": "10월 중순", "text": "RBC·모건스탠리 목표가↓"},
+        {"date": "10/20", "text": "737 MAX 10 FAA 인증"},
+        {"date": "10/27", "text": "168.18달러(월 -15.1%)", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "왜 이렇게 빠졌나",
+      "body": "생산·현금 목표가 **1년쯤 밀렸어요**.\n손실보다 이 부분이 더 실망을 샀어요.",
+      "bullets": [
+        "737 월 47대: 2027년 초로",
+        "올해 737 인도 목표 미달",
+        "2027 현금흐름 약 30억달러",
+        "시장 예상은 약 55억달러"
+      ]
+    },
+    {
+      "phase": "미래 · 회사가 제시한 일정",
+      "title": "앞으로 확인할 것",
+      "timeline": [
+        {"date": "매달", "text": "월간 인도 대수 발표"},
+        {"date": "2027 초", "text": "737 월 47대 목표"},
+        {"date": "2027", "text": "MAX 10 인도 시작 예정"},
+        {"date": "2027 하반기", "text": "737 월 52대 목표"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "앞으로의 시나리오 (전망)",
+      "bullets": [
+        "강세: 월 인도·현금흐름 개선 땐",
+        "기본: 증산 확인 전 횡보",
+        "약세: 날개 병목 더 길어지면",
+        "확인 지표: 월간 737 인도 대수"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "10/27 하루 변화", "value": "-10.69%"},
+    {"label": "한 달 변화 (9/25 대비)", "value": "-15.1%"},
+    {"label": "1월 고점 대비", "value": "-33.9%"},
+    {"label": "수주잔고 (사상 최대)", "value": "7,450억$"}
+  ],
+  "summary": "손실보다 큰 건\n**737 증산 지연**.\n현금흐름 목표도\n1년 늦어졌어요.",
+  "caption": "보잉이 10/27 3분기 실적 날 -10.69% 떨어져 168.18달러로 마감했어요 ✈️ 2020년 이후 하루 기준 가장 큰 하락이라는 보도예요.\n\n실적만 보면 나쁘지 않았어요. 매출 241.9억달러, 수주잔고는 사상 최대 7,450억달러예요. 다만 조정 주당손실 0.34달러로 예상(약 -0.21달러)보다 컸어요.\n\n주가를 끌어내린 건 '늦어진 목표'예요. 737 월 47대 생산은 2027년 초로 밀렸고(5월엔 올여름이라고 했어요), 2027년 잉여현금흐름 전망은 약 30억달러로 시장 예상 약 55억달러에 못 미쳤어요. 올해 737 인도 500대 목표도 못 채울 전망이에요.\n\n9/25 198.07달러에서 한 달 새 -15.1%, 1월 고점(254.35달러)보다는 -33.9%예요. 앞으로는 매달 나오는 737 인도 대수가 회복 속도를 알려줄 지표예요.\n\n여러분은 보잉의 '1년 지연', 일시적이라고 보시나요? 👇",
+  "hashtags": ["보잉", "BA", "미국주식", "737MAX", "항공주", "급락분석", "실적발표", "해외주식", "주식공부", "카드뉴스"],
+  "sources": [
+    {"name": "Yahoo Finance(블룸버그) (2026-10-27)", "url": "https://finance.yahoo.com/markets/article/boeing-stock-heads-for-its-worst-day-since-april-2025-as-the-737-ramp-slips-into-2027-191207233.html"},
+    {"name": "Seeking Alpha (2026-10-27)", "url": "https://seekingalpha.com/news/4658363-boeing-slumps-11-on-revenue-and-earnings-miss"},
+    {"name": "GuruFocus (2026-10-27)", "url": "https://www.gurufocus.com/news/9145657/boeing-co-ba-stock-down-107-now-undervalued-gf-score-69100"},
+    {"name": "재경일보 (2026-10-28)", "url": "https://news.jkn.co.kr/post/1053152"},
+    {"name": "뉴스1 (2026-10-28)", "url": "https://www.news1.kr/world/international-economy/6334055"},
+    {"name": "뉴스핌 (2026-10-28)", "url": "https://www.newspim.com/news/view/20261028000017"},
+    {"name": "Spokesman-Review(로이터) (2026-10-27)", "url": "https://www.spokesman.com/stories/2026/oct/27/boeing-shares-plunge-on-slower-than-expected-737-p/"},
+    {"name": "BusinessDay (2026-10-27)", "url": "https://www.businessday.co.za/world/international-companies/2026-10-27-boeing-misses-737-targets-as-production-obstacles-persist/"},
+    {"name": "보잉 IR · MAX 10 인증 (2026-10-20)", "url": "https://investors.boeing.com/investors/news/press-release-details/2026/U-S--FAA-certifies-Boeing-737-10-largest-member-of-737-MAX-family/default.aspx"},
+    {"name": "Leeham News (2026-10-20)", "url": "https://leehamnews.com/2026/10/20/boeing-737-max-10-clears-certification-with-faa/"},
+    {"name": "MarketBeat (2026-09-28)", "url": "https://www.marketbeat.com/instant-alerts/price-boeing-nyse-ba-stock-price-down-68-time-to-sell-2026-09-28/"},
+    {"name": "stockanalysis.com 시세 기록", "url": "https://stockanalysis.com/stocks/ba/history/"},
+    {"name": "GuruFocus · 모건스탠리 목표가 (2026-10)", "url": "https://www.gurufocus.com/news/9130036/ba-maintained-by-morgan-stanley-price-target-lowered-to-225"}
+  ]
+}

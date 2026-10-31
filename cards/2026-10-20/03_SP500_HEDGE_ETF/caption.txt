@@ -1,0 +1,23 @@
+같은 S&P500 ETF인데 이름 끝에 (H)가 붙느냐에 따라 수익률이 크게 갈렸어요 💱
+
+(H)는 환헤지형으로, 환율 변동을 막아 둔 상품이에요. 7/1부터 10/7까지 원·달러가 13.79% 내리는 동안 KODEX 미국S&P500은 -9.61%, KODEX 미국S&P500(H)는 +4.59%로 격차가 14.2%p였어요(글로벌이코노믹, 10/15).
+
+다만 헤지에는 한·미 금리차만큼 비용이 들고, 이 비용은 총보수표가 아니라 순자산가치에 반영돼요. 추정치는 연 0.5~2.5%로 엇갈려요. 원화가 다시 약해지면 (H)가 오히려 불리해요.
+
+10/19 원·달러는 1,330.3원으로 2년 만의 최저예요. 10/22 금통위, 10/27~28 FOMC가 다음 확인 포인트예요.
+
+여러분은 (H)와 환노출, 어느 쪽에 담고 있나요? 👇
+
+#ETF #환헤지 #환노출 #S&P500 #KODEX #TIGER #PLUS #원화강세 #미국ETF #카드뉴스
+
+※ 투자 권유 아님. 투자 판단의 책임은 본인에게 있습니다.
+
+[출처]
+- 글로벌이코노믹 (2026-10-15) https://www.g-enews.com/article/Securities/2026/10/202610151617262607153ddfb15a_1
+- 매일신문 (2026-10-16) https://www.imaeil.com/page/view/2026101606552996553
+- 대한금융신문 https://www.kbanker.co.kr/news/articleView.html?idxno=225163
+- 아시아경제 (2026-08-28) https://core.asiae.co.kr/article/2026082808481923006
+- KB 씽크 (2026-08-28) https://kbthink.com/news-list/view.html?newsId=20260828090047332
+- 헤럴드경제 https://biz.heraldcorp.com/article/10859864
+- FunETF https://www.funetf.co.kr/product/etf/view/KR7379800006
+- 뉴시스 (2026-10-19) https://www.newsis.com/view/NISI20261019_0021495608
