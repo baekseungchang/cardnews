@@ -1,0 +1,89 @@
+{
+  "tag": "급락 분석",
+  "ticker": "CRWV",
+  "company": "코어위브",
+  "brand": "#1F2A44",
+  "direction": "down",
+  "chartSymbol": "CRWV",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 종가",
+  "change": "-11.91%",
+  "changeNote": "10/16 종가 61.39달러",
+  "headline": "코어위브 한 주 **-25%**\n주가보다 채권이 먼저",
+  "subhead": "회사채 수익률 15%대, 빚 걱정이 번졌어요\nAI 클라우드주가 함께 밀렸어요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무슨 일이 있었나",
+      "body": "10/16 코어위브가 **-11.91%**, 61.39달러에\n마감했어요. 10/9보다 약 25% 낮아요.",
+      "bullets": [
+        "10/16 종가 **61.39달러**",
+        "1주 변화 **-25.2%**",
+        "네비우스도 **-12%** 동반",
+        "나스닥 -2.15% 같은 날"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9/24", "text": "JP모건 상향, 목표 125달러"},
+        {"date": "10/8", "text": "오픈AI 매출 보도에 -7.8%"},
+        {"date": "10/14", "text": "CPI·채권 급락에 **-15.5%**"},
+        {"date": "10/15", "text": "+5.9% 하루 반등"},
+        {"date": "10/16", "text": "**-11.9%**, 61.39달러", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "왜 이렇게 빠졌나",
+      "body": "실적이 아니라 **빚(부채)**이 문제였어요.\n채권값이 먼저 무너지고 주가가 따라갔어요.",
+      "bullets": [
+        "빚 **500억 달러** 넘어",
+        "회사채 수익률 **15%대**",
+        "부도 보험료(CDS) 사상 최고",
+        "반도체·AI주 동반 매도"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (미국 날짜)",
+      "timeline": [
+        {"date": "10/27~28", "text": "**FOMC** 금리 결정"},
+        {"date": "10/28", "text": "MS·알파벳 실적"},
+        {"date": "10/29", "text": "아마존 실적"},
+        {"date": "11월 중순", "text": "코어위브 3분기 실적(예상)"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "앞으로의 시나리오 (전망)",
+      "bullets": [
+        "강세: 채권 수익률 **진정**",
+        "기본: 빅테크 투자계획 확인",
+        "약세: 자금조달 비용 **더 상승**",
+        "확인: 회사채·CDS 흐름"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "10/16 종가", "value": "61.39달러"},
+    {"label": "하루 변화", "value": "-11.91%"},
+    {"label": "1주 변화", "value": "-25.2%"},
+    {"label": "JP모건 목표가", "value": "125달러"}
+  ],
+  "summary": "한 주 만에 **-25%**.\n실적보다 빚이 문제,\n채권 수익률 15%대.\n**회사채 흐름** 확인.",
+  "caption": "코어위브(CRWV)가 10/16 하루 -11.91%, 61.39달러로 마감했어요 📉 한 주 동안 약 25% 빠졌어요.\n\n이번 하락은 실적이 아니라 빚 때문이었어요. 500억 달러가 넘는 부채, 15%대까지 오른 회사채 수익률, 사상 최고로 오른 부도 보험료(CDS)가 겹쳤어요. 네비우스도 같은 날 12% 넘게 빠졌어요.\n\nJP모건은 '매도가 과도하다'며 목표가 125달러를 유지했지만, 젠슨 황의 응원에도 주가는 버티지 못했어요.\n\n10/27~28 FOMC, 10/28 MS·알파벳 실적에서 AI 투자 계획이 어떻게 나오는지가 다음 확인 포인트예요.\n\n여러분은 AI 인프라주, 빚이 많은 회사도 괜찮다고 보세요? 👇",
+  "hashtags": ["코어위브", "CRWV", "AI주", "네오클라우드", "미국주식", "회사채", "나스닥", "FOMC", "급락주", "카드뉴스"],
+  "sources": [
+    {"name": "TokenPost (2026-10-16)", "url": "https://www.tokenpost.com/news/investing/33681"},
+    {"name": "CNBC (2026-10-16)", "url": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html"},
+    {"name": "Reuters via U.S. News (2026-10-16)", "url": "https://money.usnews.com/investing/news/articles/2026-10-16/coreweave-shares-bonds-headed-for-steep-weekly-losses-as-ai-borrowing-concerns-mount"},
+    {"name": "CNBC (2026-10-14)", "url": "https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html"},
+    {"name": "CNBC (2026-10-08)", "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"},
+    {"name": "MarketBeat (2026-10-16)", "url": "https://www.marketbeat.com/instant-alerts/price-coreweave-nasdaq-crwv-stock-price-down-119-heres-what-happened-2026-10-16/"},
+    {"name": "Forbes (2026-10-16)", "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/10/16/coreweave-shares-slide-after-jensen-huang-says-he-is-optimistic-about-ai-firm/"},
+    {"name": "Stocktwits/TradingView (2026-10-16)", "url": "https://www.tradingview.com/news/stocktwits:ddb93b599094b:0-crwv-stock-s-weekly-sell-off-overdone-jpmorgan-says-sees-robust-ai-demand-healthy-returns/"},
+    {"name": "CNBC (2026-09-24)", "url": "https://www.cnbc.com/2026/09/24/buy-coreweave-as-it-leans-into-short-term-contracts-jpmorgan-says-.html"}
+  ]
+}

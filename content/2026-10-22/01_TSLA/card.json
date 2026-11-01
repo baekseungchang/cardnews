@@ -1,0 +1,90 @@
+{
+  "tag": "주목 종목",
+  "ticker": "TSLA",
+  "company": "테슬라 3분기 실적",
+  "brand": "#E31937",
+  "direction": "neutral",
+  "chartSymbol": "TSLA",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 종가",
+  "change": "+3.41%",
+  "changeNote": "10/21 정규장 종가 (실적 발표 전)",
+  "headline": "실적은 **예상 상회**\n시간외는 흔들",
+  "subhead": "영업이익 -56%, 올해 투자 약 200억달러로\n실적 콜 뒤 시간외 -2%대",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "실적에서 나온 숫자",
+      "body": "10/21 장 마감 뒤 3분기 실적이 나왔어요.\n조정 EPS는 **예상을 넘었어요**.",
+      "bullets": [
+        "조정 EPS **0.48$**, 예상 상회",
+        "매출 280.5억$, 작년과 비슷",
+        "영업이익 7.18억$(**-56%**)",
+        "잉여현금흐름 15.3억$"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9/23", "text": "380.12달러"},
+        {"date": "10/1", "text": "354.11달러, 한 달 저점"},
+        {"date": "10/2", "text": "인도량 예상 상회 **+4.65%**"},
+        {"date": "10/16", "text": "354.72달러, 다시 저점권"},
+        {"date": "10/21", "text": "실적 전 **+3.41%**", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "시간외에서 흔들린 이유",
+      "body": "EPS는 넘었지만 **이익 감소**와\n투자 계획 축소에 반응이 엇갈렸어요.",
+      "bullets": [
+        "AI·로봇 투자에 영업익 -56%",
+        "자동차 매출 -3%, 에너지 -16%",
+        "서비스·기타 매출 **+33%**",
+        "올해 투자 250억$↑→약 200억$"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날",
+      "timeline": [
+        {"date": "10/22", "text": "실적 뒤 첫 정규장 (미국)"},
+        {"date": "10/29", "text": "**FOMC** 결과 (한국 새벽)"},
+        {"date": "11/3", "text": "미국 **중간선거**"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "앞으로의 시나리오 (전망)",
+      "bullets": [
+        "강세: EPS 상회·현금흐름 부각",
+        "기본: 합병 검토 소식 관망",
+        "약세: 이익 감소·투자 우려",
+        "확인: 10/22 종가·**합병 논의**"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "조정 EPS", "value": "0.48달러"},
+    {"label": "영업이익 증감", "value": "-56%"},
+    {"label": "올해 설비투자 계획", "value": "약 200억$"},
+    {"label": "1주 주가 변화", "value": "+5.3%"}
+  ],
+  "summary": "EPS는 **예상 상회**,\n영업이익은 -56%.\n시간외는 -2%대,\n**10/22 정규장** 주목.",
+  "caption": "테슬라가 10/21 장 마감 뒤 3분기 실적을 냈어요 🚗\n\n조정 EPS 0.48달러로 시장 예상(0.43~0.45달러)을 넘었고, 잉여현금흐름도 15.3억달러 흑자였어요. 매출은 280.5억달러로 작년과 비슷했어요.\n\n다만 AI·로봇 투자가 늘면서 영업이익은 7.18억달러로 56% 줄었어요. 실적 콜에서 올해 설비투자 계획을 250억달러 이상에서 약 200억달러로 낮췄고, 시간외 주가는 -2%대로 밀렸다는 보도가 나왔어요.\n\n정규장에선 실적 전 +3.41%(386.47달러)로 마감했어요. 전날 머스크가 스페이스X와의 합병 검토 특별위원회를 밝힌 것도 기대를 키웠다는 분석이 있어요. 여러분은 이익 감소와 투자 축소, 어느 쪽이 더 크게 보이세요? 👇",
+  "hashtags": ["테슬라", "TSLA", "미국주식", "실적발표", "머스크", "전기차", "로보택시", "스페이스X", "해외주식", "카드뉴스"],
+  "sources": [
+    {"name": "Tesla 8-K 실적 자료 (2026-10-21)", "url": "https://www.sec.gov/Archives/edgar/data/0001318605/000162828026066738/exhibit9914.htm"},
+    {"name": "Electrek (2026-10-21)", "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/"},
+    {"name": "Investing.com 실적 콜 (2026-10-21)", "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tesla-beats-q3-2026-estimates-as-stock-slips-after-hours-93CH-4964365"},
+    {"name": "Yahoo Finance (2026-10-21)", "url": "https://finance.yahoo.com/markets/stocks/article/tesla-reports-q3-earnings-beat-positive-free-cash-flow-and-better-than-expected-capex-202153389.html"},
+    {"name": "Bloomberg 라이브 (2026-10-21)", "url": "https://www.bloomberg.com/news/live-blog/2026-10-21/tesla-third-quarter-earnings-live-updates"},
+    {"name": "머니투데이 (2026-10-22)", "url": "https://www.mt.co.kr/world/2026/10/22/2026102205133921640"},
+    {"name": "아주경제 (2026-10-22)", "url": "https://www.ajunews.com/view/20261022063153682"},
+    {"name": "이데일리 (2026-10-22)", "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01869606645615544"},
+    {"name": "FX Leaders (2026-10-21)", "url": "https://www.fxleaders.com/news/2026/10/21/tsla-stock-q3-earnings-spacex-merger-talk/"},
+    {"name": "Investing.com 시세 기록", "url": "https://www.investing.com/equities/tesla-motors-historical-data"},
+    {"name": "Not a Tesla App 인도량 (2026-10-02)", "url": "https://www.notateslaapp.com/news/4759/tesla-announces-q3-2026-vehicle-deliveries-beating-analyst-estimates"}
+  ]
+}

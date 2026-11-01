@@ -1,0 +1,399 @@
+{
+  "symbol": "TSLA",
+  "query": "테슬라",
+  "name": "테슬라",
+  "nameEn": "Tesla, Inc.",
+  "market": "NASDAQ",
+  "sector": "전기차·AI·에너지",
+  "currency": "USD",
+  "updated": "2026-10-07T08:30:00+09:00",
+  "issue": null,
+  "price": {
+    "last": 380.68,
+    "asOf": "10/6 종가",
+    "chg1m": 7.5,
+    "chg3m": -5.5,
+    "chgYtd": -15.4,
+    "chg1y": -12.1,
+    "high52": 498.83,
+    "low52": 297.38,
+    "verified": true
+  },
+  "chart": [
+    433.09,
+    429.24,
+    442.6,
+    460.55,
+    444.26,
+    439.62,
+    401.25,
+    419.4,
+    446.74,
+    451.45,
+    467.26,
+    485.4,
+    438.07,
+    445.01,
+    437.5,
+    435.2,
+    421.81,
+    417.32,
+    410.63,
+    409.38,
+    392.43,
+    399.24,
+    399.27,
+    383.03,
+    371.75,
+    343.25,
+    391.95,
+    387.51,
+    372.8,
+    398.73,
+    445.27,
+    417.26,
+    442.1,
+    418.45,
+    399.15,
+    400.49,
+    379.71,
+    419.77,
+    394.76,
+    369.57,
+    309.22,
+    322.08,
+    330.88,
+    339.3,
+    348.95,
+    367.95,
+    368.16,
+    356.58,
+    378.9,
+    352.84,
+    380.68
+  ],
+  "assessment": {
+    "score": 50,
+    "stance": "neutral",
+    "stanceText": "중립",
+    "confidence": "낮음",
+    "thesis": "매출과 인도량은 회복됐지만, AI·로봇 투자로 이익과 현금흐름이 크게 줄었어요. 예상 이익 대비 주가가 매우 비싸서, 10/21 실적에서 마진 반등이 확인되기 전까지는 중립으로 봐요."
+  },
+  "scores": [
+    {
+      "key": "growth",
+      "name": "성장성",
+      "score": 3,
+      "reason": "2분기 매출 +26%로 사상 최대지만 3분기 인도는 전년 대비 -2%, 올해 예상 EPS 성장 +4.9%",
+      "src": "실적발표 (7/22)·Electrek (10/2)·Stock Analysis (10/5)"
+    },
+    {
+      "key": "profit",
+      "name": "수익성",
+      "score": 2,
+      "reason": "2분기 영업이익률 1.4% (1년 전 4.1%), 자동차 마진 16.3%로 1분기 19.2%에서 하락",
+      "src": "Electrek·TradingKey (7/23)·Investing (7/22)"
+    },
+    {
+      "key": "balance",
+      "name": "재무 안정성",
+      "score": 4,
+      "reason": "현금 435억 달러로 부채 161억 달러의 2.7배. 다만 2분기 잉여현금흐름은 -11억 달러",
+      "src": "Stock Analysis (10/6)·KuCoin (7/22)"
+    },
+    {
+      "key": "value",
+      "name": "밸류에이션",
+      "score": 1,
+      "reason": "올해 예상 EPS $1.74 기준 PER 약 219배, 매출 대비 14.5배로 매우 비쌈",
+      "src": "계산 (주가 ÷ 컨센서스 EPS)·Stock Analysis (10/5)"
+    },
+    {
+      "key": "momentum",
+      "name": "모멘텀",
+      "score": 3,
+      "reason": "1개월 +7.5%로 반등 중이지만 연초 대비 -15.4%, 1년 -12.1%",
+      "src": "시세 데이터 (10/6 종가)"
+    },
+    {
+      "key": "risk",
+      "name": "리스크",
+      "score": 2,
+      "reason": "로보택시·옵티머스 수익화 시점 불확실, 연 250억 달러 이상 투자 부담, 실적 발표일 주가 급변(7/23 -14.5%)",
+      "src": "실적 콜 (7/22)·CNBC (7/23)"
+    }
+  ],
+  "fundamentals": [
+    {
+      "label": "매출 (2분기)",
+      "value": "$28.2B",
+      "note": "전년 대비 +26%, 사상 최대",
+      "src": "실적발표·Investing (7/22)"
+    },
+    {
+      "label": "영업이익률 (2분기)",
+      "value": "1.4%",
+      "note": "1년 전 4.1%",
+      "src": "Electrek·TradingKey (7/23)"
+    },
+    {
+      "label": "자동차 총마진 (2분기)",
+      "value": "16.3%",
+      "note": "규제 크레딧 제외, 1분기 19.2%",
+      "src": "실적 콜 (7/22)"
+    },
+    {
+      "label": "잉여현금흐름 (2분기)",
+      "value": "-$1.09B",
+      "note": "설비투자 +142% ($5.79B)",
+      "src": "KuCoin·TradingKey (7/22)"
+    },
+    {
+      "label": "현금 / 부채",
+      "value": "$43.5B / $16.1B",
+      "note": "최근 분기 기준",
+      "src": "Stock Analysis (10/6)"
+    },
+    {
+      "label": "시가총액",
+      "value": "$1.50T",
+      "note": "세계 11위권",
+      "src": "Stock Analysis·CompaniesMarketCap (10/5~6)"
+    },
+    {
+      "label": "예상 PER (2026)",
+      "value": "약 219배",
+      "note": "$380.68 ÷ 예상 EPS $1.74",
+      "src": "계산·Stock Analysis (10/5)"
+    },
+    {
+      "label": "3분기 인도",
+      "value": "48.7만 대",
+      "note": "예상 46.2만 대, 전년 -2%",
+      "src": "Electrek·Quartz (10/2)"
+    }
+  ],
+  "past": [
+    {
+      "date": "2025-12-22",
+      "text": "52주 최고가 $498.83 (장중)",
+      "src": "시세 데이터"
+    },
+    {
+      "date": "2026-07-23",
+      "text": "2분기 실적(이익·현금흐름 부진) 후 -14.5%, 1년 중 최악의 하루",
+      "src": "CNBC·Forbes·Electrek (7/23) · 시세 확인"
+    },
+    {
+      "date": "2026-07-29",
+      "text": "52주 최저가 $297.38 (장중)",
+      "src": "시세 데이터"
+    },
+    {
+      "date": "2026-10-02",
+      "text": "3분기 인도량 예상 상회, 종가 +4.7%",
+      "src": "Electrek·Quartz (10/2) · 시세 확인"
+    },
+    {
+      "date": "2026-10-05",
+      "text": "머스크, TSMC와 칩 공장(Terafab) 예비 논의 확인, +2.2%",
+      "src": "Yahoo Finance·FX Leaders (10/5) · 시세 확인"
+    }
+  ],
+  "present": [
+    {
+      "text": "로보택시를 미국 7개 시장에서 운영 중, 주행거리가 매주 10% 이상 증가",
+      "src": "2분기 실적 콜 (7/22)"
+    },
+    {
+      "text": "올해 설비투자 250억 달러 이상, 하반기에 더 늘어날 예정",
+      "src": "2분기 실적 콜 (7/22)"
+    },
+    {
+      "text": "3분기 생산 46.4만 대 < 인도 48.7만 대 → 재고 2.2만 대 감소",
+      "src": "테슬라 보도자료 (10/2)"
+    },
+    {
+      "text": "에너지 저장장치 13.7GWh 설치, 시장 예상에는 못 미침",
+      "src": "Drive Tesla Canada (10/2)"
+    }
+  ],
+  "future": [
+    {
+      "date": "10/15",
+      "text": "2세대 로드스터 공개 행사 (날씨로 10/1에서 연기)",
+      "src": "NewsBytes·Drive Tesla Canada"
+    },
+    {
+      "date": "10/21",
+      "text": "3분기 실적 발표 (미국 장 마감 후)",
+      "src": "테슬라 IR·Tesla Oracle (10/4)"
+    },
+    {
+      "date": "2026년 말~",
+      "text": "자율주행 세미 트럭 개발 목표 (회사 계획)",
+      "src": "2분기 실적 콜 (7/22)"
+    }
+  ],
+  "analysts": {
+    "text": "43명 평균 목표가 $395.83, 중앙값 $412.50, 범위 $125~$600 (의견이 크게 엇갈림)",
+    "src": "Stock Analysis (10/5)"
+  },
+  "bull": [
+    "2분기 매출 +26%로 사상 최대, 3분기 인도도 예상보다 5% 많음",
+    "로보택시 7개 시장 운영, 주행거리 매주 10% 이상 증가",
+    "현금 435억 달러로 부채의 2.7배, 대규모 투자를 버틸 체력"
+  ],
+  "bear": [
+    "영업이익률 1.4%, 자동차 마진 16.3%로 수익성이 크게 낮아짐",
+    "올해 설비투자 250억 달러 이상, 2분기 잉여현금흐름 -11억 달러",
+    "예상 이익 기준 PER 약 219배로 기대가 이미 크게 반영됨"
+  ],
+  "scenarios": [
+    {
+      "dir": "up",
+      "name": "강세",
+      "cond": "10/21 실적에서 자동차 마진 반등 + 로보택시 확장 수치 확인",
+      "result": "고평가 부담을 성장으로 설명하며 반등 흐름 연장 가능"
+    },
+    {
+      "dir": "neutral",
+      "name": "기본",
+      "cond": "인도 호조는 이어지지만 마진은 제자리",
+      "result": "최근 한 달 범위($350~$381) 안팎에서 등락"
+    },
+    {
+      "dir": "down",
+      "name": "약세",
+      "cond": "마진 추가 하락 + 투자비 가이던스 상향",
+      "result": "7/23(-14.5%)처럼 실적 발표 뒤 급락 재현 가능"
+    }
+  ],
+  "watch": [
+    "자동차 마진(크레딧 제외)이 16.3%보다 올라가면 긍정 쪽으로",
+    "잉여현금흐름이 다시 플러스로 돌아오면 긍정 쪽으로",
+    "설비투자 계획이 또 늘고 수익화 시점이 불분명하면 부정 쪽으로",
+    "로보택시 운영 도시 수와 유료 주행거리 증가세"
+  ],
+  "evidence": [
+    {
+      "claim": "2분기 매출 $28.2B, +26%",
+      "source": "Investing (7/22), KuCoin, 테슬라 8-K",
+      "data": "-",
+      "verdict": "확인"
+    },
+    {
+      "claim": "영업이익률 1.4%",
+      "source": "Electrek (7/23), TradingKey",
+      "data": "-",
+      "verdict": "확인"
+    },
+    {
+      "claim": "자동차 마진 16.3% (1분기 19.2%)",
+      "source": "Investing 실적 콜 (7/22)",
+      "data": "-",
+      "verdict": "확인 (회사 발표 1곳)"
+    },
+    {
+      "claim": "2분기 FCF -$1.09B",
+      "source": "KuCoin, TradingKey (7/22)",
+      "data": "-",
+      "verdict": "확인"
+    },
+    {
+      "claim": "7/23 -14.5%",
+      "source": "CNBC, Forbes, Electrek (7/23)",
+      "data": "7/22→7/23 종가 -14.5%",
+      "verdict": "확인"
+    },
+    {
+      "claim": "시가총액 $1.50T",
+      "source": "Stock Analysis (10/6), CompaniesMarketCap (10/5)",
+      "data": "-",
+      "verdict": "확인"
+    },
+    {
+      "claim": "예상 PER 약 219배",
+      "source": "Stock Analysis 컨센서스 EPS $1.74 (10/5)",
+      "data": "$380.68 ÷ $1.74 계산",
+      "verdict": "확인 (직접 계산)"
+    },
+    {
+      "claim": "연초 대비 -15.4%",
+      "source": "-",
+      "data": "2025-12-31 종가 $449.72 → $380.68",
+      "verdict": "확인"
+    },
+    {
+      "claim": "1개월 +7.5%, 1년 -12.1%",
+      "source": "-",
+      "data": "9/4 $354.08, 2025-10-07 $433.09 기준",
+      "verdict": "확인"
+    },
+    {
+      "claim": "애널리스트 평균 목표가 $395.83",
+      "source": "Stock Analysis (10/5); 다른 집계는 $389 수준",
+      "data": "-",
+      "verdict": "범위로 표현"
+    },
+    {
+      "claim": "52주 범위 $297.38~$498.83",
+      "source": "-",
+      "data": "1년 일봉 장중 고가·저가",
+      "verdict": "확인 (장중 기준)"
+    },
+    {
+      "claim": "현재가·변화율·52주 범위·차트",
+      "source": "-",
+      "data": "빌드 시점 실제 시세로 자동 보정 (2026-10-06 종가)",
+      "verdict": "확인 (자동)"
+    }
+  ],
+  "excluded": [
+    "4/15(+7.6%)·6/29(+8.5%) 급등 원인: 날짜와 기사가 정확히 맞지 않아 제외",
+    "유럽 9월 판매 반등: 출처 1곳",
+    "기술적 저항선 가격: 출처 1곳의 기술적 분석"
+  ],
+  "sources": [
+    {
+      "name": "Investing.com 실적 콜 (2026-07-22)",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tesla-q2-2026-revenue-beats-eps-misses-as-stock-falls-93CH-4807216"
+    },
+    {
+      "name": "CNBC (2026-07-23)",
+      "url": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html"
+    },
+    {
+      "name": "Electrek (2026-07-23)",
+      "url": "https://electrek.co/2026/07/23/tesla-tsla-crashes-12-q2-2026-earnings-miss/"
+    },
+    {
+      "name": "TradingKey (2026-07)",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262120751-tesla-tsla-q2-2026-28-2b-revenue-beat-eps-miss-free-cash-flow-negative-cybercab-robotaxi-expansion-tradingkey"
+    },
+    {
+      "name": "KuCoin (2026-07)",
+      "url": "https://www.kucoin.com/blog/tesla-q2-2026-earnings-report"
+    },
+    {
+      "name": "Stock Analysis 지표 (2026-10-06)",
+      "url": "https://stockanalysis.com/stocks/tsla/statistics/"
+    },
+    {
+      "name": "Stock Analysis 전망 (2026-10-05)",
+      "url": "https://stockanalysis.com/stocks/tsla/forecast/"
+    },
+    {
+      "name": "Electrek 인도량 (2026-10-02)",
+      "url": "https://electrek.co/2026/10/02/tesla-q3-2026-deliveries-486532/"
+    },
+    {
+      "name": "Yahoo Finance (2026-10-05)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stock-rises-overnight-musk-035535379.html"
+    },
+    {
+      "name": "Tesla Oracle (2026-10-04)",
+      "url": "https://www.teslaoracle.com/2026/10/04/tesla-tsla-announces-the-date-and-time-for-the-q3-2026-earnings-call-live-webcast-with-elon-musk-and-his-team/"
+    }
+  ]
+}

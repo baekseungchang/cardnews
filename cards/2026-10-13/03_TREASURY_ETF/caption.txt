@@ -1,0 +1,32 @@
+미국 30년물 국채금리가 2002년 이후 최고권이에요 📈
+
+10/5 30년물은 5.6%대 후반까지 올랐고, 10/8 입찰은 5.618%로 마감했지만 수요는 양호했어요. 장기채 ETF TLT는 10/9 77.98달러로 2023년 이후 최저권인데도 자금은 오히려 들어오고 있어요.
+
+같은 미국채 ETF라도 만기가 다르면 성격이 달라요.
+• TLT: 20년 이상, 듀레이션 14.7년
+• IEF: 7~10년, 약 7년
+• SHY: 1~3년, 약 1.8년
+(총보수는 셋 다 0.15%)
+
+듀레이션은 금리 1%p 변화에 가격이 몇 % 움직이는지 보여주는 단순 지표예요. TLT는 SHY보다 약 8배 민감해요. 원화로 투자하면 환율 변화도 함께 받아요.
+
+10/14 밤 미국 9월 CPI가 다음 고비예요. 여러분은 장기채파, 단기채파? 👇
+
+#미국채 #TLT #IEF #SHY #채권ETF #미국국채 #국채금리 #미국CPI #ETF비교 #카드뉴스
+
+※ 투자 권유 아님. 투자 판단의 책임은 본인에게 있습니다.
+
+[출처]
+- Investing Live (2026-10-08) https://investinglive.com/news/us-treasury-sells-22-billion-of-30-year-bonds-at-a-high-yield-of-5-618/
+- Political.org (2026-10-08) https://political.org/2026/10/08/treasury-bonds-rally-as-30-year-auction-draws-solid-demand-despite-multi-decade-high-yields/
+- Kalkine (2026-10) https://kalkine.com.au/news/general-news/why-is-a-566-30-year-yield-a-threat-to-tlt-nasdaqtlt
+- Benzinga (2026-10) https://www.benzinga.com/etfs/sector-etfs/26/10/62152976/tlt-popular-treasury-bond-etf-inflows-are-rising-as-30-year-yield-soars
+- TradingView/Benzinga (2026-10-02) https://www.tradingview.com/news/benzinga:ebd773152094b:0-tlt-hits-52-week-low-yet-billions-pour-in-is-long-duration-treasury-etf-becoming-an-ice-cream-trade/
+- stockanalysis TLT https://stockanalysis.com/etf/tlt/
+- 파이낸셜뉴스 (2026-10-06) https://www.fnnews.com/news/202610060511334960
+- 블루밍비트 (2026-09) https://bloomingbit.io/feed/news/121261
+- iShares TLT https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf
+- iShares IEF https://www.ishares.com/us/products/239456/
+- iShares SHY https://www.ishares.com/us/products/239452/SHY
+- 24/7 Wall St. TLT vs IEF (2026-07-10) https://247wallst.com/investing/etf/2026/07/10/tlt-vs-ief-how-much-treasury-rate-risk-should-you-actually-take/
+- StockTitan CPI 프리뷰 (2026-10) https://stocktitan.net/articles/september-2026-cpi-inflation-report

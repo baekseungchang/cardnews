@@ -1,0 +1,88 @@
+{
+  "tag": "ETF 비교",
+  "ticker": "SGOV/BIL",
+  "company": "파킹형 ETF 4종",
+  "brand": "#2E5E4E",
+  "direction": "neutral",
+  "chartSymbol": "SGOV",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 SGOV 종가 (분배 때 계단처럼 움직여요)",
+  "change": "약 3.7%",
+  "changeNote": "SGOV 30일 SEC 수익률, 10월 중순",
+  "headline": "FOMC 앞 **파킹 ETF**\n달러냐 원화냐",
+  "subhead": "미국 초단기 국채 ETF는 연 3%대 후반,\n하지만 원화 강세면 환율에서 깎여요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무엇을 담나",
+      "body": "모두 **초단기 금리**를 받는 상품이에요.\n차이는 만기·보수·통화예요.",
+      "table": {
+        "head": ["ETF", "담는 것", "총보수", "통화"],
+        "rows": [
+          ["SGOV", "0~3개월 미 국채", "0.09%", "달러"],
+          ["BIL", "1~3개월 미 국채", "0.1356%", "달러"],
+          ["USFR", "미 변동금리 국채", "0.15%", "달러"],
+          ["KODEX CD금리", "CD 91일 금리", "0.02%", "원화"]
+        ]
+      }
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9/16", "text": "미 금리 3.75~4.00%로↑"},
+        {"date": "10/16", "text": "SGOV 수익률 3.74%"},
+        {"date": "10/22", "text": "한은 3.00% 동결"},
+        {"date": "10/26", "text": "원·달러 **1,323.1원**", "now": true}
+      ]
+    },
+    {
+      "phase": "현재",
+      "title": "숨은 변수, 환율",
+      "body": "원·달러는 6/30 1,549.4원에서\n10/26 1,323.1원으로 **-14.6%**예요.",
+      "bullets": [
+        "달러 이자 연 약 3.7%",
+        "같은 기간 환율 -14.6%",
+        "6/30에 샀다면 원화 손실",
+        "CD금리 ETF는 환율 무관"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (한국 시간)",
+      "timeline": [
+        {"date": "10/29", "text": "새벽 **FOMC 결과**"},
+        {"date": "11/26", "text": "한국은행 금통위"},
+        {"date": "12/10", "text": "12월 FOMC, 인상 주목"}
+      ]
+    },
+    {
+      "phase": "어떤 사람에게",
+      "title": "어떤 사람에게 맞나",
+      "bullets": [
+        "달러를 이미 가진 사람: SGOV",
+        "금리 인상에 대비: USFR",
+        "원화로 쓸 돈: **CD금리 ETF**",
+        "모두 원금 보장은 아니에요"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "SGOV 총보수", "value": "0.09%"},
+    {"label": "SGOV 수익률 (10월 중순)", "value": "약 3.7%"},
+    {"label": "원·달러 6/30 대비", "value": "-14.6%"},
+    {"label": "KODEX CD금리 총보수", "value": "0.02%"}
+  ],
+  "summary": "달러 파킹 **연 3.7%**,\n환율은 넉 달 -14.6%.\n쓸 돈의 **통화**부터\n정하고 고르세요.",
+  "caption": "FOMC를 앞두고 잠깐 돈을 넣어 둘 '파킹형 ETF' 비교예요 🅿️ 미국 기준금리가 3.75~4.00%라 미국 초단기 국채 ETF 수익률은 연 3%대 후반이에요. SGOV의 30일 SEC 수익률은 10월 중순 약 3.7%였어요.\n\n✔️ SGOV: 만기 0~3개월 미 국채, 총보수 0.09%, 매월 분배\n✔️ BIL: 만기 1~3개월 미 국채, 0.1356%, 매월 분배\n✔️ USFR: 미 변동금리 국채(이자 매주 재설정), 0.15%\n✔️ KODEX CD금리액티브(합성): CD 91일 금리, 0.02%, 원화\n\n숨은 변수는 환율이에요. 원·달러는 6/30 1,549.4원에서 10/26 1,323.1원으로 14.6% 내렸어요. 원화로 다시 바꿀 돈이라면 달러 이자보다 환율 영향이 더 컸던 거예요. 반대로 달러로 쓸 돈이라면 환율 걱정이 덜해요.\n\n10/29 새벽 FOMC 결과, 12월 인상 여부에 따라 수익률도 달라질 수 있어요. 여러분은 파킹 자금, 달러와 원화 중 어디에 두세요? 👇",
+  "hashtags": ["SGOV", "BIL", "USFR", "파킹형ETF", "CD금리ETF", "미국채", "단기채", "환율", "ETF비교", "카드뉴스"],
+  "sources": [
+    {"name": "Motley Fool SGOV (2026-10-16 기준)", "url": "https://www.fool.com/investing/how-to-invest/etfs/how-to-invest-in-sgov-etf/"},
+    {"name": "yieldfinder SGOV (2026-10-14 기준)", "url": "https://yieldfinder.app/funds/sgov/"},
+    {"name": "securewealthblog SGOV vs BIL (2026-10)", "url": "https://www.securewealthblog.com/sgov-vs-bil/"},
+    {"name": "Cbonds BIL", "url": "https://cbonds.com/etf/2181/"},
+    {"name": "DividendVision USFR vs BIL (2026-10)", "url": "https://www.dividendvision.com/compare/bil-vs-usfr"},
+    {"name": "FunETF KODEX CD금리액티브 (2026-10-22 기준)", "url": "https://www.funetf.co.kr/product/etf/view/KR7459580007"},
+    {"name": "StockAnalysis SGOV (2026-10-26 조회)", "url": "https://stockanalysis.com/etf/sgov/"}
+  ]
+}

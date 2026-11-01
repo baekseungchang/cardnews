@@ -1,0 +1,93 @@
+{
+  "tag": "금리 브리핑",
+  "ticker": "US10Y",
+  "company": "미국 10년물 국채금리",
+  "brand": "#1F3A5F",
+  "direction": "down",
+  "chartSymbol": "^TNX",
+  "chartRange": "3mo",
+  "chartCaption": "미 10년물 금리 최근 3개월 (%)",
+  "change": "4.952%",
+  "changeNote": "10/22 뉴욕 마감, 하루 -19.3bp",
+  "headline": "미 10년물 금리\n한 달 만에 **5% 아래**",
+  "subhead": "하루 -0.193%p, 2023년 3월 이후 최대 낙폭\nAI 투자 불안·중동 긴장에 국채로 돈이 몰렸어요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "지금 금리 수준",
+      "body": "10/22 미 10년물 금리가 **4.952%**로\n마감했어요. 하루에 0.193%p 내렸어요.",
+      "bullets": [
+        "9/17 이후 **최저**",
+        "하루 낙폭 2023/3/10 이후 최대",
+        "2년물도 -0.188%p, 4.635%",
+        "달러인덱스 101.5, 3주 저점"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9/16", "text": "연준 **0.25%p 인상**"},
+        {"date": "10/7", "text": "장중 5.36%, **24년 최고**"},
+        {"date": "10/14", "text": "9월 물가 **3.7%**, 예상↑"},
+        {"date": "10/19", "text": "5.13~5.14% 마감"},
+        {"date": "10/22", "text": "**4.952%**, 5% 아래로", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "왜 내렸나",
+      "body": "주식에서 빠진 돈이 **안전자산**인\n미 국채로 옮겨갔다는 분석이에요.",
+      "bullets": [
+        "나스닥 -2.60%, AI 투자 불안",
+        "후티 사우디 공격 주장, 중동 긴장",
+        "유가 5개월 최고에도 금리↓",
+        "실업수당 19.4만건 호조에도"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (한국 시간)",
+      "timeline": [
+        {"date": "10/29", "text": "**FOMC** 결과 (새벽 3시)"},
+        {"date": "11/4", "text": "미국 중간선거 결과"},
+        {"date": "11/6", "text": "미국 10월 **고용** (밤)"},
+        {"date": "11/10", "text": "미국 10월 물가 (예정)"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "앞으로의 시나리오 (전망)",
+      "bullets": [
+        "금리↓: 증시 불안 계속되면",
+        "기본: 10월 FOMC 동결 우세",
+        "금리↑: 유가발 물가 재확인 땐",
+        "확인: **10/29 FOMC** 메시지"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "10년물 (10/22)", "value": "4.952%"},
+    {"label": "하루 변화", "value": "-19.3bp"},
+    {"label": "10/7 장중 고점", "value": "5.36%"},
+    {"label": "미국 기준금리", "value": "3.75~4%"}
+  ],
+  "summary": "미 10년물 **4.952%**,\n한 달 만에 5% 아래.\n주식→국채 쏠림,\n**10/29 FOMC** 주목.",
+  "caption": "미국 10년물 국채금리가 한 달 만에 5% 아래로 내려왔어요 📉 10/22 뉴욕에서 4.952%로 마감해 하루에 0.193%p 빠졌어요. 2023년 3월 10일 이후 가장 큰 하루 낙폭이고, 9/17 이후 가장 낮은 수준이에요.\n\n이유는 안전자산 쏠림이에요. 메타 실적 뒤 AI 투자 불안에 나스닥이 2.60% 급락했고, 후티의 사우디 공격 주장에 중동 긴장도 커졌어요. 유가는 5개월 만의 최고였는데도 주식에서 빠진 돈이 국채로 몰리며 금리가 내려갔어요(금리↓ = 채권값↑).\n\n10/7엔 장중 5.36%까지 올라 2002년 이후 최고였던 만큼, 아직 높은 자리예요. 미국 기준금리는 9/16 인상으로 3.75~4.00%이고, 9월 물가는 3.7%로 예상보다 높았어요. 다음 확인은 한국 시간 10/29 새벽 FOMC 결과예요. 여러분은 금리 고점이 지났다고 보시나요? 👇",
+  "hashtags": ["미국채", "국채금리", "미국10년물", "금리", "채권투자", "FOMC", "연준", "안전자산", "금리브리핑", "카드뉴스"],
+  "sources": [
+    {"name": "헤럴드경제 (2026-10-23)", "url": "https://biz.heraldcorp.com/article/10912018"},
+    {"name": "이투데이 (2026-10-23)", "url": "https://www.etoday.co.kr/news/view/2639161"},
+    {"name": "뉴스핌 (2026-10-23)", "url": "https://www.newspim.com/news/view/20261023000034"},
+    {"name": "뉴스1 (2026-10-23)", "url": "https://www.news1.kr/world/international-economy/6329321"},
+    {"name": "이데일리 (2026-10-23)", "url": "https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01610486645615872"},
+    {"name": "Benzinga (2026-10-22)", "url": "https://www.benzinga.com/markets/equities/26/10/62539017/meta-ai-spending-10-year-yield-below-5-stock-market-today"},
+    {"name": "CNBC (2026-10-07)", "url": "https://www.cnbc.com/amp/2026/10/07/treasury-yields-auction-fomc-minutes.html"},
+    {"name": "CNBC (2026-09-16)", "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html"},
+    {"name": "연준 FOMC 성명 (2026-09-16)", "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20260916a1.pdf"},
+    {"name": "한국일보 (2026-10-14)", "url": "https://www.hankookilbo.com/news/article/A2026101421410002818"},
+    {"name": "뉴스1 (2026-10-14)", "url": "https://www.news1.kr/world/international-economy/6320435"},
+    {"name": "Forbes (2026-10-19)", "url": "https://www.forbes.com/sites/simonmoore/2026/10/19/what-to-look-for-from-the-feds-october-meeting/"},
+    {"name": "BLS 발표 일정", "url": "https://www.bls.gov/schedule/news_release/current_year.asp"}
+  ]
+}

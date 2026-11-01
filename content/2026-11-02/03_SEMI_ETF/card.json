@@ -1,0 +1,93 @@
+{
+  "tag": "ETF 비교",
+  "ticker": "SOXX/SMH",
+  "company": "미국 반도체 ETF 3종",
+  "brand": "#1F2A44",
+  "direction": "neutral",
+  "chartSymbol": "SOXX",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 SOXX 종가",
+  "change": "8% vs 4%",
+  "changeNote": "SOXX·SMH 속 인텔 비중 (10월 하순)",
+  "headline": "인텔 -28.6%\n**ETF마다** 충격 달라",
+  "subhead": "같은 반도체 ETF라도\n인텔 비중이 두 배 차이 나요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무엇을 담나",
+      "body": "보수는 셋 다 0.3%대로 비슷해요.\n차이는 **종목을 담는 방식**이에요.",
+      "table": {
+        "head": ["ETF", "총보수", "담는 방식", "인텔 비중"],
+        "rows": [
+          ["SOXX", "0.34%", "상위 5종목 8% 상한", "약 8%"],
+          ["SMH", "0.35%", "시총 가중 26종목", "4.00%"],
+          ["XSD", "0.35%", "동일가중 40여 종목", "약 3%(6~7월)"]
+        ]
+      }
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "8/25", "text": "연초比 SOXX+68%·SMH+52%"},
+        {"date": "10/16", "text": "SOXX 속 인텔 8.4%"},
+        {"date": "10/22", "text": "인텔 -8.04%, 반도체 약세"},
+        {"date": "10/30", "text": "인텔 -28.58%", "now": true}
+      ]
+    },
+    {
+      "phase": "현재",
+      "title": "인텔 -28.58%의 무게",
+      "body": "단순 계산하면 SOXX **약 -2.4%p**,\nSMH 약 -1.1%p예요.",
+      "bullets": [
+        "다른 종목 그대로일 때 계산",
+        "SMH는 엔비디아가 19.6%",
+        "SOXX는 상위 종목 고르게",
+        "올해 인텔 덕 본 쪽이 SOXX"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (미국 날짜)",
+      "timeline": [
+        {"date": "11/3", "text": "AMD 실적 (장 마감 뒤)"},
+        {"date": "11/6", "text": "미국 10월 고용"},
+        {"date": "11/10", "text": "미국 10월 CPI"},
+        {"date": "11/17~18", "text": "엔비디아 실적 예정"}
+      ]
+    },
+    {
+      "phase": "어떤 사람에게",
+      "title": "어떤 구조가 맞을까",
+      "bullets": [
+        "SOXX: 대형 반도체 고르게",
+        "SMH: 엔비디아·TSMC 비중 큼",
+        "XSD: 중소형까지 동일가중",
+        "공통: 상위 종목 비중 확인"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "SOXX 속 인텔 (10/23)", "value": "약 8%"},
+    {"label": "SMH 속 인텔 (10/29)", "value": "4.00%"},
+    {"label": "SMH 속 엔비디아", "value": "19.6%"},
+    {"label": "SOXX 총보수", "value": "0.34%"}
+  ],
+  "summary": "같은 반도체 ETF도\n**담는 방식**에 따라\n한 종목 충격이\n**두 배** 차이 나요.",
+  "caption": "인텔이 10/30 하루 28.58% 떨어졌어요. 그런데 반도체 ETF마다 받는 충격은 달라요 🔍\n\nSOXX(0.34%)는 상위 5종목을 8%까지 담는 구조라 인텔 비중이 약 8%(10/23)예요. SMH(0.35%)는 시가총액 순으로 담아 엔비디아가 19.6%, 인텔은 4.00%(10/29)예요. XSD(0.35%)는 동일가중이라 인텔이 약 3%(6~7월 자료)예요.\n\n다른 종목이 그대로라고 단순 계산하면 인텔 하락의 영향은 SOXX 약 -2.4%p, SMH 약 -1.1%p예요.\n\n반대로 올해 인텔이 크게 오를 땐 SOXX가 더 유리했어요. 8/25 기준 연초 대비 SOXX +68%, SMH +52%였어요.\n\n다음 변수는 11/3 AMD 실적, 11/17~18 예정인 엔비디아 실적이에요. 여러분은 반도체 ETF 고를 때 어떤 종목 비중을 먼저 보시나요? 👇",
+  "hashtags": ["ETF", "SOXX", "SMH", "XSD", "반도체ETF", "미국ETF", "인텔", "엔비디아", "ETF비교", "카드뉴스"],
+  "sources": [
+    {"name": "VanEck SMH (2026-10-29)", "url": "https://www.vaneck.com/us/en/investments/semiconductor-etf-smh/"},
+    {"name": "stockanalysis · SMH 보유종목 (2026-10-30)", "url": "https://stockanalysis.com/etf/smh/holdings/"},
+    {"name": "Morningstar · SMH (2026-10-30)", "url": "https://www.morningstar.com/etfs/xnas/smh/quote"},
+    {"name": "stockanalysis · SOXX 보유종목 (2026-10-23)", "url": "https://stockanalysis.com/etf/SOXX/holdings/"},
+    {"name": "Dividend Vision · 인텔 보유 ETF (2026-10-16)", "url": "https://www.dividendvision.com/lists/etfs-holding-intc"},
+    {"name": "Pensions & Investments · SOXX", "url": "https://etf.pionline.com/fund/SOXX"},
+    {"name": "TradingView · SOXX", "url": "https://in.tradingview.com/symbols/NASDAQ-SOXX/analysis"},
+    {"name": "State Street · XSD 팩트시트 (2026-06-30)", "url": "https://www.ssga.com/library-content/products/factsheets/etfs/us/factsheet-us-en-xsd.pdf"},
+    {"name": "Pensions & Investments · XSD (2026-07-17)", "url": "https://etf.pionline.com/fund/XSD"},
+    {"name": "Total Real Returns · SMH vs SOXX (2026-09-11)", "url": "https://totalrealreturns.com/n/SMH,SOXX"},
+    {"name": "FinanceFeeds (2026-10-31)", "url": "https://financefeeds.com/intel-intc-stock-65-76-saturday-after-28-6-percent-drop-week-ahead-amd-3-november-bull-79-bear-58/"},
+    {"name": "Earnings Whispers · NVDA", "url": "https://www.earningswhispers.com/stocks/Nvda"}
+  ]
+}

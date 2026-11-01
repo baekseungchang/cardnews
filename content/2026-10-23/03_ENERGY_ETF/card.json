@@ -1,0 +1,95 @@
+{
+  "tag": "ETF 비교",
+  "ticker": "XLE/XOP",
+  "company": "미국 에너지 ETF 3종",
+  "brand": "#2B2B2B",
+  "direction": "neutral",
+  "chartSymbol": "XLE",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 XLE 종가",
+  "change": "113달러",
+  "changeNote": "브렌트유 10/22 종가, 5월 이후 최고",
+  "headline": "유가 113달러\n**에너지 ETF** 3종 비교",
+  "subhead": "브렌트유가 5개월 만에 가장 비싸요\n같은 에너지 ETF라도 담는 방식이 달라요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무엇을 담나",
+      "body": "세 ETF 모두 미국 **석유·가스 기업**이에요.\n차이는 보수와 종목 비중이에요.",
+      "table": {
+        "head": ["ETF", "총보수", "구조", "종목 수"],
+        "rows": [
+          ["XLE", "0.08%", "엑슨·셰브론 약 42%", "20여 개"],
+          ["VDE", "0.09%", "엑슨 약 23%", "110여 개"],
+          ["XOP", "0.35%", "생산기업 동일가중", "51개"]
+        ]
+      }
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "10/4", "text": "OPEC+ 11월 생산 **동결**"},
+        {"date": "10/19", "text": "엑슨·셰브론 52주 신고가"},
+        {"date": "10/21", "text": "XLE 68.16달러, 고점 근처"},
+        {"date": "10/22", "text": "브렌트 **113.17달러** +4%", "now": true}
+      ]
+    },
+    {
+      "phase": "현재",
+      "title": "왜 올랐나",
+      "body": "후티 반군이 사우디 시설을 공격했다고\n주장하면서 **공급 차질** 우려가 커졌어요.",
+      "bullets": [
+        "아람코 본사 직원 대피",
+        "WTI 99.47달러, +2.39%",
+        "실제 수출량은 **아직 유지**",
+        "주가는 유가와 1:1 아니에요"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (미국 날짜)",
+      "timeline": [
+        {"date": "10/30", "text": "**엑슨모빌** 3분기 실적"},
+        {"date": "11/1", "text": "**OPEC+** 핵심국 회의"},
+        {"date": "11/3", "text": "미국 **중간선거**"}
+      ]
+    },
+    {
+      "phase": "어떤 사람에게",
+      "title": "어떤 사람에게 맞나",
+      "bullets": [
+        "대형 석유사 집중·저보수: **XLE**",
+        "중소형까지 넓게: **VDE**",
+        "유가에 더 민감하게: XOP",
+        "세금: 직투 22%(250만원 공제)"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "브렌트유 (10/22)", "value": "113.17$"},
+    {"label": "XLE 총보수", "value": "0.08%"},
+    {"label": "VDE 총보수", "value": "0.09%"},
+    {"label": "XOP 총보수", "value": "0.35%"}
+  ],
+  "summary": "유가 **113달러**,\n에너지 ETF도\n담는 방식이 달라요.\n**11/1 OPEC+** 확인.",
+  "caption": "국제유가가 5개월 만에 가장 비싸졌어요 🛢️ 10/22 브렌트유는 4% 오른 113.17달러로 마감했어요. 후티 반군이 사우디 정유 시설 등을 공격했다고 주장했고, 아람코는 다란 본사 직원들에게 대피를 지시했어요. 다만 로이터에 따르면 이번 달 중동 원유 수출량은 아직 크게 줄지 않았어요.\n\n유가에 투자하는 방법 중 하나가 에너지 ETF예요. 같은 에너지라도 구조가 달라요.\n• XLE 0.08%: 엑슨모빌·셰브론 두 곳이 약 42%\n• VDE 0.09%: 110여 종목, 엑슨 약 23%\n• XOP 0.35%: 석유·가스 생산기업 51곳을 같은 비중으로\n\n에너지 주가는 유가와 1:1로 움직이지 않아요. 10/19엔 엑슨·셰브론이 52주 신고가를 찍고도 하락 마감했어요. 다음 확인은 10/30 엑슨모빌 실적, 11/1 OPEC+ 회의예요. 여러분은 유가 상승, ETF로 담으실 건가요? 👇",
+  "hashtags": ["에너지ETF", "XLE", "XOP", "VDE", "국제유가", "브렌트유", "미국ETF", "엑슨모빌", "ETF비교", "카드뉴스"],
+  "sources": [
+    {"name": "SBS Biz (2026-10-23)", "url": "https://biz.sbs.co.kr/article/20000341691"},
+    {"name": "이투데이 (2026-10-23)", "url": "https://www.etoday.co.kr/news/view/2639158"},
+    {"name": "SBS Biz 글로벌 뉴스픽 (2026-10-23)", "url": "https://biz.sbs.co.kr/article/20000341670"},
+    {"name": "State Street XLE", "url": "https://www.ssga.com/us/en/intermediary/etfs/state-street-energy-select-sector-spdr-etf-xle"},
+    {"name": "StockAnalysis XLE 보유 종목", "url": "https://stockanalysis.com/etf/xle/holdings/"},
+    {"name": "Vanguard VDE", "url": "https://advisors.vanguard.com/investments/products/vde/vanguard-energy-etf"},
+    {"name": "StockAnalysis VDE 보유 종목", "url": "https://stockanalysis.com/etf/vde/holdings/"},
+    {"name": "State Street XOP", "url": "https://www.ssga.com/us/en/intermediary/etfs/state-street-spdr-sp-oil-gas-exploration-production-etf-xop"},
+    {"name": "TrackInsight XOP", "url": "https://www.trackinsight.com/en/fund/XOP"},
+    {"name": "Finviz XLE (2026-10-22)", "url": "https://finviz.com/stock?t=XLE"},
+    {"name": "Benzinga (2026-10-19)", "url": "https://www.benzinga.com/markets/equities/26/10/62458379/chevron-exxonmobil-stocks-hit-52-week-highs-as-fresh-us-israel-threats-against-iran-push-brent-crude-to-5-month-highs"},
+    {"name": "Stocktwits (2026-10-19)", "url": "https://stocktwits.com/news-articles/markets/equity/why-did-xom-cvx-mpc-stocks-surge-to-52-week-highs-today/cZxq1SXRBua"},
+    {"name": "ExxonMobil IR (2026-10-16)", "url": "https://investor.exxonmobil.com/company-information/press-releases/detail/1212/exxonmobil-to-release-third-quarter-2026-financial-results"},
+    {"name": "CNBC (2026-10-04)", "url": "https://www.cnbc.com/2026/10/04/opec-agrees-to-keep-november-oil-output-targets-steady.html"},
+    {"name": "World Oil (2026-10-04)", "url": "https://www.worldoil.com/news/2026/10/4/opec-holds-november-oil-production-targets-steady-as-supply-remains-constrained/"}
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "tag": "원자재 브리핑",
+  "ticker": "BRENT",
+  "company": "브렌트유",
+  "brand": "#2B2B2B",
+  "direction": "neutral",
+  "chartSymbol": "BZ=F",
+  "chartRange": "3mo",
+  "chartCaption": "브렌트유 선물 최근 3개월 (근월물)",
+  "change": "100달러선",
+  "changeNote": "10/7 브렌트 종가 $100.20 (-0.4%)",
+  "headline": "유가 100달러,\n**비축유**가 누를까",
+  "subhead": "IEA 경유 우선 방출 vs 중동 공격\n브렌트 100달러선 공방",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "100달러선에서 줄다리기",
+      "body": "10/7 브렌트유는 **100.20달러**(-0.4%),\nWTI는 **88.28달러**(-1.3%)로 마감했어요.",
+      "bullets": [
+        "IEA, **경유 우선 방출** 합의",
+        "미 원유 재고는 **320만 배럴 감소**",
+        "호르무즈 10월 공격 **9건 이상**"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9/10", "text": "사우디 **동서 송유관** 피격"},
+        {"date": "9/14", "text": "**105.68달러**, 110 근접"},
+        {"date": "10/1", "text": "중국 연료 수출 중단, **+4.4%**"},
+        {"date": "10/2", "text": "G7 비축유 **1억 배럴** 방출"},
+        {"date": "10/7", "text": "IEA 가속, **100.20달러**", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "위아래로 당기는 힘",
+      "body": "공급을 늘리는 소식과 막는 소식이\n**동시에** 나오고 있어요.",
+      "bullets": [
+        "↓ IEA·G7 **비축유 방출**",
+        "↓ 사우디 송유관 **가동 회복**",
+        "↑ 호르무즈 **유조선 공격**",
+        "↑ 중국 **연료 수출 중단**"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (한국 시간)",
+      "timeline": [
+        {"date": "매주 수", "text": "미국 원유 재고 (EIA, 밤)"},
+        {"date": "10/14", "text": "미국 9월 **CPI** (21:30)"},
+        {"date": "10/14~15", "text": "**IEA 이사회**, 방출 세부안"},
+        {"date": "10/29", "text": "**FOMC** 결과 (새벽 3시)"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "유가, 어디로 갈까",
+      "bullets": [
+        "상승: 공격 확대 → **105달러** 시험",
+        "기본: 100달러 안팎 **공방**",
+        "하락: 방출 본격화 → **100달러 밑**",
+        "체크: 중국 **수출 재개** 여부"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "브렌트 (10/7 종가)", "value": "$100.20"},
+    {"label": "WTI (10/7 종가)", "value": "$88.28"},
+    {"label": "G7 비축유 방출", "value": "1억 배럴"},
+    {"label": "9/14 브렌트 종가", "value": "$105.68"}
+  ],
+  "summary": "비축유는 **누르고**\n중동 공격은 **밀어 올려요**.\n브렌트는 100달러선,\nIEA 이사회가 변수.",
+  "caption": "국제유가가 배럴당 100달러선에서 줄다리기 중이에요 🛢️\n\n10/7 브렌트유는 100.20달러(-0.4%), WTI는 88.28달러(-1.3%)로 마감했어요. 국제에너지기구(IEA) 회원국이 비축유 방출을 서두르고 경유부터 풀기로 한 게 유가를 눌렀어요.\n\n반대로 호르무즈 해협에선 10월에만 유조선 공격이 9건 넘게 보고됐고, 중국은 연휴 동안 연료 수출을 멈췄어요. 9월 중순엔 사우디 송유관 피격으로 브렌트가 105달러대까지 오르기도 했어요.\n\n다음 체크포인트는 10/14~15 IEA 이사회와 중국의 연료 수출 재개 여부예요.\n\n유가 100달러, 여러분은 어느 쪽에 더 무게를 두시나요? 👇",
+  "hashtags": ["국제유가", "브렌트유", "WTI", "유가", "비축유", "IEA", "호르무즈", "원자재", "재테크", "카드뉴스"],
+  "sources": [
+    {"name": "CNBC (2026-10-07)", "url": "https://cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html"},
+    {"name": "뉴스1 (2026-10-08)", "url": "https://www.news1.kr/world/international-economy/6313650"},
+    {"name": "서플 (2026-10-08)", "url": "https://supple.kr/news/cmuyna43a000bhahp96808zb6"},
+    {"name": "The National (2026-10-07)", "url": "https://www.thenationalnews.com/business/energy/2026/10/07/iea-members-support-faster-release-of-reserve-oil-stocks/"},
+    {"name": "Al-Monitor/Reuters (2026-10-07)", "url": "https://al-monitor.com/originals/2026/10/iea-accelerate-oil-reserve-release-says-100-million-barrels-still-come"},
+    {"name": "Investing.com EIA 재고 (2026-10-07)", "url": "https://www.investing.com/economic-calendar/eia-crude-oil-inventories-75"},
+    {"name": "Bloomberg (2026-10-06)", "url": "https://www.bloomberg.com/news/articles/2026-10-06/latest-oil-market-news-and-analysis-for-oct-7"},
+    {"name": "Al Jazeera (2026-10-06)", "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd"},
+    {"name": "Quartz (2026-10-01)", "url": "https://qz.com/china-fuel-export-halt-brent-crude-100-dollars-100126"},
+    {"name": "서플 G7 (2026-10-03)", "url": "https://supple.kr/news/cmur7c8iq000x4v3nubm7vjse"},
+    {"name": "CNBC (2026-09-15)", "url": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html"},
+    {"name": "CNBC (2026-09-11)", "url": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html"}
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "tag": "환율 브리핑",
+  "ticker": "USD/KRW",
+  "company": "원·달러 환율",
+  "brand": "#0B3D91",
+  "direction": "up",
+  "chartSymbol": "KRW=X",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 원·달러 종가",
+  "change": "1,337.7원",
+  "changeNote": "10/28 서울 종가, 하루 +14.0원",
+  "headline": "환율 하루 **14원**↑\n1,330원대 복귀",
+  "subhead": "FOMC는 '동결'로 끝났지만\n인상 의견 2명이 남았어요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무슨 일이 있었나",
+      "body": "10/28 원·달러가 **14.0원** 오른 1,337.7원.\n10/15 이후 가장 높은 종가예요.",
+      "bullets": [
+        "장중 1,342.3원까지",
+        "코스피 6.63% 급등에도↑",
+        "FOMC 앞 매파 경계",
+        "역외 매수·숏커버 겹쳐"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9/29", "text": "1,356.7원"},
+        {"date": "10/16", "text": "1,331.4원, 2년 만의 최저"},
+        {"date": "10/26", "text": "1,323.1원, 연저점 종가"},
+        {"date": "10/28", "text": "1,337.7원, 하루 +14원", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "새벽 FOMC 결과",
+      "body": "금리는 3.75~4.00% **동결**.\n12명 중 2명은 인상을 주장했어요.",
+      "bullets": [
+        "워시 \"12월은 예단 안 해\"",
+        "뉴욕증시 3대 지수 상승",
+        "미 2년물↓, 10년물 5% 위",
+        "달러 소폭 약해졌단 보도"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (한국 시간)",
+      "timeline": [
+        {"date": "10/29 21:30", "text": "미 3분기 GDP·9월 PCE"},
+        {"date": "10/30", "text": "일본은행 금리 결정"},
+        {"date": "11/6 22:30", "text": "미국 10월 고용"},
+        {"date": "11/10 22:30", "text": "미국 10월 CPI"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "앞으로의 시나리오 (전망)",
+      "bullets": [
+        "하락: 네고 늘면 1,320원대",
+        "기본: 1,320~1,350원대 박스",
+        "상승: 12월 인상 굳어지면 1,340원 위",
+        "확인 지표: PCE·고용·외국인 수급"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "10/28 서울 종가", "value": "1,337.7원"},
+    {"label": "하루 변화", "value": "+14.0원"},
+    {"label": "한 달 변화 (9/29 대비)", "value": "-1.4%"},
+    {"label": "미 기준금리 (동결)", "value": "3.75~4%"}
+  ],
+  "summary": "한 달 흐름은\n아직 **원화 강세**,\n12월 인상 여부가\n**다음 방향**이에요.",
+  "caption": "원·달러 환율이 10/28 하루 14.0원 올라 1,337.7원에 마감했어요 💵 10/15 이후 가장 높은 종가이고, 장중엔 1,342.3원까지 갔어요. 코스피가 6.63% 급등한 날인데도 환율이 같이 오른 게 눈에 띄어요.\n\nFOMC를 앞두고 '매파적 동결' 경계가 컸고, 1,330원을 넘자 역외 달러 매수와 숏커버가 겹쳤다는 분석이에요. 반도체 수출기업 달러 매도는 상승 폭을 막았어요.\n\n새벽 3시 결과는 동결(3.75~4.00%). 다만 12명 중 2명(쿡 이사·해먁 총재)이 인상을 주장했어요. 워시 의장이 12월은 예단하지 않겠다고 하자 뉴욕증시는 올랐고, 미 2년물 금리는 내렸어요. 달러도 소폭 약해졌다는 보도예요.\n\n한 달로 보면 9/29 1,356.7원보다 아직 1.4% 낮아요(원화 강세). 오늘 밤 PCE, 내일 일본은행이 다음 변수예요.\n\n여러분은 1,330원대, 다시 내려올까요? 👇",
+  "hashtags": ["환율", "원달러환율", "달러", "FOMC", "연준", "기준금리", "미국금리", "환율브리핑", "외환시장", "카드뉴스"],
+  "sources": [
+    {"name": "뉴시스 (2026-10-28)", "url": "https://www.newsis.com/view/NISX20261028_0003845022"},
+    {"name": "뉴스1 (2026-10-28)", "url": "https://www.news1.kr/finance/market-exr/6335117"},
+    {"name": "세계일보 (2026-10-28)", "url": "https://www.segye.com/newsView/20261028514650"},
+    {"name": "머니투데이 (2026-09-29)", "url": "https://www.mt.co.kr/economy/2026/09/29/2026092915322975023"},
+    {"name": "CNBC (2026-10-28)", "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"},
+    {"name": "Semafor (2026-10-28)", "url": "https://www.semafor.com/article/10/28/2026/fed-holds-rates-steady-despite-dissents"},
+    {"name": "아시아경제 (2026-10-29)", "url": "https://view.asiae.co.kr/article/2026102906274049609"},
+    {"name": "서플 (2026-10-29)", "url": "https://supple.kr/news/cmvsllw3nl3xem5vu30rk6lc9"},
+    {"name": "뉴스1 · 미 국채 (2026-10-29)", "url": "https://www.news1.kr/world/international-economy/6335588"},
+    {"name": "이투데이 (2026-10-29)", "url": "https://www.etoday.co.kr/news/view/2641404"},
+    {"name": "CNBC · 일본은행 설문 (2026-10-27)", "url": "https://www.cnbc.com/2026/10/27/boj-october-meeting-rate-cnbc-survey.html"},
+    {"name": "BLS 2026 발표 일정", "url": "https://www.bls.gov/schedule/news_release/current_year.asp"}
+  ]
+}

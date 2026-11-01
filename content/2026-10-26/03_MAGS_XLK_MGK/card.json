@@ -1,0 +1,89 @@
+{
+  "tag": "ETF 비교",
+  "ticker": "MAGS/XLK",
+  "company": "빅테크 ETF 3종",
+  "brand": "#4B2E83",
+  "direction": "neutral",
+  "chartSymbol": "MAGS",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 MAGS 종가",
+  "change": "70.07달러",
+  "changeNote": "MAGS 10/23 종가, 연고점 대비 약 -7%",
+  "headline": "빅테크 실적 주간\n**빅테크 ETF** 3종",
+  "subhead": "10/28~29 마이크로소프트·알파벳·아마존 실적\n같은 빅테크 ETF라도 담는 방식이 달라요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무엇을 담나",
+      "body": "세 ETF 모두 **빅테크** 비중이 커요.\n차이는 보수와 담는 방식이에요.",
+      "table": {
+        "head": ["ETF", "총보수", "담는 방식", "대표 비중"],
+        "rows": [
+          ["MAGS", "0.30%", "M7 같은 비중", "각 약 14%"],
+          ["XLK", "0.08%", "기술 섹터만", "엔비디아 약 15%"],
+          ["MGK", "0.05%", "대형 성장주", "엔비디아 약 14%"]
+        ]
+      }
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "10/21", "text": "메타·테슬라 3분기 실적"},
+        {"date": "10/22", "text": "메타 **-6.98%**, 나스닥↓"},
+        {"date": "10/23", "text": "MAGS 70.07달러", "now": true}
+      ]
+    },
+    {
+      "phase": "현재",
+      "title": "구조 차이 한눈에",
+      "body": "XLK는 **기술 섹터**만 담아서\n아마존·알파벳·메타·테슬라가 없어요.",
+      "bullets": [
+        "MAGS: 7종목, 분기마다 재조정",
+        "XLK: 엔비디아·애플 각 약 15%",
+        "MGK: 보수 가장 낮아요",
+        "MAGS는 고점 대비 약 **-7%**"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (미국 날짜)",
+      "timeline": [
+        {"date": "10/28", "text": "**MS·알파벳** 실적·FOMC"},
+        {"date": "10/29", "text": "**아마존** 3분기 실적"},
+        {"date": "11/2", "text": "애플 실적 (예정)"}
+      ]
+    },
+    {
+      "phase": "어떤 사람에게",
+      "title": "어떤 사람에게 맞나",
+      "bullets": [
+        "7개사에 똑같이: **MAGS**",
+        "반도체·소프트웨어 중심: XLK",
+        "넓게·저보수로: **MGK**",
+        "세금: 직투 22%(250만원 공제)"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "MAGS (10/23)", "value": "70.07$"},
+    {"label": "MAGS 총보수", "value": "0.30%"},
+    {"label": "XLK 총보수", "value": "0.08%"},
+    {"label": "MGK 총보수", "value": "0.05%"}
+  ],
+  "summary": "빅테크 실적 주간,\nETF도 담는 방식이\n**제각각**이에요.\n**10/28 실적** 확인.",
+  "caption": "이번 주는 빅테크 실적이 몰린 주예요 📊 미국 날짜로 10/28 마이크로소프트·알파벳, 10/29 아마존이 실적을 발표해요. 먼저 실적을 낸 메타는 10/22 6.98% 떨어졌고, 매그니피센트7 ETF인 MAGS는 10/23 70.07달러로 연중 고점보다 약 7% 낮아요.\n\n빅테크에 묶어서 투자하는 ETF도 구조가 달라요.\n• MAGS 0.30%: 7개사를 같은 비중으로, 분기마다 재조정\n• XLK 0.08%: 기술 섹터만. 엔비디아·애플 각 약 15%, 아마존·알파벳·메타·테슬라는 없어요\n• MGK 0.05%: 대형 성장주 수십 개, 엔비디아 약 14%\n\n이름에 '테크'가 들어가도 아마존·메타가 빠진 ETF가 있으니 보유 종목을 꼭 확인해 보세요. 같은 날(10/28) FOMC 결정도 있어요. 여러분은 빅테크, 7개 같은 비중과 시가총액 비중 중 어느 쪽이 좋으세요? 👇",
+  "hashtags": ["빅테크ETF", "MAGS", "XLK", "MGK", "매그니피센트7", "미국ETF", "빅테크실적", "마이크로소프트", "ETF비교", "카드뉴스"],
+  "sources": [
+    {"name": "Benzinga (2026-10-25)", "url": "https://www.benzinga.com/etfs/sector-etfs/26/10/62580060/magnificent-seven-etf-pulls-back-what-to-expect-from-microsoft-google-and-amazon-earnings"},
+    {"name": "Yahoo Finance MAGS", "url": "https://finance.yahoo.com/quote/MAGS/"},
+    {"name": "Roundhill MAGS", "url": "https://www.roundhillinvestments.com/etf/mags/"},
+    {"name": "Roundhill MAGS 팩트시트", "url": "https://www.roundhillinvestments.com/assets/pdfs/mags_factsheet.pdf"},
+    {"name": "State Street XLK", "url": "https://www.ssga.com/us/en/intermediary/etfs/state-street-technology-select-sector-spdr-etf-xlk"},
+    {"name": "StockAnalysis XLK 보유 종목 (2026-10-21)", "url": "https://stockanalysis.com/etf/xlk/holdings/"},
+    {"name": "Vanguard MGK", "url": "https://advisors.vanguard.com/investments/products/mgk/vanguard-mega-cap-growth-etf"},
+    {"name": "StockAnalysis MGK 보유 종목", "url": "https://stockanalysis.com/etf/mgk/holdings/"},
+    {"name": "CNBC (2026-10-25)", "url": "https://www.cnbc.com/2026/10/25/earnings-week-alphabet-microsoft-amazon.html"},
+    {"name": "Forbes (2026-10-25)", "url": "https://www.forbes.com/sites/bill_stone/2026/10/25/alphabet-microsoft-and-amazon-lead-busiest-week-of-earnings-season/"}
+  ]
+}

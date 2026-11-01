@@ -1,0 +1,86 @@
+{
+  "tag": "주목 종목",
+  "ticker": "CLS",
+  "company": "셀레스티카",
+  "brand": "#00205B",
+  "direction": "up",
+  "chartSymbol": "CLS",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 종가",
+  "change": "+9%대",
+  "changeNote": "10/26 시간외 (정규장은 -5.1%)",
+  "headline": "셀레스티카 **+9%대**\n2027 매출 +90%",
+  "subhead": "한 달 새 3분의 1이 빠진 AI 서버 회사가\n실적 뒤 시간외에서 크게 반등했어요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무슨 일이 있었나",
+      "body": "10/26 정규장에선 **-5.1%**(246.65달러).\n장 마감 뒤 실적이 나오자 시간외 9%대 올랐어요.",
+      "bullets": [
+        "매출 58.3억달러, **+83%**",
+        "조정 EPS 3.30달러",
+        "시장 예상은 약 3달러",
+        "회사 전망 상단도 넘었어요"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "6/2", "text": "고점 474.03달러"},
+        {"date": "9/25", "text": "365.44달러"},
+        {"date": "10/22", "text": "AI 인프라주 약세 **-11.7%**"},
+        {"date": "10/26", "text": "246.65달러, 한 달 -32.5%", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "왜 시간외에서 올랐나",
+      "body": "처음 내놓은 **2027년 전망**이 컸어요.\n올해 210억달러 → 내년 400억달러예요.",
+      "bullets": [
+        "2027 매출 **+90%** 전망",
+        "2027 조정 EPS 21.50달러",
+        "올해 매출 전망 210억달러로↑",
+        "현금흐름 전망은 낮췄어요"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (미국 날짜)",
+      "timeline": [
+        {"date": "10/27", "text": "**인베스터 데이**·실적 콜"},
+        {"date": "10/28", "text": "MS·알파벳 실적, FOMC"},
+        {"date": "10/29", "text": "아마존 3분기 실적"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "앞으로의 시나리오 (전망)",
+      "bullets": [
+        "강세: 빅테크 투자 유지 땐",
+        "기본: 반등 뒤 등락 반복",
+        "약세: AI 투자 축소 신호 땐",
+        "확인: **빅테크 설비투자**"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "10/26 종가", "value": "246.65$"},
+    {"label": "한 달 변화 (9/25 대비)", "value": "-32.5%"},
+    {"label": "6/2 고점 대비", "value": "약 -48%"},
+    {"label": "2027 매출 전망", "value": "400억$"}
+  ],
+  "summary": "한 달 **-32.5%** 뒤\n실적 깜짝에\n시간외 9%대 반등.\n**빅테크 투자** 확인.",
+  "caption": "셀레스티카(CLS)가 실적 발표 뒤 시간외에서 9%대 올랐어요 📈 10/26 정규장은 -5.1%(246.65달러)로 마감했는데, 장 마감 뒤 3분기 실적이 나오자 크게 반등했어요.\n\n3분기 매출은 58.3억달러로 1년 전보다 83% 늘었고, 조정 EPS는 3.30달러로 시장 예상(약 3달러)과 회사 전망 상단(3.08달러)을 모두 넘었어요. 처음 내놓은 2027년 전망은 매출 400억달러(올해 전망 210억달러 대비 +90%), 조정 EPS 21.50달러예요. 다만 올해 잉여현금흐름 전망은 6억→4.6억달러로 낮췄어요.\n\n주가는 6/2 고점 474.03달러에서 약 48% 내려와 있었고, 9/25(365.44달러) 이후 한 달 새 32.5% 빠졌어요. 10/22엔 AI 인프라주 약세 속에 하루 11.7% 떨어지기도 했어요.\n\n오늘(10/27 미국) 인베스터 데이, 10/28 마이크로소프트·알파벳, 10/29 아마존 실적이 이어져요. 빅테크 설비투자 숫자가 다음 확인 포인트예요. 시간외 반등, 정규장에서도 이어질까요? 👇",
+  "hashtags": ["셀레스티카", "CLS", "미국주식", "AI서버", "AI인프라", "실적발표", "시간외", "데이터센터", "주목종목", "카드뉴스"],
+  "sources": [
+    {"name": "Celestica 실적 발표 · GlobeNewswire (2026-10-26)", "url": "https://www.globenewswire.com/news-release/2026/10/26/3388573/0/en/celestica-announces-third-quarter-2026-financial-results-and-will-hold-2026-investor-and-analyst-day.html"},
+    {"name": "Investing.com (2026-10-26)", "url": "https://www.investing.com/news/earnings/celestica-stock-surges-10-after-earnings-beat-as-ai-demand-boosts-2027-outlook-4973830"},
+    {"name": "MoneyCheck (2026-10-26)", "url": "https://moneycheck.com/celestica-cls-stock-rallies-9-after-hours-on-record-5-83b-quarterly-revenue"},
+    {"name": "TradingView News (2026-10-26)", "url": "https://www.tradingview.com/news/tradingview:d80780924fda0:0-celestica-q3-revenue-jumps-83-to-5-83-billion-adjusted-eps-hits-3-30/"},
+    {"name": "GuruFocus (2026-10-22)", "url": "https://www.gurufocus.com/news/9138290/celestica-inc-cls-shares-fall-117-what-gf-score-of-90-tells-investors"},
+    {"name": "Quiver Quantitative (2026-10-22)", "url": "https://www.quiverquant.com/news/Celestica+shares+slide+as+AI+infrastructure+stocks+weaken+ahead+of+earnings+update"},
+    {"name": "StockAnalysis 시세 이력 (2026-10-26 조회)", "url": "https://stockanalysis.com/stocks/cls/history/"},
+    {"name": "Celestica 인베스터 데이 공지 (2026-10-06)", "url": "https://www.globenewswire.com/news-release/2026/10/06/3376016/0/en/celestica-to-hold-q3-2026-financial-results-and-2026-investor-and-analyst-day-conference-call.html"}
+  ]
+}

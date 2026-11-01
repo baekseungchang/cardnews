@@ -1,0 +1,87 @@
+{
+  "tag": "원자재 브리핑",
+  "ticker": "BRENT",
+  "company": "브렌트유",
+  "brand": "#2B2B2B",
+  "direction": "up",
+  "chartSymbol": "BZ=F",
+  "chartRange": "3mo",
+  "chartCaption": "최근 3개월 브렌트유 선물 종가",
+  "change": "+3.7%",
+  "changeNote": "10/16 브렌트 종가 109.86달러",
+  "headline": "브렌트유 **110달러**\n5개월 만에 터치",
+  "subhead": "호르무즈·사우디·러시아 악재가 겹쳤어요\nWTI도 한 주 10% 넘게 올랐어요",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "무슨 일이 있었나",
+      "body": "10/16 브렌트유가 **109.86달러**(+3.72%)에\n마감했어요. 장중엔 110달러를 넘었어요.",
+      "bullets": [
+        "5/19 이후 **최고 종가**",
+        "브렌트 한 주 **+4.9%**",
+        "WTI **101.41달러**, 7일 연속↑",
+        "WTI 한 주 **+10.4%**"
+      ]
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9/15", "text": "사우디 송유관 중단, 108.75"},
+        {"date": "9/22", "text": "미·이란 접촉에 **99.25**"},
+        {"date": "10/8", "text": "호르무즈 피격, 104.28"},
+        {"date": "10/15", "text": "미 원유재고 860만↓"},
+        {"date": "10/16", "text": "**109.86달러**, +3.7%", "now": true}
+      ]
+    },
+    {
+      "phase": "원인 분석",
+      "title": "왜 올랐나",
+      "body": "중동과 러시아에서 **공급 걱정**이\n한꺼번에 커졌어요.",
+      "bullets": [
+        "이란 호르무즈 **선박 공격**",
+        "후티의 **사우디** 미사일",
+        "우크라, 러 정유시설 타격",
+        "주말 기뢰 피격은 **이란 주장**"
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (미국 날짜)",
+      "timeline": [
+        {"date": "10/21", "text": "비축유 **1,700만 배럴** 입찰"},
+        {"date": "10/27~28", "text": "**FOMC** 금리 결정"},
+        {"date": "11/1", "text": "**OPEC+** 회의"}
+      ]
+    },
+    {
+      "phase": "시나리오",
+      "title": "앞으로의 시나리오 (전망)",
+      "bullets": [
+        "강세: 공격 확인→**110달러 위**",
+        "기본: **100~110달러** 등락",
+        "약세: 통항 협상 진전·비축유",
+        "확인: 호르무즈 선박 피해"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "10/16 브렌트", "value": "109.86달러"},
+    {"label": "하루 변화", "value": "+3.72%"},
+    {"label": "9/22 저점 대비", "value": "+10.7%"},
+    {"label": "10/16 WTI", "value": "101.41달러"}
+  ],
+  "summary": "브렌트 **110달러** 터치,\n5개월 만의 최고.\n중동·러시아 겹악재,\n**비축유 입찰** 주목.",
+  "caption": "브렌트유가 10/16 109.86달러(+3.72%)로 마감했어요 🛢️ 장중엔 110달러를 넘었고, 종가로는 5/19 이후 가장 높아요. WTI도 101.41달러로 7거래일 연속 올랐어요.\n\n이란의 호르무즈 선박 공격, 예멘 후티의 사우디 공격, 우크라이나의 러시아 정유시설 타격이 한꺼번에 겹쳤어요. 주말엔 이란 혁명수비대가 유조선 기뢰 피격을 주장했지만 독립적으로 확인되진 않았어요.\n\n미국은 전략비축유 최대 1,700만 배럴 교환 방출을 내놨고 입찰은 10/21 마감이에요. 이란은 조건이 맞으면 7일 안에 통항을 정상화하겠다는 입장이에요.\n\n여러분은 유가가 110달러 위로 갈까요, 다시 100달러대로 내려올까요? 👇",
+  "hashtags": ["국제유가", "브렌트유", "WTI", "호르무즈", "중동", "원자재", "전략비축유", "OPEC", "돈의흐름", "카드뉴스"],
+  "sources": [
+    {"name": "EnergyNow (2026-10-16)", "url": "https://energynow.com/2026/10/oil-surges-as-middle-east-supply-fears-push-brent-near-110-and-wti-above-100-both-post-strong-weekly-gains/"},
+    {"name": "겟뉴스 (2026-10-17)", "url": "https://www.getnews.co.kr/news/articleView.html?idxno=883850"},
+    {"name": "파이낸셜포스트 (2026-10-17)", "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=281002"},
+    {"name": "Reuters via Investing.com (2026-10-16)", "url": "https://investing.com/news/commodities-news/oil-edges-down-as-investors-weigh-possible-us-sanctions-on-shadow-fleet-4952926"},
+    {"name": "뉴스웨이 (2026-10-16)", "url": "https://www.newsway.co.kr/news/view?ud=2026101609245310587"},
+    {"name": "EBN (2026-10-16)", "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728043"},
+    {"name": "OilPrice.com (2026-10-16)", "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Offers-Another-17-Million-SPR-Barrels-as-Fuel-Crisis-Deepens.amp.html"},
+    {"name": "MarketScreener/Reuters (2026-10-16)", "url": "https://www.marketscreener.com/news/us-solicits-exchange-of-up-to-17-million-barrels-of-oil-from-strategic-reserve-ce785cdadd81f321"}
+  ]
+}

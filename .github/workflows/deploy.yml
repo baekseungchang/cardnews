@@ -1,0 +1,40 @@
+# main의 내용을 앱(GitHub Pages)에 배포. 배포할 때마다 최신 환율(live/fx.json)을 새로 받아 함께 올림
+name: 앱 배포
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ['main']
+  schedule:
+    # 30분마다 환율 갱신 (UTC 월~금 = 한국시간 월 09시 ~ 토 09시)
+    - cron: '7,37 * * * 1-5'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: 최신 환율 받기
+        run: node _system/fetch_live.js || true
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4

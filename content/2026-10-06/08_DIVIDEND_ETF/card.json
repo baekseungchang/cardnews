@@ -1,0 +1,74 @@
+{
+  "type": "etf",
+  "tag": "ETF 비교",
+  "ticker": "SCHD",
+  "company": "SCHD vs JEPI",
+  "brand": "#00A0DF",
+  "direction": "neutral",
+  "chartSymbol": "SCHD",
+  "chartRange": "1y",
+  "chartCaption": "SCHD 최근 1년",
+  "change": "0.29%p",
+  "changeNote": "두 ETF의 연 보수 차이",
+  "headline": "배당 ETF 두 종류\n**성장형 vs 월배당**",
+  "subhead": "SCHD와 JEPI는 이렇게 달라요\n구조부터 비교해 봤어요",
+  "slides": [
+    {
+      "title": "무엇을 담나",
+      "bullets": [
+        "**SCHD**: 배당 늘리는 기업 약 100개",
+        "**JEPI**: 저변동 주식 + **콜옵션 매도**",
+        "SCHD는 지수 추종, JEPI는 **액티브**",
+        "JEPI는 월 분배, 대신 **상승폭 제한**"
+      ]
+    },
+    {
+      "title": "한눈에 비교",
+      "table": {
+        "head": ["항목", "SCHD", "JEPI"],
+        "rows": [
+          ["총보수", "0.06%", "0.35%"],
+          ["분배율", "약 3%", "7~8%대"],
+          ["운용자산", "약 $111B", "약 $43B"],
+          ["운용 방식", "지수 추종", "액티브"]
+        ]
+      }
+    },
+    {
+      "title": "보수 차이는 얼마?",
+      "big": "0.29%p",
+      "bigSub": "$24만 기준 연 **약 $700** 차이\n(단순 계산, 매년 반복)"
+    },
+    {
+      "title": "분배율이 높다고\n무조건 좋을까?",
+      "bullets": [
+        "JEPI 높은 분배는 **옵션 프리미엄** 덕",
+        "대신 강한 상승장에선 **덜 오를 수** 있어요",
+        "SCHD는 분배율 낮아도 **배당 성장** 추구"
+      ]
+    },
+    {
+      "title": "이런 사람에게 맞는 구조",
+      "bullets": [
+        "**당장 현금흐름**이 필요하면 JEPI형",
+        "**장기 배당 성장**을 원하면 SCHD형",
+        "분배율 숫자만 보지 말고 **총수익**도 확인",
+        "국내 상장 ETF는 **세금 구조**가 달라요"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "SCHD 총보수", "value": "0.06%"},
+    {"label": "JEPI 총보수", "value": "0.35%"},
+    {"label": "SCHD 운용자산", "value": "$111B"},
+    {"label": "JEPI 운용자산", "value": "$43B"}
+  ],
+  "summary": "배당 ETF도 구조가 달라요.\n**지금 받을지, 키워 받을지**\n내 목적부터 정해요.",
+  "caption": "배당 ETF, 분배율만 보고 고르면 놓치는 게 있어요 💰\n\nSCHD는 배당 성장 기업을 담는 저보수 지수형, JEPI는 콜옵션을 팔아 월 분배를 늘린 액티브형이에요.\n총보수는 0.06% vs 0.35%, 분배율은 약 3% vs 7~8%대로 구조가 달라요.\n\n여러분은 현금흐름형, 성장형 중 어느 쪽인가요? 👇",
+  "hashtags": ["ETF","배당ETF","SCHD","JEPI","월배당","커버드콜","미국ETF","배당투자","미국주식","카드뉴스"],
+  "sources": [
+    {"name": "etf.com", "url": "https://www.etf.com/sections/features/jepi-vs-schd-high-monthly-income-or-growing-dividends-2026-comparison"},
+    {"name": "Dividend Vision", "url": "https://www.dividendvision.com/compare/jepi-vs-schd"},
+    {"name": "Morningstar", "url": "https://www.morningstar.com/funds/top-high-dividend-etfs-passive-income-2026"}
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "date": "2026.10.06",
+  "market": "US STOCK",
+  "tag": "급등 분석",
+  "ticker": "PTC",
+  "company": "PTC",
+  "change": "auto",
+  "direction": "up",
+  "headline": "하루 만에 급등,\n**무슨 일**이 있었나?",
+  "subhead": "프랑스 슈나이더 일렉트릭이\n**226억 달러** 전액 현금 인수 발표",
+  "slides": [
+    {
+      "title": "PTC는 어떤 회사?",
+      "body": "제조업용 소프트웨어 강자.\n제품 설계(CAD), 제품 수명주기 관리(PLM),\n산업용 IoT·AR 솔루션을 만드는 회사예요.",
+      "bullets": [
+        "대표 제품: Creo, Windchill, ThingWorx",
+        "공장·제조 현장의 **디지털 전환** 핵심 소프트웨어"
+      ]
+    },
+    {
+      "title": "인수 조건 한눈에",
+      "bullets": [
+        "인수가: 주당 **$205** (전액 현금)",
+        "직전 종가 대비 **42.3% 프리미엄**",
+        "총 거래 규모 약 **226억 달러**",
+        "거래 종결 목표: **2027년 3분기**"
+      ]
+    },
+    {
+      "title": "슈나이더는 왜 샀을까?",
+      "body": "‘산업 AI’ 경쟁에서 소프트웨어 영토를 넓히기 위해서예요.",
+      "bullets": [
+        "산업용 SW 시장 규모 **약 3배** 확대",
+        "SW·서비스 매출 비중 **24%**까지 상승 (인수 후 기준)",
+        "올해 Cognite(31억 달러)에 이은 연속 인수"
+      ]
+    },
+    {
+      "title": "그런데 인수자 주가는 ▼8%",
+      "body": "인수 대금 마련 방식이 부담이었어요.",
+      "bullets": [
+        "신주 발행 **50~60억 달러** → 지분 희석 우려",
+        "신규 차입 **160~170억 달러** → 재무 부담",
+        "‘비싸게 샀다’는 시장 평가"
+      ]
+    },
+    {
+      "title": "지금 PTC를 사도 될까?",
+      "body": "이제 PTC 주가는 **$205 인수가**에 묶여 움직여요.",
+      "bullets": [
+        "현 주가와 $205의 차이 = **합병 차익(스프레드)**",
+        "리스크: 주주 승인, **각국 규제 심사** 지연·무산",
+        "추가 급등 여력은 제한적, 무산 시 급락 위험"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {
+      "label": "주당 인수가",
+      "value": "$205"
+    },
+    {
+      "label": "인수 프리미엄",
+      "value": "42.3%"
+    },
+    {
+      "label": "거래 규모",
+      "value": "$22.6B"
+    },
+    {
+      "label": "종결 목표",
+      "value": "'27 Q3"
+    }
+  ],
+  "summary": "PTC는 **$205 인수가**가 사실상 상한선.\n이제는 ‘성장주’가 아니라\n**규제 승인 이벤트**를 보는 종목이에요.",
+  "caption": "PTC 하루 만에 +34% 🚀\n프랑스 슈나이더 일렉트릭이 주당 $205, 총 226억 달러에 전액 현금 인수를 발표했어요.\n\n인수당한 PTC는 급등, 인수한 슈나이더는 -8%.\n‘산업 AI’ 패권 경쟁이 본격화되는 신호일까요?\n\n지금 PTC 주가는 $205와의 차이(합병 스프레드)로 움직입니다. 규제 승인까지 약 1년, 여러분이라면 들고 가시겠어요? 👇",
+  "hashtags": [
+    "미국주식",
+    "PTC",
+    "슈나이더일렉트릭",
+    "인수합병",
+    "M&A",
+    "산업AI",
+    "급등주",
+    "주식공부",
+    "해외주식",
+    "카드뉴스"
+  ],
+  "sources": [
+    {
+      "name": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/schneider-electric-acquire-ptc-22-115200874.html"
+    },
+    {
+      "name": "Benzinga",
+      "url": "https://www.benzinga.com/m-a/26/10/62156175/industrial-ai-arms-race-heats-up-schneider-electric-buys-ptc-for-22-6-billion"
+    },
+    {
+      "name": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4650338-ptc-soars-33-on-schneider-electric-buyout-agreement"
+    }
+  ],
+  "brand": "#4CAF3D",
+  "chartSymbol": "PTC"
+}

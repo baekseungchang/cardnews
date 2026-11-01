@@ -1,0 +1,27 @@
+인텔이 10/30 하루 28.58% 떨어졌어요. 그런데 반도체 ETF마다 받는 충격은 달라요 🔍
+
+SOXX(0.34%)는 상위 5종목을 8%까지 담는 구조라 인텔 비중이 약 8%(10/23)예요. SMH(0.35%)는 시가총액 순으로 담아 엔비디아가 19.6%, 인텔은 4.00%(10/29)예요. XSD(0.35%)는 동일가중이라 인텔이 약 3%(6~7월 자료)예요.
+
+다른 종목이 그대로라고 단순 계산하면 인텔 하락의 영향은 SOXX 약 -2.4%p, SMH 약 -1.1%p예요.
+
+반대로 올해 인텔이 크게 오를 땐 SOXX가 더 유리했어요. 8/25 기준 연초 대비 SOXX +68%, SMH +52%였어요.
+
+다음 변수는 11/3 AMD 실적, 11/17~18 예정인 엔비디아 실적이에요. 여러분은 반도체 ETF 고를 때 어떤 종목 비중을 먼저 보시나요? 👇
+
+#ETF #SOXX #SMH #XSD #반도체ETF #미국ETF #인텔 #엔비디아 #ETF비교 #카드뉴스
+
+※ 투자 권유 아님. 투자 판단의 책임은 본인에게 있습니다.
+
+[출처]
+- VanEck SMH (2026-10-29) https://www.vaneck.com/us/en/investments/semiconductor-etf-smh/
+- stockanalysis · SMH 보유종목 (2026-10-30) https://stockanalysis.com/etf/smh/holdings/
+- Morningstar · SMH (2026-10-30) https://www.morningstar.com/etfs/xnas/smh/quote
+- stockanalysis · SOXX 보유종목 (2026-10-23) https://stockanalysis.com/etf/SOXX/holdings/
+- Dividend Vision · 인텔 보유 ETF (2026-10-16) https://www.dividendvision.com/lists/etfs-holding-intc
+- Pensions & Investments · SOXX https://etf.pionline.com/fund/SOXX
+- TradingView · SOXX https://in.tradingview.com/symbols/NASDAQ-SOXX/analysis
+- State Street · XSD 팩트시트 (2026-06-30) https://www.ssga.com/library-content/products/factsheets/etfs/us/factsheet-us-en-xsd.pdf
+- Pensions & Investments · XSD (2026-07-17) https://etf.pionline.com/fund/XSD
+- Total Real Returns · SMH vs SOXX (2026-09-11) https://totalrealreturns.com/n/SMH,SOXX
+- FinanceFeeds (2026-10-31) https://financefeeds.com/intel-intc-stock-65-76-saturday-after-28-6-percent-drop-week-ahead-amd-3-november-bull-79-bear-58/
+- Earnings Whispers · NVDA https://www.earningswhispers.com/stocks/Nvda

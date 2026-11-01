@@ -1,0 +1,95 @@
+{
+  "tag": "ETF 비교",
+  "ticker": "SMH/SOXX",
+  "company": "미국 반도체 ETF 비교",
+  "brand": "#1B2A4A",
+  "direction": "down",
+  "chartSymbol": "SOXX",
+  "chartRange": "3mo",
+  "chartCaption": "SOXX 최근 3개월 종가",
+  "change": "auto",
+  "changeNote": "오픈AI 매출 보도 뒤 (10/8)",
+  "headline": "같은 반도체 ETF,\n**엔비디아 비중** 2.6배",
+  "subhead": "SMH(VanEck) vs SOXX(iShares)\n담은 종목·보수·분배 비교",
+  "slides": [
+    {
+      "phase": "현재",
+      "title": "반도체주, 하루 새 3%대 하락",
+      "body": "10/8 FT가 오픈AI 매출이 기대보다\n적다고 보도한 뒤 필라델피아\n반도체지수가 **3%대** 내렸어요.",
+      "bullets": [
+        "엔비디아 **약 -2.9%**",
+        "나스닥 **-1.25%** 마감",
+        "SOXX는 SOX 지수 추종 아님"
+      ]
+    },
+    {
+      "phase": "현재",
+      "title": "무엇을 담나",
+      "table": {
+        "head": ["항목", "SMH", "SOXX"],
+        "rows": [
+          ["기초지수", "MVIS 반도체25", "NYSE 반도체"],
+          ["종목 수", "약 25개", "30개"],
+          ["엔비디아", "**19.4%**", "7.5%"],
+          ["총보수", "0.35%", "**0.33%**"],
+          ["순자산", "약 770억$", "약 480억$"],
+          ["분배", "연 1회", "분기"]
+        ]
+      }
+    },
+    {
+      "phase": "과거 · 최근 한 달",
+      "title": "한 달 동안 무슨 일이",
+      "timeline": [
+        {"date": "9월", "text": "두 ETF 모두 한 달 **상승**"},
+        {"date": "10/7", "text": "연초 대비 SOXX **90%대**"},
+        {"date": "10/7", "text": "SMH는 **70%대**"},
+        {"date": "10/8", "text": "오픈AI 보도, SOX **3%대↓**", "now": true}
+      ]
+    },
+    {
+      "phase": "미래 · 앞으로 2~4주",
+      "title": "달력에 표시할 날 (한국 시간)",
+      "timeline": [
+        {"date": "10/14", "text": "미국 9월 **CPI** (21:30)"},
+        {"date": "10/15", "text": "**TSMC** 3분기 실적 (15시)"},
+        {"date": "11/3", "text": "SOXX 주식 분할 기준일"},
+        {"date": "11/5", "text": "SOXX 분할 가격 반영 시작"}
+      ]
+    },
+    {
+      "title": "나에게 맞는 구조는?",
+      "bullets": [
+        "엔비디아·TSMC 쏠림 → **SMH**",
+        "상위 종목 고르게 분산 → **SOXX**",
+        "보수 차이 연 **0.02%p**",
+        "분배: SMH 연 1회·SOXX 분기"
+      ]
+    }
+  ],
+  "keyNumbers": [
+    {"label": "SMH 엔비디아 비중 (10/6)", "value": "19.4%"},
+    {"label": "SOXX 엔비디아 비중 (10/5)", "value": "7.5%"},
+    {"label": "SOXX 연초 대비 (10/7)", "value": "90%대"},
+    {"label": "SMH 연초 대비 (10/7)", "value": "70%대"}
+  ],
+  "summary": "엔비디아에 무게면\n**SMH** 쪽 구조,\n고르게 나누면\n**SOXX** 쪽 구조예요.",
+  "caption": "같은 '미국 반도체 ETF'인데 속은 꽤 달라요 🔍\n\n10/8 오픈AI 매출 보도 뒤 필라델피아 반도체지수가 3%대 내렸어요.\n\nSMH(VanEck)는 엔비디아 약 19%·TSMC 약 9%로 대형주 쏠림이 크고, SOXX(iShares)는 1위 AMD도 9%대로 상위 종목을 더 고르게 담아요. 올해(10/7 기준) 연초 대비 수익률은 SOXX 90%대, SMH 70%대예요.\n\n총보수는 0.35% vs 0.33%, 분배는 연 1회 vs 분기. SOXX는 11/3 기준 주식 분할도 예정돼 있어요.\n\n여러분은 '엔비디아 집중'과 '고른 분산' 중 어느 쪽이 더 편하세요? 👇",
+  "hashtags": ["반도체ETF", "SMH", "SOXX", "엔비디아", "TSMC", "필라델피아반도체", "미국ETF", "ETF비교", "미국주식", "카드뉴스"],
+  "sources": [
+    {"name": "VanEck SMH 상품 페이지", "url": "https://www.vaneck.com/us/en/investments/semiconductor-etf-smh/"},
+    {"name": "iShares SOXX 상품 페이지", "url": "https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf"},
+    {"name": "StockAnalysis SMH 보유종목 (2026-10-06)", "url": "https://stockanalysis.com/etf/smh/holdings/"},
+    {"name": "StockAnalysis SOXX 보유종목 (2026-10-05)", "url": "https://stockanalysis.com/etf/soxx/holdings/"},
+    {"name": "Morningstar SMH", "url": "https://www.morningstar.com/etfs/xnas/smh/quote"},
+    {"name": "Morningstar SOXX", "url": "https://www.morningstar.com/etfs/xnas/soxx/quote"},
+    {"name": "Trackinsight SMH vs SOXX", "url": "https://www.trackinsight.com/en/compare-etfs/SMH,SOXX"},
+    {"name": "24/7 Wall St. (2026-06-10)", "url": "https://247wallst.com/investing/2026/06/10/smh-vs-soxx-which-semiconductor-etf-is-the-smarter-chip-bet/"},
+    {"name": "CNN (2026-10-08)", "url": "https://edition.cnn.com/2026/10/08/investing/openai-nasdaq-stocks"},
+    {"name": "Bloomberg (2026-10-08)", "url": "https://www.bloomberg.com/news/articles/2026-10-08/us-stock-futures-slip-on-mounting-energy-shock-ai-bubble-fears"},
+    {"name": "국민일보 (2026-10-09)", "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021221"},
+    {"name": "톱스타뉴스 (2026-10-09)", "url": "https://www.topstarnews.net/news/articleView.html?idxno=16242203"},
+    {"name": "TSMC IR 3분기 실적 컨퍼런스", "url": "https://investor.tsmc.com/english/quarterly-results/teleconference"},
+    {"name": "MarketVector MVIS US Listed Semiconductor 25 지수 가이드", "url": "https://files.marketvector.com/index-guide/MVSMH_Index_Guide.pdf"}
+  ]
+}

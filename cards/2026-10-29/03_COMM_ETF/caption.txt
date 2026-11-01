@@ -1,0 +1,25 @@
+구글·메타·넷플릭스가 속한 미국 '커뮤니케이션 서비스' 섹터 ETF 3종을 비교했어요 📡
+
+XLC(0.08%)는 S&P500 종목만 20여 개, FCOM(0.08%)과 VOX(0.09%)는 같은 MSCI 지수를 따라 중소형주까지 담아요.
+
+공통점은 쏠림이에요. 메타+알파벳 비중이 XLC 약 44%(10/27), FCOM 약 49%(10/12), VOX 약 42~47%(8~9월 자료)예요.
+
+그래서 10/28 알파벳이 실적 뒤 시간외 약 10% 떨어진 게 이 ETF들에 바로 영향을 줘요. XLC 속 알파벳 비중 약 22%로 단순 계산하면, 다른 종목이 그대로일 때 약 -2.2%p예요(정규장 결과는 10/29 확인). 10/22엔 메타가 실적 뒤 -6.98%였어요.
+
+섹터 ETF라도 사실상 두 종목에 크게 기대는 구조예요. 여러분은 개별주와 섹터 ETF 중 어떤 쪽을 고르시나요? 👇
+
+#ETF #XLC #VOX #FCOM #미국ETF #알파벳 #메타 #섹터ETF #ETF비교 #카드뉴스
+
+※ 투자 권유 아님. 투자 판단의 책임은 본인에게 있습니다.
+
+[출처]
+- State Street XLC (2026-10-27) https://www.ssga.com/us/en/intermediary/etfs/state-street-communication-services-select-sector-spdr-etf-xlc
+- Morningstar XLC (2026-10-23) https://www.morningstar.com/etfs/arcx/xlc/quote
+- stockanalysis XLC 보유 종목 (2026-10-26) https://stockanalysis.com/etf/xlc/holdings/
+- TipRanks FCOM 보유 종목 (2026-10-12) https://www.tipranks.com/etf/fcom/holdings
+- stockanalysis FCOM https://stockanalysis.com/etf/fcom/
+- Vanguard VOX https://advisors.vanguard.com/investments/products/vox/vanguard-communication-services-etf
+- Morningstar VOX (2026-09-30) https://www.morningstar.com/etfs/arcx/vox/quote
+- stockanalysis VOX 보유 종목 (2026-08-31) https://stockanalysis.com/etf/vox/holdings/
+- etf.com XLC vs VOX https://www.etf.com/tools/etf-comparison/XLC-vs-VOX
+- CNBC · 알파벳 실적 (2026-10-28) https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html
